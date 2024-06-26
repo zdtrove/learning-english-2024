@@ -1,23 +1,36 @@
 body {
-    font-family: monospace;
-    line-height: 2;
-    padding: 6px;
-    text-align: justify;
-    font-size: 14px;
+  font-family: monospace;
+  line-height: 2;
+  padding: 6px;
+  text-align: justify;
+  font-size: 14px;
 }
 
 h2 {
-    margin: unset;
+  margin: unset;
 }
 
 b {
-    color: blue;
-    font-size: 16px;
-    font-style: italic;
+  color: blue;
+  font-size: 16px;
+  font-style: italic;
 }
 
 i {
-    font-size: 16px;
-    font-weight: bold;
-    color: burlywood;
+  font-size: 16px;
+  font-weight: bold;
+  color: burlywood;
+}
+
+select {
+  width: 150px;
+  border-radius: 5px;
+  border: 1px solid powderblue;
+  outline: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.lesson {
+  display: none;
 }
