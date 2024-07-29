@@ -1,0 +1,28 @@
+const arrayExcept = ["there", "me", "🎧", ".", ",", "!", "?", "a", "ace", "act", "add", "age", "ago", "aid", "aim", "air", "all", "amp", "an", "and", "any", "ape", "apt", "arc", "are", "ark", "arm", "art", "ash", "ask", "ate", "awe", "axe", "bad", "bag", "ban", "bar", "bat", "bay", "be", "bed", "bee", "beg", "bet", "big", "bin", "bit", "bob", "boo", "bow", "box", "boy", "bud", "bug", "bun", "bus", "but", "buy", "by", "cab", "can", "cap", "car", "cat", "cod", "cog", "con", "cop", "cow", "cry", "cub", "cup", "cut", "dad", "dam", "day", "den", "did", "dig", "dim", "dip", "do", "dog", "dot", "dry", "dub", "dug", "due", "duo", "dye", "ear", "eat", "egg", "ego", "elf", "end", "era", "err", "eye", "fad", "fan", "far", "fat", "fax", "fed", "fee", "few", "fig", "fin", "fit", "fix", "flu", "fly", "fog", "for", "fox", "fun", "fur", "gas", "get", "gig", "got", "gum", "gun", "gut", "guy", "gym", "had", "has", "hat", "hay", "hem", "her", "hey", "hid", "him", "hip", "his", "hit", "hop", "hot", "how", "hug", "hum", "ice", "icy", "ill", "ink", "inn", "its", "jab", "jam", "jar", "jaw", "jet", "jog", "jot", "joy", "jug", "key", "kid", "kin", "kit", "lab", "lag", "lap", "law", "lay", "led", "leg", "let", "lid", "lie", "lip", "lit", "log", "lot", "low", "mad", "man", "map", "may", "men", "mix", "mom", "mop", "mud", "nap", "net", "new", "nil", "nod", "not", "now", "nut", "oak", "odd", "off", "oil", "old", "one", "our", "out", "owl", "pad", "pal", "pan", "pat", "paw", "pay", "pea", "pen", "pet", "pie", "pig", "pin", "pit", "pop", "pot", "pro", "pub", "pun", "put", "rad", "rag", "ram", "ran", "rat", "raw", "ray", "red", "rib", "rid", "rim", "rip", "rob", "rod", "rot", "row", "rub", "rug", "rum", "run", "sad", "saw", "say", "sea", "see", "set", "sew", "she", "shy", "sin", "sip", "sir", "sit", "six", "ski", "sky", "sob", "son", "sow", "soy", "spy", "sub", "sue", "sun", "tab", "tag", "tan", "tap", "tar", "tax", "tea", "ten", "the", "tie", "tip", "toe", "ton", "too", "top", "toy", "try", "tub", "two", "use", "van", "vet", "via", "vie", "wag", "war", "was", "wax", "way", "web", "wed", "wet", "who", "why", "wig", "win", "wit", "wow", "yak", "yam", "you", "zap", "zip", "zoo", "I'm", "you're", "he's", "she's", "it's", "we're", "they're", "I'll", "you'll", "he'll", "she'll", "it'll", "we'll", "they'll", "I'd", "you'd", "he'd", "she'd", "it'd", "we'd", "they'd", "aren't", "isn't", "wasn't", "weren't", "can't", "couldn't", "don't", "doesn't", "didn't", "won't", "wouldn't", "shouldn't", "hasn't", "haven't", "hadn't", "mustn't", "mightn't", "shan't", "oughtn't", "there's", "here's", "that's", "what's", "where's", "who's", "how's", "let's", "who'll", "who'd", "who've", "who's", "let's", "could've", "should've", "would've", "must've", "might've", "he's", "she's", "it's", "what're", "what've", "that'd", "that's", "who're", "who've", "where'd", "where's", "when's", "why'd", "why're", "why's", "wouldn't", "you'd", "you'll", "you're", "you've", "gimme", "gonna", "gotta", "lemme", "wanna", "ain't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "needn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "ain't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "i", "who", "whom", "whose", "what", "which", "when", "where", "why", "how", "me", "i've", "my", "so", "have", "your", "to"];
+const string = ``;
+
+function replaceNewlineWithBr(str) {
+  return str.replace(/\n/g, '<br/> ');
+}
+
+let newString = replaceNewlineWithBr(string);
+newString = newString.split(' ');
+const arrayFilter = newString.filter(item => item !== '');
+const arrayHtml = arrayFilter.map((item) => {
+  let lastChar = '';
+  if (item.endsWith('.') || item.endsWith(',') || item.endsWith('!') || item.endsWith('?')) {
+    lastChar = item.slice(-1);
+    item = item.slice(0, -1);
+  }
+
+  if (item.endsWith('<br/>')) {
+    item = `${item}\n`;
+  }
+
+  if (!arrayExcept.includes(item.toLowerCase())) {
+    return `<span>${item}</span>${lastChar}`;
+  }
+
+  return `${item}${lastChar}`;
+});
+const outputHtml = arrayHtml.join(' ') + '<br/><br/>';

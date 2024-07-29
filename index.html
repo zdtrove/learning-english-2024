@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning English 2024</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+  </head>
+  <body onload="loadAllContents()">
+    <section class="tab">
+      <button class="tab-link active" onclick="changeTab(event, 'conversation')">Conversation</button>
+      <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
+      <button class="tab-link" onclick="changeTab(event, 'toeic-600-words')">600 Toeic</button>
+    </section>
+    <section id="conversation" class="tab-content">
+      <select class="select-lesson" onchange="changeConversation(this, '.conversation')">
+        <option value="conversation-1">001 → 010</option>
+        <option value="conversation-2">011 → 020</option>
+        <option value="conversation-3">021 → 030</option>
+        <option value="conversation-4">031 → 040</option>
+        <option value="conversation-5">041 → 050</option>
+        <option value="conversation-6">051 → 060</option>
+        <option value="conversation-7">061 → 070</option>
+        <option value="conversation-8">071 → 080</option>
+        <option value="conversation-9">081 → 090</option>
+        <option value="conversation-10">091 → 100</option>
+        <option value="conversation-11">101 → 110</option>
+        <option value="conversation-12">110 → 120</option>
+      </select>
+      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
+    </section>
+    <section id="level2" class="tab-content">
+      <select class="select-lesson" onchange="changeConversation(this, '.level2')">
+        <option value="level2-1">001 → 010</option>
+        <option value="level2-2">011 → 020</option>
+        <option value="level2-3">021 → 030</option>
+        <option value="level2-4">031 → 040</option>
+        <option value="level2-5">041 → 050</option>
+        <option value="level2-6">051 → 060</option>
+        <option value="level2-7">061 → 070</option>
+        <option value="level2-8">071 → 080</option>
+        <option value="level2-9">081 → 090</option>
+        <option value="level2-10">091 → 100</option>
+        <option value="level2-11">101 → 107</option>
+      </select>
+      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
+    </section>
+    <section id="toeic-600-words" class="tab-content">
+      <select class="select-lesson" onchange="changeConversation(this, '.toeic-600-words')">
+        <option value="toeic-600-words-1">01 → 05</option>
+        <option value="toeic-600-words-2">06 → 10</option>
+        <option value="toeic-600-words-3">11 → 15</option>
+        <option value="toeic-600-words-4">16 → 20</option>
+        <option value="toeic-600-words-5">21 → 25</option>
+        <option value="toeic-600-words-6">26 → 30</option>
+        <option value="toeic-600-words-7">31 → 35</option>
+        <option value="toeic-600-words-8">36 → 40</option>
+        <option value="toeic-600-words-9">41 → 45</option>
+        <option value="toeic-600-words-10">46 → 50</option>
+      </select>
+    </section>
+  </body>
+  <script type="application/javascript" src="js/script.js"></script>
+  <script type="application/javascript" src="js/create-html.js"></script>
+  <script type="application/javascript" src="js/mp3-list.js"></script>
+</html>

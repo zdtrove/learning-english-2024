@@ -1,0 +1,63 @@
+ABOUT MYSELF
+
+1. Name: An
+2. Age: 32
+3. University: University of Natural Sciences, Ho Chi Minh City
+4. Major: Information Technology
+5. Current Job: Primarily working with React JS, Next JS, HTML, CSS, and JavaScript, also involved in Nest JS and Express JS
+6. Career Goal: To become a skilled software engineer
+7. Hobbies:
+    7.1. Regularly play badminton every Saturday morning with close friends, occasionally visit other courts during the week for friendly matches
+    7.2. Continuously improve programming skills
+    7.3. Regularly enhance English listening and speaking skills
+
+Nice to meet you, my name is An, and I'm 32 years old. 
+I graduated from the University of Natural Sciences in Ho Chi Minh City with a degree in Information Technology. 
+Currently, my main focus is on web development. 
+I specialize in using React JS, Next JS, HTML, CSS, and JavaScript. 
+I'm also involved in projects using Nest JS and Express JS, which helps me learn different ways to create websites and apps.
+
+My career goal is to become really good at writing code as a software engineer. 
+I want to be known for creating smart solutions that solve real problems. 
+I'm always learning new things and finding better ways to write code, so I stay up to date with what's happening in the tech world.
+
+Outside of work, I love playing badminton. 
+Every Saturday morning, I play with my close friends, and sometimes during the week, I visit different places to play with other people who also enjoy badminton. 
+I also spend time improving my English skills because I think it's important to be able to understand and speak well in English, especially in my job.
+
+In short, I'm really passionate about technology and always want to learn more. 
+I'm working hard to be a great software engineer while also making sure I have a balanced life. 
+That means enjoying sports, learning new things all the time, and discovering different cultures through learning languages.
+
+EVERYDAY ACTIVITIES
+
+1. Wake up at 7 AM and do personal hygiene.
+2. Take the food prepared the night before out of the fridge to bring to work, and also bring a water bottle.
+3. Ride a motorbike to work, which takes about 25 minutes if there's no traffic, and 35 minutes if there is traffic.
+4. Arrive at work at 8 AM, park the bike in the basement of the office building, then take the elevator to the second floor.
+5. At the office, I have a pair of slippers on a shelf to wear inside. When I arrive, I change from my home shoes to my office slippers.
+6. After that, I scan my fingerprint to clock in. Sometimes, the fingerprint scanner has errors, and I have to scan multiple times to get it authenticated.
+
+So, my day starts pretty early. I wake up at 7 AM, right on the dot, and the first thing I do is take care of my personal hygiene. 
+You know, the usual stuff – brushing my teeth, washing my face, and getting ready for the day ahead. 
+Once I'm done with that, I head to the kitchen to grab the food I prepared the night before from the fridge. 
+It's super convenient to have everything ready, especially when you're in a rush. 
+I also make sure to fill up my water bottle and pack it in my bag.
+
+Then, I hop on my motorbike and start my ride to work. 
+On a good day with no traffic, it takes me about 25 minutes to get there. 
+But if there's traffic, which happens quite often, it can take up to 35 minutes. 
+The ride itself is pretty nice, gives me some time to wake up fully and mentally prepare for the day.
+
+I usually get to work around 8 AM. 
+First thing I do is park my bike in the basement of the office building. 
+After that, I head to the elevator and ride up to the second floor where our office is. 
+Once I get there, I follow a company requirement – I change out of my home shoes and into a pair of slippers I keep on a shelf in the office. 
+It just feels more comfortable to wear slippers while working.
+
+After changing into my office slippers, I head over to the fingerprint scanner to clock in. 
+It's a simple process, but sometimes the scanner acts up and doesn't recognize my fingerprint right away. 
+So, I end up scanning it a few times until it finally works. 
+It's a bit annoying, but I've gotten used to it.
+
+And that's basically how my morning goes before I start diving into my work tasks for the day.

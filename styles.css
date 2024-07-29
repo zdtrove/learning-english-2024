@@ -1,0 +1,159 @@
+body {
+  font-family: monospace;
+  line-height: 2;
+  text-align: justify;
+  font-size: 16px;
+  margin: 0;
+  background-color: darkslategray;
+  color: gainsboro;
+  letter-spacing: -0.3px;
+}
+
+h2 {
+  margin: unset;
+  line-height: 1.4;
+  margin-bottom: 15px;
+}
+
+i {
+  font-size: 16px;
+  font-weight: bold;
+  color: burlywood;
+}
+
+select.select-lesson {
+  width: 150px;
+  border-radius: 5px;
+  border: 1px solid powderblue;
+  outline: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+
+span {
+  cursor: pointer;
+}
+
+.learn {
+  color: burlywood;
+  font-style: italic;
+  border: 1px solid white;
+  padding: 1px 5px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.conversation, .level2, .toeic-600-words {
+  display: none;
+}
+
+.tab {
+  background-color: antiquewhite;
+  overflow: auto;
+  white-space: nowrap;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.tab button {
+  background-color: inherit;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+  border-right: 1px solid white;
+  font-weight: bold;
+  color: brown;
+}
+
+.tab button:last-child {
+  border: none;
+}
+
+.tab button:hover {
+  background-color: burlywood;
+}
+
+.tab button.active {
+  background-color: burlywood;
+  color: black;
+}
+
+.tab-content {
+  display: none;
+  padding: 0 8px;
+}
+
+.audio-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-bottom: 10px;
+  flex-direction: column;
+}
+
+.audio-wrapper button {
+  border: 1px solid burlywood;
+  border-radius: 4px;
+  padding: 2px 6px;
+  cursor: pointer;
+}
+
+.audio-speed {
+  display: none;
+  border: 1px solid powderblue;
+  border-radius: 5px;
+  padding: 3px;
+}
+
+.audio-repeat {
+  display: none;
+}
+
+audio {
+  width: 100%;
+}
+
+.action {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+.btn-disabled {
+  border: 1px solid burlywood;
+  border-radius: 4px;
+  padding: 5px 8px;
+  cursor: pointer;
+}
+
+.times {
+  margin: unset;
+  display: none;
+}
+
+.times b {
+  display: inline-flex;
+  color: red;
+  font-size: 18px;
+  border: 1px solid white;
+  border-radius: 50%;
+  padding: 5px 4px 4px;
+  width: 20px;
+  height: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+.pl-15 {
+  margin: unset;
+  display: inline;
+  padding-left: 25px;
+}
