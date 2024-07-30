@@ -696,46 +696,221 @@
 🎧 Hey Carol. Is that your neighbor? He's walking towards us.
 🎧 What is he holding?
 🎧 It looks like a plate of cookies.
-
-[131] 
-
-
-
-[132] 
-
-
-
-[133] 
-
-
-
-[134] 
-
-
-
-[135] 
-
-
-
-[136] 
-
-
-
-[137] 
-
-
-
-[138] 
-
-
-
-[139] 
-
-
-
-[140] 
-
-
+ 
+[131] Loud Neighborhood Music
+ 
+🎧 Hi Helen. What's wrong?
+🎧 I couldn't sleep until 3 o'clock in the morning.
+🎧 Why? What happened?
+🎧 Our neighbors' children threw a big party last night. The music was so loud.
+🎧 Wow! Where were their parents?
+🎧 They are on vacation. They left the kids home.
+🎧 How old are the kids?
+🎧 They're teenagers. They're old enough to be home alone.
+🎧 Did you complain to them?
+🎧 Yes! I went over there three times. I told them that their music was too loud and we were trying to sleep.
+🎧 What did they do?
+🎧 Nothing. They wouldn't turn the music down.
+🎧 That is so rude! Why didn't you call the police?
+🎧 I finally did. The police found some of the teens drinking alcohol.
+🎧 I bet that ended the party.
+🎧 Yeah. Now my neighbors are heading back home from their vacation.
+🎧 Do they know what happened?
+🎧 Yes. They are not happy. Those kids are in big trouble.
+ 
+[132] Helping a Neighbor
+ 
+🎧 I feel so bad for Mary.
+🎧 Me too. I can't believe her husband died. They were married for a long time.
+🎧 I know. What is she going to do now?
+🎧 I don't know. Does she have any children?
+🎧 No, I don't think they had any children.
+🎧 How about other family members?
+🎧 I think she had one sister, but she passed away several years ago.
+🎧 So, she's all alone now?
+🎧 Yeah. Isn't that sad?
+🎧 Yes, it is very sad.
+🎧 She is always so nice to everyone. I think we should all get together and do something nice for her.
+🎧 I like that idea. What should we do?
+🎧 Let's take turns helping her around the house?
+🎧 Great idea! We can take care of her yard, help clean her house, and bring her meals.
+🎧 I love this. Let's talk to the other neighbors soon.
+ 
+[133] Small Talk at the Bus Stop
+ 
+🎧 Has Bus 47 come yet?
+🎧 No. I think it's late today.
+🎧 Do you ride this bus every day?
+🎧 Yeah. Do you?
+🎧 Not every day. Only a couple of times a week.
+🎧 Well, I think the bus is late today because of the rain.
+🎧 Oh. Does the weather make a difference?
+🎧 Yes. The bus is usually several minutes late when it rains.
+🎧 Because of bad traffic?
+🎧 Yeah and probably because of car accidents.
+🎧 That makes sense. I must have picked the wrong day to ride the bus.
+🎧 Actually, I think riding the bus on rainy days is better.
+🎧 Why?
+🎧 Then you don't have to drive in bad traffic. Someone is driving for you.
+🎧 You are totally right! I'm going to check the weather from now on. I'm going to take the bus when it rains.
+🎧 Then I'll see you here at the bus stop.
+🎧 Great! It was nice talking with you.
+🎧 Yes, it was. I think our bus is coming now.
+ 
+[134] Small Talk about Sports
+ 
+🎧 I like your sports jersey.
+🎧 Thanks! You must be a fan too.
+🎧 I am. I went to that college.
+🎧 Really? Me too.
+🎧 What year did you graduate?
+🎧 2000.
+🎧 I graduated in 2004.
+🎧 What was your major?
+🎧 I studied Law.
+🎧 I studied Law, too!
+🎧 I'm Matthew, by the way.
+🎧 I'm Karen. Nice to meet you, Matthew.
+🎧 Are you going to the game tonight?
+🎧 No. I'm going to watch it at home.
+🎧 I have an extra ticket. Would you like to go to the game with me?
+🎧 I'd love to. We can watch our college football team win tonight!
+🎧 Ok! What about dinner first?
+🎧 Sounds great.
+🎧 I'll meet you at this coffee shop at 5 pm.
+🎧 Ok. See you tonight, Matthew.
+ 
+[135] Taxi Small Talk
+ 
+🎧 Can we share this cab?
+🎧 Where are you going?
+🎧 To 5th Avenue and Main Street.
+🎧 That's where I'm going too.
+🎧 Great! It's so hard to catch a cab at this time.
+🎧 I know! Are you going to work?
+🎧 No, I'm meeting some friends at a restaurant.
+🎧 Is it the new Thai place?
+🎧 Yes. Have you been there?
+🎧 Yeah.
+🎧 How is it?
+🎧 It's pretty good.
+🎧 Oh good. It's my first time trying Thai food.
+🎧 Really? Everything is freshly made.
+🎧 That's good to hear. I'm a little picky about food.
+🎧 I hope you like it.
+🎧 Thanks. Where are you going?
+🎧 Work.
+🎧 Where do you work?
+🎧 I'm a chef at the new Thai restaurant.
+🎧 That's awesome!
+🎧 Let the chef know what you think later. If you liked it, you may get a free dessert.
+🎧 You're funny!
+ 
+[136] Family Reunion
+ 
+🎧 Mom, are we having a big party tonight?
+🎧 Yes, Robert. All of our relatives are coming. Did you forget?
+🎧 Oh yeah. It's our annual family reunion.
+🎧 How could you forget? We have a big party every year. This year it is at our house.
+🎧 I remember it was at Uncle Walter's house last year. That was fun.
+🎧 Do you need any help?
+🎧 Yes. Could you please go to the store and buy some ice?
+🎧 I made some lemonade and I want to keep it cold during the party.
+🎧 That's a good idea. It's going to be hot today.
+🎧 I hope the food stays fresh.
+🎧 I'm sure it will be fine. What are you making?
+🎧 It's going to be a potluck. I am serving barbeque ribs and potatoes.
+🎧 Do you know what other people are bringing.
+🎧 I think some people are going to bring salads, appetizers, and desserts.
+🎧 Sounds like a feast.
+🎧 I think everyone is coming, except Aunt Linda. She's feeling sick today.
+🎧 That's too bad. She is my favorite aunt.
+🎧 I know. She's my favorite sister.
+🎧 I can't wait to see all of my cousins.
+🎧 They're excited to see you too. But right now, please go buy some ice.
+ 
+[137] Boring Family Reunion
+ 
+🎧 Mom, do I have to go to the family reunion?
+🎧 Yes, Sam. Why don't you want to go?
+🎧 It's boring and I have no one to talk to.
+🎧 You have a lot of cousins.
+🎧 I know, but they are all younger than me.
+🎧 So, you could entertain them.
+🎧 Ok.
+🎧 Your grandparents will be very disappointed if you do not attend.
+🎧 Ok. Where is it going to be?
+🎧 It is going to be at an Italian restaurant. Italian food is your favorite.
+🎧 I know. How long is it going to be?
+🎧 Probably a few hours.
+🎧 Can I leave early?
+🎧 If you can find a ride home, you can leave early.
+🎧 I wish I knew how to drive.
+🎧 You will learn someday. But tonight you are going to the reunion.
+ 
+[138] Unhappy Family Reunion
+ 
+🎧 Hello?
+🎧 Hi Jane. This is Susan.
+🎧 Hi Susan. How are you?
+🎧 Did you receive an invitation to the family reunion?
+🎧 Yeah.
+🎧 Are you going to go?
+🎧 I don't think so.
+🎧 Why?
+🎧 Remember our cousin Bill and I had a disagreement at the last reunion?
+🎧 Yes. But it was all a misunderstanding.
+🎧 I know, but I still feel uncomfortable about it.
+🎧 I would really like to see you there. I haven't seen you in a while.
+🎧 I know. I feel the same way.
+🎧 If you don't go to the reunion, maybe I can visit you.
+🎧 That sounds like a great idea. Have you ever been to New York?
+🎧 No. I would love to visit you and check out the city.
+🎧 Let's plan to do that.
+🎧 I still want you to come to the reunion.
+🎧 I'll think about it.
+🎧 Ok. I hope to see you there.
+ 
+[139] Having a Baby
+ 
+🎧 Hello.
+🎧 Hi Mom. This is Linda.
+🎧 Hi Linda. Why are you calling so early in the morning? Is something wrong?
+🎧 No, not at all. Actually, I have some good news.
+🎧 What is it?
+🎧 I'm having a baby.
+🎧 That's great news! When did you find out?
+🎧 Last night. It was too late to call you. I thought you might be sleeping.
+🎧 You can call me anytime, Linda. How does Dan feel?
+🎧 He's so happy. He went out this morning to buy the baby a gift?
+🎧 Already? That is funny! When is the baby due?
+🎧 In June. I am 3 months pregnant.
+🎧 How are you feeling? Do you feel sick at all?
+🎧 Just a little.
+🎧 Are you able to eat anything?
+🎧 Yeah, I'm actually really hungry right now.
+🎧 Let me come over and make you something to eat.
+🎧 Mom, let's go out for breakfast. I'll treat you.
+🎧 Don't be silly. I'll buy you breakfast. I'll be there in 30 minutes.
+🎧 Ok, Mom. See you at 8 am.
+ 
+[140] Grandchildren
+ 
+🎧 Why do you look so happy, Carol?
+🎧 I was just on the phone with my daughter. She is having a baby.
+🎧 How exciting!
+🎧 This will be our first grandchild.
+🎧 Is the baby a boy or a girl?
+🎧 She doesn't know yet. She is only three months pregnant.
+🎧 Three months? So, the baby is due in June?
+🎧 Yes. I'm going to be a grandmother in June. How many grandchildren do you have, Joan?
+🎧 I have three. Two grandsons and one granddaughter.
+🎧 Yes, I remember now. They visit you often.
+🎧 Yes, they do. I love when they visit.
+🎧 I'm so excited. I'm going to go shopping to buy my grandchild some clothes.
+🎧 But the baby hasn't been born yet.
+🎧 I know. But I love looking at baby clothes. Do you want to go with me?
+🎧 Sure. Maybe I'll get something for my grandkids too. Let me grab my purse.
 
 [141] 
 
