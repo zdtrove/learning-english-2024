@@ -911,83 +911,1288 @@
 🎧 But the baby hasn't been born yet.
 🎧 I know. But I love looking at baby clothes. Do you want to go with me?
 🎧 Sure. Maybe I'll get something for my grandkids too. Let me grab my purse.
+ 
+[141] Sister's Baby
+ 
+🎧 Hi Susie. Where are you going? Are you taking a trip?
+🎧 Yeah, I'm going to Chicago. My sister just had a baby. I'm going to be helping her for a couple of weeks.
+🎧 That's so nice of you. Did she have a boy or a girl?
+🎧 A girl. Her name is Rose.
+🎧 What a beautiful name!
+🎧 Yeah. She is named after our grandmother.
+🎧 My daughter is also named after my grandmother. Her name is Marie.
+🎧 That's also a beautiful name.
+🎧 Thanks. Is this your sister's first child?
+🎧 Yeah. This is my first niece too. She's also the first grandchild in the family.
+🎧 How special!
+🎧 I know. My mother is so excited. She's only lives a few blocks away from my sister. So, she will be helping a lot too.
+🎧 That's wonderful. It's nice to have a lot of help with your first child.
+🎧 Yeah. I agree. Well, I better go now. I have to be at the airport by 1 pm.
+🎧 Ok. See you in two weeks.
+ 
+[142] Small Auto Accident
+ 
+🎧 Hi Carol. Did you get a new car?
+🎧 Hi Jane. No, this is a rental car. I was in an auto accident yesterday.
+🎧 Are you ok?
+🎧 Yeah. My back hurts a little, but luckily I wasn't seriously injured.
+🎧 Did you go to the hospital?
+🎧 Yeah. I went there this morning. The doctor took some did x-rays. Nothing is serious. I just have some bruises.
+🎧 I'm glad you are ok. Was there another car involved?
+🎧 Yeah, the other driver rear-ended me at a red light.
+🎧 Wow! Is he or she ok?
+🎧 Yeah. He seemed ok at the scene.
+🎧 This could've been a serious accident.
+🎧 I know. We were both lucky.
+🎧 Where is your car? Is it getting fixed?
+🎧 No. It's too damaged to be repaired. It's at the junkyard now.
+🎧 That's terrible. Is your insurance going to pay for a new car?
+🎧 Well, it was the other driver's fault, so his insurance is going to take care of it.
+🎧 That's good. Are you going to buy the same type of car?
+🎧 I think so. I loved that car. It protected me in this accident.
+ 
+[143] Big Auto Accident
+ 
+🎧 Hi Mary. What's wrong?
+🎧 Oh hi Alice. I just got back from the hospital.
+🎧 Is something wrong?
+🎧 My son was in an auto accident last night.
+🎧 Oh dear. I'm sorry to hear that. Was he seriously injured?
+🎧 Yes. He broke both of his legs and his ribs.
+🎧 That's awful!
+🎧 I know. He just got his driver's license a month ago.
+🎧 How scary for him.
+🎧 It wasn't his fault though. He was hit by a drunk driver.
+🎧 That's terrible!
+🎧 I'm so angry about it! My son could've been killed by an irresponsible driver.
+🎧 You're right! Did they catch the other driver? Was he or she injured?
+🎧 Yeah, he was arrested. He wasn't injured.
+🎧 Do you think he will go to jail?
+🎧 I don't know. I'm just worried about my son right now.
+🎧 Can I help you with anything?
+🎧 Well, I just came home to get a change of clothes. I'm going to go back to the hospital soon. Would you be able to feed our cats tonight?
+🎧 Of course. Please let me know if there is anything else I can help you with.
+🎧 Thanks Alice.
+ 
+[144] Freeway Auto Accident
+ 
+🎧 Why are you so late?
+🎧 There was big accident on the freeway. The police closed all the lanes. We had to take a detour.
+🎧 Was anyone hurt?
+🎧 I think so. I saw two ambulances and a fire truck driving by.
+🎧 That's terrible.
+🎧 I know. I hope no one was seriously injured.
+🎧 That's scary. Do you know what caused the accident?
+🎧 I don't know. I didn't see it happen.
+🎧 You should've called me. We were supposed to meet Cathy and Rick for dinner at 6 pm.
+🎧 After seeing the accident, I didn't want to use my phone while driving.
+🎧 That was smart.
+🎧 We should just eat at home tonight. I think traffic is going to be bad.
+🎧 Oh no!
+🎧 What's wrong?
+🎧 I just got a text from Cathy. She said she and Rick were in an accident on the freeway! They're at the hospital.
+🎧 Oh my goodness. Let's go to the hospital now.
+ 
+[145] Finding a Car Mechanic
+ 
+🎧 Hey Stan. Do you know any good mechanics around here?
+🎧 Yeah. I use a really good one. What's wrong with your car?
+🎧 I'm not sure. I think there is a problem with my transmission.
+🎧 Transmission problems can be very expensive.
+🎧 I know. I took it to an auto shop yesterday and it was so expensive. I'm looking for someone cheaper, but who can also do a good job.
+🎧 You should go to my mechanic. You can trust him and his repair costs are pretty reasonable.
+🎧 Is he close to us?
+🎧 Yeah. His shop is just a few blocks away.
+🎧 That's good. I hope I don't have to replace the transmission. That will be really expensive.
+🎧 I know. I had to replace the transmission on my old car. The repair cost more than the price of the car.
+🎧 That's crazy! If my repair costs too much, I'm just going to buy a new car.
+🎧 Can you afford a new car?
+🎧 No. I would have to buy a used car.
+🎧 Let me get my mechanic's phone number. You can decide what you want to do after he takes a look at your car.
+🎧 Thanks.
+🎧 I can give you a ride home if you need to leave your car there.
+🎧 If it's only a few blocks away, I'll walk. If my car is too expensive to fix, I better get used to walking.
+ 
+[146] Fixing the Car
+ 
+🎧 Hey Sam. You're home? Where's your car?
+🎧 Oh hey John. It's in the auto shop.
+🎧 Again? What's wrong with it this time?
+🎧 I'm not sure. It's making a lot of strange noises.
+🎧 That's weird. It's not even an old car.
+🎧 I know. I've only had it for three years. My mechanic doesn't know what the problem is.
+🎧 He doesn't know? What is he doing then?
+🎧 Trying all different things. I'm getting tired of waiting for him to fix it.
+🎧 You should take it to another mechanic.
+🎧 I should, but I already paid him. He just keeps saying he will fix it.
+🎧 He doesn't sound very trustworthy.
+🎧 I know. I should've gone somewhere else. But he was so cheap. He was the cheapest I could find.
+🎧 Maybe too cheap isn't always better.
+🎧 I'm learning that now.
+🎧 You should demand a refund.
+🎧 I wish I could, but it's a little complicated.
+🎧 Why is it complicated?
+🎧 The mechanic is my brother-in-law.
+ 
+[147] Auto Shop
+ 
+🎧 Hey Jason. Is that a new car?
+🎧 Hey Dan. No, this is a rental car?
+🎧 Where is your car?
+🎧 At the auto shop. I was in an accident yesterday. The car is getting repaired.
+🎧 Are you ok?
+🎧 Yeah. Luckily, it wasn't a serious accident. There were just some minor damages to the fender and bumper.
+🎧 That's good. When do you get your car back?
+🎧 It's supposed to be ready this afternoon.
+🎧 That's quick.
+🎧 Yeah, my auto shop is pretty fast. They have a lot of mechanics.
+🎧 Do they do a good job? Are they reasonably priced?
+🎧 Oh yes. They do a great job. I haven't had any problems yet. They're a little more expensive than other places, but their work and service is excellent.
+🎧 I may have to get their name and number. My car needs some regular maintenance work.
+🎧 They have a website. Sometimes, they offer discounts on certain services.
+🎧 Really? That's good to know.
+🎧 Yeah. I'll e-mail you the website link.
+🎧 Thanks. I'll check it out tonight.
+ 
+[148] Gas prices
+ 
+🎧 Hey Ben, have you seen the price of gas lately?
+🎧 Yeah Mike. It's really high. That's why I've been riding the bus to work.
+🎧 I wish I could ride the bus, but I would have to take three buses to get to work.
+🎧 Three?
+🎧 Yeah. It would take me twice as long to get to work.
+🎧 That's not good. I only have to take one bus and it takes me directly from my home to my office building.
+🎧 You're lucky!
+🎧 I know. What about riding your bike to work?
+🎧 No, I'm not very good at cycling and it's too far.
+🎧 You can carpool with someone.
+🎧 That's a good idea. Then we could share the cost of gas and ride in the carpool lane.
+🎧 Do you work with anyone who lives near you?
+🎧 Yeah, my boss.
+🎧 Would you want to ride with your boss?
+🎧 No, not really. I think I'd rather pay more for gas.
+ 
+[149] Bad Traffic
+ 
+🎧 The traffic is really getting bad these days.
+🎧 I agree. I sat in traffic for two hours last night.
+🎧 I've started to leave work late just to beat rush hour traffic.
+🎧 I wish I could do that. I have to pick up my son before the daycare closes.
+🎧 Oh, I see. What time does the daycare close?
+🎧 6 o'clock.
+🎧 What time do you usually get there?
+🎧 Just a few minutes before they close.
+🎧 What happens if you're late?
+🎧 They will wait with the child, of course. But you have to pay extra.
+🎧 Have you ever been late?
+🎧 Yeah, a few times. I was late yesterday. I don't want to pay extra. Daycare is already expensive.
+🎧 Yeah, I'm sure it is. Do you have other people who can help you?
+🎧 No, I just listen to the traffic report and leave earlier if the roads sound bad.
+🎧 Is your boss understanding?
+🎧 Yeah, she's very understanding. She has children too.
+ 
+[150] Son's driver's license
+ 
+🎧 My son is taking his driver's license test today.
+🎧 Is he nervous?
+🎧 He's a little nervous.
+🎧 It's normal to be nervous.
+🎧 I told him that. He just wants to pass the test, so he can start driving to school.
+🎧 Does he have a car?
+🎧 No, he has to share with my wife.
+🎧 Are you going to get him a car?
+🎧 No, not yet. First, he has to show us that he is a responsible driver.
+🎧 Did your auto insurance go up a lot?
+🎧 Yes! Our insurance rate doubled.
+🎧 Wow! Are you serious?
+🎧 Yes, that's what makes me nervous. I don't know how we'll be able to afford insurance when my younger son starts to drive.
+🎧 When will that be?
+🎧 In two years.
+🎧 Better start saving or better have your sons get part-time jobs.
+🎧 I think I like the part-time job idea better.
+ 
+[151] Making Dentist Appointment
+ 
+🎧 Hello. Thank you for calling Dr. Smith's office. How can I help you?
+🎧 This is Eleanor Johnson. I'd like to make an appointment to see the dentist.
+🎧 Will this be your first visit?
+🎧 Yes. I haven't been to the dentist in a while. I'm afraid of going to the dentist.
+🎧 Oh. You will like Dr. Smith. He is very gentle.
+🎧 That's nice to hear.
+🎧 Is there anything wrong with your teeth?
+🎧 I have a toothache.
+🎧 We have an opening tomorrow morning at 9 am.
+🎧 Do you have anything this afternoon. My tooth hurts very much.
+🎧 We are very busy this afternoon, but I can squeeze you in around 4 pm. Does that work for you?
+🎧 Yes! 4 pm is perfect.
+🎧 Do you have dental insurance?
+🎧 Yes, I do.
+🎧 Ok. Please come 15 minutes early to fill out some forms.
+🎧 Ok. I will be there at 3:45. Thank you so much.
+🎧 You're welcome. We'll see you soon.
+🎧 Bye.
+ 
+[152] Talking about Dentist Appointment
+ 
+🎧 Susie, I'm picking you up from school early today.
+🎧 Why Mom?
+🎧 You have a dentist appointment.
+🎧 I don't want to go.
+🎧 It's just a check-up.
+🎧 But it hurt last time.
+🎧 That is because you had a cavity.
+🎧 But I brush my teeth every day.
+🎧 I know, but you eat too much candy.
+🎧 I hope I don't have any cavities this time.
+🎧 Me too.
+🎧 What time are you picking me up?
+🎧 2 o'clock.
+🎧 Ok. I'll tell my teacher.
+🎧 I will also call the school office.
+🎧 Ok. I'll see you later.
+ 
+[153] At the Dentist
+ 
+🎧 Hi Alice. What are you doing here?
+🎧 Hi Linda. I'm here for a check-up. How about you?
+🎧 I'm here for a procedure.
+🎧 What kind of procedure?
+🎧 A root canal.
+🎧 A root canal? That's pretty serious, isn't it?
+🎧 Yeah. I didn't take care of a tooth and now it's infected.
+🎧 Wow! I'm sorry to hear that. Are you in pain?
+🎧 A little. I took some medicine this morning.
+🎧 That should help.
+🎧 I don't have dental insurance, so it's going to be very expensive.
+🎧 That's terrible. Why don't you have dental insurance?
+🎧 I didn't think it was important.
+🎧 I think it's important to have dental insurance.
+🎧 Yeah. And it's important to take care of your teeth.
+🎧 I agree.
+ 
+[154] Working Out and Exercising
+ 
+🎧 Hey Paul, have you been working out?
+🎧 Hey David. Yeah, I've been going to the gym every day before work.
+🎧 I need to go too, but I'm so lazy now.
+🎧 I needed to lose a few pounds. That's what motivated me. Now, I just like going.
+🎧 I need to lose some weight too. I gained around 20 pounds this year.
+🎧 You did? Why don't you come with me tomorrow morning?
+🎧 What time do you go in the morning?
+🎧 5 am. I work out for about an hour.
+🎧 5 am? That's too early.
+🎧 You should try it. It feels great to work out early in the morning.
+🎧 I'm asleep at 5 am.
+🎧 I'll wake you up tomorrow morning. We can start slow by doing just a little running on the treadmill.
+🎧 I hate running.
+🎧 Ok, how about lifting weights?
+🎧 I don't have the strength to lift weights.
+🎧 Ok. How about aerobics?
+🎧 That's too much jumping around?
+🎧 Yoga?
+🎧 Too boring.
+🎧 You're right, David. You're too lazy to work out.
+ 
+[155] Late Library Books
+ 
+🎧 Hi Janet. Where are you going with those books?
+🎧 To the library. I found these under Joseph's bed.
+🎧 Under his bed?
+🎧 Yeah. They are all overdue.
+🎧 How did you find them?
+🎧 We got a notice from the library that he had several overdue books, so I started searching his room.
+🎧 How late are they?
+🎧 About two months.
+🎧 Didn't you receive notices before?
+🎧 I found the notices in his room too.
+🎧 Why didn't he return them?
+🎧 He said he couldn't find them.
+🎧 Is he in trouble?
+🎧 Of course he's in trouble. He doesn't get to play video games for each book that is late.
+🎧 That's five weeks.
+🎧 Yes. That's his punishment. He needs to learn not to hide letters that come in the mail. He also needs to learn to clean his room, so things don't get lost.
+ 
+[156] Opening a Bank Account for Child
+ 
+🎧 What are you doing today?
+🎧 Hi Peter. I'm taking my son to the bank. He got his first paycheck yesterday, so we're going to open a bank account for him.
+🎧 That's a great idea.
+🎧 Yeah, I hope this will teach him how to save money and use it wisely.
+🎧 We did that with our kids too. Is he excited about it?
+🎧 Not really. He wants to spend it all on video games.
+🎧 Well, it's his first paycheck, so I'm sure he wants to spend his own money.
+🎧 I understand that. He knows he can spend it any way he wants to. I just want him to be able to learn how to save some too.
+🎧 Yeah, I totally understand. My first son spent his whole paycheck each time. Now he doesn't have anything saved. My second son saves and saves.
+🎧 I'm hoping Jonathan saves and saves.
+🎧 Now my older son always borrows money from his younger brother.
+🎧 Wow! Does your younger son loan him money?
+🎧 Yeah, but he adds on interest.
+🎧 That's funny and smart. He's like a bank.
+🎧 He wants to be a banker one day.
+🎧 This is giving him great experience.
+🎧 Yeah, but not a great relationship with his brother.
+ 
+[157] Post Office Talk with Friend
+ 
+🎧 Hey Joe. What are you doing?
+🎧 Hi Mark. I'm getting ready to send a package.
+🎧 Do you need to go to the post office?
+🎧 Yeah, but the line is usually very long.
+🎧 Where are you sending your package?
+🎧 Overseas to Korea.
+🎧 Is it a big package?
+🎧 Yeah. Some books and clothes for my nephew and nieces.
+🎧 That's nice.
+🎧 Do you think the line will be long today?
+🎧 I think so. Today is Monday. Most people go on Monday since the post office is closed on Sunday.
+🎧 You're right! Maybe I should wait until tomorrow.
+🎧 I think that's a better idea.
+🎧 Thanks for reminding me. I don't like waiting in long lines.
+🎧 Me too.
+🎧 Do you want to go have lunch instead?
+🎧 Sure.
+🎧 I'll be right back. I'm going to put my package away.
+ 
+[158] At the Post Office
+ 
+🎧 Hi. How can I help you?
+🎧 I need to mail this package to Italy.
+🎧 What is in the package?
+🎧 Some toys and baby clothes.
+🎧 Are there any breakables? Is it fragile?
+🎧 No.
+🎧 What is the address?
+🎧 I have it here.
+🎧 Please fill out this form. Print clearly. Sometimes, it is hard to read.
+🎧 Ok. When will my package arrive?
+🎧 It depends on your shipping choice.
+🎧 I would like your fastest shipping.
+🎧 It will be there in one week.
+🎧 Great! That's perfect.
+🎧 This is the cost. How would you like to pay?
+🎧 With my credit card.
+🎧 Ok. Is there anything else I can help you with today?
+🎧 No. That's it.
+🎧 Thank you. Have a nice day.
+🎧 You too.
+ 
+[159] Running into Friend at Post Office
+ 
+🎧 Hey Robert. What are you doing here?
+🎧 Hi Kevin. I need to buy some stamps. What about you?
+🎧 I was checking my post office box, but my key won't work.
+🎧 Do you know why?
+🎧 I think they canceled my account because I forgot to pay.
+🎧 That's too bad.
+🎧 Yeah. I use it for my business.
+🎧 How long have you been waiting?
+🎧 I've been here since 8 am.
+🎧 That's 30 minutes.
+🎧 I know. It's been a long wait.
+🎧 There are still several people ahead of us.
+🎧 Many people left. They were tired of waiting.
+🎧 I don't think I can wait either. I have a dentist appointment at 9 am.
+🎧 I'm going to wait. I need to re-open my account.
+🎧 Yeah. I understand. I'm going to come back later.
+🎧 Ok. See you another time.
+🎧 Bye Kevin.
+ 
+[160] Supermarket Talk with Daughter
+ 
+🎧 Sally, I'm going to the supermarket this afternoon. Do you need anything?
+🎧 Yes Mom. Can you buy some snacks for school?
+🎧 Sure. What kind of snacks?
+🎧 I like pretzels and potato chips.
+🎧 Ok. I will pick up some fruits too.
+🎧 I don't like fruits.
+🎧 Fruits are healthy for you.
+🎧 Can I go to the market with you?
+🎧 Are you done with your homework?
+🎧 No. I have to study for a math test tomorrow.
+🎧 Then you should stay home and study.
+🎧 I need to take break. I've been studying all day.
+🎧 Ok. We will only be gone for about an hour.
+🎧 Can we get ice cream on the way home?
+🎧 I thought you needed to study.
+🎧 I've studied enough. I'm ready for my math test.
+ 
+[161] Supermarket Talk with Friend
+ 
+🎧 Hi Jane. Where are you going?
+🎧 Hi Sandra. I'm heading to the market.
+🎧 Which one?
+🎧 The one down the street.
+🎧 Today is a good day to go. There are a lot of items on sale.
+🎧 That's great to know. I need to buy a lot of stuff.
+🎧 The market is going out of business?
+🎧 Why?
+🎧 Not enough customers.
+🎧 That's not good. I always go to that market.
+🎧 Me too. But more people are going to the bigger market a few blocks away.
+🎧 It's always so crowded there.
+🎧 I know. But it has a bigger selection of things.
+🎧 Yeah, but I still like the smaller store.
+🎧 Well, you better leave soon. There were a lot of people today because of the big sale.
+🎧 Ok. Thanks for letting me know. I'll see you later.
+ 
+[162] Shopping List
+ 
+🎧 Hi Carol. What are you doing?
+🎧 Hi Jane. I'm making a shopping list for the supermarket.
+🎧 I need to go too. But my car is at the repair shop.
+🎧 What's wrong with it?
+🎧 Nothing serious. Just an oil change.
+🎧 Do you want to join me?
+🎧 Sure. Which one are you going to?
+🎧 ABC Grocery. I have coupons for that market.
+🎧 Let me check my purse and see if I have any coupons too.
+🎧 You can get good deals on a lot of things if you have their coupons.
+🎧 I know. I use their coupons all the time.
+🎧 So, do you have any?
+🎧 No. I think I used them all. Where did you get your coupons?
+🎧 They came in the mail today. Have you looked in your mail box?
+🎧 No, not yet. I'll go do that right now. What time are you leaving?
+🎧 Don't worry. I can wait for you.
+🎧 Thanks. I'll be right back.
+ 
+[163] Asking for a Raise
+ 
+🎧 Hey Ted, why do you look so nervous?
+🎧 I'm going to ask the boss for a raise.
+🎧 You should. You deserve a raise. You work very hard.
+🎧 I do work hard. I'm here early every day and I leave late every night.
+🎧 Yeah, you do. You also help other people when they need help. You've helped me many times.
+🎧 Also, I've been here for 10 years. My last raise was three years ago.
+🎧 Three years? Then I think it's definitely time for a raise.
+🎧 Do you think she will say yes?
+🎧 I think she will. She is nice. She listens well and she is also very fair.
+🎧 I wrote a short report about why I deserve a raise.
+🎧 Only you would do that. You are so detail-oriented.
+🎧 I like to be prepared about everything.
+🎧 That's another reason why you should get a raise.
+🎧 Ok. I'm ready to talk to her?
+🎧 You can't talk to her today.
+🎧 Why not?
+🎧 She's on a business trip.
+ 
+[164] Asking for a Promotion
+ 
+🎧 Hey James, I'm thinking about asking the boss for a promotion.
+🎧 Lisa, you definitely deserve a promotion. You are too qualified for this job.
+🎧 Really? You think so?
+🎧 You have a lot of experience and you're very good with people. You should be a manager.
+🎧 That's the position I was going to ask for, but I was worried.
+🎧 What are you worried about?
+🎧 I don't have a college degree. You have to have a college degree for that position.
+🎧 But you have lots of experience. You have more experience than some of the current managers.
+🎧 I know, but degrees are important too.
+🎧 I know they are. Did you ever think about going back to school and getting your degree?
+🎧 I have, but I am so busy these days. I don't have time to work and study.
+🎧 I understand. When I'm not at work, I'm spending time with my family. Life is so busy these days for many people.
+🎧 That's true. I'm not married yet, but I take care of my elderly parents.
+🎧 That's a lot of work too.
+🎧 Yeah. Well, thanks for your support. I'll let you know what happens.
+ 
+[165] Asking for a Vacation
+ 
+🎧 I need a vacation.
+🎧 What's wrong?
+🎧 This job is so stressful, Karen!
+🎧 I think you should ask the boss for some time off?
+🎧 I can't right now. I have a big presentation on Friday.
+🎧 Take a break next week after the presentation.
+🎧 I have another project after this one.
+🎧 You need to make a change. You're going to get sick.
+🎧 I know. But I have a lot of responsibilities.
+🎧 I know you do. But you also have to take care of yourself too.
+🎧 You're right. I need to talk to the boss and tell him that I need a vacation. Do you think he will understand?
+🎧 I think so. He had a heart attack a few years ago. He understands that health is very important.
+🎧 Ok. I will talk to him today. Thanks for your advice.
+🎧 You're welcome. Where do you plan to go on vacation?
+🎧 A nice, warm beach.
+🎧 That sounds great!
+ 
+[166] Big Project
+ 
+🎧 Hey Tom. Are you working late again?
+🎧 Yeah, Peter. I have a big project I'm working on.
+🎧 How's it going?
+🎧 Not well. We keep running into problems with the client.
+🎧 What kind of problems.
+🎧 The client either doesn't like our designs or keeps changing his mind. It's very frustrating.
+🎧 That can be very annoying.
+🎧 It is. So, my group has to start over each time. It's such a waste of time and money.
+🎧 When is the deadline?
+🎧 In two weeks. I don't know how we're going to make it.
+🎧 Where's the rest of your group?
+🎧 They went to eat. I told them to go. They're going to bring me back some dinner.
+🎧 That's good. What are you going to do after your deadline is over?
+🎧 Go on a long vacation.
+🎧 Good for you!
+🎧 Well, I better get back to work. See you in the morning.
+ 
+[167] Too Busy for Vacation
+ 
+🎧 What's wrong, Ted.
+🎧 Hey Jim. My family and I planned a trip to Hawaii and I'm not sure I can go now.
+🎧 Why?
+🎧 I'm so busy at work. I have too many things to do.
+🎧 What do you have to do?
+🎧 I have a big presentation due soon.
+🎧 What are you going to do?
+🎧 I don't know. The airline tickets are non-refundable and my family is going to be very sad.
+🎧 Is there any way you can finish everything before your trip?
+🎧 That's what I'm trying to do, but I don't know if I can.
+🎧 Is there anyone at work who can help you?
+🎧 Yeah, but he's been sick.
+🎧 Oh. That's terrible. Why don't you talk to your boss?
+🎧 He's not very understanding. He just wants the work to be completed.
+🎧 Maybe you can take work with you on your trip.
+🎧 That's not a vacation. But I may have to do that. My wife is not going to be happy.
+🎧 I wish I could help you.
+🎧 Thanks. Do you know anything about presentations?
+🎧 No, I'm an accountant.
+ 
+[168] Dad is too Busy
+ 
+🎧 What's wrong, Jane? Why do you look so sad?
+🎧 Hi Sally. My dad is not in the audience. He's not coming for my first piano recital.
+🎧 Why?
+🎧 He has to work late tonight. He is really busy at work.
+🎧 I'm sorry to hear that. Maybe he will come to the next one.
+🎧 I hope so. I really wanted him to be here today.
+🎧 Yeah. I understand.
+🎧 He missed my ballet performance last week too.
+🎧 Oh, he did?
+🎧 Yeah. He has a lot of projects at work.
+🎧 What does he do?
+🎧 He's an architect. He designs buildings and houses.
+🎧 That's cool! Did he design your house?
+🎧 Yeah. He's really good at his job. That's why he is so busy.
+🎧 Hey Jane. Look!
+🎧 What, Sally?
+🎧 Your dad is in the audience and he's waving at you!
+🎧 He's here!
+🎧 
+ 
+[169] Getting Fired from Work
+ 
+🎧 Hey Stan. Did you hear what happened to Winston?
+🎧 No, Mark. What happened?
+🎧 He got fired this morning.
+🎧 Why?
+🎧 He got caught stealing money from the company.
+🎧 How did he steal it?
+🎧 I don't know.
+🎧 Did the boss call the police?
+🎧 No, not yet.
+🎧 Why not?
+🎧 He said that if he returns the money, they will not call the police.
+🎧 What if he doesn't return the money.
+🎧 Then he's going to call the police.
+🎧 He better return the money.
+🎧 I know. He is so foolish. Why would he do this?
+🎧 I always thought there was something strange about him.
+🎧 He's going to have a hard time finding another job after this.
+🎧 I agree. How can anyone trust him after this?
+ 
+[170] Losing a Job
+ 
+🎧 Hey Matt, you're home early today.
+🎧 Oh, hi Bill. I got laid off today.
+🎧 I'm sorry to hear that. Why?
+🎧 The company is downsizing and they eliminated my position.
+🎧 That's terrible. How long did you work there?
+🎧 15 years.
+🎧 Wow! That's a long time.
+🎧 I know. I worked very hard, but I guess it wasn't enough.
+🎧 Don't say that. Companies usually downsize because they are losing money.
+🎧 I know. I just don't know what to do now. I have a family to take care of.
+🎧 Does your wife know?
+🎧 Not yet. She's at work. I didn't want to give her bad news there.
+🎧 I understand. What kind of work did you do?
+🎧 I'm a graphic designer.
+🎧 Really? My son is a website developer. Do you know anything about web design?
+🎧 That's my specialty.
+🎧 Let me give him a call. Maybe he can help you find a job.
+🎧 That would be great! I really appreciate it.
+ 
+[171] Company Downsizing Rumors
+ 
+🎧 Hey Joe, did you hear the rumors?
+🎧 No, Jason. What rumors?
+🎧 The company is laying people off?
+🎧 When?
+🎧 I'm not sure. I heard this from Susan in Accounting.
+🎧 Why are they laying people off?
+🎧 The company is not making a profit.
+🎧 Are you worried?
+🎧 Yeah. I'm very worried. I just bought a house.
+🎧 I'm really worried too. My wife and I just had a baby. Also, I haven't been at this company for very long. I would be the first one to get laid off.
+🎧 This is terrible. What should we do?
+🎧 Maybe we should start looking for other jobs.
+🎧 But what if it's all a rumor and not true.
+🎧 Well, if you heard it from Susan, it must be true.
+🎧 Why?
+🎧 Her mom is our boss.
+ 
+[172] Job Search
+ 
+🎧 Hey, how's the job search going, Rick?
+🎧 Not well, Sean. I've sent out over 30 resumes and no one has called me.
+🎧 I think a lot of people are looking for jobs right now. The economy isn't very good, so companies aren't hiring people.
+🎧 That's what it seems like. But I need a job.
+🎧 How long have you been out of work?
+🎧 3 months.
+🎧 What kind of work do you do?
+🎧 I'm an electrician.
+🎧 Have you thought about opening your own business?
+🎧 Yeah, but that takes money.
+🎧 I understand. If I hear anyone looking for an electrician, I'll let you know.
+🎧 Thanks. It's been frustrating.
+🎧 Why did you leave your last job?
+🎧 I didn't get along with my boss.
+🎧 Maybe you should've stayed until you found another job.
+🎧 Yeah. That was my mistake. I thought it would be easy to find another job. I was wrong.
+🎧 Don't worry. You'll find one soon. Come on, let me buy you a cup of coffee.
+🎧 Thanks.
+ 
+[173] Interview for a Job
+ 
+🎧 Why are you so dressed up, Jane?
+🎧 Oh, hi Sally. I have a job interview today.
+🎧 That's great. Where?
+🎧 At the bank. I'm applying for a teller position.
+🎧 But why do you look so nervous?
+🎧 Because I don't have much work experience, but I'm a hard worker and good with numbers.
+🎧 Tell them that.
+🎧 I'm going to. I just hope I don't mess up.
+🎧 Don't worry so much. You're smart and you get along well with everyone.
+🎧 Thanks. I'm just afraid that I won't be able to answer their questions.
+🎧 Just answer them the best you can. Be confident.
+🎧 Ok. I just need to relax.
+🎧 What time is your interview?
+🎧 In an hour. I better leave soon. I don't want to be late.
+🎧 Yeah, don't be late. That would be a bad first impression.
+🎧 You're right. Thanks for your advice and encouragement. I feel much better.
+🎧 Good. Now go!
+ 
+[174] Getting a Job
+ 
+🎧 Hello?
+🎧 Hi Helen. This is Cathy. I have great news!
+🎧 What is it?
+🎧 I got the job!
+🎧 Congratulations! I knew you would get it.
+🎧 Thanks! I'm so excited. I beat out 4 other applicants.
+🎧 That's great! When is your first day of work?
+🎧 Next Monday.
+🎧 What are you going to do for the next few days?
+🎧 I'm going to go shopping for some new suits. We have to dress nicely in the office.
+🎧 Have you told anyone else yet?
+🎧 No, I wanted to tell you first. You're my best friend.
+🎧 Well, we should celebrate.
+🎧 Ok! What should we do?
+🎧 I'll buy you dinner.
+🎧 You don't have to do that.
+🎧 I know. But you can buy me dinner after you get your first paycheck.
+🎧 That's a deal!
+ 
+[175] Buying a Dishwasher
+ 
+🎧 Do you know where I can buy a new dishwasher?
+🎧 I think the home improvement store is having a big sale this weekend. Is your dishwasher broken?
+🎧 Yeah. I need to replace it.
+🎧 Have you tried to repair it?
+🎧 Yeah, we called a repairman yesterday. He said that it would cost more to repair than to replace it.
+🎧 Wow. At least he was honest about it.
+🎧 I know. I appreciated that. We really can't afford to buy a new one right now. We just had a baby a couple of months ago. But I really need one.
+🎧 That's right. You had a baby not too long ago. Why don't you buy a used one?
+🎧 Where can I get a used one that's in good condition?
+🎧 I actually have a friend who is selling hers. She said there isn't anything wrong with her current one. She just wants a different color. Her current one is white.
+🎧 I don't care what color it is. I just want one that works well. Do you know how much it is?
+🎧 I don't know. Let me call her right now.
+🎧 Thanks. I'll talk to my husband too. He may not want a used one. He's a little picky about appliances.
+🎧 Ok. Let me know if he's interested.
+ 
+[176] Needing a New Refrigerator
+ 
+🎧 Something is wrong with my refrigerator.
+🎧 What's wrong with it?
+🎧 It's not staying cold.
+🎧 That could be a big problem.
+🎧 I know. I'm worried that my food is going to spoil. I just went grocery shopping yesterday.
+🎧 I have room in my second refrigerator if you need to store some things.
+🎧 You have two refrigerators?
+🎧 Yeah. We needed two refrigerators because I cook a lot. There was a big sale at the appliance store, so we bought another one last week.
+🎧 Is the sale still going on? I may need to buy a new one.
+🎧 Today is the last day of the sale.
+🎧 Then I better tell my husband. We need to go today.
+🎧 Isn't your husband a great repairman. Maybe he can fix your refrigerator.
+🎧 It's getting old. I'd rather buy a new one.
+🎧 If your husband can fix your broken one, you can have two refrigerators like me.
+🎧 I don't cook that much.
+ 
+[177] New Appliance Store
+ 
+🎧 Hi Carol. There's a new appliance store opening downtown today. Have you seen the flyer for the grand opening?
+🎧 Hi Joan. Yeah, I was thinking about checking it out.
+🎧 Do you want to go together?
+🎧 Sure. I don't need a new appliance, but I would love to update my washer and dryer one day.
+🎧 I just bought a new washer and dryer set. I love it!
+🎧 I'm jealous. My set is really old. It takes a long time to wash and dry.
+🎧 You should really look into upgrading your set. It can save you money?
+🎧 How can it save me money?
+🎧 The new washers use less water and the dryers uses less energy.
+🎧 Really? Maybe it's time for an upgrade.
+🎧 I can show you what I bought.
+🎧 That would great! Maybe it will be on sale.
+🎧 I wish I knew about the new store when I bought my set. I paid full price for mine.
+🎧 You didn't buy it on sale?
+🎧 No, I was foolish.
+🎧 I'm not jealous anymore.
+🎧 Let's go check out the new store.
+ 
+[178] Buying First Car
+ 
+🎧 I am so excited today!
+🎧 What's going on today?
+🎧 I'm buying my first car.
+🎧 That is exciting!
+🎧 I've been saving money for the last couple of years and now I have enough to put a down payment on a car.
+🎧 Are you going to buy a new or used car?
+🎧 A new one.
+🎧 Do you know which one you want?
+🎧 Yeah, I have a picture of it on my phone.
+🎧 That's nice!
+🎧 But I want it in blue. Blue is my favorite color.
+🎧 Make sure you negotiate a good deal.
+🎧 I know. That's my problem. I'm not good at negotiating.
+🎧 I'm great at it. Do you want me to go with you to the dealership?
+🎧 That would be awesome!
+🎧 Ok. I'll drive since you will be driving your car home today.
+🎧 Let's go!
+ 
+[179] Buying Daughter a Car
+ 
+🎧 Hey Todd. What are you doing today?
+🎧 Hey Bill. My wife and I are going to buy our daughter a car.
+🎧 Wow! That's quite a gift!
+🎧 I know. It's a graduation gift.
+🎧 Are you going to buy a new or used car?
+🎧 Used. It will be her first vehicle, so she doesn't need a brand new one.
+🎧 I'm actually selling my car. Would you be interested?
+🎧 Is it the red one?
+🎧 Yeah, that's the one.
+🎧 My daughter would love that car.
+🎧 It's in great condition. I've taken good care of it.
+🎧 How many miles does it have on it? And, how much do you want for it?
+🎧 35,000 miles. $7,000.
+🎧 That's pretty good. Why are you selling it?
+🎧 My wife and I are having a baby. We need to get a bigger car.
+🎧 Congratulations on your new baby!
+🎧 Thanks. Would you like to take a look at the car?
+🎧 Yeah. Can I take it for a test drive?
+🎧 Of course.
+ 
+[180] Talking to a Friend about a New Car
+ 
+🎧 Hey Ashley! Is that your new car?
+🎧 Yeah. I just got it yesterday.
+🎧 That's nice! I love the color.
+🎧 Me too. Green is my favorite color.
+🎧 How do you like it?
+🎧 I love it. It has great gas mileage and it has lot of cool features.
+🎧 What is your favorite feature?
+🎧 The sunroof.
+🎧 Did you get a good deal?
+🎧 Yeah. My cousin is a car salesman, so he helped me out.
+🎧 I need to buy a new car soon. Do you think your cousin could help me too?
+🎧 Of course, that's his job. And, he would love the commission.
+🎧 Where does he work?
+🎧 Downtown. I can go with you when you're ready to buy a car.
+🎧 I need to save a little more money first. It's a big purchase.
+🎧 I know. I don't think I can go out to dinner for a while.
+🎧 Yeah, it's expensive to eat out all the time.
+🎧 I better learn how to cook.
 
-[141] 
+[181] 
 
 
 
-[142] 
+[182] 
 
 
 
-[143] 
+[183] 
 
 
 
-[144] 
+[184] 
 
 
 
-[145] 
+[185] 
 
 
 
-[146] 
+[186] 
 
 
 
-[147] 
+[187] 
 
 
 
-[148] 
+[188] 
 
 
 
-[149] 
+[189] 
 
 
 
-[150] 
+[190] 
 
 
 
-[151] 
+[191] 
 
 
 
-[152] 
+[192] 
 
 
 
-[153] 
+[193] 
 
 
 
-[154] 
+[194] 
 
 
 
-[155] 
+[195] 
 
 
 
-[156] 
+[196] 
 
 
 
-[157] 
+[197] 
 
 
 
-[158] 
+[198] 
 
 
 
-[159] 
+[199] 
 
 
 
-[160] 
+[200] 
+
+
+
+[201] 
+
+
+
+[202] 
+
+
+
+[203] 
+
+
+
+[204] 
+
+
+
+[205] 
+
+
+
+[206] 
+
+
+
+[207] 
+
+
+
+[208] 
+
+
+
+[209] 
+
+
+
+[210] 
+
+
+
+[211] 
+
+
+
+[212] 
+
+
+
+[213] 
+
+
+
+[214] 
+
+
+
+[215] 
+
+
+
+[216] 
+
+
+
+[217] 
+
+
+
+[218] 
+
+
+
+[219] 
+
+
+
+[220] 
+
+
+
+[221] 
+
+
+
+[222] 
+
+
+
+[223] 
+
+
+
+[224] 
+
+
+
+[225] 
+
+
+
+[226] 
+
+
+
+[227] 
+
+
+
+[228] 
+
+
+
+[229] 
+
+
+
+[230] 
+
+
+
+[231] 
+
+
+
+[232] 
+
+
+
+[233] 
+
+
+
+[234] 
+
+
+
+[235] 
+
+
+
+[236] 
+
+
+
+[237] 
+
+
+
+[238] 
+
+
+
+[239] 
+
+
+
+[240] 
+
+
+
+[241] 
+
+
+
+[242] 
+
+
+
+[243] 
+
+
+
+[244] 
+
+
+
+[245] 
+
+
+
+[246] 
+
+
+
+[247] 
+
+
+
+[248] 
+
+
+
+[249] 
+
+
+
+[250] 
+
+
+
+[251] 
+
+
+
+[252] 
+
+
+
+[253] 
+
+
+
+[254] 
+
+
+
+[255] 
+
+
+
+[256] 
+
+
+
+[257] 
+
+
+
+[258] 
+
+
+
+[259] 
+
+
+
+[260] 
+
+
+
+[261] 
+
+
+
+[262] 
+
+
+
+[263] 
+
+
+
+[264] 
+
+
+
+[265] 
+
+
+
+[266] 
+
+
+
+[267] 
+
+
+
+[268] 
+
+
+
+[269] 
+
+
+
+[270] 
+
+
+
+[271] 
+
+
+
+[272] 
+
+
+
+[273] 
+
+
+
+[274] 
+
+
+
+[275] 
+
+
+
+[276] 
+
+
+
+[277] 
+
+
+
+[278] 
+
+
+
+[279] 
+
+
+
+[280] 
+
+
+
+[281] 
+
+
+
+[282] 
+
+
+
+[283] 
+
+
+
+[284] 
+
+
+
+[285] 
+
+
+
+[286] 
+
+
+
+[287] 
+
+
+
+[288] 
+
+
+
+[289] 
+
+
+
+[290] 
+
+
+
+[291] 
+
+
+
+[292] 
+
+
+
+[293] 
+
+
+
+[294] 
+
+
+
+[295] 
+
+
+
+[296] 
+
+
+
+[297] 
+
+
+
+[298] 
+
+
+
+[299] 
+
+
+
+[300] 
+
 
 
