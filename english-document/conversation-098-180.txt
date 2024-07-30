@@ -1715,78 +1715,370 @@
 🎧 I know. I don't think I can go out to dinner for a while.
 🎧 Yeah, it's expensive to eat out all the time.
 🎧 I better learn how to cook.
-
-[181] 
-
-
-
-[182] 
-
-
-
-[183] 
-
-
-
-[184] 
-
-
-
-[185] 
-
-
-
-[186] 
-
-
-
-[187] 
-
-
-
-[188] 
-
-
-
-[189] 
-
-
-
-[190] 
-
-
-
-[191] 
-
-
-
-[192] 
-
-
-
-[193] 
-
-
-
-[194] 
-
-
-
-[195] 
-
-
-
-[196] 
-
-
-
-[197] 
-
-
-
-[198] 
-
-
+ 
+[181] Needing a New Computer
+ 
+🎧 I think I need a new computer.
+🎧 Why?
+🎧 Mine is so slow now. It takes a long time to start up and it keeps freezing.
+🎧 That's not good. How old is it?
+🎧 Several years old. It was a high school graduation gift from my parents.
+🎧 Yeah, it's probably time to replace it.
+🎧 I don't know what to buy. There are so many different models these days.
+🎧 You should go to a computer store and ask about the different kinds?
+🎧 That's a good idea. Do you want to go with me?
+🎧 When? I have to work today. Can you wait until tomorrow?
+🎧 Sure. I have to work until 5 pm tomorrow. Can you go around 6 o'clock tomorrow evening?
+🎧 Yeah. Let's meet at your place at 6 pm.
+🎧 Ok. I'll do some research on computers tonight.
+🎧 My brother just bought a brand new computer too. I can ask him if he likes it.
+🎧 That would be great!
+🎧 See you tomorrow around 6 pm.
+ 
+[182] Getting a Cell Phone
+ 
+🎧 I think I am finally going to get a cell phone.
+🎧 You don't have a cell phone?
+🎧 No. I didn't think it was necessary, but now I think I should get one.
+🎧 What made you decide to get one now?
+🎧 My car broke down in the middle of the road last night and I had to walk to the nearest pay phone to call a friend. It was scary walking alone at night.
+🎧 Yeah, cell phones are very convenient. Do you know what kind you want to get?
+🎧 Just a basic one. I don't need anything fancy.
+🎧 Do you want a smartphone?
+🎧 What is that?
+🎧 You don't know what a smartphone is?
+🎧 No. Can you explain it to me?
+🎧 A smartphone is a cell phone that also has computer features. You have e-mail and Internet access.
+🎧 I don't need those things. I don't even have an e-mail address.
+🎧 You don't have an e-mail address?
+🎧 No.
+🎧 Then how do you send written communication to other people?
+🎧 I write and mail letters.
+🎧 Wow! That's amazing! People don't mail letters anymore.
+🎧 But I think I will get a cell phone, just in case of an emergency.
+🎧 That's a good idea! Welcome to modern technology, Ruth!
+ 
+[183] Buying a Tablet
+ 
+🎧 Hey Mark. What are you doing today?
+🎧 I'm going to the electronics store with my son.
+🎧 Are you buying a new TV?
+🎧 No. My son has been saving money to buy a tablet. They're so expensive, so I told him I would pay for half of it.
+🎧 That's so nice of you.
+🎧 His birthday is next week, so this is his birthday present.
+🎧 Why don't you buy one for yourself?
+🎧 I already have one. My son really likes it. So, he wants one of his own.
+🎧 Oh, I see. They're great. They're like mini computers. I love the touch screen feature.
+🎧 I know. My son keeps taking mine. I'm tired of sharing it with him all the time.
+🎧 Is that why you are helping him buy one?
+🎧 Yes. Do you have one?
+🎧 Yeah. I should get another one too.
+🎧 Why?
+🎧 My daughter keeps taking mine. Let me know if there are any sales.
+ 
+[184] Buying a New Sofa
+ 
+🎧 Hey Joe. What are you doing today?
+🎧 Oh, hey Sam. I'm going furniture shopping with my wife.
+🎧 Are you looking for anything special?
+🎧 Yeah. We need a new sofa. Our old one is ripping.
+🎧 We just bought a new sofa.
+🎧 Did you get a good deal?
+🎧 Yeah, it was on sale. You should go check it out.
+🎧 Where did you go?
+🎧 We went to the new store across the street.
+🎧 I saw a flyer for that in the mail. I think that's where my wife wants to go.
+🎧 If you bring the flyer, you get 10% off this weekend.
+🎧 That's good to know! Thanks for telling me.
+🎧 Do you know what kind of sofa you want?
+🎧 Yeah. We want a dark brown leather sofa.
+🎧 That's exactly what we bought.
+🎧 Your wife and my wife must have the same taste in furniture.
+ 
+[185] Furniture for Apartment
+ 
+🎧 Mom, can we go furniture shopping?
+🎧 Sure. What do you need to buy?
+🎧 Something for my new apartment.
+🎧 How do you like your first apartment? Do you like living alone?
+🎧 Yes, it's great. But my apartment is so empty. I need some furniture to make it feel cozy.
+🎧 What do you need?
+🎧 I already have a bed and a sofa that you and Dad gave me. I need to buy a dining table and chairs.
+🎧 Where do you sit to eat?
+🎧 Right now, I eat on the sofa. But I'd like to invite people over for dinner and be able to dine comfortably.
+🎧 Can you afford to buy a new dining table and chairs?
+🎧 I have some money saved, but not a lot.
+🎧 Why don't we try a yard sale? I always see people selling their dining room furniture at yard sales.
+🎧 That's a great idea! Maybe if the furniture looks really old, I can get a good deal. I can just paint them.
+🎧 Right! We should go today.
+🎧 Yes! I'm excited to see what I can find.
+🎧 Maybe I'll find something too.
+ 
+[186] Making Furniture
+ 
+🎧 Hey Carl, what are you doing with all that wood?
+🎧 Hi Bill. I'm going to make a coffee table for Jill.
+🎧 That's nice! You know how to build things with wood?
+🎧 Yeah. We just got back from furniture shopping and the price of furniture is expensive.
+🎧 So, you're going to make a coffee table instead of buying one?
+🎧 That's right. Furniture is too expensive these days.
+🎧 You're lucky you know how to build things.
+🎧 My dad used to make furniture when he was younger. He taught me a lot.
+🎧 Hey, could you make me something if I pay you?
+🎧 Sure. What is it?
+🎧 Carol has been asking for a new desk. Can you build a desk?
+🎧 Yeah. I built a desk for my daughter when she was in college. She still has it.
+🎧 How much would you charge me?
+🎧 It depends on what kind of desk you want. Show me a picture later.
+🎧 Ok! I'll ask Carol to find a picture.
+🎧 Maybe I should quit being an accountant and go into furniture making instead.
+ 
+[187] Vacuum Cleaner Gift
+ 
+🎧 Hi John. What's wrong?
+🎧 Sarah and I had an argument.
+🎧 Why?
+🎧 It's our anniversary today.
+🎧 Why did you argue on your anniversary?
+🎧 She didn't like the gift I got her.
+🎧 What was it?
+🎧 A vacuum cleaner.
+🎧 A vacuum cleaner? That's not a very romantic gift.
+🎧 That's what she said. Now she's mad at me.
+🎧 Well, I can understand her.
+🎧 It's a practical gift. Something she can use all the time.
+🎧 What did she get you?
+🎧 A watch.
+🎧 That's a very nice gift.
+🎧 It's a practical gift. Something I can use all the time.
+🎧 That's really the same thing, John.
+🎧 What should I do?
+🎧 Return the vacuum and buy her jewelry.
+ 
+[188] Buying a Present
+ 
+🎧 Hello?
+🎧 Hi Linda. This is Sharon. Do you have time for lunch today?
+🎧 No, I have to go to the mall. I have to get a birthday present for Phil.
+🎧 What are you going to get him?
+🎧 I don't know. He seems to have everything.
+🎧 Does he have a hobby?
+🎧 Yeah. He loves golf, but he has everything he needs for golf.
+🎧 What about clothes or shoes?
+🎧 He has plenty of clothes and shoes.
+🎧 Jewelry?
+🎧 He doesn't wear jewelry.
+🎧 Wow! I don't know what else to suggest.
+🎧 That's what I mean. He has everything!
+🎧 What are you going to do?
+🎧 I don't know. I'm just going to go to the mall and hope I find something. Would you like to come with me?
+🎧 Sure. We can grab lunch at the mall.
+🎧 That's a good idea. We'll need a break from searching for his gift.
+🎧 When is Phil's birthday?
+🎧 Tomorrow.
+🎧 Tomorrow? We better leave now.
+ 
+[189] Trip Graduation Gift
+ 
+🎧 Hi Carol. What are you doing at a travel agency? Are you planning a trip?
+🎧 Oh Hi Cathy. My son is graduating college and Joe and I thought a trip would be a good graduation gift.
+🎧 That's a great graduation gift! He's a lucky boy.
+🎧 He's a good son, so Bob and I wanted to give him something special.
+🎧 Where are you sending him?
+🎧 China. He studied the Chinese language in college and really enjoyed learning about the culture.
+🎧 Does he know anyone there?
+🎧 My brother moved there last year for work. He is going to show him around.
+🎧 That's nice. It will be more fun if he knows someone there.
+🎧 Yeah. And it will be safer too.
+🎧 Does he know about this trip?
+🎧 No, it's going to be a surprise. So, if you see him, please don't mention anything.
+🎧 I promise I won't.
+🎧 Cathy, what are you doing here?
+🎧 I'm planning a trip to Hawaii. Bill and I go every summer.
+🎧 Now that's being really lucky!
+ 
+[190] Back to School Shopping
+ 
+🎧 Hi Jane. What are you doing today?
+🎧 Hi Kathy. I'm going back-to-school shopping with the kids.
+🎧 We did that last week.
+🎧 Are there any good sales going on?
+🎧 Yeah, the mall is having great sales.
+🎧 Good. I need to buy clothes and shoes for my daughter. She has outgrown all of her clothes.
+🎧 Really? My kids are still wearing the same size.
+🎧 Jenny grew four inches during the summer.
+🎧 Wow! That's amazing!
+🎧 I know. She eats a lot these days.
+🎧 Probably because she is growing. Do you need to buy school supplies, too?
+🎧 Yeah, I will be shopping for clothes, shoes, and school supplies today.
+🎧 I'm glad I'm done. The mall was really crowded last week. I think everyone is shopping for school.
+🎧 I do not like crowds. We should've done this earlier. We always wait until the last minute every year.
+🎧 Good luck! I hope you find everything you need.
+🎧 Thanks. It's going to be a long day.
+ 
+[191] Buying a Bike for Kid
+ 
+🎧 Hi. How can I help you today?
+🎧 I'm looking for a bike for my daughter.
+🎧 How old is your daughter?
+🎧 She is five years old. This will be her first bike.
+🎧 We have lots of cute bikes for girls. Does she like a particular color?
+🎧 Yes, her favorite color is purple.
+🎧 We have a few purple bikes. Let me show you.
+🎧 I really like this one. This has stars on it. She loves stars.
+🎧 Would you like to add a basket to the front of the bike?
+🎧 That would be wonderful. How much is this bike?
+🎧 $50.
+🎧 That's a little more than I wanted to spend. Do you have anything cheaper?
+🎧 Unfortunately, this is one of the least expensive bikes we have.
+🎧 I see.
+🎧 This bike has an adjustable height. So, it will grow a few inches as your child grows.
+🎧 That's a great feature. I think I will buy it. What is your return policy?
+🎧 We have a 100% money-back guarantee.
+🎧 What does that mean?
+🎧 You can return it for a full refund if you are not satisfied with the product.
+ 
+[192] Buying a Toy
+ 
+🎧 Mom, can I get a new toy?
+🎧 No, Billy. We're here to buy your cousin a birthday present.
+🎧 Please, Mom.
+🎧 No. Can you help me find something for your cousin? What does he like?
+🎧 This toy helicopter.
+🎧 I think that's what you like.
+🎧 He'll like it too.
+🎧 Are you sure?
+🎧 Yeah. He and I like the same things.
+🎧 Ok. Let's get him that helicopter.
+🎧 I can play with it at his house. If I like it, then can I get one, too?
+🎧 Maybe for your birthday.
+🎧 Great! My birthday is next month.
+🎧 You are a smart boy, Billy.
+🎧 Thanks, Mom.
+ 
+[193] Talking about a New Cell Phone
+ 
+🎧 Hi Mike. What are you doing?
+🎧 Hi James. I got a new cell phone. I'm reading the manual.
+🎧 That's a nice phone.
+🎧 Thanks. I really like it.
+🎧 I need to get a new one too. My phone is old.
+🎧 Would you like to look at my phone?
+🎧 That would be great.
+🎧 Be careful with it.
+🎧 Don't worry. I will.
+🎧 It is very light. It has a lot of functions.
+🎧 I like your phone. How much did it cost?
+🎧 It was expensive. It was $100.
+🎧 Wow! That's too much for me. I think I will wait for a sale.
+🎧 This was a gift from my parents. It was my birthday yesterday.
+🎧 Oh, happy birthday!
+🎧 Thanks!
+🎧 Let's get some ice cream to celebrate.
+🎧 Ok. I'm tired of reading this manual. I need a break.
+ 
+[194] Replacing a Broken Cell Phone
+ 
+🎧 Hello?
+🎧 Hi Carol. This is Jane. What are you doing today?
+🎧 I have to go to the mall. I broke my phone.
+🎧 What happened?
+🎧 I dropped it outside on the concrete ground.
+🎧 Oh no! That's terrible.
+🎧 I hope it can be fixed or I have to buy a new one.
+🎧 Would you like me to go with you?
+🎧 Sure. If they can't fix it, maybe you can help me pick out a new phone.
+🎧 Ok. Do you want to have lunch together afterwards?
+🎧 I don't think I will have time. I have to pick up my children from school at 3 pm.
+🎧 How about tomorrow?
+🎧 Tomorrow is better. Where do you want to go?
+🎧 You pick the restaurant. It will be my treat since you're having a bad day.
+🎧 Thanks! That's so nice of you.
+🎧 My pleasure. Let's go check out the phone store.
+ 
+[195] Buying a Cell Phone
+ 
+🎧 Hi. How can I help you?
+🎧 I would like to get a new phone.
+🎧 Great! I can help you with that. What is your name?
+🎧 John Taylor.
+🎧 Ok, Mr. Taylor. My name is Simon. What kind of phone would you like?
+🎧 I have a basic phone right now. I would like to upgrade.
+🎧 Do you want a smart phone?
+🎧 Yes. I would like to be able to check e-mails and surf the Internet.
+🎧 Ok. We have many phones to choose from.
+🎧 I would like something that is not too expensive.
+🎧 Ok. We can find you something for sure.
+🎧 I would also like a good camera.
+🎧 What about this phone? It has many good features and it is on sale.
+🎧 It feels a little heavy. Do you have anything lighter in weight?
+🎧 How about this one? It is the same price as the other one.
+🎧 This one seems nice. Does it come with a warranty?
+🎧 Yes. If it stops working within one year, we will replace it for free.
+🎧 That's great! I will get this one.
+🎧 Wonderful. Is there anything else I can help you with?
+🎧 No. You have been very helpful.
+ 
+[196] Old Computer
+ 
+🎧 Hello?
+🎧 Hi Kate. This is Mary. Are you busy?
+🎧 No. Why?
+🎧 Do you know anything about computers?
+🎧 It depends. What's the matter?
+🎧 My computer is running really slow. I don't know what's going on.
+🎧 Have you tried to restart it?
+🎧 Yeah. But it's still slow.
+🎧 Do you think it was infected by a virus?
+🎧 I don't think so. I scanned it for viruses.
+🎧 I think you should have a professional take a look at it.
+🎧 Yeah. Maybe it's time to get a new computer. This one is really old.
+🎧 How old is it?
+🎧 Ten years?
+🎧 Ten years. I think that's the problem.
+🎧 I think you're right. I guess it's time to buy a new one.
+🎧 We just bought a new one. It works great. Do you want to come over and take a look?
+🎧 That would be wonderful. I'll be right over.
+ 
+[197] Using a Public Computer
+ 
+🎧 Hey Charlie. Why are you in such a hurry?
+🎧 Hi Tim. I'm going to the school library.
+🎧 I was just at the library. I had to check out some books. It was really crowded today.
+🎧 My computer isn't working and I need to finish a report.
+🎧 Good luck finding a spot. All the computers were taken when I was there.
+🎧 Oh no! My report is due tomorrow.
+🎧 Do you want to use my computer?
+🎧 Are you done with your report?
+🎧 Yeah. I stayed up all night to finish it.
+🎧 I should've worked on it last night too.
+🎧 Were you busy?
+🎧 No. I fell asleep. I was so tired.
+🎧 I'm heading home right now. Do you want to go with me?
+🎧 That would be great! Can I buy you coffee?
+🎧 Sure. After you finish your report.
+🎧 Good idea!
+ 
+[198] Computer Classes
+ 
+🎧 Hello?
+🎧 Hi Mom. This is Sarah. How are you doing today?
+🎧 Hi Sarah. I'm fine. I'm working on my new computer.
+🎧 Computer? Did you buy a one?
+🎧 Yes. I signed up for a computer class for senior citizens.
+🎧 That's great! Have you learned a lot of stuff?
+🎧 Oh, yes. It's been really fun. I'm just learning the basics right now.
+🎧 Do you get homework?
+🎧 We have homework once a week. This week we have to type a short essay about ourselves.
+🎧 Do you know how to open and save documents?
+🎧 Yes. That's what we're learning.
+🎧 Let me know if you need any help?
+🎧 Actually, I'm not confident about editing yet. Can you help me?
+🎧 Of course. I will come over tonight.
+🎧 Ok. Do you want me to make you dinner?
+🎧 No, Mom. I'll eat before I come over.
+🎧 Ok. I'll make us dessert.
+🎧 Sounds wonderful. See you around 8 pm.
 
 [199] 
 
