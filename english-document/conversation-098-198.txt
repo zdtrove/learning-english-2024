@@ -2079,54 +2079,245 @@
 🎧 No, Mom. I'll eat before I come over.
 🎧 Ok. I'll make us dessert.
 🎧 Sounds wonderful. See you around 8 pm.
-
-[199] 
-
-
-
-[200] 
-
-
-
-[201] 
-
-
-
-[202] 
-
-
-
-[203] 
-
-
-
-[204] 
-
-
-
-[205] 
-
-
-
-[206] 
-
-
-
-[207] 
-
-
-
-[208] 
-
-
-
-[209] 
-
-
-
-[210] 
-
-
+ 
+[199] Breakfast with Grandparents
+ 
+🎧 Lucy, can you help me with breakfast?
+🎧 Sure, Mom? Is someone coming over this morning?
+🎧 Your grandparents are coming.
+🎧 Oh, how nice. What are we making?
+🎧 Pancakes, eggs, bacon, and hash browns.
+🎧 Yummy! That sounds delicious.
+🎧 I hope so. Your grandfather has a big appetite. I hope there's enough food.
+🎧 Mom, you always make too much food. It looks like a breakfast buffet every time they come over.
+🎧 I want to make sure there is enough food. Breakfast is the most important meal of the day.
+🎧 Should I make freshly-squeezed orange juice?
+🎧 That would be great. Do you know where the juicer is?
+🎧 Yeah, it's on the top shelf of the pantry.
+🎧 Oh no!
+🎧 What's wrong, Mom?
+🎧 I'm all out of eggs. Tell your Dad to go to the store and buy some eggs. I'll start on the bacon and hash browns.
+🎧 Dad! Mom needs you to buy some eggs!
+ 
+[200] Breakfast at Home or the Diners
+ 
+🎧 Hey Kevin, do you want to try the new diner down the street?
+🎧 Sure. I hear they have really good food especially their omelets.
+🎧 Susan went their last weekend and said it was the best breakfast place in town.
+🎧 Yeah, I heard the same thing from Janet. She waited an hour for a table.
+🎧 I don't think I can wait an hour. I'm hungry right now.
+🎧 Do you want to make breakfast at home?
+🎧 Ok. What do you want to eat?
+🎧 I'd like a ham and cheese omelet.
+🎧 That sounds good. Do we have all of the ingredients?
+🎧 Well, we only need eggs, ham, and cheese.
+🎧 I think we may be out of ham. I used the last few slices for a sandwich yesterday.
+🎧 Ok. How about a vegetable omelet?
+🎧 That's good too. We have green peppers, mushrooms, and onions.
+🎧 That's perfect.
+🎧 Great! I'll brew some coffee and you make the omelet.
+🎧 I don't know how to make an omelet.
+🎧 You don't? Well, I don't either.
+🎧 Let's just go to the new diner.
+🎧 That sounds like a better plan.
+ 
+[201] Pancake Breakfast
+ 
+🎧 Hi Sally. My kids want to go out for breakfast this weekend. Do you have a favorite restaurant?
+🎧 Hi Mary. Yeah, our favorite place is the pancake house on Main Street.
+🎧 Oh, I haven't been there yet.
+🎧 We love it. Kids eat free on their birthdays too.
+🎧 What do your kids like there?
+🎧 They love the chocolate chip pancakes.
+🎧 Oh, my children would love those. They like anything with chocolate.
+🎧 I like their waffles. They're thick and fluffy. They put fresh strawberries over them.
+🎧 I may want to try that. I'm getting hungry now.
+🎧 Me too.
+🎧 Would you like to join us on Saturday morning?
+🎧 I can't on Saturday. Joanne has a soccer game in the morning. What about Sunday?
+🎧 We have church in the morning, but we are free around 10 am.
+🎧 10 am is good for us too.
+🎧 Ok. Let's meet on Sunday at 10 am at the restaurant.
+🎧 That sounds wonderful.
+ 
+[202] Preparing Dinner for Guests
+ 
+🎧 Hey Sue. What are you doing today?
+🎧 Hey Alice. I'm going to the market later. My husband's boss and his wife are coming over for dinner tonight.
+🎧 Wow! What are you making?
+🎧 I don't know. His wife is a vegetarian, so I need to make one dish without meat.
+🎧 My mother-in-law is a vegetarian. I can ask her for some recipes.
+🎧 That would be great. I'm a little nervous about hosting dinner.
+🎧 You shouldn't worry. You're a great cook.
+🎧 I've never cooked for Jeff's boss before. I want to make sure everything is perfect.
+🎧 I understand. I cooked for my boss once. It was a disaster. I burned the roast beef.
+🎧 Oh no! What happened?
+🎧 I was too busy talking and forgot to take it out of the oven. We all laughed, but I was so embarrassed.
+🎧 I'll make sure to use a timer.
+🎧 Great idea!
+🎧 I think I will make lasagna.
+🎧 Your lasagna is delicious. My mother-in-law makes great vegetarian lasagna. I'll call her right now.
+🎧 Thank you so much! I'll go the market after you talk to her.
+🎧 Good luck tonight.
+ 
+[203] Dinner with Grandparents
+ 
+🎧 Ethan, get ready. We're going to your grandparents' house for dinner.
+🎧 Again? We went there last weekend.
+🎧 That's right. Remember we go every Sunday evening.
+🎧 But grandma's food tastes weird.
+🎧 Don't be rude. She loves to cook for us.
+🎧 I know. I love them. But she always makes the same dish, chicken pot pie.
+🎧 Your grandfather likes it. It's his favorite, so we're going to eat it too.
+🎧 Ok, Mom. Sorry for being rude.
+🎧 Why don't we pick up a dessert on the way to their house?
+🎧 Ok! Can we get ice cream?
+🎧 Sure. We can make ice cream sundaes after dinner.
+🎧 Mom, that's funny.
+🎧 What's funny?
+🎧 Sundaes on Sundays.
+🎧 That is funny. This will be our new tradition.
+🎧 Grandpa will love it. He loves ice cream too.
+ 
+[204] No Time to Eat
+ 
+🎧 Hey Jane. Did you eat lunch?
+🎧 No, I don't have time. I have a big test today at 1 pm.
+🎧 You still need to eat or you won't have energy for the test.
+🎧 I know. I'll grab something on the way to class.
+🎧 Fast food?
+🎧 Yeah, I'll grab a burger.
+🎧 That's not healthy for you. Let me make you something to eat.
+🎧 Thanks. But I don't have time.
+🎧 You never have the time to eat a proper meal anymore.
+🎧 I like fast food meals anyway. They're quick and easy.
+🎧 Let me pack you some fruits.
+🎧 Mom, please. I'm in college now. I can cut my own fruits.
+🎧 But you won't do it.
+🎧 I'll take this banana. It's quick and easy. See you later, Mom.
+🎧 Eat something nutritious!
+ 
+[205] Quick Bite to Eat
+ 
+🎧 Hey Jesse, should we grab a bite to eat before the concert?
+🎧 Yeah, I'm getting a little hungry.
+🎧 Let's get some fast food here.
+🎧 Burgers and fries?
+🎧 Yeah, that sounds good.
+🎧 Why is the drive-thru line so long?
+🎧 It's dinner time. Should we go inside?
+🎧 It might be busier inside?
+🎧 Looks like the line is really long inside too.
+🎧 Let's head to another place.
+🎧 Can we go to one closer to the concert arena?
+🎧 That's a good idea!
+🎧 There are many fast food places around there.
+🎧 Yeah, we should be able to find one that's not too crowded.
+🎧 Fast food is great. Fast and cheap.
+🎧 But not very healthy.
+ 
+[206] Working at a Fast Food Place
+ 
+🎧 Hey Sam. What was your first job?
+🎧 I worked at a fast food restaurant.
+🎧 Did you like it?
+🎧 It was ok. It was always busy.
+🎧 What did you do there?
+🎧 I took orders at the counter and sometimes at the drive-thru window.
+🎧 Was it fun?
+🎧 It wasn't fun. It was just a job. We had to work fast.
+🎧 I need to find a job. I was thinking about applying at a fast food restaurant.
+🎧 It's a good place to learn how to work quickly.
+🎧 I'm a fast learner and I can move pretty quickly.
+🎧 Also, it's a good place to learn how to handle customers.
+🎧 I don't have any customer service experience.
+🎧 They will train you. You just have to be polite and listen well.
+🎧 I can do that.
+🎧 You should apply then.
+🎧 Did you get to eat a lot of the food?
+🎧 I ate too much fast food working there. I got sick of it.
+🎧 I love fast food. I may eat it every day.
+🎧 That's probably not a good thing.
+ 
+[207] Planning for Lunch with Friend
+ 
+🎧 Hello?
+🎧 Hi Joan. This is Karen. Are you free for lunch today?
+🎧 Hi Karen. No, I'm having lunch with my mom. It's her birthday today.
+🎧 What about tomorrow?
+🎧 I'm free tomorrow. Where should we go?
+🎧 There's a new Chinese restaurant downtown.
+🎧 I love Chinese food! Let's check it out.
+🎧 Do you think we should make reservations.
+🎧 Yeah, that might be a good idea.
+🎧 Should we invite anyone else?
+🎧 Sure. How about Cathy and Lisa?
+🎧 Lisa is out of town. Let's invite Cathy and Sharon.
+🎧 Ok. What time should we meet tomorrow?
+🎧 Noon?
+🎧 Noon is perfect.
+🎧 Good. I'll call Cathy and Sharon right now.
+🎧 Hopefully, then can meet at noon too.
+🎧 If they can't, I'll let you know.
+ 
+[208] Talking about your Lunch
+ 
+🎧 Hey Steve, what did your mom pack for your lunch today?
+🎧 Hey Bobby. She packs me the same lunch every day. A peanut butter and jelly sandwich, cookies, and milk.
+🎧 I got something new today. It looks like a tuna sandwich. I'm not sure I like it.
+🎧 I love tuna sandwiches. Do you want to trade?
+🎧 Sure! But will your mom get mad?
+🎧 No. She won't know. I won't tell her.
+🎧 Do you ever buy the school lunch?
+🎧 No, it looks gross.
+🎧 It's actually not bad. Some dishes are pretty good.
+🎧 Which ones have you tried?
+🎧 The spaghetti and pizza are good. But the hamburgers and burritos are terrible. They taste like cardboard.
+🎧 That's awful! Maybe I'll buy lunch when the cafeteria serves spaghetti and pizza. Those are my favorite dishes at home.
+🎧 They're pretty good, but not as good as our moms' cooking.
+🎧 Are you done with lunch? Let's go out to recess.
+🎧 Yeah. Let's go!
+ 
+[209] Lunch Decisions
+ 
+🎧 Hey Bill, are you hungry?
+🎧 Oh, hi Kathy. Yeah. Let's have lunch.
+🎧 What do you want to eat?
+🎧 How about pizza?
+🎧 We always have pizza. Let's try something different.
+🎧 Ok. Do you have any suggestions?
+🎧 How about sushi?
+🎧 I don't like raw fish.
+🎧 All sushi isn't raw.
+🎧 I know. I just don't feel like having sushi today.
+🎧 Ok. Then what should we eat?
+🎧 Maybe we should just order take-out. You get sushi and I'll get pizza.
+🎧 That's a good idea. But I think I want Chinese food instead.
+🎧 Chinese food sounds yummy.
+🎧 Hey, we agree on something. Let's go out to a Chinese restaurant.
+🎧 I'd rather eat at home.
+🎧 We never agree on anything.
+ 
+[210] Trying Different Restaurants
+ 
+🎧 Do you want to try a new restaurant tonight?
+🎧 Sure. I'm kind of getting sick of the same place.
+🎧 Me too. What kind of food do you want to eat?
+🎧 Do you want to try Indian?
+🎧 Ok. I've never had Indian food before, so you'll have to choose the place.
+🎧 I've never had it before either.
+🎧 Then why do you want to go there?
+🎧 To try something different.
+🎧 Let's check out the reviews online.
+🎧 That's a good idea.
+🎧 There are many restaurants we haven't tried.
+🎧 Should we try a new one each week?
+🎧 Yeah. That will be fun.
+🎧 Ok, so we'll have Indian tonight.
+🎧 What about next week?
+🎧 Let's decide that next week. One place at a time.
+🎧 I'm hungry.
+🎧 Me too. Let's find a restaurant soon.
 
 [211] 
 
