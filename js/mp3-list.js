@@ -327,4 +327,9 @@ const ieltsSpeakingMp3 = {
   '003': 'ri3vagvv7av0kwkhxixso/003.mp3?rlkey=xs8c1z7xbhogr1n22l0sua5w6',
   '004': '8euzkk25wmyqxiqj9zffi/004.mp3?rlkey=185qj656y8dvf6zfyp05xm0q6',
   '005': 'w6q4nfgp28vqqesq59rmx/005.mp3?rlkey=wsp4lm6a30zpvacc30doxtgp8',
+  '006': '35no4hoii04zr5ttri20k/006.mp3?rlkey=k6ps1kaeo39qn15n21ll9y8xt',
+  '007': 'u49safg5qz7bcy05k05zr/007.mp3?rlkey=jgrjnjrf4f78s60hjzw74pgpk',
+  '008': '8s29am8xi4h8sd1ay041o/008.mp3?rlkey=eiqiufkti2amkidpbwa47odvp',
+  '009': 'nuui8alzwk8mqgb9nz4es/009.mp3?rlkey=rgxo7ynqarhg9q5xd7fytq714',
+  '010': 'gvgosf0g4uchh574172v4/010.mp3?rlkey=rg5772bbkejit8idznftnxq8w',
 }
