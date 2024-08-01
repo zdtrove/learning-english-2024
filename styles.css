@@ -85,7 +85,7 @@ span {
 
 .tab-content {
   display: none;
-  padding: 0 8px;
+  padding: 0 8px 50px;
 }
 
 .audio-wrapper {
