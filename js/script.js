@@ -115,15 +115,15 @@ function initVocabulary() {
   const spans = document.getElementsByTagName("span");
   const spanArray = Array.from(spans);
   spanArray.forEach((span) => {
-    storedArray.forEach((item) => span.textContent.toLowerCase() === item && span.classList.add('learn'));
+    storedArray.forEach((item) => span.textContent.toLowerCase() === item.toLocaleLowerCase() && span.classList.add('learn'));
     span.addEventListener("click", function() {
       let storedArray = JSON.parse(localStorage.getItem('vocabulary'));
       if (!storedArray.includes(span.textContent)) {
-        spanArray.forEach((span1) => span1.textContent.toLowerCase() === span.textContent && span1.classList.add('learn'));
+        spanArray.forEach((span1) => span1.textContent.toLowerCase() === span.textContent.toLocaleLowerCase() && span1.classList.add('learn'));
         storedArray.push(span.textContent.replace(/\n/g, ''));
         localStorage.setItem('vocabulary', JSON.stringify(storedArray));
       } else {
-        spanArray.forEach((span2) => span2.textContent.toLowerCase() === span.textContent && span2.classList.remove('learn'));
+        spanArray.forEach((span2) => span2.textContent.toLowerCase() === span.textContent.toLocaleLowerCase() && span2.classList.remove('learn'));
         storedArray = storedArray.filter(item => item !== span.textContent)
         localStorage.setItem('vocabulary', JSON.stringify(storedArray));
       }
