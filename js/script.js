@@ -67,7 +67,7 @@ function changeConversation(object, className) {
   });
 }
 
-function loadAudio(src, button) {     
+function loadAudio(src, button) {
   let count = 0;
   const audio = button.previousElementSibling;
   const div = button.nextElementSibling;
@@ -81,7 +81,7 @@ function loadAudio(src, button) {
   audio.appendChild(source);
   audio.load();
   audio.play();
-  audio.onended = function() {
+  audio.onended = function () {
     count++;
     times.innerHTML = `<b>${count}</b> <i>times</i>`;
     setTimeout(() => {
@@ -112,11 +112,45 @@ function initVocabulary() {
     storedArray = [];
   }
 
+  let lastPlayedAudio = null;
+  document.addEventListener('keydown', function (event) {
+    if (event.code === 'Space') {
+      event.preventDefault();
+      const audioPlayers = document.querySelectorAll('.audio');
+      let currentlyPlaying = null;
+
+      audioPlayers.forEach(function (audioPlayer) {
+        if (!audioPlayer.paused) {
+          audioPlayer.pause();
+          currentlyPlaying = audioPlayer;
+        }
+      });
+
+      if (currentlyPlaying === null) {
+        if (lastPlayedAudio && lastPlayedAudio.currentTime > 0 && lastPlayedAudio.currentTime < lastPlayedAudio.duration) {
+          lastPlayedAudio.play();
+        } else {
+          audioPlayers.forEach(function (audioPlayer) {
+            if (audioPlayer.currentTime > 0 && audioPlayer.currentTime < audioPlayer.duration) {
+              audioPlayer.play();
+              lastPlayedAudio = audioPlayer;
+              return;
+            }
+          });
+        }
+      }
+
+      if (currentlyPlaying) {
+        lastPlayedAudio = currentlyPlaying;
+      }
+    }
+  });
+
   const spans = document.getElementsByTagName("span");
   const spanArray = Array.from(spans);
   spanArray.forEach((span) => {
     storedArray.forEach((item) => span.textContent.toLowerCase() === item.toLocaleLowerCase() && span.classList.add('learn'));
-    span.addEventListener("click", function() {
+    span.addEventListener("click", function () {
       let storedArray = JSON.parse(localStorage.getItem('vocabulary'));
       if (!storedArray.includes(span.textContent)) {
         spanArray.forEach((span1) => span1.textContent.toLowerCase() === span.textContent.toLocaleLowerCase() && span1.classList.add('learn'));
