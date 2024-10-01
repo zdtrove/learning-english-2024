@@ -102,7 +102,7 @@ function changeSpeed(select) {
 
 function repeat(btn) {
   const audio = btn.parentElement.previousElementSibling.previousElementSibling;
-  audio.currentTime = Math.max(0, audio.currentTime - 3);
+  audio.currentTime = Math.max(0, audio.currentTime - 5);
 }
 
 function initVocabulary() {
