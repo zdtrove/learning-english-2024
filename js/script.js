@@ -148,6 +148,7 @@ function initVocabulary() {
 
   const spans = document.getElementsByTagName("span");
   const spanArray = Array.from(spans);
+  console.log(spanArray.length);
   spanArray.forEach((span) => {
     storedArray.forEach((item) => span.textContent.toLowerCase() === item.toLocaleLowerCase() && span.classList.add('learn'));
     span.addEventListener("click", function () {
