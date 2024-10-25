@@ -1,0 +1,333 @@
+[001] Cam3 - Test 1 - Part 1
+
+🎧 Hello... Flagstone.
+🎧 Oh hello.
+🎧 Is that Flagstone Properties?
+🎧 Yes that's right.
+🎧 Flagstone here. How can I help you?
+🎧 Hello.
+🎧 I'm ringing just to make enquiries about renting a house.
+🎧 My name's Jon Anderson.
+🎧 Yes, Mr Anderson.
+🎧 What sort of thing were you looking for?
+🎧 Umm... Two-bedroomed house with garden.
+🎧 Well... yes, sir, that shouldn't be any problem...
+🎧 just to let you know that our main areas,
+🎧 the main areas we deal with are the city centre itself...
+🎧 City centre...
+🎧 And the north suburbs.
+🎧 Oh well...
+🎧 we were most interested in the Northern areas actually.
+🎧 Right... yes... What sort of price were you thinking of?
+🎧 Well... uh... could you give me some idea?
+🎧 Certainly.
+🎧 It really ranges from £250 per month.
+🎧 Only £250?
+🎧 Yes, to about £500 depending on a number of different factors.
+🎧 Oh, what does it depend on?
+🎧 Well, obviously the quality of the area.
+🎧 And then whether there's a garden.
+🎧 Well, as I said, we'd want a garden.
+🎧 And a garage pushes up the price.
+🎧 Right...
+🎧 well, we wouldn't necessarily need one.
+🎧 I think about £350 a month would be our limit.
+🎧 Okay.
+🎧 Well... would you like to have a look at a couple of properties, sir?
+🎧 Yes, that'd be great.
+🎧 Um... Looking at our files... I think we've got two which might suit you...
+🎧 Hang on. I'll just get a pen.
+🎧 Right.
+🎧 Okay. Well, there's one on West Park Road
+🎧 which is £325 a month.
+🎧 Are the bills included?
+🎧 Well, that one just includes the water bill.
+🎧 Okay, right.
+🎧 And the second house is in Tithe Road.
+🎧 I'll just spell that for you, okay?
+🎧 Yep.
+🎧 TITHE Road.
+🎧 Got that.
+🎧 And how much is that one?
+🎧 That's £380.
+🎧 380.
+🎧 Uh... Is that including water?
+🎧 No, I'm afraid not, but it does include the telephone rental.
+🎧 Oh well, that's not too bad then.
+🎧 So, when would you be available to see them?
+🎧 Well, uh... I'll be in town next week... say... Thursday?
+🎧 No, I'm sorry we don't have any availability for Thursday.
+🎧 How about Wednesday afternoon?
+🎧 Okay. That's fine.
+🎧 Would 5 be okay?
+🎧 Yes, fine.
+🎧 5 o'clock it is.
+🎧 Just come to the Flagstone Offices.
+🎧 Oh, before I forget.
+🎧 What sort of things do I need to get done... to rent with you?
+🎧 Well, the most important thing is a letter from your bank...
+🎧 No problem...
+🎧 And then a reference letter from your employer.
+🎧 Yes, that's okay.
+🎧 Great, and then we would need you to give 2 weeks' notice of moving in...
+🎧 Right... 2 weeks' notice.
+🎧 And what about a deposit?
+🎧 That's one month's rent, whatever the amount is.
+🎧 Okay. One month.
+🎧 Is that it?
+🎧 No, sorry, one more...
+🎧 you will have to pay for the contract.
+🎧 Oh yes. I'd forgotten about that.
+🎧 Okay, fine.
+🎧 So I'll start arranging those.
+🎧 I'll see you next week.
+🎧 Yes. Thanks very much.
+🎧 Bye.
+🎧 Goodbye.
+
+[002] Cam3 - Test 1 - Part 2
+
+🎧 Hello, Mrs Sutton. Come in.
+🎧 How are you settling in next door?
+🎧 Have all your things from Canada arrived yet?
+🎧 I thought I saw a removals van outside your house yesterday afternoon.
+🎧 Yes. They came yesterday.
+🎧 We spent all day yesterday arranging them.
+🎧 It's beginning to feel a bit more like home now.
+🎧 Oh that's good.
+🎧 Look, come in and sit down.
+🎧 Are you alright?
+🎧 You look a bit worried.
+🎧 Well, I am a bit.
+🎧 I'm sorry to bother you so early, Mrs Smith, but
+🎧 I wonder if you could help me.
+🎧 Could you tell me how I can get hold of a doctor?
+🎧 Our daughter, Anna, isn't very well this morning and...
+🎧 I may have to call somebody out.
+🎧 She keeps being sick and I am beginning to get a bit worried.
+🎧 I just don't know how the health system works here in England.
+🎧 All I know is that it's very different from ours back in Canada.
+🎧 Well, I don't know really where to start.
+🎧 Let me think.
+🎧 Well, the first thing you have to do is find a family doctor -
+🎧 sometimes we call them general practitioners as well -
+🎧 and register with him or her.
+🎧 If you live here, you've got to be on a doctor's list.
+🎧 If you're not, things can be a bit difficult.
+🎧 Nobody will come out to you if you're not registered.
+🎧 Anyway, they work in things called practices.
+🎧 Sort of small groups of family doctors all working together in the same building.
+🎧 Now what you've got to do this morning is register with one of them.
+🎧 There are two practices near here,
+🎧 so we're quite well off for doctors in this part of Manchester.
+🎧 There's the Dean End Health Centre about ten minutes' walk away
+🎧 and there's another practice in South Hay.
+🎧 That's about five minutes away going towards the town centre.
+🎧 We're registered at the Dean End one,
+🎧 but they're both okay.
+🎧 There are about six doctors in our practice and four in the other.
+🎧 So ours is quite big in comparison.
+🎧 And the building and everything's a bit more modern.
+🎧 South Hay is a bit old-fashioned but the doctors are okay.
+🎧 Their only problem is that they don't have a proper appointment system.
+🎧 Sometimes you have to wait for ages there to see someone.
+🎧 Anyway, you go to the receptionist in whichever health centre
+🎧 and ask her to register you with a doctor there.
+🎧 You have to fill in a form, but it doesn't take long.
+🎧 Ours is called Dr Jones
+🎧 and we've been going to him for years -
+🎧 ever since we moved here fifteen years ago.
+🎧 I wouldn't say he's brilliant but I suppose he's alright really.
+🎧 We're used to him now.
+🎧 They say he's very good with elderly people,
+🎧 but he does tend to get a bit impatient with children.
+🎧 Listen, the one who's supposed to be really good with small children is Dr Shaw.
+🎧 I've heard lots of people say that.
+🎧 She's young and she's got small children of her own.
+🎧 So you could try registering with her.
+🎧 And if her list's full,
+🎧 I heard somebody say the other day that there's a really nice young doctor at South Hay,
+🎧 a Dr Williams.
+🎧 He holds special clinics for people with back trouble.
+🎧 But that's not really your problem, is it?
+🎧 If you want a doctor to visit you at home,
+🎧 you have to ask for a home visit.
+🎧 You're supposed to do that before 10.30 in the morning,
+🎧 but obviously, if it's an emergency, you can phone at any time, night or day.
+🎧 It might not be your doctor that comes, though.
+🎧 It's quite often one of the other doctors in the practice.
+🎧 It doesn't really seem to make much difference.
+🎧 Otherwise you make an appointment to see your doctor at the health centre.
+🎧 You usually get seen the same day.
+🎧 Not always of course, but usually, as I say.
+🎧 They hold surgeries between 9 and 11.30 every weekday,
+🎧 and from 4 to 6.30 Monday to Thursday.
+🎧 Saturdays are only for emergencies.
+🎧 When the doctor sees you, he gives you a prescription.
+🎧 He writes what medication you need on it and you take it to a chemist's shop.
+🎧 There's one opposite the centre.
+🎧 If it's for a child under 16, you don't have to pay.
+🎧 So if it's for Anna, there's no problem.
+🎧 The same thing goes if you're unemployed or retired, or if you're pregnant.
+🎧 Just as well because it's not cheap.
+🎧 You pay the same price for each item the doctor has prescribed.
+🎧 At the moment it's something like £5 per item.
+🎧 So you pay for the medication but the consultation with the doctor doesn't cost you anything.
+🎧 It's completely free as long as you're a resident here.
+🎧 You're going to be here for three years, aren't you?
+🎧 So there shouldn't be any question of you paying anything to see the doctor.
+🎧 So that's one less problem to worry about.
+🎧 Look, Mrs Sutton. If you want,
+🎧 I'll sit with your daughter for half an hour if you want to go down to the health centre to register.
+🎧 It's no trouble really, don't worry.
+🎧 Are you sure you wouldn't mind?
+🎧 That would really help me a lot.
+🎧 I'll ask them if they can send someone round later to see Anna.
+🎧 I think I'll try the Dean End Centre.
+🎧 Good idea.
+🎧 Don't worry about Anna.
+🎧 Right. I'll be back as soon as I can.
+
+[003] Cam3 - Test 1 - Part 3
+
+🎧 Hello. Jonathan Briggs, isn't it?
+🎧 Yes, that's right.
+🎧 Do come in and sit down.
+🎧 Thanks.
+🎧 Right.
+🎧 Well, Jonathan, as we explained in your letter,
+🎧 in this part of the interview, we like to talk through your application form...
+🎧 your experience to date, etc....
+🎧 and then in the second part,
+🎧 you go for a group interview.
+🎧 Group interview... yes, I understand...
+🎧 So... your first degree was in Economics?
+🎧 Yes, but I also did Politics as a major strand.
+🎧 And you graduated in 1989.
+🎧 And I see you have been doing some teaching...
+🎧 Yes. I worked as a volunteer teacher in West Africa.
+🎧 I was there for almost three years in total from....
+🎧 1990 to... 1992.
+🎧 How interesting.
+🎧 What organisation was that with?
+🎧 It's not one of the major ones. It's called Teach South.
+🎧 Oh, right.
+🎧 Yes, I have heard of it.
+🎧 It operates in several African countries, doesn't it?
+🎧 And what kind of school was it?
+🎧 A rural co-operative.
+🎧 Oh, a rural co-operative, how interesting...
+🎧 and what did you teach?
+🎧 A variety of things in different years...
+🎧 I did... with Forms 1 to 3 mainly Geography
+🎧 and some English with Form 5.
+🎧 Then in my final year,
+🎧 I took on some Agricultural Science with the top year...
+🎧 that's Form 6.
+🎧 Right. Quite a variety then...
+🎧 I also ran the school farm.
+🎧 How interesting...
+🎧 And how did you find the whole experience?
+🎧 I'll be honest with you.
+🎧 At the end of the first year I really wanted to leave and come home.
+🎧 Oh, why was that?
+🎧 Well... I was very homesick at first and missed my family...
+🎧 Yes, I can understand that.
+🎧 and I also found it frustrating to have so few teaching resources,
+🎧 but I did decide to stay
+🎧 and in the end I extended my tour to a third year.
+🎧 Right.
+🎧 Things must have looked up then?
+🎧 Yes. We set up a very successful project breeding cattle to sell locally.
+🎧 Really?
+🎧 And then after a lot of hard work we finally got funds for new farm buildings.
+🎧 And you wanted to see things through?
+🎧 And that's why you want to train to teach Geography?
+🎧 Yes.
+🎧 I've had a couple of jobs since then
+🎧 but I now realise I like teaching best.
+🎧 And I chose Geography because...
+🎧 because it is my favourite subject...
+🎧 and also because I think it has so many useful applications.
+🎧 Well... you certainly have had some interesting work experience.
+🎧 I'll ask you now to go on to the next stage...
+
+[004] Cam3 - Test 1 - Part 4
+
+🎧 Today's Health Counsel is presented by Paula Clayburg,
+🎧 who is the chief Counsellor at Liverpool's famous pain clinic:
+🎧 The Wilton Clinic.
+🎧 Paula...
+🎧 Do you know what Prince Charles, Seve Ballesteros and Elizabeth Taylor have in common?
+🎧 They all suffer from chronic back pain.
+🎧 In fact, bad backs are one of the most common health problems today,
+🎧 affecting people in all walks of life.
+🎧 The most recent available figures show that about a quarter of a million people
+🎧 are incapacitated with back pain every day.
+🎧 And many sufferers don't know the cause or the solution to their problem.
+🎧 The majority of our patients at the clinic tend to be women.
+🎧 They are especially vulnerable because of pregnancy
+🎧 but also because of osteoporosis,
+🎧 which I personally believe to be the major cause of problems for women.
+🎧 I have many women patients who say they have completely given up exercise
+🎧 because the pain makes them so miserable.
+🎧 But of course that starts up a vicious circle.
+🎧 Bed rest, giving up exercise and pain killers are traditional responses to back pain
+🎧 but, although there are many excellent drugs on the market,
+🎧 at our clinic we are beginning to realise the unique benefits of relaxation therapy.
+🎧 Other specialists in the field make a strong case for certain types of exercise,
+🎧 but in our experience they are easily mishandled
+🎧 and can lead to more harm than good.
+🎧 Now, let's look at some of the reasons why back pain is developing into such a unique menace.
+🎧 In general, the body is pretty good at self-repair.
+🎧 A strain or a blow to a limb, though painful at the time, generally resolves itself.
+🎧 But the body's response to back injury can be very counter-productive.
+🎧 When pain strikes,
+🎧 we attempt to keep the back as immobile as possible,
+🎧 which makes the muscles tense up.
+🎧 Research shows that they often go into spasm,
+🎧 which causes further twisting of the spine.
+🎧 A vicious circle is underway.
+🎧 The second mistake we often make when stricken with extreme back pain
+🎧 is to go to bed and stay there.
+🎧 Although at the clinic, we recognise that a short rest in bed can be helpful...
+🎧 up to two days...
+🎧 any longer makes our back muscles become weaker and unable to hold up our spine.
+🎧 The pain therefore becomes worse.
+🎧 Another problem is being overweight.
+🎧 Anyone a stone or more over-weight
+🎧 who already has back pain is not doing himself any favours:
+🎧 though it won't actually set it off in the first place,
+🎧 the weight will increase the strain and make things worse.
+🎧 The British diet could be partially to blame for the increase in back pain:
+🎧 over the last ten years the average weight of men has risen by 11 lbs
+🎧 and of women by 9 lbs.
+🎧 So much for the causes and aggravations of pain.
+🎧 But what can we do to help?
+🎧 There are many ways in which simple day-to-day care can make all the difference.
+🎧 The first point to watch of course is weight.
+🎧 If you are overweight, a diet will make all the difference.
+🎧 Also, studies have shown that just one hour sitting in a slouched position
+🎧 can strain ligaments in the back which can take months to heal.
+🎧 At the clinic, we have come to the conclusion
+🎧 that the major cause of the problem is not with the design of chairs, as some have suggested,
+🎧 but in the way we sit in them.
+🎧 It can be useful to get special orthopaedic chairs,
+🎧 but remember the most important improvement should be in our posture.
+🎧 Another enemy of your back is, of course, your beds.
+🎧 If your bed doesn't give enough support,
+🎧 back muscles and ligaments work all night trying to correct spinal alignment,
+🎧 so you wake up with a tired aching back.
+🎧 Try out an orthopaedic mattress or a spring slatted bed.
+🎧 Research shows that both can be beneficial for certain types of back pain.
+🎧 Another hazard for your back are the shock waves which travel up your spine when you walk,
+🎧 known as heel strike.
+🎧 A real find for our patients has been the shock-absorbing shoe insert.
+🎧 A cheap but very effective solution.
+🎧 And you might be better off avoiding shoes with heels higher than one and a half inches.
+🎧 Though absolutely flat shoes can be a solution for some,
+🎧 others find their posture suffers.
+🎧 Finally, a word about the state-of-the-art relief - the TENS machine -
+🎧 a small battery-powered gadget
+🎧 which delivers subliminal electrical pulses to the skin.
+🎧 Our experience indicates that your money is better spent on the more old-fashioned remedies.

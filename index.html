@@ -11,6 +11,7 @@
     <section class="tab">
       <button class="tab-link active" onclick="changeTab(event, 'conversation')">Conversation</button>
       <button class="tab-link" onclick="changeTab(event, 'ielts-speaking')">IELTS Speaking</button>
+      <button class="tab-link" onclick="changeTab(event, 'ielts-listening')">IELTS Listening</button>
       <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
       <button class="tab-link" onclick="changeTab(event, 'toeic-600-words')">600 Toeic</button>
     </section>
@@ -49,6 +50,12 @@
         <option value="ielts-speaking-5">021 → 025</option>
         <option value="ielts-speaking-6">026 → 030</option>
         <option value="ielts-speaking-7">031 → 035</option>
+      </select>
+      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
+    </section>
+    <section id="ielts-listening" class="tab-content">
+      <select class="select-lesson" onchange="changeConversation(this, '.ielts-listening')">
+        <option value="ielts-listening-1">Cam3 - Test 1 (001 → 004)</option>
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
     </section>
