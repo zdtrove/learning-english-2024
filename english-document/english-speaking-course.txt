@@ -1,5 +1,7 @@
-const arrayExcept = ["forward", "open", "those", "garden", "rather", "young", "often", "less", "trying", "name", "taken", "through", "wish", "alright", "thank", "having", "because", "makes", "plan", "english", "exactly", "myself", "glad", "agreed", "down", "idea", "playing", "weekend", "could", "feeling", "friends", "sounds", "thought", "definitely", "friend", "join", "living", "everyone", "today", "taking", "phone", "wait", "went", "wrong", "does", "check", "together", "color", "ever", "never", "either", "choose", "agree", "hi", "now", "quickly", "working", "another", "free", "class", "travel", "first", "spending", "catch", "everything", "too", "near", "comes", "though", "famous", "future", "hobby", "maybe", "whatever", "sell", "sometimes", "since", "once", "outside", "behind", "change", "changes", "needs", "lives", "came", "loved", "getting", "decide", "week", "fun", "before", "i'd", "every", "cooking", "lunch", "done", "hi", "listen", "probably", "thinking", "dinner", "food", "yeah", "place", "sounds", "really", "might", "able", "later", "funny", "morning", "talking", "anything", "advice", "side", "else", "absolutely", "helps", "quite", "something", "planning", "things", "thing", "under", "great", "start", "share", "along", "hear", "different", "best", "almost", "sound", "money", "visit", "music", "house", "after", "please", "tell", "tells", "help", "size", "drive", "become", "takes", "driving", "inside", "between", "read", "year", "years", "again", "then", "water", "course", "i'm", "game", "mean", "without", "yet", "been", "ok", "saying", "keep", "move", "example", "during", "most", "across", "soon", "also", "full", "hope", "right", "told", "case", "home", "day", "special", "both", "kind", "small", "their", "next", "happy", "good", "well", "nice", "yes", "no", "enough", "around", "away", "come", "doing", "going", "want", "person", "people", "only", "same", "i'll", "these", "last", "sure", "used", "play", "back", "took", "would", "should", "about", "him", "find", "book", "over", "learn", "talk", "said", "life", "live", "with", "all", "better", "little", "feel", "am", "even", "gave", "being", "long", "need", "you", "we", "time", "own", "other", "each", "usually", "sometime", "always", "love", "thank", "thanks", "than", "more", "much", "into", "still", "give", "this", "us", "made", "take", "one", "just", "know", "were", "them", "here", "out", "think", "look", "looks", "they", "up", "her", "that", "he", "there", "or", "like", "if", "go", "will", "very", "as", "such", "is", "it", "me", "to", "off", "in", "at", "on", "of", "from", "some", "enjoy", "work", "school", "make", "high", "many", "there", "me", "🎧", ".", ",", "!", "?", "a", "act", "add", "age", "ago", "air", "all", "an", "and", "any", "are", "ask", "bad", "bag", "ban", "be", "bed", "bee", "beg", "bet", "big", "bit", "box", "boy", "bug", "bus", "but", "buy", "by", "can", "cap", "car", "cat", "cod", "cow", "cry", "cub", "cup", "cut", "dad", "day", "did", "do", "dog", "dot", "dry", "eat", "egg", "end", "era", "eye", "fad", "fan", "fat", "fax", "few", "fig", "fit", "fix", "fly", "fog", "for", "fox", "fun", "fur", "gas", "get", "gig", "got", "gum", "gun", "gut", "guy", "gym", "had", "has", "hat", "her", "hey", "hid", "him", "hip", "his", "hit", "hop", "hot", "how", "hug", "ice", "its", "key", "law", "lay", "leg", "let", "lot", "low", "mad", "man", "map", "may", "men", "mix", "mom", "new", "not", "now", "off", "oil", "old", "one", "our", "out", "pay", "pen", "pet",  "pop", "pot", "pro", "pub", "pun", "put", "ran", "raw", "red", "rib", "rid", "rim", "rip", "rob", "rod", "rot", "row", "run", "sad", "saw", "say", "sea", "see", "set", "she", "shy",  "sir", "sit", "six", "sky", "son", "sub", "sun", "tag", "tap", "tea", "ten", "the", "tie", "tip",  "too", "top", "toy", "try", "two", "use", "war", "was", "way", "web", "wed", "wet", "who", "why", "win", "wow", "yam", "you", "zoo", "I'm", "you're", "he's", "she's", "it's", "we're", "they're", "I'll", "you'll", "he'll", "she'll", "it'll", "we'll", "they'll", "I'd", "you'd", "he'd", "she'd", "it'd", "we'd", "they'd", "aren't", "isn't", "wasn't", "weren't", "can't", "couldn't", "don't", "doesn't", "didn't", "won't", "wouldn't", "shouldn't", "hasn't", "haven't", "hadn't", "mustn't", "mightn't", "shan't", "oughtn't", "there's", "here's", "that's", "what's", "where's", "who's", "how's", "let's", "who'll", "who'd", "who've", "who's", "let's", "could've", "should've", "would've", "must've", "might've", "he's", "she's", "it's", "what're", "what've", "that'd", "that's", "who're", "who've", "where'd", "where's", "when's", "why'd", "why're", "why's", "wouldn't", "you'd", "you'll", "you're", "you've", "gimme", "gonna", "gotta", "lemme", "wanna", "ain't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "needn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "ain't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "aren't", "can't", "couldn't", "didn't", "doesn't", "don't", "hadn't", "hasn't", "haven't", "isn't", "mustn't", "shan't", "shouldn't", "wasn't", "weren't", "won't", "wouldn't", "i", "who", "whom", "whose", "what", "which", "when", "where", "why", "how", "me", "i've", "my", "so", "have", "your", "to"];
-const string = `
+^\s*$
+
+[001] English Speaking Course 001
+
 Starting the day
 
 🎧 Oh good morning, Tom!
@@ -549,31 +551,244 @@ Saying Goodbye
 🎧 She was faster than I thought.
 🎧 Take care, Emily. I had a great time.
 🎧 You too, Jake. Have a good night.
-`;
 
-function replaceNewlineWithBr(str) {
-  return str.replace(/\n/g, '<br/> ');
-}
+[002] English Speaking Course 002
 
-let newString = replaceNewlineWithBr(string);
-newString = newString.split(' ');
-const arrayFilter = newString.filter(item => item !== '');
-const arrayHtml = arrayFilter.map((item) => {
-  let lastChar = '';
-  if (item.endsWith('.') || item.endsWith(',') || item.endsWith('!') || item.endsWith('?')) {
-    lastChar = item.slice(-1);
-    item = item.slice(0, -1);
-  }
-
-  if (item.endsWith('<br/>')) {
-    item = `${item}\n`;
-  }
-
-  if (!arrayExcept.includes(item.toLowerCase())) {
-    return `<span>${item}</span>${lastChar}`;
-  }
-
-  return `${item}${lastChar}`;
-});
-const outputHtml = arrayHtml.join(' ') + '<br/><br/>';
-console.log(outputHtml);
+🎧 Hey, Brie! How's the new apartment?
+🎧 It's great, but I need some furniture.
+🎧 What do you need?
+🎧 Probably a sofa and some lamps.
+🎧 I'm also looking for a bookshelf.
+🎧 Oh, there's a garage sale down the street.
+🎧 Wanna go with me?
+🎧 Sure. When?
+🎧 How about today, after work?
+🎧 Sounds good. Let's go up to work.
+🎧 Awesome.
+🎧 I have to get back to work now.
+🎧 See you later.
+🎧 See ya.
+🎧 Look, Brie! That sofa is nice.
+🎧 Yeah, and it's the right size.
+🎧 Excuse me, how much is this sofa?
+🎧 It's $40.
+🎧 Can I take a closer look?
+🎧 Sure, go ahead.
+🎧 Elle, what do you think?
+🎧 I like it, but $40 is a bit much.
+🎧 You're right.
+🎧 Do you have any lamps?
+🎧 Yes, over there. $10 each.
+🎧 Oh, this one is nice.
+🎧 Is it in good condition?
+🎧 Yes, it works perfectly.
+🎧 Hardly used.
+🎧 Does it come with extra bulbs?
+🎧 I can give you two extra bulbs with each.
+🎧 Can I take both the sofa and the lamps for $50?
+🎧 How about $55?
+🎧 How could you do $52?
+🎧 Alright, $52 it is!
+🎧 For the sofa, two lamps, and four extra bulbs.
+🎧 Thank you. Here you are.
+🎧 Thanks! Here is your change!
+🎧 Thank you! Can you help me carry them to the car?
+🎧 Of course.
+🎧 Hi! Excuse me!
+🎧 Yes? How can I help you?
+🎧 I'm Brie. I just moved into room 405 last week.
+🎧 Nice to meet you!
+🎧 Oh, so you must be my next-door neighbor!
+🎧 I'm Sam, in room 406.
+🎧 That's awesome!
+🎧 If you need anything, feel free to ask me, Brie!
+🎧 Well, actually, yes.
+🎧 I want to ask you about something...
+🎧 About what?
+🎧 Someone is smoking a lot, and the smell comes into my apartment.
+🎧 Oh, that's not good.
+🎧 Do you know who it is?
+🎧 No, I'm not sure.
+🎧 It's really strong in the evening.
+🎧 I've noticed it, too. It's annoying.
+🎧 I want to file a complaint with the building manager.
+🎧 Do you think it'll help?
+🎧 Yes, it might help.
+🎧 The manager should know about it.
+🎧 Have you talked to the manager before?
+🎧 Yes, I have.
+🎧 The manager is nice and listens to problems.
+🎧 Oh, that's good to know.
+🎧 Can you come with me to talk to the manager?
+🎧 Sure, I can do that.
+🎧 When do you want to go?
+🎧 How about tomorrow morning?
+🎧 That works for me.
+🎧 Let's meet at 9 am.
+🎧 Great, thank you, Sam. See you tomorrow.
+🎧 See you tomorrow, Brie. We'll get this sorted out.
+🎧 Hi, excuse me. I need to return this toaster.
+🎧 I just bought it last week.
+🎧 Sure, what's the problem with it?
+🎧 Well, it won't turn on.
+🎧 I tried, but nothing happens.
+🎧 I think it's broken!
+🎧 I'm sorry to hear that!
+🎧 Do you have the receipt with you?
+🎧 Yes. Here it is.
+🎧 Thank you! I'll check the toaster to see what the problem is.
+🎧 Yes, please.
+🎧 Could you tell me how you were trying to turn it on?
+🎧 Well, I plugged it in...
+🎧 And then.
+🎧 I put two pieces of bread in... and waited... but nothing happened.
+🎧 Oh, I see the issue here.
+🎧 What is it?
+🎧 The toaster is plugged in, but the switch isn't turned on.
+🎧 Oh, what switch?
+🎧 It's right here.
+🎧 Oh, is that a switch?
+🎧 I thought it was a timer or something!
+🎧 The timer is this one.
+🎧 Oh. How strange!
+🎧 My previous toaster was from this brand too,
+🎧 but I didn't have to turn on a switch.
+🎧 Yes. You're right.
+🎧 However, this is the latest model and it comes with a switch for safety reasons.
+🎧 I see. Thank you for pointing that out! I feel so silly.
+🎧 It happens to everyone.
+🎧 Is there anything else I can help you with?
+🎧 No. That's all.
+🎧 Thank you for your help.
+🎧 You're welcome.
+🎧 Have a great day.
+🎧 You too! Thanks again.
+🎧 Hi, Brie! Can I sit here?
+🎧 Of course!
+🎧 You seem a bit upset. What's wrong?
+🎧 Oh, I just had a terrible morning.
+🎧 Oh, what happened?
+🎧 Do you know I was supposed to have an important meeting this morning?
+🎧 Yes! Was it the meeting with your client?
+🎧 Yes! The client wanted to hear about our marketing plan for his upcoming product.
+🎧 I was a presenter.
+🎧 Was he unhappy with your plan?
+🎧 No, he wasn't happy or unhappy.
+🎧 So what happened?
+🎧 Did you not finish it in time?
+🎧 I finished the plan three days before the meeting! But...
+🎧 But what?
+🎧 My laptop decided to update Windows right before the meeting!!!
+🎧 Oh, no. What happened next?
+🎧 I had to present with no slides.
+🎧 It was hard to convince my client without them!
+🎧 That sounds like a nightmare!
+🎧 What did your boss say?
+🎧 Oh, he was speechless during the meeting.
+🎧 How about afterward?
+🎧 He gave me an earful right after the meeting ended.
+🎧 He said I was unprofessional for not having a backup.
+🎧 Well... I have to agree.
+🎧 You should have a backup plan saved somewhere else.
+🎧 I know. I've learned my lesson...
+🎧 What did the client say?
+🎧 He was confused, but more understanding than my boss.
+🎧 He told me to email him the plan later.
+🎧 Oh, how nice! Did you send it to him?
+🎧 I already did.
+🎧 Oh. That's rough.
+🎧 How about a coffee to help you relax?
+🎧 My treat!
+🎧 Well, I'd rather have something sweet right now.
+🎧 Oh, would you like some orange juice?
+🎧 That sounds refreshing.
+🎧 Wait here! I'll be back soon!
+🎧 Thanks, Elle! You're so nice!
+🎧 Oh, good morning, Brie! It's rare to see you this early!
+🎧 Hi, Sam! I just got back from my morning run!
+🎧 Oh, I wish I had your motivation.
+🎧 I just started a few days ago.
+🎧 I want to lose some extra weight after the holiday.
+🎧 Me too! I've gained 4 pounds after the holiday!
+🎧 Do you want to join me?
+🎧 No, thanks! There's no way I can get up that early.
+🎧 Do you run in the afternoon?
+🎧 Actually, I don't run.
+🎧 I go to the gym.
+🎧 Really? Where is it?
+🎧 Oh, it's right around the corner.
+🎧 Oh, cool. What's it called?
+🎧 It's called Elite Fitness.
+🎧 It sounds... expensive!
+🎧 Oh, it's actually affordable.
+🎧 I can send you their membership fee if you're interested!
+🎧 Yes, please! And how is the equipment?
+🎧 They have a lot of equipment and great classes.
+🎧 Plus, the trainers are really nice.
+🎧 Oh, that's great because I have no idea how to use the gym equipment.
+🎧 I'm sure you'll find some good trainers there!
+🎧 Cool! Do they have a free trial?
+🎧 Yes, they do. You can try it for a week for free.
+🎧 Perfect.
+🎧 How do I sign up for the trial?
+🎧 Just go to the gym and ask at the front desk.
+🎧 They'll set you up.
+🎧 Thanks, Sam. I'll check it out!
+🎧 You're welcome!
+🎧 Hi, Mom!
+🎧 Oh, Brie! How are you, sweetie?
+🎧 I'm great, Mom! How are you?
+🎧 I'm amazing, just missing you a lot!
+🎧 Haha, me too, Mom! I really miss you!
+🎧 How's your new job going?
+🎧 It's going great!
+🎧 In fact, I've just been invited to a party with my new colleagues this weekend!
+🎧 Oh, that sounds lovely.
+🎧 Yes, it is.
+🎧 But, Mom, there's a problem!
+🎧 What's that?
+🎧 It's a potluck party, and I don't know what to bring! I need your help!
+🎧 Sure, I can help.
+🎧 Do you know what other people are bringing?
+🎧 No, I don't.
+🎧 They didn't say anything.
+🎧 Maybe bring something simple, but tasty.
+🎧 How about a salad?
+🎧 Don't you think a salad is a bit plain?
+🎧 Well, a salad can be great if you know how to make it right!
+🎧 Mom... You know I'm a terrible cook, right?
+🎧 I'll help you, honey, don't worry!
+🎧 Okay! So, what kind of salad should I make?
+🎧 Let's make a pasta salad.
+🎧 It's easy to prepare, but very tasty!
+🎧 I'll send you my special recipe!
+🎧 That sounds great! So, what do I need?
+🎧 Pasta, cherry tomatoes, cucumbers, olives, and some cheese.
+🎧 You can use a simple dressing like Italian.
+🎧 And do I just put everything in a bowl and mix it?
+🎧 No, Brie! You'll have to chop them up first.
+🎧 That sounds like a hassle!
+🎧 Well, how about I stop by tomorrow and help you make it?
+🎧 That would be great, mom.
+🎧 Good morning, Brie!
+🎧 Good morning, Ian!
+🎧 How is your weekend?
+🎧 Amazing! I went fishing with my friends.
+🎧 How about you?
+🎧 Did you go on a shopping spree?
+🎧 Yes, I did! There was a great sale at the mall last week!
+🎧 But how did you know?
+🎧 Well, the tag on your shirt is showing...
+🎧 Oh my! How embarrassing!
+🎧 I must have forgotten to remove it before washing.
+🎧 Haha, it happens to me sometimes too!
+🎧 Oh, thank you for telling me!
+🎧 If you were my client, I'd probably quit my job out of embarrassment!
+🎧 If that were the case,
+🎧 you should definitely go to the restroom and fix it quickly before the morning meeting.
+🎧 You're right! Do you have a pair of scissors?
+🎧 No, I don't.
+🎧 But there should be a pair in the photocopy room.
+🎧 I think it's on the counter.
+🎧 Thanks! You're a lifesaver!
+🎧 You're welcome, Brie!

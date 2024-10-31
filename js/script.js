@@ -18,7 +18,7 @@ function changeTab(evt, lessonName) {
 }
 
 function activeFirstItemSection(sectionClass) {
-  ['easy-english', 'ielts-speaking', 'ielts-listening', 'level2', 'toeic-600-words'].forEach((item) => {
+  ['english-speaking-course', 'easy-english', 'ielts-speaking', 'ielts-listening', 'level2', 'toeic-600-words'].forEach((item) => {
     if (sectionClass === item) {
       document.getElementById(`${sectionClass}-1`).style.display = 'block';
     }
@@ -49,6 +49,7 @@ function getSection(num, id) {
 
 function loadAllContents() {
   getSection(21, 'conversation');
+  getSection(1, 'english-speaking-course');
   getSection(2, 'easy-english');
   getSection(7, 'ielts-speaking');
   getSection(1, 'ielts-listening');
