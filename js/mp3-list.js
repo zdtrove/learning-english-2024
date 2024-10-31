@@ -363,3 +363,7 @@ const ieltsListeningMp3 = {
   '003': 'ppsstnrch9yycv8pv9az6/003.mp3?rlkey=r85gb0wrj1w6hfv42b32lkp2j',
   '004': 'gk1l0nxbyofq1dya3maif/004.mp3?rlkey=hz79ozpqkp7ui66hy50t2zrjj',
 }
+
+const easyEnglishMp3 = {
+  '001': 'ivzum9r0j1v8g5vjlbipo/001.mp3?rlkey=9ts95xhu3kw2wq8b84q4yn6ti',
+}

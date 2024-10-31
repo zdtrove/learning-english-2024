@@ -10,6 +10,7 @@
   <body onload="loadAllContents()">
     <section class="tab">
       <button class="tab-link active" onclick="changeTab(event, 'conversation')">Conversation</button>
+      <button class="tab-link" onclick="changeTab(event, 'easy-english')">Easy English</button>
       <button class="tab-link" onclick="changeTab(event, 'ielts-speaking')">IELTS Speaking</button>
       <button class="tab-link" onclick="changeTab(event, 'ielts-listening')">IELTS Listening</button>
       <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
@@ -38,6 +39,12 @@
         <option value="conversation-19">181 → 190</option>
         <option value="conversation-20">191 → 200</option>
         <option value="conversation-21">200 → 210</option>
+      </select>
+      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
+    </section>
+    <section id="easy-english" class="tab-content">
+      <select class="select-lesson" onchange="changeConversation(this, '.easy-english')">
+        <option value="easy-english-1">Easy English 001</option>
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
     </section>
