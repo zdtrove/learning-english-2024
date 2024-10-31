@@ -28,4 +28,3 @@ const arrayHtml = arrayFilter.map((item) => {
   return `${item}${lastChar}`;
 });
 const outputHtml = arrayHtml.join(' ') + '<br/><br/>';
-

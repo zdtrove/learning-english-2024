@@ -49,7 +49,7 @@ function getSection(num, id) {
 
 function loadAllContents() {
   getSection(21, 'conversation');
-  getSection(1, 'easy-english');
+  getSection(2, 'easy-english');
   getSection(7, 'ielts-speaking');
   getSection(1, 'ielts-listening');
   getSection(11, 'level2');

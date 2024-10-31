@@ -366,4 +366,5 @@ const ieltsListeningMp3 = {
 
 const easyEnglishMp3 = {
   '001': 'ivzum9r0j1v8g5vjlbipo/001.mp3?rlkey=9ts95xhu3kw2wq8b84q4yn6ti',
+  '002': 'ler1nx5cboev6opac5fke/002.mp3?rlkey=s2qrgutq86otnf73kclj1l6pw',
 }
