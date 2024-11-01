@@ -373,4 +373,5 @@ const englishSpeakingCourseMp3 = {
   '001': 'xhuw0zrqp1azhsy8n8kgg/001.mp3?rlkey=b8df4lsdpbsdjx4ns04ddeq0y',
   '002': 'rsm3admrd61gckfw69z3r/002.mp3?rlkey=q4ff99zhsh0q9wnkdb4eomd1b',
   '003': 'mu4euen2dwmwun9r1rhie/003.mp3?rlkey=x7evobn70s0z0nn2k5xiz038m',
+  '004': '56zlw3er7um4jdo22jjvv/004.mp3?rlkey=hwo1udlxx2b3m3ueschdhgkic',
 }
