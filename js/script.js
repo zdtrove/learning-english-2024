@@ -49,8 +49,8 @@ function getSection(num, id) {
 }
 
 function loadAllContents() {
-  getSection(21, 'conversation');
-  getSection(1, 'english-speaking-course');
+  getSection(1, 'conversation');
+  getSection(2, 'english-speaking-course');
   getSection(2, 'easy-english');
   // getSection(7, 'ielts-speaking');
   // getSection(1, 'ielts-listening');
@@ -164,6 +164,18 @@ function initVocabulary() {
         spanArray.forEach((span2) => span2.textContent.toLowerCase() === span.textContent.toLocaleLowerCase() && span2.classList.remove('learn'));
         storedArray = storedArray.filter(item => item !== span.textContent)
         localStorage.setItem('vocabulary', JSON.stringify(storedArray));
+      }
+    });
+  });
+
+  const scrollDivs = document.querySelectorAll('.scroll-div');
+  window.addEventListener('scroll', () => {
+    const scrollPosition = window.scrollY;
+    scrollDivs.forEach(div => {
+      if (scrollPosition > 100) {
+        div.classList.add('fixed-div');
+      } else if (scrollPosition < 50) {
+        div.classList.remove('fixed-div');
       }
     });
   });
