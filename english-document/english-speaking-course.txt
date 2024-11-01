@@ -1540,3 +1540,190 @@ Saying Goodbye
 🎧 Sprinkles.
 🎧 Let's go pick out your favorite flavors.
 🎧 Remember, you can only choose one each!
+
+[005] English Speaking Course 005
+
+🎧 Good morning! How is everyone today?
+🎧 Good morning, honey! I'm feeling good. And you?
+🎧 I have a lot of work to do, but it should be okay.
+🎧 You're lucky! I'm feeling terrible right now
+🎧 What's wrong, Lily?
+🎧 I'm having a math test this morning! Urgh! I hate math!
+🎧 Math tests can be tough, but you'll be fine, honey!
+🎧 Your dad is right! You will do well!
+🎧 No, you don't understand how hard math can be!
+🎧 Of course we do! We once went to school, just like you!
+🎧 If so, can you tell me how to pass the test?
+🎧 Just stay calm, and remember what you studied.
+🎧 I don't even understand what I studied!
+🎧 Lily, if you need help, just ask. We're here for you.
+🎧 Thanks, Dad. Maybe I will need lots of it later!
+🎧 Hey, kiddo, I have an important meeting today, too! Let's do our best, alright?
+🎧 Fine, Dad...
+🎧 Now, does anyone want some milk?
+🎧 I'll pass that.
+🎧 I prefer a fresh cup of orange juice
+🎧 in the morning.
+🎧 Here you are! And you, Lily? Would you like some?
+🎧 No, thanks, Mom! I think I will skip breakfast today!
+🎧 You should eat something or else your brain won't work!
+🎧 Listen to your mom, Lily! Here, have some pancakes!
+🎧 Thanks, Dad!
+🎧 Donna, did you invite anyone else for dinner tonight?
+🎧 No, why?
+🎧 Because Aunt Martha is at the door.
+🎧 Oh no, not her again.
+🎧 Mom, I don't want to deal with her today.
+🎧 She always complains.
+🎧 Neither do I, honey!
+🎧 What should we do?
+🎧 You guys stay here. I'll handle this!
+🎧 Oh, what a surprise!
+🎧 What are you doing here?
+🎧 I don't know, Donna.
+🎧 I thought I'd drop by for dinner.
+🎧 Oh, Aunt Martha! You should have told us earlier!
+🎧 A little surprise is nice, isn't it?
+🎧 Well, unfortunately, I'm not sure you should join us for dinner today?
+🎧 Why not?
+🎧 Because we have some pasta
+🎧 with lots of nuts in it.
+🎧 Oh my! Nuts?!!
+🎧 Yes, and as far as I remember, you're allergic to them, right?
+🎧 Definitely! They can send me straight to the emergency room!
+🎧 Maybe you should let us know if you want to come next time, Auntie?
+🎧 You're right! What a shame! I just wanted to see you all.
+🎧 Maybe another time?
+🎧 Alright, maybe another time. I'll just go then.
+🎧 That was close. Why is she always dropping by uninvited?
+🎧 I don't know. But it's better she didn't come in.
+🎧 Let's hope we don't have to do that again.
+🎧 Agreed. Now, let's enjoy our dinner.
+🎧 Yeah, finally! I'm starving!
+🎧 Alright, let's get some milk.
+🎧 Which brand should we buy?
+🎧 I think we should get the big brand. We always do, right?
+🎧 No, I prefer the local brand. It's cheaper and better quality.
+🎧 But look at this one! It's on sale. We should get this.
+🎧 But the local brand is tastier...
+🎧 I can't tell the difference, honey!
+🎧 That's because you've never tried it before!
+🎧 How about we get both?
+🎧 Are you sure?
+🎧 I'm sure we can compare and see which one we like best.
+🎧 Alright, if you say so!
+🎧 Now, let's move on to the next aisle.
+🎧 Oh, right. We still need to get some bread.
+🎧 Did Dad tell you what kind of bread he wanted us to buy?
+🎧 Urgh! I completely forgot!
+🎧 Well, I guess we'll have to call him to find out then!
+🎧 Mom, we need eggs, too! We ran out this morning.
+🎧 I see. A dozen should be enough.
+🎧 Yeah, and don't forget we're also out of orange juice.
+🎧 Speaking of juice, do we need anything for dinner? Like pasta or something?
+🎧 Oh, good idea. I think we're low on pasta. Maybe some sauce too?
+🎧 Definitely.
+🎧 And I think we need some snacks for the weekend as well!
+🎧 How about some chips?
+🎧 Chips sound good. And maybe some cookies too?
+🎧 Sure, cookies it is! Alright, let's grab all that and then call Dad about the bread.
+🎧 Hey, Mom, Dad, I'm thinking about getting a part - time job!
+🎧 Really? That's great! What kind of job are you looking at?
+🎧 Well, I'm not sure. I have two options.
+🎧 What are they?
+🎧 I can work at the fast food place
+🎧 or do babysitting.
+🎧 Hmm, both sound good.
+🎧 What do you think about the fast food place?
+🎧 It's close to school, and I'll be working with friends.
+🎧 That sounds great!
+🎧 But it might be really busy and noisy.
+🎧 And what about babysitting? How do you feel about that?
+🎧 Babysitting is quieter and I like kids
+🎧 This option isn't bad either!
+🎧 But it might be less money and I'd have to go to different houses.
+🎧 So, what do you think?
+🎧 I'm thinking about working at a fast food place. But...
+🎧 But?
+🎧 But it might be more stressful.
+🎧 Lily, working with kids is also stressful.
+🎧 Your mom is right! Working with kids and playing with them are different!
+🎧 Now you're scaring me!
+🎧 I want you to know what you are getting in!
+🎧 Well, if you say so, I think I will go for the fast food job!
+🎧 Alright then, fast food job it is! When will you start?
+🎧 I haven't even sent my resume yet!
+🎧 Tell me if you need help with your resume!
+🎧 Thanks, Dad! I will!
+🎧 Guys! Sit up! We need to talk.
+🎧 Why are you looking so serious, Mom? Am I in trouble?
+🎧 What's up, honey? Is everything okay?
+🎧 Not really. We need to talk about house chores. It's getting messy.
+🎧 Is it? I think everything is going well...
+🎧 Don't you see?! Our house is a mess!
+🎧 Alright, alright! So, what do you think we should do?
+🎧 We need to clean it up right away.
+🎧 Right now?! But I'm in the middle of this movie! Can we do it later?
+🎧 The movie can wait! The house can't!
+🎧 Fine! What do you want me to do?
+🎧 First, you need to clean up your bedroom and bathroom. They're disasters!
+🎧 Got it, Mom!
+🎧 I'll take care of the second floor.
+🎧 Well, I can do the vacuuming and take out the trash.
+🎧 And please clear out the garage as well, honey!
+🎧 What's wrong with the garage?
+🎧 Everything! You left your tools everywhere after you fixed the car last week!
+🎧 Alright. I'll put them away.
+🎧 Thanks! I really appreciate it! And don't forget to mow the lawn!
+🎧 But I just did it last week!
+🎧 I know, but the grass has already grown!
+🎧 Fine... I think I really need a good massage after this.
+🎧 So do I, Dad!
+🎧 So, about our summer trip, where should we go this year?
+🎧 I was thinking about the beach. It would be nice to relax by the sea.
+🎧 That sounds great! I love the beach. We could swim and build sandcastles.
+🎧 But didn't we go to the beach last year?
+🎧 So? Beaches are always great, aren't they?
+🎧 The beach is nice, but I was also thinking about a mountain trip.
+🎧 What can we do on a mountain?!
+🎧 Well, we can hike and enjoy nature.
+🎧 Mountains are beautiful, but we'd need more preparation. The beach is simpler.
+🎧 Plus, the beach sounds more fun to me!
+🎧 How about a place that has both a beach and mountains?
+🎧 Do such places exist?
+🎧 Yes, actually. Some places have both. We could look for a location like that.
+🎧 That sounds like a good idea. We get the best of both worlds.
+🎧 I'm in! And it'll be better if there are some local attractions, like museums or parks.
+🎧 I hope so!
+🎧 Sounds like a plan.
+🎧 Awesome! I can't wait to start planning.
+🎧 Me too. I'll look up some places and we can decide.
+🎧 Great. This is going to be a fun trip.
+🎧 Definitely. I'm looking forward to it!
+🎧 Mom, Dad, I want to have a sleepover party this weekend!
+🎧 A sleepover? That sounds fun. Who's coming?
+🎧 My friend Mina. We'll have snacks, games, and movies.
+🎧 Sounds like a good time. What day are you thinking?
+🎧 Saturday night. Mina can come after dinner. Is that okay?
+🎧 Saturday works for us. But we need to plan a few things.
+🎧 Sure, what do we need to do?
+🎧 We need to make sure we have enough snacks and drinks.
+🎧 Yes, and we should clean the living room so there's space to play games.
+🎧 Well, actually, Mina and I will be in my room.
+🎧 Lily, that's just an excuse your mom uses to get you to clean up the house!
+🎧 Hey, I don't want Mina to come to a messy house, alright?
+🎧 Fine, Mom! I'll make sure the house looks neat before she comes!
+🎧 Thank you, Lily!
+🎧 What are you going to watch?
+🎧 Oh, Mina and I want to watch some comedies and maybe a scary movie.
+🎧 That sounds perfect for a sleepover party!
+🎧 But make sure you go to bed before 11 pm.
+🎧 Mom, who sleeps before 11 pm at a sleepover party?
+🎧 Lily's right, honey. It's Saturday. They can stay up a bit late!
+🎧 Well, before midnight then.
+🎧 I'll try my best, Mom! But please don't be mad if we're still awake after midnight!
+🎧 As long as you're up at 7 am for breakfast, I'll be fine!
+🎧 Who gets up at 7 am on a Sunday?!
+🎧 Well, I do.
+🎧 Honey, just let the girls sleep in! We can enjoy our own morning in peace.
+🎧 Hm... Well, you're right.

@@ -50,7 +50,7 @@ function getSection(num, id) {
 
 function loadAllContents() {
   getSection(1, 'conversation');
-  getSection(4, 'english-speaking-course');
+  getSection(5, 'english-speaking-course');
   getSection(2, 'easy-english');
   // getSection(7, 'ielts-speaking');
   // getSection(1, 'ielts-listening');
