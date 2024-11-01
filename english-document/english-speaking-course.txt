@@ -554,6 +554,8 @@ Saying Goodbye
 
 [002] English Speaking Course 002
 
+A Day In My Life
+
 🎧 Hey, Brie! How's the new apartment?
 🎧 It's great, but I need some furniture.
 🎧 What do you need?
@@ -795,6 +797,8 @@ Saying Goodbye
 
 [003] English Speaking Course 003
 
+In A Meeting
+
 🎧 Alright team, let's go over the Q3 sales report.
 🎧 The numbers look good overall, but there's a drop in the Southeast area.
 🎧 Yeah, I noticed that too.
@@ -819,6 +823,9 @@ Saying Goodbye
 🎧 Agreed.
 🎧 We'll put together a plan to talk with the Southeast team
 🎧 and keep everyone updated on what we find.
+
+Brainstorming Session
+
 🎧 Alright team
 🎧 Let's start thinking of ideas for the new marketing campaign!
 🎧 We need to get a lot of attention
@@ -852,6 +859,9 @@ Saying Goodbye
 🎧 We need to start this campaign soon to take advantage of the current trends.
 🎧 Let's keep working on these ideas.
 🎧 Once we have a better plan, we can show it to the client for approval.
+
+Presentation
+
 🎧 Hey Tim, how's the presentation going?
 🎧 Almost done, I think.
 🎧 Just finishing up the slides.
@@ -872,6 +882,9 @@ Saying Goodbye
 🎧 Want to go over it with me this afternoon?
 🎧 That would be great, thanks Paula!
 🎧 You're a lifesaver.
+
+Team-Building activities
+
 🎧 Hey David, did you hear about the company picnic next month?
 🎧 Yeah, I saw the email.
 🎧 Sounds fun, free food and all.
@@ -891,6 +904,9 @@ Saying Goodbye
 🎧 He always seems really quiet.
 🎧 Maybe the escape room will show his puzzle skills.
 🎧 We should sign up together!
+
+Coffee breaks
+
 🎧 Man, that report deadline was tough.
 🎧 My brain feels like it's tired from staring at spreadsheets all morning.
 🎧 Ready for a coffee break?
@@ -918,6 +934,9 @@ Saying Goodbye
 🎧 But seriously, I'm curious!
 🎧 We'll see.
 🎧 But for now, let's get some coffee, and maybe I'll tell you more.
+
+Networking event
+
 🎧 Hi there, I'm Duke!
 🎧 I work in marketing at Green Tech Solutions.
 🎧 Duke, nice to meet you!
@@ -938,6 +957,9 @@ Saying Goodbye
 🎧 Sure. It was nice meeting you!
 🎧 You too, Patrick.
 🎧 Maybe I'll see you at another event soon.
+
+Project planning
+
 🎧 Hey Mark, do you have a minute?
 🎧 Sure, Amelia. Have a seat.
 🎧 What's on your mind?
@@ -967,6 +989,9 @@ Saying Goodbye
 🎧 I'm glad you're helping me with this.
 🎧 No problem, Amelia.
 🎧 We'll work it out!
+
+Photography
+
 🎧 Hey, I've noticed you've been posting some amazing photos recently.
 🎧 Are you into photography?
 🎧 Yeah, I've been getting into it lately.
@@ -993,6 +1018,9 @@ Saying Goodbye
 🎧 Thanks for the encouragement.
 🎧 Anytime!
 🎧 Let me know if you ever want to go on a photo adventure together.
+
+Cooking
+
 🎧 Hey Mike, what are you up to this weekend?
 🎧 Nothing much, probably just relaxing at home.
 🎧 How about you?
@@ -1019,6 +1047,9 @@ Saying Goodbye
 🎧 or YouTube channels that you watch?
 🎧 I often watch Tasty videos on YouTube for quick and easy recipes.
 🎧 Thanks, I'll check it out.
+
+Painting
+
 🎧 Wow, these colors are amazing.
 🎧 What are you looking at?
 🎧 This artist on Instagram, their paintings are so bright.
@@ -1042,6 +1073,9 @@ Saying Goodbye
 🎧 We could make a day of it and explore the art supply store too.
 🎧 That sounds like so much fun.
 🎧 Let me know when you're free.
+
+Hiking
+
 🎧 Is it always this cold in the morning here?
 🎧 Only in the spring and fall!
 🎧 It gets nice and hot in the summer though.
@@ -1065,6 +1099,9 @@ Saying Goodbye
 🎧 Sounds simple enough.
 🎧 Maybe we could plan a hike together sometime?
 🎧 I'd be up for that!
+
+Knitting
+
 🎧 This is for your birthday, Anna.
 🎧 Thank you so much!
 🎧 This must have taken you a lot of time, huh?
@@ -1092,6 +1129,9 @@ Saying Goodbye
 🎧 Knitting, yarn shopping, maybe some coffee...
 🎧 Sounds like my kind of day!
 🎧 Let me know when you're free.
+
+Playing musical instruments
+
 🎧 How's the guitar practice going?
 🎧 Not bad.
 🎧 I'm finally getting the hang of that fingerpicking pattern you showed me.
@@ -1114,6 +1154,9 @@ Saying Goodbye
 🎧 Maybe I'll work on a short piece and give it a try.
 🎧 Cool! Let me know if you do.
 🎧 I'd love to come and cheer you on.
+
+Blogging
+
 🎧 Hey Nancy, how's it going?
 🎧 Hey David, I'm good!
 🎧 Just catching up on some emails.
@@ -1141,6 +1184,9 @@ Saying Goodbye
 🎧 Let's chat more about it later.
 🎧 I have a presentation soon.
 🎧 Good luck with your presentation.
+
+In a study group
+
 🎧 Okay everyone, let's start on this biology chapter.
 🎧 The exam is next week, remember?
 🎧 There's so much to study.
@@ -1159,6 +1205,9 @@ Saying Goodbye
 🎧 I think we can split up the problems and quiz each other on them.
 🎧 This is starting to feel a little less scary.
 🎧 Thanks for setting up this study group, Chris!
+
+In a club meeting
+
 🎧 Alright everyone, thanks for coming to tonight's Green Club meeting!
 🎧 Hey Isabella, glad I could make it!
 🎧 What are we talking about tonight?
@@ -1179,6 +1228,9 @@ Saying Goodbye
 🎧 to promote sustainable fashion.
 🎧 People could bring clothes they don't want and trade them with others.
 🎧 I had the same idea as Daniel!
+
+Sport Practice
+
 🎧 Oh my, that practice was tough!
 🎧 Tell me about it.
 🎧 Coach Miller really pushed us today.
@@ -1199,8 +1251,10 @@ Saying Goodbye
 🎧 to the pre-game pep rally on Friday?
 🎧 Absolutely!
 🎧 We need to get excited for the win!
-🎧 This research paper
-🎧 is giving me a headache.
+
+Research Project
+
+🎧 This research paper is giving me a headache.
 🎧 I feel like I'm not getting anywhere.
 🎧 Me too.
 🎧 I've been looking at the same paragraph for about 20 minutes.
@@ -1224,6 +1278,9 @@ Saying Goodbye
 🎧 Maybe a little caffeine will help us figure this out.
 🎧 I totally agree.
 🎧 If nothing works, we can always meet with Professor Lee for some help.
+
+Career fair
+
 🎧 May I ask you some questions about your company?
 🎧 Absolutely! Welcome to the Technovation booth.
 🎧 My name's Ben.
@@ -1256,6 +1313,9 @@ Saying Goodbye
 🎧 This has been really helpful.
 🎧 You're welcome, Jake!
 🎧 Good luck with your job search.
+
+Cultural Event
+
 🎧 Hey May, have you seen this?
 🎧 Oh wow, a Vietnamese Culture Festival on campus next week! That's cool!
 🎧 Right? I didn't know they were doing something like this.
@@ -1286,6 +1346,8 @@ Saying Goodbye
 
 [004] English Speaking Course 004
 
+Do you like to dance?
+
 🎧 Wow, that's beautiful! What song is that?
 🎧 Thanks! It's a traditional tune called "Song of the Night Wind."
 🎧 Welcome to the market! Can I interest you in anything?
@@ -1306,6 +1368,9 @@ Saying Goodbye
 🎧 Then why don't you show me your moves?
 🎧 I can provide the music.
 🎧 Challenge accepted!
+
+What is your favorite holiday?
+
 🎧 This place has a really nice atmosphere.
 🎧 Perfect for a first date, wouldn't you say?
 🎧 Absolutely. It's even better than I expected from the pictures online.
@@ -1333,6 +1398,9 @@ Saying Goodbye
 🎧 I'd love to experience something like that someday.
 🎧 Maybe we could even plan a trip around it.
 🎧 Who knows, maybe we'll be celebrating summer solstice together next year.
+
+Do you like to exercise?
+
 🎧 Hey there, sorry about the barking!
 🎧 He gets excited around other people.
 🎧 Don't worry at all. He looks friendly.
@@ -1357,6 +1425,9 @@ Saying Goodbye
 🎧 Maybe you two can become running buddies.
 🎧 Running buddies? I think Charlie would love that company.
 🎧 Perfect!
+
+What is your favorite TV show?
+
 🎧 First time at the dentist? You seem a little tense.
 🎧 Maybe a little.
 🎧 Need a cavity filled, nothing major.
@@ -1374,6 +1445,9 @@ Saying Goodbye
 🎧 It's called "Galaxy Quest."
 🎧 It's pretty popular, so you might have heard of it already.
 🎧 I actually haven't! But thanks for the recommendation.
+
+What is your favorite dessert?
+
 🎧 Wow, what is that incredible smell?
 🎧 It smells like heaven.
 🎧 Bonjour! That would be my croissants, fresh out of the oven this morning.
@@ -1395,6 +1469,9 @@ Saying Goodbye
 🎧 but there's something so comforting about a warm apple pie with a scoop of vanilla ice cream.
 🎧 What about you?
 🎧 I love a good brownie, especially with some chopped nuts and a glass of cold milk.
+
+Do you have a best friend?
+
 🎧 Still reading that same book?
 🎧 Lost in the world again. It's amazing!
 🎧 Fantasy adventure, huh? Not my thing, but you seem hooked.
@@ -1409,6 +1486,9 @@ Saying Goodbye
 🎧 Absolutely.
 🎧 We've been together for ten years.
 🎧 Now that's the kind of loyalty I can appreciate.
+
+What is your favorite subject in school?
+
 🎧 Dude, where'd you get all that food? Sharing fries?
 🎧 Maybe. Depends on your answer to a very important question.
 🎧 Shoot. Math test tomorrow, do you need notes or something?
@@ -1425,6 +1505,9 @@ Saying Goodbye
 🎧 Depends on the story.
 🎧 Anything involving explosions or zombies and the fries are all yours.
 🎧 Deal!
+
+Do you like to draw or paint?
+
 🎧 Hey Nadia! Nice drawing in class today.
 🎧 Where are you headed?
 🎧 Thanks! Just to the park.
@@ -1441,6 +1524,9 @@ Saying Goodbye
 🎧 I'm more into sports and video games.
 🎧 But hey, maybe you can teach me some drawing stuff sometime?
 🎧 Maybe! But first, let's see if I can catch this game without making a complete mess.
+
+What is your favorite animal?
+
 🎧 Hey Noah, what are you looking at on your phone?
 🎧 It's a video about red pandas.
 🎧 They're so cute.
@@ -1460,6 +1546,9 @@ Saying Goodbye
 🎧 Oh yes! I love cats. They're so independent and cuddly at the same time.
 🎧 Plus, they're always cleaning themselves, which is pretty cool.
 🎧 Cats are great, too.
+
+Do you enjoy playing video games?
+
 🎧 Alex, what's up? You seem relaxed!
 🎧 Yeah, I just beat the final level on that new space shooter game.
 🎧 Feels good.
@@ -1476,6 +1565,9 @@ Saying Goodbye
 🎧 Maybe you can recommend one for me sometime?
 🎧 Absolutely! We could even play together if you want.
 🎧 Really? Thanks, Alex!
+
+What is your favorite fruit?
+
 🎧 Wow, this weather is perfect for a picnic!
 🎧 Absolutely! Fresh air, good food... what more could you ask for?
 🎧 Speaking of good food, I made this fruit salad.
@@ -1493,6 +1585,9 @@ Saying Goodbye
 🎧 Exactly! We can definitely share a slice later.
 🎧 But first, let's dig into this fruit salad.
 🎧 Can't wait!
+
+Do you like to sing?
+
 🎧 Wow, Liam, is that a guitar?
 🎧 Yep! Thought it might be fun to play a few tunes after lunch.
 🎧 That sounds lovely! Do you like to sing?
@@ -1506,6 +1601,9 @@ Saying Goodbye
 🎧 and you can sing along if you want.
 🎧 Okay. Maybe I'll even surprise myself with some hidden talent.
 🎧 Sounds good to me.
+
+What is your favorite sport to watch?
+
 🎧 Wow, close game! Who are they playing?
 🎧 Oh, that's the city finals for basketball.
 🎧 My team, the Hawks, are down by two points!
@@ -1517,6 +1615,9 @@ Saying Goodbye
 🎧 There's a lot more to it than that, Ava!
 🎧 The strategy, the skill... it's like watching a chess match played really fast.
 🎧 Hmm, maybe. Still, I prefer watching something more graceful.
+
+Do you enjoy going to the beach?
+
 🎧 Ugh, this heat is unbearable! I wish I was somewhere cool right now.
 🎧 Me too! How about a trip to the beach this weekend?
 🎧 Do you enjoy going to the beach?
@@ -1530,6 +1631,9 @@ Saying Goodbye
 🎧 We can learn together.
 🎧 True. And who knows, maybe I'll be a natural surfer!
 🎧 Maybe.
+
+What is your favorite ice cream flavor?
+
 🎧 Hey everyone! It's such a hot day, wouldn't ice cream be perfect?
 🎧 What is your favorite ice cream flavor?
 🎧 Chocolate! Chocolate chip is the best!
@@ -1542,6 +1646,8 @@ Saying Goodbye
 🎧 Remember, you can only choose one each!
 
 [005] English Speaking Course 005
+
+Family Life
 
 🎧 Good morning! How is everyone today?
 🎧 Good morning, honey! I'm feeling good. And you?
