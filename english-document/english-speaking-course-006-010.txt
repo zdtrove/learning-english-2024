@@ -25,6 +25,9 @@ Making a Reservation
 🎧 Wise words! That will be well noted.
 🎧 Well, thank you, see you at 8!
 🎧 You're welcome, Sir! Looking forward to it!
+
+Arriving at the Restaurant
+
 🎧 Good evening! Welcome to Gourmet Delights.
 🎧 Do you have a reservation?
 🎧 Hi! No, we're just walk-ins. Is that okay?
@@ -45,6 +48,9 @@ Making a Reservation
 🎧 I think our menus have had enough wine for today.
 🎧 They're a bit tipsy already, in fact!
 🎧 Well, if so, I'd be more careful!
+
+Asking for Recommendations
+
 🎧 Hi there! I'll be your server tonight.
 🎧 Can I start you off with some drinks?
 🎧 Actually, I'm clueless.
@@ -61,6 +67,9 @@ Making a Reservation
 🎧 You're a lifesaver.
 🎧 Just doing my part to keep the world happy.
 🎧 One slice of cake at a time.
+
+Changing the Order
+
 🎧 So one garden salad, one grilled salmon and a bottle of sparkling water.
 🎧 Is everything correct?
 🎧 Yes, everything is correct.
@@ -79,6 +88,9 @@ Making a Reservation
 🎧 Yeah, you're right!
 🎧 I'll make sure your burger comes out as quickly as your stomach changes its mind.
 🎧 Thank you so much!
+
+Compliments to the Chef
+
 🎧 How was everything tonight?
 🎧 I see you've left nothing but crumbs!
 🎧 Honestly, I think I just fell in love... with your chef.
@@ -99,6 +111,9 @@ Making a Reservation
 🎧 And next time, I'll let him know he has fans waiting.
 🎧 We'll even put up a red carpet.
 🎧 Perfect. We'll bring the applause!
+
+Booking a Room
+
 🎧 Hello! Thank you for calling Seaside Hotel.
 🎧 How can I help you?
 🎧 Hi, I would like to book a room for the weekend.
@@ -122,6 +137,9 @@ Making a Reservation
 🎧 We'll have your room ready when you arrive.
 🎧 Awesome. I can't wait to dive into those pillows.
 🎧 You're all set. See you on Friday!
+
+Checking In
+
 🎧 Good afternoon! Welcome to the Grand Hotel.
 🎧 Do you have a reservation?
 🎧 Yes, I do. It's under Mia Thompson.
@@ -145,6 +163,9 @@ Making a Reservation
 🎧 Oh, right! How did I miss that?
 🎧 I think my brain's already doing nothing!
 🎧 Sounds like you're on the right track for a complete rest.
+
+Room Service
+
 🎧 Hello, I'd like to order room service, please.
 🎧 Sure! What can I get for you today?
 🎧 I'm feeling fancy.
@@ -164,6 +185,9 @@ Making a Reservation
 🎧 Good choice. We'll send everything up shortly!
 🎧 Please, no surprises, okay?
 🎧 Only good ones. Promise!
+
+Housekeeping Requests
+
 🎧 Oh, how lucky! Hi, Miss!
 🎧 Good morning, Ma'am! How may I help you?
 🎧 Can I request some extra towels, please?
@@ -184,6 +208,9 @@ Making a Reservation
 🎧 Shampoo, got it! I'll send the towels, pillows, and shampoo up right away.
 🎧 Thanks! And maybe I'll save the elephant for next time.
 🎧 We'll be ready for it!
+
+Complaints about the Room
+
 🎧 Good evening! How can I help you?
 🎧 Oh, hi! I'm staying in room 412,
 🎧 and... I think there are some uninvited guests in my room...
@@ -205,6 +232,9 @@ Making a Reservation
 🎧 No, that covers it.
 🎧 Just fix my haunted tap, please!
 🎧 On it! Hopefully, no ghosts involved.
+
+Wake-Up Call
+
 🎧 Good evening! How can I assist you?
 🎧 Hi! I need a wake-up call for tomorrow morning.
 🎧 I've got an early flight.
@@ -221,6 +251,9 @@ Making a Reservation
 🎧 Luckily, there's no snooze button here, so you're safe.
 🎧 Have a good night, Sarah.
 🎧 Thanks again!
+
+Laundry Service
+
 🎧 Good afternoon!
 🎧 How can I help you today?
 🎧 Hi! I need laundry service.
@@ -239,6 +272,9 @@ Making a Reservation
 🎧 You guys are lifesavers.
 🎧 I was about to accept the fate of my dirty clothes.
 🎧 We'll save you from that fate.
+
+Morning Routine
+
 🎧 Good morning, Sam! Time to wake up!
 🎧 Do I have to? My bed is calling my name.
 🎧 It's 7 am, not a phone call. Up you get!
@@ -261,6 +297,9 @@ Making a Reservation
 🎧 Good choice. Now, brush your teeth.
 🎧 Deal. I'll be there in five minutes...
 🎧 if I don't get lost on the way.
+
+Going to School
+
 🎧 Dad, can I have a new backpack for school?
 🎧 Why? Is your old one broken?
 🎧 No, but it's not sparkly enough. I need sparkle power!
@@ -279,6 +318,9 @@ Making a Reservation
 🎧 Got it! Sparkles only in the classroom, I swear.
 🎧 And no extra sparkle on the homework. That's still a big no!
 🎧 Okay, okay. Sparkles for school, homework for brains.
+
+Playing in the Park
+
 🎧 Can I play on the swings? Mom? Dad?
 🎧 Sure thing! But remember, no flying too high.
 🎧 Your mom is right.
@@ -295,6 +337,9 @@ Making a Reservation
 🎧 And make sure they don't take the dog. He's already got his own plans!
 🎧 Got it! No aliens, no taking the dog!
 🎧 Just swings and fun!
+
+Watching TV
+
 🎧 Finally, it's family movie night! What should we watch?
 🎧 Can we watch the new superhero movie?
 🎧 Again? Didn't we just watch it last week?
@@ -316,6 +361,9 @@ Making a Reservation
 🎧 This is going to be epic.
 🎧 Remember, no fighting over the remote!
 🎧 Or the popcorn!
+
+Doing Homework
+
 🎧 Ugh, homework. Why do I feel it is never-ending?!
 🎧 I know, right? I'm buried in math problems.
 🎧 Just think of it as a puzzle.
@@ -334,6 +382,9 @@ Making a Reservation
 🎧 Nice try. Just get it done.
 🎧 It'll be over before you know it.
 🎧 Hopefully! Homework, here I come.
+
+Cleaning the House
+
 🎧 Alright sons, it's cleaning day! Please try your best, okay?
 🎧 Can we just pretend the house is clean?
 🎧 Yeah, like a magic spell.
@@ -354,6 +405,9 @@ Making a Reservation
 🎧 We'll have the cleanest house in town.
 🎧 And the biggest ice cream sundaes.
 🎧 Wish I had some magic brooms...
+
+Grocery Shopping
+
 🎧 Time to go grocery shopping.
 🎧 Get your bags.
 🎧 Do we have to?
@@ -374,6 +428,9 @@ Making a Reservation
 🎧 Deal.
 🎧 And make sure we get the best cereal!
 🎧 You can count on us, Mom!
+
+Family Walk
+
 🎧 Alright, everyone, let's go for our evening walk!
 🎧 I'm ready! I've got my sneakers on.
 🎧 Do I have to?
@@ -394,6 +451,9 @@ Making a Reservation
 🎧 Okay, okay, I got it!
 🎧 I bet it will be great!
 🎧 Let's see...
+
+Bedtime
+
 🎧 All right, that's it for tonight! Time to close your eyes!
 🎧 But Dad, I'm not tired yet. Can you just read one more chapter?
 🎧 You know, if you stay up too late, you'll turn into a zombie.
@@ -438,6 +498,9 @@ What did you do last weekend?
 🎧 Did you like it?
 🎧 Loved it! Made me want to learn how to surf, actually.
 🎧 Maybe we could check out some lessons sometime.
+
+Do you have any hobbies? 
+
 🎧 Mind if I sit here?
 🎧 Not at all.
 🎧 Hey Maya, how was your day?
@@ -461,6 +524,9 @@ What did you do last weekend?
 🎧 Maybe you could bake us some cookies sometime?
 🎧 I'd be happy to be your taste tester.
 🎧 Sure, maybe! We could even try a new recipe together sometime.
+
+What is yourfavorite food?
+
 🎧 Daniel, what's for lunch today?
 🎧 Just a sandwich and some fruit.
 🎧 Healthy stuff, you know?
@@ -481,6 +547,9 @@ What did you do last weekend?
 🎧 For sure! They have lots of options. We should go try it together sometime.
 🎧 Maybe next weekend?
 🎧 I'm always up for trying new food.
+
+Where do you like to travel?
+
 🎧 Wow, this place is beautiful.
 🎧 It looks like a postcard.
 🎧 Right? I'm glad you like it.
@@ -499,6 +568,9 @@ What did you do last weekend?
 🎧 Greece maybe? They have beautiful islands and amazing ruins too.
 🎧 We could even learn a few basic Greek phrases before we go.
 🎧 Deal! This trip is already giving me ideas for the next one.
+
+Do you have any pets?
+
 🎧 Wow, that's an amazing throw!
 🎧 Your dog is super fast.
 🎧 Thanks! This is Charlie. He loves to play fetch.
@@ -513,6 +585,9 @@ What did you do last weekend?
 🎧 Maybe Mittens would like a nap in the sun while we play fetch?
 🎧 Probably a good idea.
 🎧 Listen, it was nice meeting you and Charlie.
+
+What is your favorite movie?
+
 🎧 Hey Ethan! Small world, seeing you here.
 🎧 Hey Ava! Yeah, crazy coincidence.
 🎧 Just grabbing a coffee before my next class. What about you?
@@ -532,6 +607,9 @@ What did you do last weekend?
 🎧 Would you want to watch it with me sometime?
 🎧 I'd love that.
 🎧 We could grab coffee and popcorn, make a whole night of it.
+
+Do you enjoy reading books?
+
 🎧 Excuse me, is this seat taken?
 🎧 Oh, no, not at all! Please, take a seat.
 🎧 Thanks. Busy day?
@@ -551,6 +629,9 @@ What did you do last weekend?
 🎧 Mysteries are fun!
 🎧 Maybe we could swap recommendations sometime?
 🎧 I'd like that!
+
+What kind of music do you like?
+
 🎧 Oh, no. I'm so sorry!
 🎧 Let me help you pick those up.
 🎧 No worries, it happens! Thanks for the help.
@@ -571,6 +652,9 @@ What did you do last weekend?
 🎧 OK! Maybe we can grab coffee sometime and swap playlists?
 🎧 Sounds like a deal! By the way, I'm Paule. And you are?
 🎧 I'm Jennie. Nice to meet you, Paule.
+
+How do you spend your free time? 
+
 🎧 Phew, that grammar explanation was confusing!
 🎧 Tell me about it.
 🎧 Past perfect continuous tense?
@@ -597,6 +681,9 @@ What did you do last weekend?
 🎧 Maybe you can share one of your stories with me sometime.
 🎧 Maybe! But first, let's focus on this crazy grammar activity.
 🎧 Agreed.
+
+Do you play any sports?
+
 🎧 Finally! That history lecture felt like forever.
 🎧 Couldn't agree more!
 🎧 What are you up to this afternoon, Joe?
@@ -1018,6 +1105,9 @@ Somebody help me!
 🎧 Well, the supermarket bags ripped, and my groceries went everywhere.
 🎧 Dad, what are you waiting for? Help Mom pick things up!
 🎧 Looks like my back doesn't get a day off, then.
+
+Naps are good for you
+
 🎧 What are you doing this weekend?
 🎧 Napping.
 🎧 I mean, what else are you doing
@@ -1045,6 +1135,9 @@ Somebody help me!
 🎧 There is no way I can finish those reports within 8 hours.
 🎧 Plus, I have other tasks to do...
 🎧 Well, in that case, I guess you should change your boss then.
+
+You make me so happy.
+
 🎧 Deb?
 🎧 Yes, Rob? What's up?
 🎧 Can I ask you something?
@@ -1066,6 +1159,9 @@ Somebody help me!
 🎧 But, Deb...
 🎧 No buts, Rob. Now please help me set the table. 
 🎧 Dinner is ready.
+
+Everything is so expensive.
+
 🎧 Woah, you look stressed! What's up?
 🎧 The upcoming annual party! It's getting on my nerves!
 🎧 I know, right? It's on our day off.
@@ -1091,6 +1187,9 @@ Somebody help me!
 🎧 How does that sound?
 🎧 That's amazing, thank you so much!
 🎧 No problem, happy to help!
+
+Don't worry about it!
+
 🎧 Oh, hey, Paul! What's up?
 🎧 Well, I'm here about my son, Jake...
 🎧 What's wrong with Jake?
@@ -1119,6 +1218,9 @@ Somebody help me!
 🎧 Plus, it's not like Jake did it intentionally!
 🎧 If you say so...
 🎧 Um, I will tell Jake to be more careful next time!
+
+No problem!
+
 🎧 Hey, I didn't see you in history today.
 🎧 Well, something came up this morning,
 🎧 and I had to skip a few classes.
@@ -1143,6 +1245,9 @@ Somebody help me!
 🎧 They are! Anyway, can I borrow your history notes?
 🎧 No problem! I will send them to your email!
 🎧 Thank you, dude! You're a lifesaver.
+
+It's raining outside.
+
 🎧 Mike, why are you still here?
 🎧 What do you mean, Mom?
 🎧 I thought you had a project at Simon's house today? 
@@ -1170,6 +1275,9 @@ Somebody help me!
 🎧 Because if it continues to rain, we won't get a chance to do our project.
 🎧 You're right. Hopefully, tomorrow will be sunny for you.
 🎧 Thank you. Mom.
+
+This is the biggest bookstore in town. 
+
 🎧 Hey, Amy! It's nice to see you here!
 🎧 Oh, Laura! Hi! What a nice surprise!
 🎧 What are you doing here?
@@ -1196,6 +1304,9 @@ Somebody help me!
 🎧 You know what, that's 
 🎧 actually a great idea!
 🎧 Thanks for the suggestion.
+
+Things aren't always easy. 
+
 🎧 I heard that you got into some trouble with a client?
 🎧 Oh, already?
 🎧 The office gossip sure spreads like wildfire.
@@ -1219,6 +1330,9 @@ Somebody help me!
 🎧 Funny thing is, that's exactly what I told her.
 🎧 I guess that didn't go over well?
 🎧 Absolutely! That's why I got a lecture from the boss this morning.
+
+I have lived in Shanghai for a long time.
+
 🎧 Hey Nicole!
 🎧 Hi Lily! How was your day?
 🎧 Pretty good! How about yours?
@@ -1245,6 +1359,9 @@ Somebody help me!
 🎧 It was an amazing experience.
 🎧 Really? You should definitely give Maya some tips!
 🎧 Absolutely!
+
+I miss my best friend.
+
 🎧 Ava, come on, dinner's ready.
 🎧 Actually, can you tell Mom and Dad I'm skipping dinner tonight?
 🎧 Hey, what's wrong? Stomach ache?
@@ -1271,6 +1388,9 @@ Somebody help me!
 🎧 How about I save you a plate?
 🎧 You can heat it up whenever you're hungry.
 🎧 Thanks, Dave. That sounds good.
+
+I'm so hungry!
+
 🎧 Ben, what are you doing out here?
 🎧 Oh, Sophie! I'm just... looking.
 🎧 Looking at what?
@@ -1296,6 +1416,9 @@ Somebody help me!
 🎧 Because I feel like eating some tasty cakes!
 🎧 Come on, let's go in and pick your favorite!
 🎧 Alright, alright! You're the best, sis!
+
+Time is money.
+
 🎧 There, finally finished that report!
 🎧 You look rough, Brandon.
 🎧 Well, time is money.
@@ -1317,6 +1440,9 @@ Somebody help me!
 🎧 It's time to wind down.
 🎧 Your eyes are getting heavy.
 🎧 Alright, alright! But can I at least brush my teeth first?
+
+I will get sick from that.
+
 🎧 Hey, do you mind if I sit here?
 🎧 Sure, no problem!
 🎧 Just let me just move my bag a sec.
@@ -1343,6 +1469,9 @@ Somebody help me!
 🎧 I don't think I could survive without fish.
 🎧 Well, my husband makes up for it with all sorts of delicious non-fishy dishes, so...
 🎧 You're right!
+
+That'll have to wait.
+
 🎧 Hey, Liam, guess what?!
 🎧 What's up? Emma?
 🎧 I'm wondering what can make you that excited.
@@ -1369,6 +1498,9 @@ Somebody help me!
 🎧 Sure!
 🎧 I'll be right back!
 🎧 Thank you, Emma!
+
+She wants to be a dentist.
+
 🎧 Here is your water!
 🎧 Thanks, Isa! Where are the kids?
 🎧 Dave is at his friend's house.
@@ -1389,6 +1521,9 @@ Somebody help me!
 🎧 Yes, we discussed her options and available resources.
 🎧 Sounds like she's well-informed then!
 🎧 Well, let's hope so!
+
+I’m excited about the future.
+
 🎧 Hey, Wilson!
 🎧 How's the college application going?
 🎧 Hey, Eddie!
@@ -1410,6 +1545,9 @@ Somebody help me!
 🎧 That'll be a lot of work! Are you nervous?
 🎧 In fact, I'm excited about the future.
 🎧 I'm glad to hear that.
+
+He drives to work.
+
 🎧 Hey Sarah, have you seen the construction site?
 🎧 No. What's that?
 🎧 Apparently, they're starting construction next month, right on 5th Street.
@@ -1427,6 +1565,9 @@ Somebody help me!
 🎧 Yeah...
 🎧 Maybe he could give you a ride for a month until things settle down?
 🎧 That's actually a great idea! I'll definitely ask him.
+
+I am a football fan.
+
 🎧 Dude, what's with the long face?
 🎧 Oh, you wouldn't want to hear that.
 🎧 Come on, man, spill it.
@@ -1445,6 +1586,9 @@ Somebody help me!
 🎧 Did you tell them how you're feeling?
 🎧 Yeah, but things got a bit heated.
 🎧 Hence the grumpy face.
+
+I have a small house.
+
 🎧 Hey Mia, what are you up to?
 🎧 I'm looking for some ideas.
 🎧 Ideas about what?
