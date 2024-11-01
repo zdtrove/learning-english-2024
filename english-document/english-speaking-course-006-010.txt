@@ -1,0 +1,795 @@
+^\s*$
+
+[006] English Speaking Course 006
+
+Making a Reservation
+
+🎧 Good evening! Fancy Dining.
+🎧 How can I help you?
+🎧 Hi! I would like to make a reservation for dinner.
+🎧 Great! May I know how many people?
+🎧 Well, that will be just me and my hunger. So... just one, please.
+🎧 A table for one? Wow, what a bold move!
+🎧 What time would you and your hunger like to come?
+🎧 We would probably show up at 7 pm. I’ll be fashionably early.
+🎧 Unfortunately, Sir, our restaurant is fully booked at 7 pm.
+🎧 Would you mind coming a bit later, like 8 pm?
+🎧 I guess I have no choice. Fine, 8 pm it is!
+🎧 So, a table for you and your hunger at 8 pm!
+🎧 Do you have any special requests?
+🎧 Yes. Can I sit by the window?
+🎧 I need good lighting for my food selfies.
+🎧 Of course! We’ll make sure your food shines as bright as you do.
+🎧 Perfect. Should I dress fancy, or can I rock my pyjamas?
+🎧 We’re all about style, but maybe save the pyjamas for Netflix.
+🎧 Wise words! That will be well noted.
+🎧 Well, thank you, see you at 8!
+🎧 You're welcome, Sir! Looking forward to it!
+🎧 Good evening! Welcome to Gourmet Delights.
+🎧 Do you have a reservation?
+🎧 Hi! No, we’re just walk-ins. Is that okay?
+🎧 Walk-ins? You’re living dangerously, I like it.
+🎧 Let me see... Ah, you're in luck.
+🎧 I can get you a table right away.
+🎧 Perfect! I hope the food comes as fast as the table.
+🎧 Well, our chef moves fast, but don't expect magic.
+🎧 Follow me, please.
+🎧 Ooh, a table by the window! Isn't it great?
+🎧 Yes, it's great for watching people's heads while we eat!
+🎧 Well, people-watching is a part of fine dining, isn't it?
+🎧 Here are your menus!
+🎧 Thanks!
+🎧 Honey, be careful, please try not to spill anything on it this time.
+🎧 It's not like I have a glass of wine in my hand right now!
+🎧 Oh, please don't!
+🎧 I think our menus have had enough wine for today.
+🎧 They're a bit tipsy already, in fact!
+🎧 Well, if so, I'd be more careful!
+🎧 Hi there! I'll be your server tonight.
+🎧 Can I start you off with some drinks?
+🎧 Actually, I'm clueless.
+🎧 What do you recommend for someone who is bad at making decisions?
+🎧 I'd say the pasta.
+🎧 It's delicious, and you can't go wrong with carbs.
+🎧 That sounds great, but what if I regret it halfway?
+🎧 You won't. But if you do, we'll just bring more bread.
+🎧 Sold! Pasta it is.
+🎧 But wait, what about dessert?
+🎧 Oh, we have an amazing chocolate cake.
+🎧 It’s like a hug, but from inside your stomach.
+🎧 That's exactly what I need after this long day.
+🎧 You’re a lifesaver.
+🎧 Just doing my part to keep the world happy.
+🎧 One slice of cake at a time.
+🎧 So one garden salad, one grilled salmon and a bottle of sparkling water.
+🎧 Is everything correct?
+🎧 Yes, everything is correct.
+🎧 Great! Your order will be ready in 15 minutes!
+🎧 Oh, hold on!
+🎧 What's the matter, Ma'am?
+🎧 Well, I’m so sorry, but can I change my order?
+🎧 Sure! What would you like to change?
+🎧 I want some fries instead of that garden salad!
+🎧 And a Coke instead of sparkling water...
+🎧 Alright.
+🎧 In fact, can I switch to the burger?
+🎧 I’m suddenly craving something less... green.
+🎧 Of course, you can!
+🎧 A burger is a salad’s cooler, tastier cousin.
+🎧 Yeah, you're right!
+🎧 I’ll make sure your burger comes out as quickly as your stomach changes its mind.
+🎧 Thank you so much!
+🎧 How was everything tonight?
+🎧 I see you've left nothing but crumbs!
+🎧 Honestly, I think I just fell in love... with your chef.
+🎧 I’ll let him know. He loves fan mail.
+🎧 Seriously, that steak was so good, that I almost wrote it a love letter.
+🎧 Do you take requests? Can I meet the chef?
+🎧 We want to personally thank the magician behind the magic.
+🎧 I can arrange that.
+🎧 But fair warning, if you shower him with too many compliments,
+🎧 he might make you eat the whole menu!
+🎧 Actually, I don't mind that at all...
+🎧 But we'd need quite a lot of digestive pills for that!
+🎧 You’re too kind.
+🎧 I'll tell him to prepare for his standing ovation.
+🎧 And give him our deepest compliments.
+🎧 This meal was unforgettable.
+🎧 I will.
+🎧 And next time, I'll let him know he has fans waiting.
+🎧 We'll even put up a red carpet.
+🎧 Perfect. We’ll bring the applause!
+🎧 Hello! Thank you for calling Seaside Hotel.
+🎧 How can I help you?
+🎧 Hi, I would like to book a room for the weekend.
+🎧 Do you have anything available?
+🎧 Let me check.
+🎧 Yes, we have a few rooms left.
+🎧 May I know your name, Sir?
+🎧 I'm Ian Brown.
+🎧 So, Mr. Brown, do you prefer a single or double room?
+🎧 I’ll go with a double. You know, in case I roll around too much at night.
+🎧 All right, a double it is.
+🎧 How many nights would you like to stay at our hotel?
+🎧 Just two. Friday and Saturday.
+🎧 Great! Do you have any special requests?
+🎧 Uh, yeah, actually... Can I get extra pillows?
+🎧 Like, five of them. I mean... I just really love pillows.
+🎧 I'll make a note.
+🎧 Your pillow kingdom will be ready.
+🎧 Perfect! Do I need to pay now?
+🎧 No, you can pay when you check in.
+🎧 We’ll have your room ready when you arrive.
+🎧 Awesome. I can’t wait to dive into those pillows.
+🎧 You’re all set. See you on Friday!
+🎧 Good afternoon! Welcome to the Grand Hotel.
+🎧 Do you have a reservation?
+🎧 Yes, I do. It's under Mia Thompson.
+🎧 Let me check… Ah, here you are!
+🎧 Mrs. Thompson, are you staying for two nights?
+🎧 Yep! Just so you know, I’m here for a “do-nothing” weekend.
+🎧 That sounds like a solid plan.
+🎧 Here's your room key.
+🎧 Room 305. It's on the third floor.
+🎧 Is there an elevator?
+🎧 Or do I need to start my “do-nothing” weekend by taking the stairs?
+🎧 Yes. Mrs. Thompson, we have an elevator, so no need for a stair workout.
+🎧 Oh, that's such a relief.
+🎧 I didn't bring my workout clothes anyway.
+🎧 Just the “do-nothing” clothes, right?
+🎧 Exactly! Thanks for your understanding.
+🎧 Enjoy your stay!
+🎧 And if you need help doing nothing, just let us know.
+🎧 Certainly! I’ll keep that in mind.
+🎧 The elevator is over there, Ma'am!
+🎧 Oh, right! How did I miss that?
+🎧 I think my brain's already doing nothing!
+🎧 Sounds like you're on the right track for a complete rest.
+🎧 Hello, I’d like to order room service, please.
+🎧 Sure! What can I get for you today?
+🎧 I'm feeling fancy.
+🎧 Do you have anything... five stars? Some Michelin choices?
+🎧 Well, we have a sandwich with five slices of bread.
+🎧 Does that count?
+🎧 Hmm, that’s… creative. Do you have a steak?
+🎧 Yes, we do! Medium, rare, or… very well done, as in “crispy”?
+🎧 Medium, please.
+🎧 And maybe some fries.
+🎧 Absolutely! A steak without some crispy fries is like day without night!
+🎧 Exactly. And for dessert?
+🎧 We have chocolate cake, or if you’re feeling adventurous, a mystery dessert.
+🎧 Mystery dessert?
+🎧 Yep. It could be chocolate cake... or something we found in the fridge.
+🎧 I’ll just take the cake, thanks.
+🎧 Good choice. We’ll send everything up shortly!
+🎧 Please, no surprises, okay?
+🎧 Only good ones. Promise!
+🎧 Oh, how lucky! Hi, Miss!
+🎧 Good morning, Ma'am! How may I help you?
+🎧 Can I request some extra towels, please?
+🎧 Of course. How many would you like?
+🎧 Uh... ten?
+🎧 Ten towels? Are you planning a pool party in your room?
+🎧 No, just... well, you never know. I mean, I have two teenage daughters with me...
+🎧 Better safe than sorry, right?
+🎧 I'll send ten towels your way.
+🎧 Anything else?
+🎧 Actually, do you happen to have some extra pillows?
+🎧 Sure, how many pillows? Don’t tell me, ten?
+🎧 No, just two, please. I don’t need to build a pillow fort... yet.
+🎧 Good plan.
+🎧 Is there anything else that you need? Snacks? A pet elephant?
+🎧 Hmm, an elephant might be too big for the room.
+🎧 But maybe some extra shampoo?
+🎧 Shampoo, got it! I’ll send the towels, pillows, and shampoo up right away.
+🎧 Thanks! And maybe I’ll save the elephant for next time.
+🎧 We’ll be ready for it!
+🎧 Good evening! How can I help you?
+🎧 Oh, hi! I'm staying in room 412,
+🎧 and... I think there are some uninvited guests in my room...
+🎧 Oh my! What do you mean by "uninvited guests?"
+🎧 Is somebody trying to get inside your room?
+🎧 Well, I'm not sure... But there’s a strange noise coming from the bathroom.
+🎧 A strange noise? Like… singing?
+🎧 No, more like a dripping tap mixed with a haunted house...
+🎧 Ah, the classic “ghost with plumbing problems.”
+🎧 We’ll send someone to fix that. Anything else?
+🎧 The window won't open. I tried everything.
+🎧 Well, our windows are on strike.
+🎧 They refuse to work unless treated nicely.
+🎧 Funny, but I really need some fresh air.
+🎧 No problem, we’ll take care of that. Anything else?
+🎧 The bed... it’s a bit lumpy.
+🎧 I feel like I'm lying on Mount Everest here.
+🎧 Got it. We’ll bring you a flatter one. Anything else?
+🎧 No, that covers it.
+🎧 Just fix my haunted tap, please!
+🎧 On it! Hopefully, no ghosts involved.
+🎧 Good evening! How can I assist you?
+🎧 Hi! I need a wake-up call for tomorrow morning.
+🎧 I've got an early flight.
+🎧 What time would you like the wake-up call?
+🎧 Ugh, 5 am... Is that even a real time?
+🎧 Unfortunately, yes. We can call you at 5 am, though.
+🎧 Please do! I’m not great at waking up, so I’ll need all the help I can get.
+🎧 We'll make sure you get up bright and early.
+🎧 Well, whether you like it or not.
+🎧 Exactly what I need!
+🎧 Thanks for the assist.
+🎧 No problem. We’ll be your morning alarm clock.
+🎧 Let’s just hope I don’t hit the snooze button on you.
+🎧 Luckily, there's no snooze button here, so you're safe.
+🎧 Have a good night, Sarah.
+🎧 Thanks again!
+🎧 Good afternoon!
+🎧 How can I help you today?
+🎧 Hi! I need laundry service.
+🎧 My suitcase exploded and I've got nothing clean left.
+🎧 I see! We can help with that. What do you need washed?
+🎧 Pretty much everything in my suitcase.
+🎧 Is that okay?
+🎧 Absolutely! Just leave it in the bag, and we’ll take care of it.
+🎧 Great!
+🎧 Oh, and please don't judge my crazy sock collection.
+🎧 Certainly, no judgment! We’ll wash them without a second thought.
+🎧 Thanks!
+🎧 Just so you know, I can't survive without my lucky socks.
+🎧 Of course, lucky socks are important!
+🎧 We'll have everything ready for you by tomorrow.
+🎧 You guys are lifesavers.
+🎧 I was about to accept the fate of my dirty clothes.
+🎧 We'll save you from that fate.
+🎧 Good morning, Sam! Time to wake up!
+🎧 Do I have to? My bed is calling my name.
+🎧 It’s 7 am, not a phone call. Up you get!
+🎧 but I'm not a morning person. I'm more of a sleep until lunch person.
+🎧 Well, you can't sleep all day.
+🎧 We've got breakfast. Pancakes!
+🎧 Pancakes? Now you’re speaking my language.
+🎧 See? It's not so bad.
+🎧 Get up and get dressed. Breakfast won't wait.
+🎧 Fine, but I'm still in bed mentally.
+🎧 My body is just catching up.
+🎧 Just try to make it to the table before the pancakes are gone.
+🎧 No promises. I might need a wake-up call.
+🎧 Here's your call.
+🎧 Get up
+🎧 or you’ll be eating cold pancakes! Or maybe AIR PANCAKES!
+🎧 Okay, okay. I'm moving.
+🎧 Pancakes are my motivation.
+🎧 I mean, the real and hot ones.
+🎧 Good choice. Now, brush your teeth.
+🎧 Deal. I'll be there in five minutes...
+🎧 if I don’t get lost on the way.
+🎧 Dad, can I have a new backpack for school?
+🎧 Why? Is your old one broken?
+🎧 No, but it’s not sparkly enough. I need sparkle power!
+🎧 Sparkle power? Is that a thing now?
+🎧 Totally! If my backpack doesn’t sparkle, I can’t be the coolest kid in class.
+🎧 Well, if we get you a sparkly backpack,
+🎧 can you promise to actually use it for school and not just as a fashion statement?
+🎧 I promise.
+🎧 Plus, I'll help you with the groceries.
+🎧 Ah, a deal. And if you forget to help, we’re keeping the sparkles to ourselves.
+🎧 Deal! Let’s go get sparkles.
+🎧 And don’t worry, Dad, I’ll carry all the groceries and the sparkles.
+🎧 Good.
+🎧 And remember, no sparkles in the living room.
+🎧 We don't need extra glitter on the couch.
+🎧 Got it! Sparkles only in the classroom, I swear.
+🎧 And no extra sparkle on the homework. That’s still a big no!
+🎧 Okay, okay. Sparkles for school, homework for brains.
+🎧 Can I play on the swings? Mom? Dad?
+🎧 Sure thing! But remember, no flying too high.
+🎧 Your mom is right.
+🎧 I'm not ready for a space mission.
+🎧 Don't worry, I won't fly to the moon.
+🎧 Just a bit higher than the slides.
+🎧 Let’s swing, but if we see a UFO, I’m taking cover!
+🎧 Dad, if we see a UFO, I’m asking them for a ride. I want to see Mars!
+🎧 And what if they bring you back with alien homework?
+🎧 Alien homework?
+🎧 I'll do it on the spaceship.
+🎧 It'll be out of this world!
+🎧 Well, if that happens, tell them we’re busy with park swings first.
+🎧 And make sure they don’t take the dog. He’s already got his own plans!
+🎧 Got it! No aliens, no taking the dog!
+🎧 Just swings and fun!
+🎧 Finally, it's family movie night! What should we watch?
+🎧 Can we watch the new superhero movie?
+🎧 Again? Didn’t we just watch it last week?
+🎧 It will never be enough! How can you say no to superpowers?
+🎧 How about a comedy?
+🎧 I could use a laugh.
+🎧 Comedies are good. But superheroes are… super!
+🎧 Okay, how about both? Let's watch a superhero comedy?
+🎧 Superhero comedy?
+🎧 Now, that sounds amazing.
+🎧 Deal. As long as it makes me laugh!
+🎧 I promise it’ll be fun. And popcorn is ready!
+🎧 Good! A movie night would not be complete without popcorn!
+🎧 Popcorn is life. Just make sure it doesn’t end up all over the couch.
+🎧 We'll do our best.
+🎧 Let's get started.
+🎧 Superhero comedy and popcorn.
+🎧 Best combination.
+🎧 This is going to be epic.
+🎧 Remember, no fighting over the remote!
+🎧 Or the popcorn!
+🎧 Ugh, homework. Why do I feel it is never-ending?!
+🎧 I know, right? I’m buried in math problems.
+🎧 Just think of it as a puzzle.
+🎧 The more you solve, the easier it gets.
+🎧 I'm not a fan of puzzles, Dad.
+🎧 I'd rather play video games.
+🎧 Me, too.
+🎧 But I have to get this done so I can play later.
+🎧 You'll thank yourself later when you have all your work finished.
+🎧 Yeah, yeah, I know, Dad.
+🎧 I'm trying my best to finish this grammar exercise.
+🎧 Why do I have to learn French?
+🎧 Stop complaining and try to finish it up
+🎧 Once you're done, I will let you have more screen time.
+🎧 Deal! But if I don’t finish, can I have an extra hour of playtime?
+🎧 Nice try. Just get it done.
+🎧 It'll be over before you know it.
+🎧 Hopefully! Homework, here I come.
+🎧 Alright sons, it’s cleaning day! Please try your best, okay?
+🎧 Can we just pretend the house is clean?
+🎧 Yeah, like a magic spell.
+🎧 Poof! All clean.
+🎧 Nice try, but we need to actually clean!
+🎧 Let’s make it fun. Whoever cleans the most gets ice cream!
+🎧 Ice cream?! How old do you think I am?!
+🎧 Well, that sounds awesome to me.
+🎧 I'm on it.
+🎧 I'm cleaning the attic.
+🎧 Are you sure you don't want ice cream, Nate?
+🎧 Well... I guess some ice cream doesn't hurt...
+🎧 Great enthusiasm! Just remember to dust off those old toys.
+🎧 Old toys? I haven't seen those in ages.
+🎧 I bet they are dinosaurs up there.
+🎧 They've been hiding.
+🎧 Dinosaurs or not, let’s get this done.
+🎧 We'll have the cleanest house in town.
+🎧 And the biggest ice cream sundaes.
+🎧 Wish I had some magic brooms...
+🎧 Time to go grocery shopping.
+🎧 Get your bags.
+🎧 Do we have to?
+🎧 Can't we just order pizza?
+🎧 No.
+🎧 We need food for the week.
+🎧 I’ll help pick out the cereal. I’m an expert!
+🎧 And I’ll choose the snacks. I’m also an expert.
+🎧 Just don't make the cart a snack monster.
+🎧 Promise! But can we get some cookies?
+🎧 Cookies are a must. They should be in every cart.
+🎧 Cookies, yes. But let’s not forget the veggies.
+🎧 Veggies are boring.
+🎧 Can we get extra cookies instead?
+🎧 We need balance. Healthy food and cookies.
+🎧 Fine. I’ll sneak in some extra snacks.
+🎧 As long as you help me find the milk.
+🎧 Deal.
+🎧 And make sure we get the best cereal!
+🎧 You can count on us, Mom!
+🎧 Alright, everyone, let’s go for our evening walk!
+🎧 I’m ready! I’ve got my sneakers on.
+🎧 Do I have to?
+🎧 I have an important game to win… in my video game.
+🎧 Oh. Come on.
+🎧 It's just a walk.
+🎧 Besides, your video game will still be there when we get back.
+🎧 I'm not sure. What if I miss a level?
+🎧 You'll be fine.
+🎧 The only level you're miss here is the level of fitness.
+🎧 Fitness?
+🎧 I didn't sign up for a gym membership.
+🎧 It's not a gym.
+🎧 It’s a walk with your Mom and Dad!
+🎧 How come you don't want to have a walk with us, Dave?!
+🎧 Don't make your Mom sad, Dave!
+🎧 Think of it as a break from the screen.
+🎧 Okay, okay, I got it!
+🎧 I bet it will be great!
+🎧 Let's see...
+🎧 All right, that's it for tonight! Time to close your eyes!
+🎧 But Dad, I’m not tired yet. Can you just read one more chapter?
+🎧 You know, if you stay up too late, you'll turn into a zombie.
+🎧 I don't think I want to be a zombie.
+🎧 Do zombies get extra sleep?
+🎧 I don't think they even sleep.
+🎧 They probably just wander around.
+🎧 Urgh... If so, I wouldn't want to become a zombie!
+🎧 Of course, honey!
+🎧 You won't become a zombie as long as you go to sleep right away.
+🎧 But Dad, this book is so interesting!
+🎧 I want to know what will happen next.
+🎧 Can we just save it for tomorrow?
+🎧 I don't think I can sleep in peace tonight without knowing the princess's fate!
+🎧 All right, but just one chapter. Then it’s lights out.
+🎧 Thank you, Dad!
+
+[007] English Speaking Course 007
+
+What did you do last weekend?
+
+🎧 Hey Liam! What a surprise to see you here!
+🎧 Hey Sarah! Same here.
+🎧 What are you up to?
+🎧 Oh, you know, just grabbing an iced latte.
+🎧 It's so hot out!
+🎧 What did you do last week?
+🎧 I feel like I haven't seen you in forever.
+🎧 Yeah, it's been crazy busy.
+🎧 I was working on a big project all week,
+🎧 but I finally finished it yesterday.
+🎧 What about you?
+🎧 Did you do anything fun?
+🎧 Working on a project sounds intense!
+🎧 Glad you finished.
+🎧 For me, last week was pretty chill.
+🎧 I spent most of the time reading that book you recommended.
+🎧 Remember?
+🎧 The one about the surfing competition?
+🎧 Oh yeah, right!
+🎧 "Waves of Courage"
+🎧 Did you like it?
+🎧 Loved it! Made me want to learn how to surf, actually.
+🎧 Maybe we could check out some lessons sometime.
+🎧 Mind if I sit here?
+🎧 Not at all.
+🎧 Hey Maya, how was your day?
+🎧 It was good, thanks for asking!
+🎧 Relaxing mostly.
+🎧 What about you?
+🎧 Did you do anything fun?
+🎧 Actually, yeah! I went hiking with some friends on Saturday.
+🎧 It was a beautiful trail, with a great view at the top.
+🎧 Sounds awesome! Do you have any hobbies like that?
+🎧 Hiking, I mean.
+🎧 Hiking's definitely one of them.
+🎧 I also love reading, and going to the movies.
+🎧 What about you?
+🎧 Anything you like to do in your free time?
+🎧 Hmm, reading sounds nice.
+🎧 I haven't had much time for that lately.
+🎧 But I do love to bake!
+🎧 Like cookies, cakes, all sorts of things.
+🎧 It's relaxing for me.
+🎧 Maybe you could bake us some cookies sometime?
+🎧 I'd be happy to be your taste tester.
+🎧 Sure, maybe! We could even try a new recipe together sometime.
+🎧 Daniel, what's for lunch today?
+🎧 Just a sandwich and some fruit.
+🎧 Healthy stuff, you know?
+🎧 What about you?
+🎧 Same here, boring salad.
+🎧 Ugh, I wish I had something more exciting.
+🎧 Well, you can always have some of my sandwich.
+🎧 It's ham and cheese, pretty classic.
+🎧 Thanks, but I'm good.
+🎧 Speaking of exciting food, what's your favorite food?
+🎧 If you could eat anything right now, what would it be?
+🎧 Oh, that's a tough one.
+🎧 Maybe some spicy noodles from that new place downtown?
+🎧 They're incredible.
+🎧 Spicy noodles? Sounds interesting.
+🎧 I haven't tried them yet.
+🎧 Do they have anything vegetarian?
+🎧 For sure! They have lots of options. We should go try it together sometime.
+🎧 Maybe next weekend?
+🎧 I'm always up for trying new food.
+🎧 Wow, this place is beautiful.
+🎧 It looks like a postcard.
+🎧 Right? I'm glad you like it.
+🎧 This is Capri, a famous island near Naples.
+🎧 Amazing! So, where do you like to travel the most?
+🎧 Beach places like this, or somewhere else?
+🎧 I love beaches for relaxing, for sure.
+🎧 But I also enjoy cities with a lot of history, like Rome or London.
+🎧 There's always something new to learn.
+🎧 Me too! Last summer, I went to Prague.
+🎧 The buildings were incredible, especially the old castle.
+🎧 Prague sounds amazing.
+🎧 Maybe someday we can travel together.
+🎧 We could find a place with both beaches and history.
+🎧 Now that's an idea!
+🎧 Greece maybe? They have beautiful islands and amazing ruins too.
+🎧 We could even learn a few basic Greek phrases before we go.
+🎧 Deal! This trip is already giving me ideas for the next one.
+🎧 Wow, that's an amazing throw!
+🎧 Your dog is super fast.
+🎧 Thanks! This is Charlie. He loves to play fetch.
+🎧 What about your cute dog?
+🎧 This is Max. He likes to sniff around for squirrels, but he loves to play too.
+🎧 Do you have any other pets besides Charlie?
+🎧 Nope, Charlie's my only pet.
+🎧 What about you? Any other pets at home?
+🎧 Actually, I have an old cat named Mittens.
+🎧 He mostly tolerates Max, but he would never chase a frisbee!
+🎧 Cats are always so dignified.
+🎧 Maybe Mittens would like a nap in the sun while we play fetch?
+🎧 Probably a good idea.
+🎧 Listen, it was nice meeting you and Charlie.
+🎧 Hey Ethan! Small world, seeing you here.
+🎧 Hey Ava! Yeah, crazy coincidence.
+🎧 Just grabbing a coffee before my next class. What about you?
+🎧 Same here.
+🎧 Studying for that literature test tomorrow?
+🎧 Those poems are confusing!
+🎧 You can say that again.
+🎧 You can say that again. But I did find "Ode to a Nightingale" kind of beautiful.
+🎧 Nature and all that.
+🎧 Interesting! What is your favorite movie?
+🎧 Sometimes movies can explain things books can't.
+🎧 Hmm, that's a tough one.
+🎧 Maybe "Spirited Away"?
+🎧 It's an animated movie, but the story about growing up is amazing.
+🎧 Have you seen it?
+🎧 Actually, no! But it sounds interesting.
+🎧 Would you want to watch it with me sometime?
+🎧 I'd love that.
+🎧 We could grab coffee and popcorn, make a whole night of it.
+🎧 Excuse me, is this seat taken?
+🎧 Oh, no, not at all! Please, take a seat.
+🎧 Thanks. Busy day?
+🎧 Just finishing up some work for class. You?
+🎧 Same here. Heading to a lecture on ancient Egypt.
+🎧 I love history.
+🎧 Cool!
+🎧 I just finished reading a book about Cleopatra.
+🎧 She was really interesting.
+🎧 Do you enjoy reading books often?
+🎧 Not many people I know do these days.
+🎧 Absolutely! There's just something about getting lost in a good story.
+🎧 What about you?
+🎧 Any favorite genres?
+🎧 Hmm, I do like a good mystery novel every now and then.
+🎧 Something to keep me guessing.
+🎧 Mysteries are fun!
+🎧 Maybe we could swap recommendations sometime?
+🎧 I'd like that!
+🎧 Oh, no. I'm so sorry!
+🎧 Let me help you pick those up.
+🎧 No worries, it happens! Thanks for the help.
+🎧 Wow, Led Zeppelin?
+🎧 Those guys are legends.
+🎧 You a big fan?
+🎧 Absolutely!
+🎧 "Stairway to Heaven" is one of my favorite songs.
+🎧 What about you?
+🎧 What kind of music do you like?
+🎧 Mostly electronic music.
+🎧 Anything with a good beat.
+🎧 This new remix album by DJ Kai is great.
+🎧 Have you heard it?
+🎧 Hmm, not yet. I usually stick to classic rock and some indie stuff.
+🎧 Maybe we could trade some suggestions sometime?
+🎧 I could introduce you to some electronic music that might surprise you.
+🎧 OK! Maybe we can grab coffee sometime and swap playlists?
+🎧 Sounds like a deal! By the way, I'm Paule. And you are?
+🎧 I'm Jennie. Nice to meet you, Paule.
+🎧 Phew, that grammar explanation was confusing!
+🎧 Tell me about it.
+🎧 Past perfect continuous tense?
+🎧 Sounds like a tongue twister.
+🎧 Right? At least the upcoming activity looks fun.
+🎧 True, writing a fake movie review.
+🎧 I wonder what kind of movie we can choose.
+🎧 Hmm, maybe something spooky?
+🎧 Haunted house comedy?
+🎧 Sounds interesting, but I wouldn't mind doing something with more action.
+🎧 Like a superhero movie.
+🎧 Oh, I'm not a huge fan of superhero movies.
+🎧 They all seem kind of the same.
+🎧 Fair enough. What do you like to watch in your free time?
+🎧 Maybe we can get some inspiration.
+🎧 I mostly watch documentaries or historical dramas.
+🎧 Learning about different cultures and time periods is fascinating.
+🎧 Documentaries, huh?
+🎧 Not really my thing, but I can see the appeal.
+🎧 What do you do in your free time besides watching movies?
+🎧 Well, I enjoy reading and going for walks.
+🎧 Sometimes I even try to write short stories myself.
+🎧 Wow, that's cool! Writing can be tough.
+🎧 Maybe you can share one of your stories with me sometime.
+🎧 Maybe! But first, let's focus on this crazy grammar activity.
+🎧 Agreed.
+🎧 Finally! That history lecture felt like forever.
+🎧 Couldn't agree more!
+🎧 What are you up to this afternoon, Joe?
+🎧 Probably just chilling at home, catching up on some homework.
+🎧 What about you? Any exciting plans?
+🎧 Actually, yeah! I'm meeting some friends for a game of volleyball down at the beach.
+🎧 Want to join?
+🎧 Volleyball, huh? Sounds fun!
+🎧 I used to play a bit in high school, but I'm not sure I'm exactly beach-ready.
+🎧 Come on, don't be a scaredy-cat!
+🎧 It's all about having fun, not winning a championship.
+🎧 Besides, the sand is soft and the water's amazing if you get too hot.
+🎧 Hmm, you make a good point.
+🎧 Do you play any sports regularly, or is this just a casual thing?
+🎧 I try to play volleyball whenever I can.
+🎧 It's a great workout, and being outside is always nice.
+🎧 Do you play any sports?
+🎧 I used to play basketball a lot, but these days it's mostly just pick-up games with friends.
+🎧 Maybe if you ever need someone on your volleyball team, I could give it a shot.
+🎧 Consider it done! The more the merrier, right?
+🎧 So, are you in for some beach fun or not?
+🎧 Alright, you convinced me.
+🎧 Perfect! See you down there in a bit, Joe!
+
+[008] English Speaking Course 008
+
+Am I Too Old to Learn Something New?
+
+🎧 Mr. Henry sits quietly in his small house in Toronto.
+🎧 A photo of his son, Michael, is on the table.
+🎧 Michael's face in the photo is smiling,
+🎧 very different from the deep sadness in Mr. Henry's eyes.
+🎧 Michael, I really don't know what to do now.
+🎧 This place... everything reminds me of you.
+🎧 Mr. Henry stands up and looks out the window.
+🎧 Outside, it is lightly raining.
+🎧 Maybe, it's time for me to find a more peaceful place.
+🎧 A place where this pain can't follow me.
+🎧 Mr. Henry sighs and looks at the house one last time before making his decision.
+🎧 Mr. Henry chose a small, quiet town, hoping to find peace in his life.
+🎧 This town looks peaceful.
+🎧 I hope I can start a new life here.
+🎧 However, he had trouble because he only spoke a little English.
+🎧 Mr. Henry tried to talk to people, but it was hard.
+🎧 His English was not very good and he felt alone.
+🎧 Excue mi, whee i the gloerly stor?
+🎧 I'm sorry. Can you say that again?
+🎧 Grociry strere... food?
+🎧 The resident tried to help
+🎧 But it was clear that communication would be a big challenge for Mr. Henry.
+🎧 However, an unexpected help knocks on Henry's door
+🎧 Hello! My name is Emily. I live next door.
+🎧 Hello.
+🎧 I brought you some cookies.
+🎧 I made them myself.
+🎧 Thank you, but I don't like sweet...
+🎧 Oh okay! Maybe you can try them....
+🎧 Maybe.
+🎧 Hi, Mr. Henry! You're early!
+🎧 Yes...
+🎧 I see you often in the garden.
+🎧 Seems like you love trees and gardening!
+🎧 Yes, I do.
+🎧 The weather today is so weird.
+🎧 It's making me feel grumpy.
+🎧 Yes, it is.
+🎧 Ouais. Today, it may rain.
+🎧 Wow, is that French? You speak French?
+🎧 Yes I do.
+🎧 I'm from Canada.
+🎧 That's amazing! I had no idea!
+🎧 Maybe you can help me with my French?
+🎧 I... I don't know. I busy...
+🎧 Oh... okay. Tell me whenever you have free time
+🎧 Here, money...
+🎧 Thank you, sir. Have a nice day.
+🎧 Excuse me, sir. Did you pay for those fruits?
+🎧 Yes, I pay.
+🎧 So may I see your receipt?
+🎧 I pay... at cashir. Mony... already give.
+🎧 I'm sorry, but if you don't pay, you can't take the fruits.
+🎧 I... already pay... here
+🎧 What's going on?
+🎧 This man is trying to take fruits without paying!
+🎧 Mr. Henry, Can you show them the receipt?
+🎧 Yes. Here... receipt.
+🎧 Oh, yes, I'm sorry for the misunderstanding, sir.
+🎧 It's okay, Mr. Henry. It's just a misunderstanding.
+🎧 Thank you, Emily.
+🎧 No problem. Are you buying things to make dinner?
+🎧 Yes. And you can join... Si vous voulez.
+🎧 Of course! Happy to join!
+🎧 Great. Come by around 6 PM.
+🎧 I'll be there. Thank you for inviting me.
+🎧 I hope you like the food.
+🎧 It's a recipe from Canada.
+🎧 It's delicious.
+🎧 Thank you for making it.
+🎧 Emily, I was thinking... since you're learning French,
+🎧 maybe I can help you with it.
+🎧 Really? That would be amazing!
+🎧 Thank you, Mr. Henry!
+🎧 And in return, can you help me with my English?
+🎧 Of course! I’d be happy to help.
+🎧 But, I'm worried. I'm too old to learn new things.
+🎧 No, Mr. Henry, you’re never too old to learn.
+🎧 It's hard for me. My brain isn't as quick as it used to be.
+🎧 That's okay.
+🎧 We can go slowly.
+🎧 It's about practice and patience.
+🎧 You really think I can do it?
+🎧 Absolutely!
+🎧 You've already helped me so much.
+🎧 It's my turn to help you.
+🎧 Alright, Emily. Let's do this together.
+🎧 Great! We'll start tomorrow. It’ll be fun, I promise
+🎧 Hi, Henry!
+🎧 Hi Henry! I brought you a book. It's called "Learn English for Beginners."
+🎧 Oh, thank you, Emily! That's very kind of you.
+🎧 I have some tips that can help older adults learn English.
+🎧 Would you like to hear them?
+🎧 Yes, please! I need all the help!
+🎧 First, don't worry about making mistakes.
+🎧 It's normal and part of learning.
+🎧 That's good to know.
+🎧 I always feel a bit shy about speaking.
+🎧 Practice speaking as much as you can.
+🎧 You can talk to me or even yourself.
+🎧 I'll try that. Any other tips?
+🎧 Yes! Try to read every day.
+🎧 Books, newspapers or even labels can help you learn new words.
+🎧 I like reading.
+🎧 That should be fun.
+🎧 Also, listen to English radio or watch TV shows.
+🎧 It helps you get used to the sound of the language.
+🎧 I enjoy watching TV.
+🎧 I'll start watching English shows.
+🎧 Great. Flashcards can be helpful too.
+🎧 You can write new words on them and review them often.
+🎧 Flashcards? That sounds interesting.
+🎧 I'll give it a try.
+🎧 And don't forget to take breaks.
+🎧 Learning a new language can be tiring, so it's important to rest.
+🎧 That's good advice.
+🎧 I don't want to get too tired.
+🎧 Oh, and one more thing! You can listen to podcasts.
+🎧 There’s a great one called LEP - Learn English Podcast. It’s really helpful.
+🎧 Podcasts? That sounds good.
+🎧 I'll definitely check out LEP - Learn English Podcast.
+🎧 Also, try to set small, achievable goals.
+🎧 For example, learn five new words a day.
+🎧 Sound manageable.
+🎧 Use apps for language learning.
+🎧 Some are designed for beginners and can be very interactive.
+🎧 I have a smartphone so I can try using apps.
+🎧 Any recommendations?
+🎧 Duolingo and Memrise are great for beginners. They make learning fun.
+🎧 Right!
+🎧 You're welcome!
+🎧 And don't forget to review what you've learned regularly.
+🎧 It helps to remember better.
+🎧 Well, lots of things to do...
+🎧 You know, sometimes I feel like my age is a barrier to learning new things.
+🎧 Oh, Henry, age is never a limit for learning!
+🎧 With the right method, anyone can learn at any age.
+🎧 Really?
+🎧 But I feel like younger people learn faster.
+🎧 It's true that young people might pick up new things quickly,
+🎧 but older learners have advantages too.
+🎧 You have life experience and patience.
+🎧 That's a good point.
+🎧 Also, older learners often have better study habits.
+🎧 You can set a regular schedule and stick to it.
+🎧 Consistency is key.
+🎧 I can definitely do that.
+🎧 What else can help?
+🎧 You can even find online communities to practice with others.
+🎧 That's a great idea.
+🎧 It's nice to know I'm not alone in this.
+🎧 You're definitely not alone.
+🎧 Many people of all ages are learning new things every day.
+🎧 It's all about finding what works best for you.
+🎧 I feel more confident now.
+🎧 Maybe I can learn even more things besides English.
+🎧 Of course, learning keeps our minds active and healthy.
+🎧 It's never too late to start something new.
+🎧 You're right.
+🎧 I guess I've been holding myself back with negative thoughts and doubts.
+🎧 It's normal to have doubts.
+🎧 But don't let them stop you.
+🎧 Believe in yourself and keep going.
+
+[009] English Speaking Course 009
+
+
+[010] English Speaking Course 010

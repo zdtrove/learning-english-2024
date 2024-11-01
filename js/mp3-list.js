@@ -375,4 +375,7 @@ const englishSpeakingCourseMp3 = {
   '003': 'mu4euen2dwmwun9r1rhie/003.mp3?rlkey=x7evobn70s0z0nn2k5xiz038m',
   '004': '56zlw3er7um4jdo22jjvv/004.mp3?rlkey=hwo1udlxx2b3m3ueschdhgkic',
   '005': 'u35mya594kjvkvoi4dw6t/005.mp3?rlkey=la1ot54iga4g5zas3yg7lfw2u',
+  '006': 'lzco6cbfxl4we7fpefbzu/006.mp3?rlkey=cldv2ebsz781nxbnajpqdv996',
+  '007': 'qtwfij9vhx7x52r3hzcfj/007.mp3?rlkey=a4dv6bfhmmpzjo5l3c8o5mv7c',
+  '008': '5c3m329b4ma3jvopg3d5u/008.mp3?rlkey=weqodzrm7dy8erjzfi65bm3o8',
 }
