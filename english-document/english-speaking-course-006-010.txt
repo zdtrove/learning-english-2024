@@ -11,7 +11,7 @@ Making a Reservation
 🎧 Well, that will be just me and my hunger. So... just one, please.
 🎧 A table for one? Wow, what a bold move!
 🎧 What time would you and your hunger like to come?
-🎧 We would probably show up at 7 pm. I’ll be fashionably early.
+🎧 We would probably show up at 7 pm. I'll be fashionably early.
 🎧 Unfortunately, Sir, our restaurant is fully booked at 7 pm.
 🎧 Would you mind coming a bit later, like 8 pm?
 🎧 I guess I have no choice. Fine, 8 pm it is!
@@ -19,16 +19,16 @@ Making a Reservation
 🎧 Do you have any special requests?
 🎧 Yes. Can I sit by the window?
 🎧 I need good lighting for my food selfies.
-🎧 Of course! We’ll make sure your food shines as bright as you do.
+🎧 Of course! We'll make sure your food shines as bright as you do.
 🎧 Perfect. Should I dress fancy, or can I rock my pyjamas?
-🎧 We’re all about style, but maybe save the pyjamas for Netflix.
+🎧 We're all about style, but maybe save the pyjamas for Netflix.
 🎧 Wise words! That will be well noted.
 🎧 Well, thank you, see you at 8!
 🎧 You're welcome, Sir! Looking forward to it!
 🎧 Good evening! Welcome to Gourmet Delights.
 🎧 Do you have a reservation?
-🎧 Hi! No, we’re just walk-ins. Is that okay?
-🎧 Walk-ins? You’re living dangerously, I like it.
+🎧 Hi! No, we're just walk-ins. Is that okay?
+🎧 Walk-ins? You're living dangerously, I like it.
 🎧 Let me see... Ah, you're in luck.
 🎧 I can get you a table right away.
 🎧 Perfect! I hope the food comes as fast as the table.
@@ -56,9 +56,9 @@ Making a Reservation
 🎧 Sold! Pasta it is.
 🎧 But wait, what about dessert?
 🎧 Oh, we have an amazing chocolate cake.
-🎧 It’s like a hug, but from inside your stomach.
+🎧 It's like a hug, but from inside your stomach.
 🎧 That's exactly what I need after this long day.
-🎧 You’re a lifesaver.
+🎧 You're a lifesaver.
 🎧 Just doing my part to keep the world happy.
 🎧 One slice of cake at a time.
 🎧 So one garden salad, one grilled salmon and a bottle of sparkling water.
@@ -67,22 +67,22 @@ Making a Reservation
 🎧 Great! Your order will be ready in 15 minutes!
 🎧 Oh, hold on!
 🎧 What's the matter, Ma'am?
-🎧 Well, I’m so sorry, but can I change my order?
+🎧 Well, I'm so sorry, but can I change my order?
 🎧 Sure! What would you like to change?
 🎧 I want some fries instead of that garden salad!
 🎧 And a Coke instead of sparkling water...
 🎧 Alright.
 🎧 In fact, can I switch to the burger?
-🎧 I’m suddenly craving something less... green.
+🎧 I'm suddenly craving something less... green.
 🎧 Of course, you can!
-🎧 A burger is a salad’s cooler, tastier cousin.
+🎧 A burger is a salad's cooler, tastier cousin.
 🎧 Yeah, you're right!
-🎧 I’ll make sure your burger comes out as quickly as your stomach changes its mind.
+🎧 I'll make sure your burger comes out as quickly as your stomach changes its mind.
 🎧 Thank you so much!
 🎧 How was everything tonight?
 🎧 I see you've left nothing but crumbs!
 🎧 Honestly, I think I just fell in love... with your chef.
-🎧 I’ll let him know. He loves fan mail.
+🎧 I'll let him know. He loves fan mail.
 🎧 Seriously, that steak was so good, that I almost wrote it a love letter.
 🎧 Do you take requests? Can I meet the chef?
 🎧 We want to personally thank the magician behind the magic.
@@ -91,14 +91,14 @@ Making a Reservation
 🎧 he might make you eat the whole menu!
 🎧 Actually, I don't mind that at all...
 🎧 But we'd need quite a lot of digestive pills for that!
-🎧 You’re too kind.
+🎧 You're too kind.
 🎧 I'll tell him to prepare for his standing ovation.
 🎧 And give him our deepest compliments.
 🎧 This meal was unforgettable.
 🎧 I will.
 🎧 And next time, I'll let him know he has fans waiting.
 🎧 We'll even put up a red carpet.
-🎧 Perfect. We’ll bring the applause!
+🎧 Perfect. We'll bring the applause!
 🎧 Hello! Thank you for calling Seaside Hotel.
 🎧 How can I help you?
 🎧 Hi, I would like to book a room for the weekend.
@@ -108,7 +108,7 @@ Making a Reservation
 🎧 May I know your name, Sir?
 🎧 I'm Ian Brown.
 🎧 So, Mr. Brown, do you prefer a single or double room?
-🎧 I’ll go with a double. You know, in case I roll around too much at night.
+🎧 I'll go with a double. You know, in case I roll around too much at night.
 🎧 All right, a double it is.
 🎧 How many nights would you like to stay at our hotel?
 🎧 Just two. Friday and Saturday.
@@ -119,15 +119,15 @@ Making a Reservation
 🎧 Your pillow kingdom will be ready.
 🎧 Perfect! Do I need to pay now?
 🎧 No, you can pay when you check in.
-🎧 We’ll have your room ready when you arrive.
-🎧 Awesome. I can’t wait to dive into those pillows.
-🎧 You’re all set. See you on Friday!
+🎧 We'll have your room ready when you arrive.
+🎧 Awesome. I can't wait to dive into those pillows.
+🎧 You're all set. See you on Friday!
 🎧 Good afternoon! Welcome to the Grand Hotel.
 🎧 Do you have a reservation?
 🎧 Yes, I do. It's under Mia Thompson.
 🎧 Let me check… Ah, here you are!
 🎧 Mrs. Thompson, are you staying for two nights?
-🎧 Yep! Just so you know, I’m here for a “do-nothing” weekend.
+🎧 Yep! Just so you know, I'm here for a “do-nothing” weekend.
 🎧 That sounds like a solid plan.
 🎧 Here's your room key.
 🎧 Room 305. It's on the third floor.
@@ -140,28 +140,28 @@ Making a Reservation
 🎧 Exactly! Thanks for your understanding.
 🎧 Enjoy your stay!
 🎧 And if you need help doing nothing, just let us know.
-🎧 Certainly! I’ll keep that in mind.
+🎧 Certainly! I'll keep that in mind.
 🎧 The elevator is over there, Ma'am!
 🎧 Oh, right! How did I miss that?
 🎧 I think my brain's already doing nothing!
 🎧 Sounds like you're on the right track for a complete rest.
-🎧 Hello, I’d like to order room service, please.
+🎧 Hello, I'd like to order room service, please.
 🎧 Sure! What can I get for you today?
 🎧 I'm feeling fancy.
 🎧 Do you have anything... five stars? Some Michelin choices?
 🎧 Well, we have a sandwich with five slices of bread.
 🎧 Does that count?
-🎧 Hmm, that’s… creative. Do you have a steak?
+🎧 Hmm, that's… creative. Do you have a steak?
 🎧 Yes, we do! Medium, rare, or… very well done, as in “crispy”?
 🎧 Medium, please.
 🎧 And maybe some fries.
 🎧 Absolutely! A steak without some crispy fries is like day without night!
 🎧 Exactly. And for dessert?
-🎧 We have chocolate cake, or if you’re feeling adventurous, a mystery dessert.
+🎧 We have chocolate cake, or if you're feeling adventurous, a mystery dessert.
 🎧 Mystery dessert?
 🎧 Yep. It could be chocolate cake... or something we found in the fridge.
-🎧 I’ll just take the cake, thanks.
-🎧 Good choice. We’ll send everything up shortly!
+🎧 I'll just take the cake, thanks.
+🎧 Good choice. We'll send everything up shortly!
 🎧 Please, no surprises, okay?
 🎧 Only good ones. Promise!
 🎧 Oh, how lucky! Hi, Miss!
@@ -175,33 +175,33 @@ Making a Reservation
 🎧 I'll send ten towels your way.
 🎧 Anything else?
 🎧 Actually, do you happen to have some extra pillows?
-🎧 Sure, how many pillows? Don’t tell me, ten?
-🎧 No, just two, please. I don’t need to build a pillow fort... yet.
+🎧 Sure, how many pillows? Don't tell me, ten?
+🎧 No, just two, please. I don't need to build a pillow fort... yet.
 🎧 Good plan.
 🎧 Is there anything else that you need? Snacks? A pet elephant?
 🎧 Hmm, an elephant might be too big for the room.
 🎧 But maybe some extra shampoo?
-🎧 Shampoo, got it! I’ll send the towels, pillows, and shampoo up right away.
-🎧 Thanks! And maybe I’ll save the elephant for next time.
-🎧 We’ll be ready for it!
+🎧 Shampoo, got it! I'll send the towels, pillows, and shampoo up right away.
+🎧 Thanks! And maybe I'll save the elephant for next time.
+🎧 We'll be ready for it!
 🎧 Good evening! How can I help you?
 🎧 Oh, hi! I'm staying in room 412,
 🎧 and... I think there are some uninvited guests in my room...
 🎧 Oh my! What do you mean by "uninvited guests?"
 🎧 Is somebody trying to get inside your room?
-🎧 Well, I'm not sure... But there’s a strange noise coming from the bathroom.
+🎧 Well, I'm not sure... But there's a strange noise coming from the bathroom.
 🎧 A strange noise? Like… singing?
 🎧 No, more like a dripping tap mixed with a haunted house...
 🎧 Ah, the classic “ghost with plumbing problems.”
-🎧 We’ll send someone to fix that. Anything else?
+🎧 We'll send someone to fix that. Anything else?
 🎧 The window won't open. I tried everything.
 🎧 Well, our windows are on strike.
 🎧 They refuse to work unless treated nicely.
 🎧 Funny, but I really need some fresh air.
-🎧 No problem, we’ll take care of that. Anything else?
-🎧 The bed... it’s a bit lumpy.
+🎧 No problem, we'll take care of that. Anything else?
+🎧 The bed... it's a bit lumpy.
 🎧 I feel like I'm lying on Mount Everest here.
-🎧 Got it. We’ll bring you a flatter one. Anything else?
+🎧 Got it. We'll bring you a flatter one. Anything else?
 🎧 No, that covers it.
 🎧 Just fix my haunted tap, please!
 🎧 On it! Hopefully, no ghosts involved.
@@ -211,13 +211,13 @@ Making a Reservation
 🎧 What time would you like the wake-up call?
 🎧 Ugh, 5 am... Is that even a real time?
 🎧 Unfortunately, yes. We can call you at 5 am, though.
-🎧 Please do! I’m not great at waking up, so I’ll need all the help I can get.
+🎧 Please do! I'm not great at waking up, so I'll need all the help I can get.
 🎧 We'll make sure you get up bright and early.
 🎧 Well, whether you like it or not.
 🎧 Exactly what I need!
 🎧 Thanks for the assist.
-🎧 No problem. We’ll be your morning alarm clock.
-🎧 Let’s just hope I don’t hit the snooze button on you.
+🎧 No problem. We'll be your morning alarm clock.
+🎧 Let's just hope I don't hit the snooze button on you.
 🎧 Luckily, there's no snooze button here, so you're safe.
 🎧 Have a good night, Sarah.
 🎧 Thanks again!
@@ -228,10 +228,10 @@ Making a Reservation
 🎧 I see! We can help with that. What do you need washed?
 🎧 Pretty much everything in my suitcase.
 🎧 Is that okay?
-🎧 Absolutely! Just leave it in the bag, and we’ll take care of it.
+🎧 Absolutely! Just leave it in the bag, and we'll take care of it.
 🎧 Great!
 🎧 Oh, and please don't judge my crazy sock collection.
-🎧 Certainly, no judgment! We’ll wash them without a second thought.
+🎧 Certainly, no judgment! We'll wash them without a second thought.
 🎧 Thanks!
 🎧 Just so you know, I can't survive without my lucky socks.
 🎧 Of course, lucky socks are important!
@@ -241,11 +241,11 @@ Making a Reservation
 🎧 We'll save you from that fate.
 🎧 Good morning, Sam! Time to wake up!
 🎧 Do I have to? My bed is calling my name.
-🎧 It’s 7 am, not a phone call. Up you get!
+🎧 It's 7 am, not a phone call. Up you get!
 🎧 but I'm not a morning person. I'm more of a sleep until lunch person.
 🎧 Well, you can't sleep all day.
 🎧 We've got breakfast. Pancakes!
-🎧 Pancakes? Now you’re speaking my language.
+🎧 Pancakes? Now you're speaking my language.
 🎧 See? It's not so bad.
 🎧 Get up and get dressed. Breakfast won't wait.
 🎧 Fine, but I'm still in bed mentally.
@@ -254,30 +254,30 @@ Making a Reservation
 🎧 No promises. I might need a wake-up call.
 🎧 Here's your call.
 🎧 Get up
-🎧 or you’ll be eating cold pancakes! Or maybe AIR PANCAKES!
+🎧 or you'll be eating cold pancakes! Or maybe AIR PANCAKES!
 🎧 Okay, okay. I'm moving.
 🎧 Pancakes are my motivation.
 🎧 I mean, the real and hot ones.
 🎧 Good choice. Now, brush your teeth.
 🎧 Deal. I'll be there in five minutes...
-🎧 if I don’t get lost on the way.
+🎧 if I don't get lost on the way.
 🎧 Dad, can I have a new backpack for school?
 🎧 Why? Is your old one broken?
-🎧 No, but it’s not sparkly enough. I need sparkle power!
+🎧 No, but it's not sparkly enough. I need sparkle power!
 🎧 Sparkle power? Is that a thing now?
-🎧 Totally! If my backpack doesn’t sparkle, I can’t be the coolest kid in class.
+🎧 Totally! If my backpack doesn't sparkle, I can't be the coolest kid in class.
 🎧 Well, if we get you a sparkly backpack,
 🎧 can you promise to actually use it for school and not just as a fashion statement?
 🎧 I promise.
 🎧 Plus, I'll help you with the groceries.
-🎧 Ah, a deal. And if you forget to help, we’re keeping the sparkles to ourselves.
-🎧 Deal! Let’s go get sparkles.
-🎧 And don’t worry, Dad, I’ll carry all the groceries and the sparkles.
+🎧 Ah, a deal. And if you forget to help, we're keeping the sparkles to ourselves.
+🎧 Deal! Let's go get sparkles.
+🎧 And don't worry, Dad, I'll carry all the groceries and the sparkles.
 🎧 Good.
 🎧 And remember, no sparkles in the living room.
 🎧 We don't need extra glitter on the couch.
 🎧 Got it! Sparkles only in the classroom, I swear.
-🎧 And no extra sparkle on the homework. That’s still a big no!
+🎧 And no extra sparkle on the homework. That's still a big no!
 🎧 Okay, okay. Sparkles for school, homework for brains.
 🎧 Can I play on the swings? Mom? Dad?
 🎧 Sure thing! But remember, no flying too high.
@@ -285,19 +285,19 @@ Making a Reservation
 🎧 I'm not ready for a space mission.
 🎧 Don't worry, I won't fly to the moon.
 🎧 Just a bit higher than the slides.
-🎧 Let’s swing, but if we see a UFO, I’m taking cover!
-🎧 Dad, if we see a UFO, I’m asking them for a ride. I want to see Mars!
+🎧 Let's swing, but if we see a UFO, I'm taking cover!
+🎧 Dad, if we see a UFO, I'm asking them for a ride. I want to see Mars!
 🎧 And what if they bring you back with alien homework?
 🎧 Alien homework?
 🎧 I'll do it on the spaceship.
 🎧 It'll be out of this world!
-🎧 Well, if that happens, tell them we’re busy with park swings first.
-🎧 And make sure they don’t take the dog. He’s already got his own plans!
+🎧 Well, if that happens, tell them we're busy with park swings first.
+🎧 And make sure they don't take the dog. He's already got his own plans!
 🎧 Got it! No aliens, no taking the dog!
 🎧 Just swings and fun!
 🎧 Finally, it's family movie night! What should we watch?
 🎧 Can we watch the new superhero movie?
-🎧 Again? Didn’t we just watch it last week?
+🎧 Again? Didn't we just watch it last week?
 🎧 It will never be enough! How can you say no to superpowers?
 🎧 How about a comedy?
 🎧 I could use a laugh.
@@ -306,9 +306,9 @@ Making a Reservation
 🎧 Superhero comedy?
 🎧 Now, that sounds amazing.
 🎧 Deal. As long as it makes me laugh!
-🎧 I promise it’ll be fun. And popcorn is ready!
+🎧 I promise it'll be fun. And popcorn is ready!
 🎧 Good! A movie night would not be complete without popcorn!
-🎧 Popcorn is life. Just make sure it doesn’t end up all over the couch.
+🎧 Popcorn is life. Just make sure it doesn't end up all over the couch.
 🎧 We'll do our best.
 🎧 Let's get started.
 🎧 Superhero comedy and popcorn.
@@ -317,7 +317,7 @@ Making a Reservation
 🎧 Remember, no fighting over the remote!
 🎧 Or the popcorn!
 🎧 Ugh, homework. Why do I feel it is never-ending?!
-🎧 I know, right? I’m buried in math problems.
+🎧 I know, right? I'm buried in math problems.
 🎧 Just think of it as a puzzle.
 🎧 The more you solve, the easier it gets.
 🎧 I'm not a fan of puzzles, Dad.
@@ -330,16 +330,16 @@ Making a Reservation
 🎧 Why do I have to learn French?
 🎧 Stop complaining and try to finish it up
 🎧 Once you're done, I will let you have more screen time.
-🎧 Deal! But if I don’t finish, can I have an extra hour of playtime?
+🎧 Deal! But if I don't finish, can I have an extra hour of playtime?
 🎧 Nice try. Just get it done.
 🎧 It'll be over before you know it.
 🎧 Hopefully! Homework, here I come.
-🎧 Alright sons, it’s cleaning day! Please try your best, okay?
+🎧 Alright sons, it's cleaning day! Please try your best, okay?
 🎧 Can we just pretend the house is clean?
 🎧 Yeah, like a magic spell.
 🎧 Poof! All clean.
 🎧 Nice try, but we need to actually clean!
-🎧 Let’s make it fun. Whoever cleans the most gets ice cream!
+🎧 Let's make it fun. Whoever cleans the most gets ice cream!
 🎧 Ice cream?! How old do you think I am?!
 🎧 Well, that sounds awesome to me.
 🎧 I'm on it.
@@ -350,7 +350,7 @@ Making a Reservation
 🎧 Old toys? I haven't seen those in ages.
 🎧 I bet they are dinosaurs up there.
 🎧 They've been hiding.
-🎧 Dinosaurs or not, let’s get this done.
+🎧 Dinosaurs or not, let's get this done.
 🎧 We'll have the cleanest house in town.
 🎧 And the biggest ice cream sundaes.
 🎧 Wish I had some magic brooms...
@@ -360,22 +360,22 @@ Making a Reservation
 🎧 Can't we just order pizza?
 🎧 No.
 🎧 We need food for the week.
-🎧 I’ll help pick out the cereal. I’m an expert!
-🎧 And I’ll choose the snacks. I’m also an expert.
+🎧 I'll help pick out the cereal. I'm an expert!
+🎧 And I'll choose the snacks. I'm also an expert.
 🎧 Just don't make the cart a snack monster.
 🎧 Promise! But can we get some cookies?
 🎧 Cookies are a must. They should be in every cart.
-🎧 Cookies, yes. But let’s not forget the veggies.
+🎧 Cookies, yes. But let's not forget the veggies.
 🎧 Veggies are boring.
 🎧 Can we get extra cookies instead?
 🎧 We need balance. Healthy food and cookies.
-🎧 Fine. I’ll sneak in some extra snacks.
+🎧 Fine. I'll sneak in some extra snacks.
 🎧 As long as you help me find the milk.
 🎧 Deal.
 🎧 And make sure we get the best cereal!
 🎧 You can count on us, Mom!
-🎧 Alright, everyone, let’s go for our evening walk!
-🎧 I’m ready! I’ve got my sneakers on.
+🎧 Alright, everyone, let's go for our evening walk!
+🎧 I'm ready! I've got my sneakers on.
 🎧 Do I have to?
 🎧 I have an important game to win… in my video game.
 🎧 Oh. Come on.
@@ -387,7 +387,7 @@ Making a Reservation
 🎧 Fitness?
 🎧 I didn't sign up for a gym membership.
 🎧 It's not a gym.
-🎧 It’s a walk with your Mom and Dad!
+🎧 It's a walk with your Mom and Dad!
 🎧 How come you don't want to have a walk with us, Dave?!
 🎧 Don't make your Mom sad, Dave!
 🎧 Think of it as a break from the screen.
@@ -395,7 +395,7 @@ Making a Reservation
 🎧 I bet it will be great!
 🎧 Let's see...
 🎧 All right, that's it for tonight! Time to close your eyes!
-🎧 But Dad, I’m not tired yet. Can you just read one more chapter?
+🎧 But Dad, I'm not tired yet. Can you just read one more chapter?
 🎧 You know, if you stay up too late, you'll turn into a zombie.
 🎧 I don't think I want to be a zombie.
 🎧 Do zombies get extra sleep?
@@ -408,7 +408,7 @@ Making a Reservation
 🎧 I want to know what will happen next.
 🎧 Can we just save it for tomorrow?
 🎧 I don't think I can sleep in peace tonight without knowing the princess's fate!
-🎧 All right, but just one chapter. Then it’s lights out.
+🎧 All right, but just one chapter. Then it's lights out.
 🎧 Thank you, Dad!
 
 [007] English Speaking Course 007
@@ -700,9 +700,9 @@ Am I Too Old to Learn Something New?
 🎧 Really? That would be amazing!
 🎧 Thank you, Mr. Henry!
 🎧 And in return, can you help me with my English?
-🎧 Of course! I’d be happy to help.
+🎧 Of course! I'd be happy to help.
 🎧 But, I'm worried. I'm too old to learn new things.
-🎧 No, Mr. Henry, you’re never too old to learn.
+🎧 No, Mr. Henry, you're never too old to learn.
 🎧 It's hard for me. My brain isn't as quick as it used to be.
 🎧 That's okay.
 🎧 We can go slowly.
@@ -712,7 +712,7 @@ Am I Too Old to Learn Something New?
 🎧 You've already helped me so much.
 🎧 It's my turn to help you.
 🎧 Alright, Emily. Let's do this together.
-🎧 Great! We'll start tomorrow. It’ll be fun, I promise
+🎧 Great! We'll start tomorrow. It'll be fun, I promise
 🎧 Hi, Henry!
 🎧 Hi Henry! I brought you a book. It's called "Learn English for Beginners."
 🎧 Oh, thank you, Emily! That's very kind of you.
@@ -743,7 +743,7 @@ Am I Too Old to Learn Something New?
 🎧 That's good advice.
 🎧 I don't want to get too tired.
 🎧 Oh, and one more thing! You can listen to podcasts.
-🎧 There’s a great one called LEP - Learn English Podcast. It’s really helpful.
+🎧 There's a great one called LEP - Learn English Podcast. It's really helpful.
 🎧 Podcasts? That sounds good.
 🎧 I'll definitely check out LEP - Learn English Podcast.
 🎧 Also, try to set small, achievable goals.
@@ -793,21 +793,21 @@ Am I Too Old to Learn Something New?
 
 How Can I Learn English By Myself?
 
-🎧 It’s okay, Lily. You’ve done this before.
-🎧 It’s just a new school. Just smile and be friendly.
-🎧 Maybe… maybe they won’t notice that your English isn’t that good.
+🎧 It's okay, Lily. You've done this before.
+🎧 It's just a new school. Just smile and be friendly.
+🎧 Maybe… maybe they won't notice that your English isn't that good.
 🎧 Oh, sorry! Are you okay?
-🎧 Uh… yes… I… I’m okay. Sorry.
+🎧 Uh… yes… I… I'm okay. Sorry.
 🎧 That was so stupid.
 🎧 I couldn't even say a full sentence without messing up.
 🎧 How am I going to survive here?
 🎧 Good morning, Lily! Welcome to your new school.
 🎧 Good morning, Ms.
 🎧 I'm sure you're feeling a bit nervous,
-🎧 but don’t worry, we’re all very happy to have you here.
+🎧 but don't worry, we're all very happy to have you here.
 🎧 Are you ready to meet your new classmates?
 🎧 Um… yes… I think so.
-🎧 That’s the spirit! Just be yourself, and you’ll do great.
+🎧 That's the spirit! Just be yourself, and you'll do great.
 🎧 Let's go meet your teacher.
 🎧 Good morning, Principal.
 🎧 And you must be Lily!
@@ -816,32 +816,32 @@ How Can I Learn English By Myself?
 🎧 She's new to our school, so please make her feel welcome.
 🎧 Lily, would you like to introduce yourself to the class?
 🎧 Um… My name is Lily… and…
-🎧 I just moved here because of… my parents’ work.
+🎧 I just moved here because of… my parents' work.
 🎧 Thank you, Lily.
 🎧 It's not easy being a new student,
 🎧 but I'm sure you'll make friends in no time.
-🎧 Just find a seat, eat quickly, and don’t talk to anyone…
+🎧 Just find a seat, eat quickly, and don't talk to anyone…
 🎧 Maybe they won't notice you.
 🎧 Hey, new girl! You dropped something!
-🎧 I-I’m sorry… I didn’t mean to…
+🎧 I-I'm sorry… I didn't mean to…
 🎧 Nice one! Maybe next time, use your hands properly!
 🎧 Oh my god, she can't even handle her lunch. How clumsy!
 🎧 Tell them you can do it.
 🎧 What should I say?
 🎧 Something like...
-🎧 I can’t do this… I just want to go home…
+🎧 I can't do this… I just want to go home…
 🎧 Hey, don't worry about them. Let me help you.
 🎧 Thank you...
 🎧 It's okay. We've all had embarrassing moments.
 🎧 Trust me, I've been there too.
 🎧 I'm Sharon, by the way.
 🎧 I've seen you around, but I guess we haven't had a chance to talk yet.
-🎧 I’m Lily. I… just moved here.
+🎧 I'm Lily. I… just moved here.
 🎧 Yeah, I figured
 🎧 Moving to a new school is tough.
 🎧 I moved here last year, and it was really hard at first.
 🎧 Especially with all the new faces and, well… the language.
-🎧 My English… it’s not good.
+🎧 My English… it's not good.
 🎧 I get so scared to talk… and then… this happens.
 🎧 You're doing fine, Lily.
 🎧 English is hard, but you're here and you're trying.
@@ -851,10 +851,10 @@ How Can I Learn English By Myself?
 🎧 Sure.
 🎧 And one more thing, it's not your fault.
 🎧 They're just bullying you with words.
-🎧 But everyone was laughing… They must think I’m so stupid.
+🎧 But everyone was laughing… They must think I'm so stupid.
 🎧 Even if they are such rude ones, who cares?
-🎧 You’re here to learn, not to impress everyone.
-🎧 And besides, I think you’re brave for even trying.
+🎧 You're here to learn, not to impress everyone.
+🎧 And besides, I think you're brave for even trying.
 🎧 When I first got here, I was too scared to even speak up in class.
 🎧 You were?
 🎧 Absolutely. I messed up so many times.
@@ -862,19 +862,19 @@ How Can I Learn English By Myself?
 🎧 No matter how embarrassing it gets.
 🎧 Anyway, if you practice more,
 🎧 you'll have the confidence to speak up for yourself in such situations.
-🎧 You’re not alone. I’ll help you, okay?
+🎧 You're not alone. I'll help you, okay?
 🎧 But… what if I mess up again?
-🎧 You probably will. But that’s okay!
+🎧 You probably will. But that's okay!
 🎧 Each time you try, you'll get a little better.
 🎧 We can practice together.
 🎧 Maybe after school, we can go over some things?
 🎧 I've got a few tips that really helped me when I was struggling.
-🎧 Really? You’d do that?
-🎧 Of course! We’re in this together.
-🎧 You’ll see, it’ll get easier.
-🎧 And one day, you’ll look back on today and realize how far you’ve come.
+🎧 Really? You'd do that?
+🎧 Of course! We're in this together.
+🎧 You'll see, it'll get easier.
+🎧 And one day, you'll look back on today and realize how far you've come.
 🎧 Thank you, Sharon. I… I really appreciate it.
-🎧 Anytime, Lily. We’re friends now, right?
+🎧 Anytime, Lily. We're friends now, right?
 🎧 And friends help each other out.
 🎧 Is it far from your house?
 🎧 It only took me 3 minutes to get here.
@@ -895,20 +895,20 @@ How Can I Learn English By Myself?
 🎧 Try thinking in English or even talking to yourself in English.
 🎧 It might feel weird at first,
 🎧 but it really helps get your brain used to the language.
-🎧 Talking to myself? Like… just saying what I’m doing?
+🎧 Talking to myself? Like… just saying what I'm doing?
 🎧 Exactly!
 🎧 Like, if you're making breakfast,
-🎧 you can say, ‘I’m cracking an egg,’ or ‘I’m spreading butter on the toast.’
+🎧 you can say, ‘I'm cracking an egg,' or ‘I'm spreading butter on the toast.'
 🎧 It's a great way to practice without any pressure.
 🎧 And the more you do it, the more natural it will feel.
 🎧 That sounds like something I can try.
 🎧 What else?
 🎧 Another thing is reading out loud.
-🎧 Even if it’s just a paragraph or a short story,
+🎧 Even if it's just a paragraph or a short story,
 🎧 reading out loud helps you get used to the sounds of the words.
-🎧 And it’s okay to go slow, you don’t have to rush.
+🎧 And it's okay to go slow, you don't have to rush.
 🎧 It's about getting comfortable with the language.
-🎧 I’ve always been afraid to read out loud because I didn’t want to mess up.
+🎧 I've always been afraid to read out loud because I didn't want to mess up.
 🎧 I totally get that.
 🎧 But the more you do it, the less scary it becomes.
 🎧 And if you make a mistake, just correct it and keep going.
@@ -916,7 +916,7 @@ How Can I Learn English By Myself?
 🎧 And you can even record yourself and listen back to see how you're improving.
 🎧 Talking to myself?
 🎧 That sounds helpful. I'll give it a try.
-🎧 And here’s another tip:
+🎧 And here's another tip:
 🎧 When you're listening to English,
 🎧 like in movies, songs, or even in class,
 🎧 try to mimic what you hear.
@@ -925,7 +925,7 @@ How Can I Learn English By Myself?
 🎧 Plus, it's fun to imitate your favorite characters.
 🎧 I love watching movies.
 🎧 I never thought about repeating what they say.
-🎧 It’s one of my favorite ways to practice!
+🎧 It's one of my favorite ways to practice!
 🎧 And don't worry if it doesn't sound perfect right away.
 🎧 The more you mimic,
 🎧 the better you'll get at capturing the flow of the language.
@@ -933,7 +933,7 @@ How Can I Learn English By Myself?
 🎧 It sounds like a fun way to practice.
 🎧 It's good to hear that.
 🎧 In the beginning, you can start with short videos cut from movies.
-🎧 That way, you won’t feel bad quickly because it’s easy to learn and interesting.
+🎧 That way, you won't feel bad quickly because it's easy to learn and interesting.
 🎧 Thank you so much.
 🎧 Remember, it's okay to pause and think about what you want to say.
 🎧 You don't have to rush.
@@ -947,15 +947,15 @@ How Can I Learn English By Myself?
 🎧 No one's perfect.
 🎧 I'll keep practicing.
 🎧 I want to get better so I don't have to feel so scared all the time.
-🎧 And you will. You’ve already made so much progress, Lily.
+🎧 And you will. You've already made so much progress, Lily.
 🎧 I'm really proud of you.
-🎧 I wouldn’t have been able to do it without you, Sharon.
+🎧 I wouldn't have been able to do it without you, Sharon.
 🎧 Thank you so much.
 🎧 Hey, you're doing all the hard work.
 🎧 I'm just here to cheer you on.
-🎧 Alright, class! It’s time for our presentations.
+🎧 Alright, class! It's time for our presentations.
 🎧 Who would like to go first?
-🎧 Teacher, I… I’ll go first.
+🎧 Teacher, I… I'll go first.
 🎧 Wonderful! Come on up, Lily.
 🎧 Come on!
 🎧 The key to a successful presentation is preparation and confidence.
@@ -978,7 +978,7 @@ How Can I Learn English By Myself?
 🎧 Thank you for listening.
 🎧 I hope we can all do our part to protect the environment.
 🎧 That was excellent, Lily!
-🎧 You’ve improved so much. I’m very proud of you.
+🎧 You've improved so much. I'm very proud of you.
 🎧 Lily, you were amazing up there! I knew you could do it!
 🎧 Thanks, Sharon. But I still feel like I have a long way to go.
 🎧 I want to get even better at speaking English.
@@ -1107,7 +1107,7 @@ Somebody help me!
 🎧 Is there anything I can do
 🎧 to make it up to you?
 🎧 Like replacing it with another one.
-🎧 Don’t worry about it, Paul! 
+🎧 Don't worry about it, Paul! 
 🎧 Actually, my grandma heard about it
 🎧 and said she will send me a new one.
 🎧 She did?
