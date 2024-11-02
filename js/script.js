@@ -105,7 +105,21 @@ function changeSpeed(select) {
   audio.playbackRate = select.value;
 }
 
+let isFirstScroll = true;
 function changeAudio(select) {
+  const dataEnglish = select.getAttribute("data-english");
+  const targetElement = document.getElementById(`${dataEnglish}-${select.value}`);
+
+  if (targetElement) {
+    const elementPosition = targetElement.getBoundingClientRect().top + window.scrollY;
+    const offset = isFirstScroll ? 200 : 100;
+    window.scrollTo({
+        top: elementPosition - offset,
+        behavior: "smooth",
+    });
+    isFirstScroll = false;
+  }
+
   const audio = select.parentElement.previousElementSibling.previousElementSibling;
   const startTime = parseInt(select.value, 10);
   audio.currentTime = startTime;
