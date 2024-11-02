@@ -108,6 +108,7 @@ span {
   border: 1px solid powderblue;
   border-radius: 5px;
   padding: 3px;
+  outline: none;
 }
 
 .audio-repeat {
