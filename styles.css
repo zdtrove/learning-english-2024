@@ -184,7 +184,7 @@ audio {
 
 
 @media only screen and (max-width: 480px) {
-  .action {
+  .scroll-div .action {
     justify-content: space-between;
   }
 }
