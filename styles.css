@@ -123,9 +123,16 @@ audio {
 }
 
 .action {
+  overflow: auto;
   display: flex;
   justify-content: center;
   gap: 10px;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.action::-webkit-scrollbar {
+  display: none;
 }
 
 .disabled {
@@ -173,4 +180,11 @@ audio {
   width: 98%;
   top: 0;
   left: 1%;
+}
+
+
+@media only screen and (max-width: 480px) {
+  .action {
+    justify-content: space-between;
+  }
 }
