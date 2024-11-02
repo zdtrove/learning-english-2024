@@ -79,6 +79,7 @@ function loadAudio(src, button) {
   const repeat = div.querySelector('button');
   const times = div.querySelector('p');
   const source = document.createElement('source');
+  const change = div.querySelector('select.audio-change');
   source.src = `https://dl.dropboxusercontent.com/scl/fi/${src}`;
   source.type = 'audio/mpeg';
 
@@ -94,7 +95,7 @@ function loadAudio(src, button) {
   };
 
   button.style.display = 'none';
-  [speed, repeat, times].forEach((item) => {
+  [speed, repeat, times, change].forEach((item) => {
     item.style.display = 'block';
   });
 }
@@ -102,6 +103,13 @@ function loadAudio(src, button) {
 function changeSpeed(select) {
   const audio = select.parentElement.previousElementSibling.previousElementSibling;
   audio.playbackRate = select.value;
+}
+
+function changeAudio(select) {
+  const audio = select.parentElement.previousElementSibling.previousElementSibling;
+  const startTime = parseInt(select.value, 10);
+  audio.currentTime = startTime;
+  audio.play();
 }
 
 function repeat(btn) {

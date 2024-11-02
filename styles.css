@@ -103,7 +103,7 @@ span {
   cursor: pointer;
 }
 
-.audio-speed {
+.audio-speed, .audio-change {
   display: none;
   border: 1px solid powderblue;
   border-radius: 5px;
@@ -111,6 +111,10 @@ span {
 }
 
 .audio-repeat {
+  display: none;
+}
+
+.audio-change {
   display: none;
 }
 
