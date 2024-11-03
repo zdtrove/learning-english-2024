@@ -7,6 +7,14 @@ function replaceNewlineWithBr(str) {
   return str.replace(/\n/g, '<br/> ');
 }
 
+function convertToSeconds(input) {
+  const [minutes, secondsPart] = input.toString().split('.');
+  const minutesInSeconds = parseInt(minutes, 10) * 60;
+  const seconds = parseInt(secondsPart.padEnd(2, '0'), 10);
+
+  return minutesInSeconds + seconds;
+}
+
 let newString = replaceNewlineWithBr(string);
 newString = newString.split(' ');
 const arrayFilter = newString.filter(item => item !== '');
@@ -28,3 +36,4 @@ const arrayHtml = arrayFilter.map((item) => {
   return `${item}${lastChar}`;
 });
 const outputHtml = arrayHtml.join(' ') + '<br/><br/>';
+console.log(convertToSeconds(11.4));
