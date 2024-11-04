@@ -36,4 +36,4 @@ const arrayHtml = arrayFilter.map((item) => {
   return `${item}${lastChar}`;
 });
 const outputHtml = arrayHtml.join(' ') + '<br/><br/>';
-console.log(convertToSeconds(2));
+console.log(convertToSeconds(1.13));
