@@ -26,7 +26,7 @@ const arrayHtml = arrayFilter.map((item) => {
   }
 
   if (item.startsWith('[')) {
-    item = `\n\n<h2>${item.replace(/[\[\]]/g, '')}`;
+    item = `<br/>\n\n<h2>${item.replace(/[\[\]]/g, '')}`;
     return item;
   }
 
