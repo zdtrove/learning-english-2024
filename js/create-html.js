@@ -25,6 +25,11 @@ const arrayHtml = arrayFilter.map((item) => {
     item = item.slice(0, -1);
   }
 
+  if (item.endsWith('.<br/>') || item.endsWith(',<br/>') || item.endsWith('!<br/>') || item.endsWith('?<br/>')) {
+    lastChar = item.slice(-6);
+    item = item.slice(0, -6);
+  }
+
   if (item.startsWith('[')) {
     item = `<br/>\n\n<h2>${item.replace(/[\[\]]/g, '')}`;
     return item;
@@ -37,6 +42,10 @@ const arrayHtml = arrayFilter.map((item) => {
 
   if (item.endsWith('<br/>')) {
     item = `${item}\n`;
+  }
+
+  if (lastChar.endsWith('.<br/>') || lastChar.endsWith(',<br/>') || lastChar.endsWith('!<br/>') || lastChar.endsWith('?<br/>')) {
+    lastChar = `${lastChar}\n`;
   }
 
   if (!arrayExcept.includes(item.toLowerCase())) {
