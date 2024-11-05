@@ -27,10 +27,12 @@ const arrayHtml = arrayFilter.map((item) => {
 
   if (item.startsWith('[')) {
     item = `\n\n<h2>${item.replace(/[\[\]]/g, '')}`;
+    return item;
   }
 
   if (item.endsWith("]<br/>")) {
     item = `${item.replace("<br/>", "").replace(/[\[\]]/g, '')}</h2>\n\n`;
+    return item;
   }
 
   if (item.endsWith('<br/>')) {
@@ -44,7 +46,7 @@ const arrayHtml = arrayFilter.map((item) => {
   return `${item}${lastChar}`;
 });
 const outputHtml = arrayHtml.join(' ') + '<br/><br/>';
-const listTimes = [1, 1.15, 3.05];
+const listTimes = [1];
 listTimes.forEach(item => {
   console.log(convertToSeconds(item));
 });
