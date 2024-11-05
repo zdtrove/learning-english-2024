@@ -50,7 +50,7 @@ function getSection(num, id) {
 
 function loadAllContents() {
   getSection(4, 'conversation');
-  getSection(10, 'english-speaking-course');
+  getSection(11, 'english-speaking-course');
   getSection(2, 'easy-english');
   // getSection(7, 'ielts-speaking');
   // getSection(1, 'ielts-listening');
@@ -114,8 +114,8 @@ function changeAudio(select) {
     const elementPosition = targetElement.getBoundingClientRect().top + window.scrollY;
     const offset = isFirstScroll ? 200 : 100;
     window.scrollTo({
-        top: elementPosition - offset,
-        behavior: "smooth",
+      top: elementPosition - offset,
+      behavior: "smooth",
     });
     isFirstScroll = false;
   }
@@ -219,4 +219,44 @@ function disabledClick() {
   });
 
   isDisabled = !isDisabled;
+}
+
+function downloadLocalStorage() {
+  const data = localStorage.getItem("vocabulary");
+
+  if (data) {
+    const blob = new Blob([data], { type: "application/json" });
+    const url = URL.createObjectURL(blob);
+
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = "vocabulary.json";
+    a.click();
+
+    URL.revokeObjectURL(url);
+    console.log("Download successful!");
+  } else {
+    console.log("No vocabulary data found in localStorage.");
+  }
+}
+
+function updateLocalStorage(event) {
+  const file = event.target.files[0];
+
+  if (file && file.type === "application/json") {
+    const reader = new FileReader();
+
+    reader.onload = function (e) {
+      try {
+        const data = JSON.parse(e.target.result);
+        localStorage.setItem("vocabulary", JSON.stringify(data));
+        console.log("Local storage updated successfully!");
+      } catch (error) {
+        console.error("Invalid JSON file:", error);
+      }
+    };
+    reader.readAsText(file);
+  } else {
+    console.log("Please upload a valid JSON file.");
+  }
 }

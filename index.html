@@ -17,6 +17,8 @@
       <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
       <button class="tab-link" onclick="changeTab(event, 'toeic-600-words')">600 Toeic</button> -->
     </section>
+    <button onclick="downloadLocalStorage()">Download Vocabulary</button>
+    <input type="file" accept=".json" onchange="updateLocalStorage(event)" />
     <section id="conversation" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.conversation')">
         <option value="conversation-1">001 → 010</option>
@@ -55,6 +57,7 @@
         <option value="english-speaking-course-8">English Speaking Course 008</option>
         <option value="english-speaking-course-9">English Speaking Course 009</option>
         <option value="english-speaking-course-10">English Speaking Course 010</option>
+        <option value="english-speaking-course-11">English Speaking Course 011</option>
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
     </section>
