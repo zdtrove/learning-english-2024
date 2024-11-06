@@ -221,16 +221,29 @@ function disabledClick() {
   isDisabled = !isDisabled;
 }
 
+function formatTimes(times) {
+  return String(times).padStart(2, '0');
+}
+
 function downloadLocalStorage() {
   const data = localStorage.getItem("vocabulary");
 
   if (data) {
+    const now = new Date();
+    const year = now.getFullYear();
+    const month = formatTimes(now.getMonth() + 1);
+    const date = formatTimes(now.getDate());
+    const hours = formatTimes(now.getHours());
+    const minutes = formatTimes(now.getMinutes());
+    const seconds = formatTimes(now.getSeconds());
+    const timestamp = `${year}-${month}-${date}-${hours}-${minutes}-${seconds}`;
+    const filename = `vocabulary-${timestamp}.json`;
     const blob = new Blob([data], { type: "application/json" });
     const url = URL.createObjectURL(blob);
 
     const a = document.createElement("a");
     a.href = url;
-    a.download = "vocabulary.json";
+    a.download = filename;
     a.click();
 
     URL.revokeObjectURL(url);
@@ -251,6 +264,7 @@ function updateLocalStorage(event) {
         const data = JSON.parse(e.target.result);
         localStorage.setItem("vocabulary", JSON.stringify(data));
         console.log("Local storage updated successfully!");
+        location.reload();
       } catch (error) {
         console.error("Invalid JSON file:", error);
       }
