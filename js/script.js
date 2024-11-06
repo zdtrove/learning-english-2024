@@ -260,3 +260,7 @@ function updateLocalStorage(event) {
     console.log("Please upload a valid JSON file.");
   }
 }
+
+function triggerFileUpload() {
+  document.getElementById("fileInput").click();
+}
