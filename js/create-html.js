@@ -55,8 +55,8 @@ const arrayHtml = arrayFilter.map((item) => {
   return `${item}${lastChar}`;
 });
 
-const listTimes = [1];
-listTimes.forEach(item => {
+const listTimes = [];
+listTimes.length && listTimes.forEach(item => {
   console.log(convertToSeconds(item));
 });
 
