@@ -12,6 +12,7 @@
       <button class="tab-link active" onclick="changeTab(event, 'conversation')">Conversation</button>
       <button class="tab-link" onclick="changeTab(event, 'english-speaking-course')">English Speaking Course</button>
       <button class="tab-link" onclick="changeTab(event, 'easy-english')">Easy English</button>
+      <button class="tab-link" onclick="changeTab(event, 'english-at-work')">English At Work</button>
       <button class="tab-link" onclick="changeTab(event, 'ielts-speaking')">IELTS Speaking</button>
       <button class="tab-link" onclick="changeTab(event, 'ielts-listening')">IELTS Listening</button>
       <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
@@ -63,6 +64,8 @@
         <option value="english-speaking-course-13">English Speaking Course 013</option>
         <option value="english-speaking-course-14">English Speaking Course 014</option>
         <option value="english-speaking-course-15">English Speaking Course 015</option>
+        <option value="english-speaking-course-16">English Speaking Course 016</option>
+        <option value="english-speaking-course-17">English Speaking Course 017</option>
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
     </section>
@@ -70,6 +73,13 @@
       <select class="select-lesson" onchange="changeConversation(this, '.easy-english')">
         <option value="easy-english-1">Easy English 001</option>
         <option value="easy-english-2">Easy English 002</option>
+      </select>
+      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
+    </section>
+    <section id="english-at-work" class="tab-content">
+      <select class="select-lesson" onchange="changeConversation(this, '.english-at-work')">
+        <option value="english-at-work-1">001 → 005</option>
+        <option value="english-at-work-2">006 → 010</option>
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
     </section>

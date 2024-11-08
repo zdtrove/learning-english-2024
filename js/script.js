@@ -18,12 +18,19 @@ function changeTab(evt, lessonName) {
 }
 
 function activeFirstItemSection(sectionClass) {
-  // ['english-speaking-course', 'easy-english', 'ielts-speaking', 'ielts-listening', 'level2', 'toeic-600-words'].forEach((item) => {
-  ['english-speaking-course', 'easy-english'].forEach((item) => {
-    if (sectionClass === item) {
-      document.getElementById(`${sectionClass}-1`).style.display = 'block';
-    }
-  });
+  [
+    'english-speaking-course',
+    'easy-english',
+    'english-at-work',
+    'ielts-speaking',
+    'ielts-listening',
+    'level2',
+    'toeic-600-words'
+  ].forEach((item) => {
+      if (sectionClass === item) {
+        document.getElementById(`${sectionClass}-1`).style.display = 'block';
+      }
+    });
 }
 
 function loadContent(filename, elementId) {
@@ -50,8 +57,9 @@ function getSection(num, id) {
 
 function loadAllContents() {
   getSection(21, 'conversation');
-  getSection(15, 'english-speaking-course');
+  getSection(17, 'english-speaking-course');
   getSection(2, 'easy-english');
+  getSection(2, 'english-at-work');
   getSection(7, 'ielts-speaking');
   getSection(1, 'ielts-listening');
   getSection(11, 'level2');
@@ -95,7 +103,9 @@ function loadAudio(src, button) {
   };
 
   button.style.display = 'none';
-  [speed, repeat, times, change].forEach((item) => {
+  const arrayChange = [speed, repeat, times];
+  change && arrayChange.push(change);
+  arrayChange.forEach((item) => {
     item.style.display = 'block';
   });
 }
