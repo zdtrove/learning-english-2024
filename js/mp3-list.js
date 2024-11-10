@@ -387,6 +387,8 @@ const englishSpeakingCourseMp3 = {
   '015': '7nbmlbq3r8g40222ksaem/015.mp3?rlkey=7scda0drcbutlljy814l7c3yz',
   '016': '8fb6fj3wnipc56lojuhog/016.mp3?rlkey=2sjdl7y3q8izdn4zct7ze38t4',
   '017': 'od4dyfs32i8btd0w398ua/017.mp3?rlkey=u7lzykm0jq0s1szdwuc8dl6ri',
+  '018': 'kft0nq68fhwby9kiwpci9/018.mp3?rlkey=j68u73el7ujiw46m5qxlyb4vf',
+  '019': 'r0la9pbifhdf3ym81s7gb/019.mp3?rlkey=qv9haas9vmo0olmr9o7u408e3',
 }
 
 const englishAtWorkMp3 = {
