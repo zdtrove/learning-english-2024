@@ -1,3 +1,6 @@
+let isFirstScroll = true;
+let currentSeconds = 0;
+
 function changeTab(evt, lessonName) {
   let i, tabContent, tabLinks;
   tabContent = document.getElementsByClassName("tab-content");
@@ -116,8 +119,6 @@ function changeSpeed(select) {
   audio.playbackRate = select.value;
 }
 
-let isFirstScroll = true;
-let currentSeconds = 0;
 function changeAudio(select) {
   currentSeconds = select.value;
   const dataEnglish = select.getAttribute("data-english");
