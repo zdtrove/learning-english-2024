@@ -140,13 +140,6 @@ function changeAudio(select) {
   audio.play();
 }
 
-function repeatAt(btn) {
-  const audio = btn.parentElement.previousElementSibling.previousElementSibling;
-  const startTime = parseInt(currentSeconds, 10);
-  audio.currentTime = startTime;
-  audio.play();
-}
-
 function repeat(btn) {
   const audio = btn.parentElement.previousElementSibling.previousElementSibling;
   audio.currentTime = Math.max(0, audio.currentTime - 5);

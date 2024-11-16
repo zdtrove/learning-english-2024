@@ -6,13 +6,6 @@
   <button onclick="loadAudio(easyEnglishMp3['002'], this)">Play</button>
   <div class="action action-scroll">
     <p class="times"><b>0</b> <i>times</i></p>
-    <select class="audio-speed" onchange="changeSpeed(this)">
-      <option value="1">Speed 1</option>
-      <option value="0.8">Speed 0.8</option>
-      <option value="0.85">Speed 0.85</option>
-      <option value="0.9">Speed 0.9</option>
-    </select>
-    <button class="audio-repeat" onclick="repeat(this)">↺ 5s</button>
     <select class="audio-change" onchange="changeAudio(this)" data-english="ee-2">
       <option value="9">Having a Blood Test in the Lab</option>
       <option value="96">At the Radiologist's</option>
@@ -26,7 +19,13 @@
       <option value="878">At the Movie Theater</option>
       <option value="974">At the School Counselor's Office</option>
     </select>
-    <button class="audio-repeat-at" onclick="repeatAt(this)">↺</button>
+    <select class="audio-speed" onchange="changeSpeed(this)">
+      <option value="1">Speed 1</option>
+      <option value="0.8">Speed 0.8</option>
+      <option value="0.85">Speed 0.85</option>
+      <option value="0.9">Speed 0.9</option>
+    </select>
+    <button class="audio-repeat" onclick="repeat(this)">↺ 5s</button>
   </div>
 </div>
 

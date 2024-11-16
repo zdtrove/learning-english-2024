@@ -111,7 +111,7 @@ span {
   outline: none;
 }
 
-.audio-repeat, .audio-repeat-at, .audio-change {
+.audio-repeat, .audio-change {
   display: none;
 }
 
