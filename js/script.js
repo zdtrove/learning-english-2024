@@ -85,6 +85,7 @@ function loadAudio(src, button) {
   const div = button.nextElementSibling;
   const speed = div.querySelector('select');
   const repeat = div.querySelector('button');
+  const repeatAt = div.querySelector('button.audio-repeat-at');
   const times = div.querySelector('p');
   const source = document.createElement('source');
   const change = div.querySelector('select.audio-change');
@@ -103,7 +104,7 @@ function loadAudio(src, button) {
   };
 
   button.style.display = 'none';
-  const arrayChange = [speed, repeat, times];
+  const arrayChange = [speed, repeat, times, repeatAt];
   change && arrayChange.push(change);
   arrayChange.forEach((item) => {
     item.style.display = 'block';
@@ -116,7 +117,9 @@ function changeSpeed(select) {
 }
 
 let isFirstScroll = true;
+let currentSeconds = 0;
 function changeAudio(select) {
+  currentSeconds = select.value;
   const dataEnglish = select.getAttribute("data-english");
   const targetElement = document.getElementById(`${dataEnglish}-${select.value}`);
 
@@ -132,6 +135,13 @@ function changeAudio(select) {
 
   const audio = select.parentElement.previousElementSibling.previousElementSibling;
   const startTime = parseInt(select.value, 10);
+  audio.currentTime = startTime;
+  audio.play();
+}
+
+function repeatAt(btn) {
+  const audio = btn.parentElement.previousElementSibling.previousElementSibling;
+  const startTime = parseInt(currentSeconds, 10);
   audio.currentTime = startTime;
   audio.play();
 }
