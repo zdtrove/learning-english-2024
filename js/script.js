@@ -299,3 +299,10 @@ function updateLocalStorage(event) {
 function triggerFileUpload() {
   document.getElementById("fileInput").click();
 }
+
+function startAudio(element, seconds) {
+  const audio = element.closest('div').querySelector('.audio');
+  const startTime = parseInt(seconds, 10);
+  audio.currentTime = startTime;
+  audio.play();
+}

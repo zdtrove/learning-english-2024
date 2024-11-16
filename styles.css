@@ -188,6 +188,11 @@ audio {
   margin-bottom: 12px;
 }
 
+.speaker {
+  display: inline-block;
+  transform: translateY(2px);
+  cursor: pointer;
+}
 
 @media only screen and (max-width: 480px) {
   .action-scroll {
