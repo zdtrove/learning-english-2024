@@ -86,9 +86,8 @@ function loadAudio(src, button) {
   let count = 0;
   const audio = button.previousElementSibling;
   const div = button.nextElementSibling;
-  const speed = div.querySelector('select');
+  const speed = div.querySelector('select.audio-speed');
   const repeat = div.querySelector('button');
-  const repeatAt = div.querySelector('button.audio-repeat-at');
   const times = div.querySelector('p');
   const source = document.createElement('source');
   const change = div.querySelector('select.audio-change');
@@ -107,7 +106,7 @@ function loadAudio(src, button) {
   };
 
   button.style.display = 'none';
-  const arrayChange = [speed, repeat, times, repeatAt];
+  const arrayChange = [speed, repeat, times];
   change && arrayChange.push(change);
   arrayChange.forEach((item) => {
     item.style.display = 'block';

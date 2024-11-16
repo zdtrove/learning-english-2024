@@ -3,7 +3,7 @@
   <audio class="audio" controls></audio>
   <button onclick="loadAudio(easyEnglishMp3['001'], this)">Play</button>
   <div class="action action-scroll">
-    <p class="times"><b>0</b> <i>times</i></p>
+    <p class="times">🔄<b>0</b></p>
     <select class="audio-change" onmousedown="this.value = null;" onchange="changeAudio(this)" data-english="ee-1">
       <option value="8">At the Convenience Store</option>
       <option value="166">A Visit to the Doctor</option>
@@ -16,13 +16,13 @@
       <option value="917">Renting an Apartment</option>
       <option value="1070">At the Bank</option>
     </select>
+    <button class="audio-repeat" onclick="repeat(this)">🔙5s</button>
     <select class="audio-speed" onchange="changeSpeed(this)">
-      <option value="1">Speed 1</option>
-      <option value="0.8">Speed 0.8</option>
-      <option value="0.85">Speed 0.85</option>
-      <option value="0.9">Speed 0.9</option>
+      <option value="1">⚡1</option>
+      <option value="0.8">⚡0.8</option>
+      <option value="0.85">⚡0.85</option>
+      <option value="0.9">⚡0.9</option>
     </select>
-    <button class="audio-repeat" onclick="repeat(this)">↺ 5s</button>
   </div>
 </div>
 
