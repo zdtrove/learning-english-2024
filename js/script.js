@@ -301,6 +301,7 @@ function triggerFileUpload() {
 }
 
 function startAudio(element, seconds) {
+  currentSeconds = seconds;
   const audio = element.closest('div').querySelector('.audio');
   const startTime = parseInt(seconds, 10);
   audio.currentTime = startTime;
