@@ -73,6 +73,13 @@ function loadAllContents() {
 
   setTimeout(() => {
     initVocabulary();
+    const selects = document.querySelectorAll(".audio-change");
+    selects.forEach(select => {
+      const secondOption = select.options[1];
+      if (secondOption) {
+        select.value = secondOption.value;
+      }
+    });
   }, 1000);
 }
 

@@ -61,4 +61,4 @@ listTimes.length && listTimes.forEach(item => {
 });
 
 const outputHtml = arrayHtml.join(' ') + '<br/><br/>';
-console.log(outputHtml);
+string.trim() !== "" && console.log(outputHtml);

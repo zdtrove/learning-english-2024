@@ -6,7 +6,8 @@
   <button onclick="loadAudio(easyEnglishMp3['002'], this)">Play</button>
   <div class="action action-scroll">
     <p class="times"><b>0</b> <i>times</i></p>
-    <select class="audio-change" onchange="changeAudio(this)" data-english="ee-2">
+    <select class="audio-change" onmousedown="this.value = 'default';" onchange="changeAudio(this)" data-english="ee-2">
+      <option value="default" disabled selected>Choose a conversation</option>
       <option value="9">Having a Blood Test in the Lab</option>
       <option value="96">At the Radiologist's</option>
       <option value="181">Booking a Cruise</option>
