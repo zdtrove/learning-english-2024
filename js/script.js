@@ -102,13 +102,11 @@ function changeConversation(object, className) {
 }
 
 function loadAudio(src, button) {
-  let count = 0;
   const audio = button.previousElementSibling;
   const div = button.nextElementSibling;
   const speed = div.querySelector('select.audio-speed');
   const repeat = div.querySelector('button.audio-repeat');
   const next = div.querySelector('button.audio-next');
-  const times = div.querySelector('p');
   const source = document.createElement('source');
   const change = div.querySelector('select.audio-change');
   source.src = `https://dl.dropboxusercontent.com/scl/fi/${src}`;
@@ -118,15 +116,13 @@ function loadAudio(src, button) {
   audio.load();
   audio.play();
   audio.onended = function () {
-    count++;
-    times.innerHTML = `<b>${count}</b> <i>times</i>`;
     setTimeout(() => {
       audio.play();
     }, 1500);
   };
 
   button.style.display = 'none';
-  const arrayChange = [speed, repeat, times];
+  const arrayChange = [speed, repeat];
   change && arrayChange.push(change);
   next && arrayChange.push(next);
   arrayChange.forEach((item) => {

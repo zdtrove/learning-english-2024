@@ -147,24 +147,6 @@ audio {
   z-index: 9999;
 }
 
-.times {
-  margin: unset;
-  display: none;
-}
-
-.times b {
-  display: inline-flex;
-  color: red;
-  border: 1px solid white;
-  border-radius: 50%;
-  padding: 4px;
-  width: 12px;
-  height: 12px;
-  justify-content: center;
-  align-items: center;
-  margin-left: 3px;
-}
-
 .pl-15 {
   margin: unset;
   display: inline;
