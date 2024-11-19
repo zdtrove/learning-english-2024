@@ -81,11 +81,13 @@ function loadAllContents() {
       }
     });
     document.addEventListener('keydown', function (event) {
-      if (event.code === 'ArrowLeft') {
+      if (['ArrowLeft', 'ArrowRight'].includes(event.code)) {
         const audios = document.querySelectorAll('audio');
+        const num = event.code === 'ArrowLeft' ? -5 : 2;
+      
         audios.forEach(audio => {
           if (!audio.paused) {
-            audio.currentTime = Math.max(0, audio.currentTime - 5);
+            audio.currentTime = Math.max(0, audio.currentTime + num);
           }
         });
       }
@@ -104,7 +106,8 @@ function loadAudio(src, button) {
   const audio = button.previousElementSibling;
   const div = button.nextElementSibling;
   const speed = div.querySelector('select.audio-speed');
-  const repeat = div.querySelector('button');
+  const repeat = div.querySelector('button.audio-repeat');
+  const next = div.querySelector('button.audio-next');
   const times = div.querySelector('p');
   const source = document.createElement('source');
   const change = div.querySelector('select.audio-change');
@@ -125,6 +128,7 @@ function loadAudio(src, button) {
   button.style.display = 'none';
   const arrayChange = [speed, repeat, times];
   change && arrayChange.push(change);
+  next && arrayChange.push(next);
   arrayChange.forEach((item) => {
     item.style.display = 'block';
   });
@@ -159,6 +163,11 @@ function changeAudio(select) {
 function repeat(btn) {
   const audio = btn.parentElement.previousElementSibling.previousElementSibling;
   audio.currentTime = Math.max(0, audio.currentTime - 5);
+}
+
+function audioNext(btn) {
+  const audio = btn.parentElement.previousElementSibling.previousElementSibling;
+  audio.currentTime = Math.max(0, audio.currentTime + 2);
 }
 
 function initVocabulary() {

@@ -111,7 +111,7 @@ span {
   outline: none;
 }
 
-.audio-repeat, .audio-change {
+.audio-repeat, .audio-change, .audio-next {
   display: none;
 }
 
@@ -158,10 +158,11 @@ audio {
   border: 1px solid white;
   border-radius: 50%;
   padding: 4px;
-  width: 15px;
-  height: 15px;
+  width: 12px;
+  height: 12px;
   justify-content: center;
   align-items: center;
+  margin-left: 3px;
 }
 
 .pl-15 {
