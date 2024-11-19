@@ -30,10 +30,10 @@ function activeFirstItemSection(sectionClass) {
     'level2',
     'toeic-600-words'
   ].forEach((item) => {
-      if (sectionClass === item) {
-        document.getElementById(`${sectionClass}-1`).style.display = 'block';
-      }
-    });
+    if (sectionClass === item) {
+      document.getElementById(`${sectionClass}-1`).style.display = 'block';
+    }
+  });
 }
 
 function loadContent(filename, elementId) {
@@ -78,6 +78,16 @@ function loadAllContents() {
       const secondOption = select.options[1];
       if (secondOption) {
         select.value = secondOption.value;
+      }
+    });
+    document.addEventListener('keydown', function (event) {
+      if (event.code === 'ArrowLeft') {
+        const audios = document.querySelectorAll('audio');
+        audios.forEach(audio => {
+          if (!audio.paused) {
+            audio.currentTime = Math.max(0, audio.currentTime - 5);
+          }
+        });
       }
     });
   }, 1000);
