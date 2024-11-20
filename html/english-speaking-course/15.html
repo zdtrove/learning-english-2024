@@ -3,21 +3,22 @@
   <audio class="audio" controls></audio>
   <button onclick="loadAudio(englishSpeakingCourseMp3['015'], this)">Play</button>
   <div class="action action-scroll">
+    <button class="audio-repeat" onclick="repeat(this)">🔙5s</button>
+    <select class="audio-change" onchange="changeAudio(this)" data-english="esc-15">
+      <option value="4">Job interview</option>
+      <option value="506">Where do you see yourself in the next 10 years?</option>
+    </select>
+    <button class="audio-next" onclick="audioNext(this)">🔜2s</button>
     <select class="audio-speed" onchange="changeSpeed(this)">
       <option value="1">🚀 1</option>
       <option value="0.8">🚀 0.8</option>
       <option value="0.85">🚀 0.85</option>
       <option value="0.9">🚀 0.9</option>
     </select>
-    <button class="audio-repeat" onclick="repeat(this)">🔙5s</button>
-    <select class="audio-change" onchange="changeAudio(this)" data-english="esc-15">
-      <option value="4">Job interview</option>
-      <option value="506">Where do you see yourself in the next 10 years?</option>
-    </select>
   </div>
 </div>
 
-<h2 id="esc-15-4">Job interview</h2>
+<h2 id="esc-15-4">Job interview <b class="speaker" onclick="startAudio(this, 4)">🔊</b></h2>
 
 🎧 I'm so <span>worried</span> about my next <span>job</span> <span>interview</span>.<br/>
 🎧 What if I don't do well?<br/>
@@ -176,7 +177,7 @@
 🎧 Sounds <span>perfect</span>.<br/>
 <span><br/></span><br/>
 
-<h2 id="esc-15-506">Where do you see <span>yourself</span> in the next <span>10</span> years?</h2>
+<h2 id="esc-15-506">Where do you see <span>yourself</span> in the next <span>10</span> years? <b class="speaker" onclick="startAudio(this, 506)">🔊</b></h2>
 
 🎧 Time <span>flies</span> so <span>fast</span>.<br/>
 🎧 It <span>seems</span> like only <span>yesterday<br/></span>

@@ -3,13 +3,14 @@
   <audio class="audio" controls></audio>
   <button onclick="loadAudio(englishSpeakingCourseMp3['005'], this)">Play</button>
   <div class="action">
+    <button class="audio-repeat" onclick="repeat(this)">🔙5s</button>
     <select class="audio-speed" onchange="changeSpeed(this)">
       <option value="1">🚀 1</option>
       <option value="0.8">🚀 0.8</option>
       <option value="0.85">🚀 0.85</option>
       <option value="0.9">🚀 0.9</option>
     </select>
-    <button class="audio-repeat" onclick="repeat(this)">🔙5s</button>
+    <button class="audio-next" onclick="audioNext(this)">🔜2s</button>
   </div>
 </div>
 

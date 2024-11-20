@@ -3,12 +3,6 @@
   <audio class="audio" controls></audio>
   <button onclick="loadAudio(englishSpeakingCourseMp3['012'], this)">Play</button>
   <div class="action action-scroll">
-    <select class="audio-speed" onchange="changeSpeed(this)">
-      <option value="1">🚀 1</option>
-      <option value="0.8">🚀 0.8</option>
-      <option value="0.85">🚀 0.85</option>
-      <option value="0.9">🚀 0.9</option>
-    </select>
     <button class="audio-repeat" onclick="repeat(this)">🔙5s</button>
     <select class="audio-change" onchange="changeAudio(this)" data-english="esc-12">
       <option value="3">How much is this book?</option>
@@ -42,10 +36,17 @@
       <option value="1751">You are my reason for living</option>
       <option value="1812">Is it in fact the case that…?</option>
     </select>
+    <button class="audio-next" onclick="audioNext(this)">🔜2s</button>
+    <select class="audio-speed" onchange="changeSpeed(this)">
+      <option value="1">🚀 1</option>
+      <option value="0.8">🚀 0.8</option>
+      <option value="0.85">🚀 0.85</option>
+      <option value="0.9">🚀 0.9</option>
+    </select>
   </div>
 </div>
 
-<h2 id="esc-12-3">How much is this book?</h2>
+<h2 id="esc-12-3">How much is this book? <b class="speaker" onclick="startAudio(this, 3)">🔊</b></h2>
 
 🎧 What are you doing?<br/>
 🎧 I'm <span>reading</span> my new book.<br/>
@@ -68,7 +69,7 @@
 🎧 I see.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-58">I want to do it immediately</h2>
+<h2 id="esc-12-58">I want to do it immediately <b class="speaker" onclick="startAudio(this, 58)">🔊</b></h2>
 
 🎧 How is the <span>lesson</span>?<br/>
 🎧 Do you know how to <span>bake</span> a <span>cake</span>?<br/>
@@ -87,7 +88,7 @@
 🎧 Okay. Let's go together.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-107">How can you <span>complete</span> all that so quickly?</h2>
+<h2 id="esc-12-107">How can you <span>complete</span> all that so quickly? <b class="speaker" onclick="startAudio(this, 107)">🔊</b></h2>
 
 🎧 I have a lot of work to do. But I <span>don't<br/></span>
 🎧 know how to start from <span>scratch</span>.<br/>
@@ -111,7 +112,7 @@
 🎧 Good.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-167">The <span>story</span> <span>ended</span> in the <span>simplest</span> way</h2>
+<h2 id="esc-12-167">The <span>story</span> <span>ended</span> in the <span>simplest</span> way <b class="speaker" onclick="startAudio(this, 167)">🔊</b></h2>
 
 🎧 Hey. Do you know the <span>conflict<br/></span>
 🎧 between <span>Andrea</span> and <span>Mina</span>?<br/>
@@ -135,7 +136,7 @@
 🎧 The <span>story</span> <span>ended</span> in the <span>simplest</span> way.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-235">I had a <span>hard</span> time <span>making</span> this</h2>
+<h2 id="esc-12-235">I had a <span>hard</span> time <span>making</span> this <b class="speaker" onclick="startAudio(this, 235)">🔊</b></h2>
 
 🎧 I have a <span>present</span> for you.<br/>
 🎧 Oh my <span>God</span>! It's so <span>beautiful</span>.<br/>
@@ -157,7 +158,7 @@
 🎧 Thanks again.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-299">It was <span>certainly</span> <span>worth</span> it</h2>
+<h2 id="esc-12-299">It was <span>certainly</span> <span>worth</span> it <b class="speaker" onclick="startAudio(this, 299)">🔊</b></h2>
 
 🎧 What's wrong? You look so <span>tired</span>!<br/>
 🎧 Right. I'm not <span>tired</span>, I'm <span>exhausted</span>.<br/>
@@ -174,14 +175,14 @@
 🎧 Well, it was <span>certainly</span> <span>worth</span> it. You <span>worked</span> so <span>hard</span>.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-356">Keep it under your hat</h2>
+<h2 id="esc-12-356">Keep it under your hat <b class="speaker" onclick="startAudio(this, 356)">🔊</b></h2>
 
 🎧 <span>Sarah</span>, It's <span>Alex</span>, <span>Andrea's</span> <span>boyfriend</span>.<br/>
 🎧 Yeah. Why are you <span>calling</span> me?<br/>
 🎧 I want to ask you something.<br/>
 🎧 Go on.<br/>
 🎧 You know, <span>Andrea's</span> <span>birthday</span> is <span>coming</span> but I haven't <span>decided</span> what I should give her.<br/>
-🎧 Well. She <span>likes</span> a lot of things.<br/>
+🎧 Well. She likes a lot of things.<br/>
 🎧 I <span>asked</span> her but she just <span>said:</span> <span>"No</span>, you don't need to buy me anything. It's <span>fine"</span>.<br/>
 🎧 She always <span>thinks</span> for you.<br/>
 🎧 I know.<br/>
@@ -195,7 +196,7 @@
 🎧 Of course. I won't tell her.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-430">That girl is so strange</h2>
+<h2 id="esc-12-430">That girl is so strange <b class="speaker" onclick="startAudio(this, 430)">🔊</b></h2>
 
 🎧 Have you <span>met</span> our new <span>classmate</span>?<br/>
 🎧 Yeah. Let me <span>remember</span> her name. <span>Anne</span>, right?<br/>
@@ -217,7 +218,7 @@
 🎧 That's a good <span>point</span>.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-483">I've <span>seen</span> that guy before</h2>
+<h2 id="esc-12-483">I've <span>seen</span> that guy before <b class="speaker" onclick="startAudio(this, 483)">🔊</b></h2>
 
 🎧 Is that guy <span>looking</span> at you?<br/>
 🎧 Who?<br/>
@@ -236,7 +237,7 @@
 🎧 I will come back soon.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-543">Can I talk to you before you go home?</h2>
+<h2 id="esc-12-543">Can I talk to you before you go home? <b class="speaker" onclick="startAudio(this, 543)">🔊</b></h2>
 
 🎧 <span>Anne</span>, can we talk now?<br/>
 🎧 Oh, I'm sorry.<br/>
@@ -258,7 +259,7 @@
 🎧 Sure.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-607">You should <span>avoid</span> alcohol</h2>
+<h2 id="esc-12-607">You should <span>avoid</span> alcohol <b class="speaker" onclick="startAudio(this, 607)">🔊</b></h2>
 
 🎧 Let me tell you, <span>Liam</span>.<br/>
 🎧 the <span>party</span> last <span>night</span> was <span>lit</span>!<br/>
@@ -287,7 +288,7 @@
 🎧 but the <span>consequences</span> are not <span>worth</span> it.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-685">I'd like to <span>transfer</span> some money to this account</h2>
+<h2 id="esc-12-685">I'd like to <span>transfer</span> some money to this account <b class="speaker" onclick="startAudio(this, 685)">🔊</b></h2>
 
 🎧 Hi, sir.<br/>
 🎧 What can I do for you?<br/>
@@ -310,7 +311,7 @@
 🎧 <span>Delayed</span> <span>again!!</span>!<br/>
 <span><br/></span>
 
-<h2 id="esc-12-754">Green with envy</h2>
+<h2 id="esc-12-754">Green with envy <b class="speaker" onclick="startAudio(this, 754)">🔊</b></h2>
 
 🎧 Rob! I'm <span>tired</span> of all the cooking and <span>cleaning</span> <span>stuff</span>!<br/>
 🎧 Why don't we just eat out?<br/>
@@ -331,7 +332,7 @@
 🎧 Let it go, <span>Rachel</span>.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-816">Wait behind the <span>yellow</span> line</h2>
+<h2 id="esc-12-816">Wait behind the <span>yellow</span> line <b class="speaker" onclick="startAudio(this, 816)">🔊</b></h2>
 
 🎧 <span>Mommy</span>, look!<br/>
 🎧 The <span>railway</span> <span>tunnel</span> looks <span>huge</span>.<br/>
@@ -352,7 +353,7 @@
 🎧 You wait behind the <span>yellow</span> <span>line</span>!<br/>
 <span><br/></span>
 
-<h2 id="esc-12-878">Could you <span>trim</span> my <span>beard</span>, please?</h2>
+<h2 id="esc-12-878">Could you <span>trim</span> my <span>beard</span>, please? <b class="speaker" onclick="startAudio(this, 878)">🔊</b></h2>
 
 🎧 Oh my <span>god</span>! I can't <span>believe</span> this.<br/>
 🎧 Is that you, <span>Jonathan</span>?<br/>
@@ -373,7 +374,7 @@
 🎧 Sure!<br/>
 <span><br/></span>
 
-<h2 id="esc-12-945">A bad <span>hair</span> day</h2>
+<h2 id="esc-12-945">A bad <span>hair</span> day <b class="speaker" onclick="startAudio(this, 945)">🔊</b></h2>
 
 🎧 Hi, <span>Jesse</span>.<br/>
 🎧 Oh, my <span>God</span>.<br/>
@@ -402,7 +403,7 @@
 🎧 Not a bad <span>day<br/>
 </span><span><br/></span>
 
-<h2 id="esc-12-1031">On <span>cloud</span> nine</h2>
+<h2 id="esc-12-1031">On <span>cloud</span> nine <b class="speaker" onclick="startAudio(this, 1031)">🔊</b></h2>
 
 🎧 <span>Helen</span>, the <span>landlord's</span> here again for the <span>rent</span>!<br/>
 🎧 Just <span>paid</span> all my <span>debt</span> and I am <span>totally</span> <span>broke</span> right now!<br/>
@@ -420,7 +421,7 @@
 🎧 Oh my! <span>Congrats!!</span>!<br/>
 <span><br/></span>
 
-<h2 id="esc-12-1092">I'm sorry for your loss</h2>
+<h2 id="esc-12-1092">I'm sorry for your loss <b class="speaker" onclick="startAudio(this, 1092)">🔊</b></h2>
 
 🎧 <span>Mike</span>, <span>hurry</span> up, we're gonna be <span>late</span>.<br/>
 🎧 But I want to go to the <span>playground</span> <span>instead</span>.<br/>
@@ -441,7 +442,7 @@
 🎧 Oh, <span>Grandpa</span>, I'm sorry for your <span>loss</span>.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-1162">There's a <span>deposit</span> of one <span>month's</span> rent</h2>
+<h2 id="esc-12-1162">There's a <span>deposit</span> of one <span>month's</span> rent <b class="speaker" onclick="startAudio(this, 1162)">🔊</b></h2>
 
 🎧 Hello, sir.<br/>
 🎧 What can I do for you today?<br/>
@@ -457,7 +458,7 @@
 🎧 Sure, it would be <span>2000</span> US <span>dollars</span> then.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-1217">We'd better go back to our seats</h2>
+<h2 id="esc-12-1217">We'd better go back to our seats <b class="speaker" onclick="startAudio(this, 1217)">🔊</b></h2>
 
 🎧 <span>Peter</span>, the movie will start in <span>30</span> <span>minutes</span>.<br/>
 🎧 That's a lot of time.<br/>
@@ -476,7 +477,7 @@
 🎧 Ok, <span>fine!</span>!<br/>
 <span><br/></span>
 
-<h2 id="esc-12-1280">Can you <span>translate</span> this for me?</h2>
+<h2 id="esc-12-1280">Can you <span>translate</span> this for me? <b class="speaker" onclick="startAudio(this, 1280)">🔊</b></h2>
 
 🎧 <span>Excuse</span> me.<br/>
 🎧 Where can I find <span>peanut</span> <span>butter</span>?<br/>
@@ -504,7 +505,7 @@
 🎧 Thank you so much for your help.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-1354">No thanks. I'm OK</h2>
+<h2 id="esc-12-1354">No thanks. I'm OK <b class="speaker" onclick="startAudio(this, 1354)">🔊</b></h2>
 
 🎧 Hi. How can I help you?<br/>
 🎧 Hi, I have a <span>reservation</span> for <span>4</span> today at <span>8</span> <span>P.M</span>.<br/>
@@ -526,7 +527,7 @@
 🎧 I like the <span>natural</span> <span>wind</span> like this.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-1414">Long time no see</h2>
+<h2 id="esc-12-1414">Long time no see <b class="speaker" onclick="startAudio(this, 1414)">🔊</b></h2>
 
 🎧 <span>Excuse</span> me.<br/>
 🎧 Where is the <span>cheese</span>?<br/>
@@ -552,7 +553,7 @@
 🎧 Okay!<br/>
 <span><br/></span>
 
-<h2 id="esc-12-1472">I'm <span>coming</span> to <span>pick</span> you up</h2>
+<h2 id="esc-12-1472">I'm <span>coming</span> to <span>pick</span> you up <b class="speaker" onclick="startAudio(this, 1472)">🔊</b></h2>
 
 🎧 Hi, <span>Alice</span>, it's <span>John</span>. How are you?<br/>
 🎧 Oh, hi, <span>John</span>! I was just thinking about you.<br/>
@@ -571,7 +572,7 @@
 🎧 Okay. See you then. Bye!<br/>
 <span><br/></span>
 
-<h2 id="esc-12-1528">I know</h2>
+<h2 id="esc-12-1528">I know <b class="speaker" onclick="startAudio(this, 1528)">🔊</b></h2>
 
 🎧 <span>Tony</span>, do you know what time it is?<br/>
 🎧 It's <span>6:15</span>.<br/>
@@ -592,7 +593,7 @@
 🎧 Thanks. I will be there in <span>10</span> <span>minutes</span>.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-1579">I <span>ate</span> already</h2>
+<h2 id="esc-12-1579">I <span>ate</span> already <b class="speaker" onclick="startAudio(this, 1579)">🔊</b></h2>
 
 🎧 Hey, why are you <span>late</span> today?<br/>
 🎧 I got up <span>late</span> this morning.<br/>
@@ -611,14 +612,14 @@
 🎧 I would like to have a <span>sandwich</span>.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-1628">He <span>likes</span> it very much</h2>
+<h2 id="esc-12-1628">He likes it very much <b class="speaker" onclick="startAudio(this, 1628)">🔊</b></h2>
 
 🎧 Can I help you?<br/>
 🎧 Yes. I want to buy this <span>T-shirt</span> for my <span>husband</span>.<br/>
 🎧 Have you got it in <span>black</span>?<br/>
 🎧 <span>Unfortunately</span>, we've got it in <span>white</span>, red and <span>purple</span>.<br/>
 🎧 No <span>black</span>?<br/>
-🎧 He <span>likes</span> it very much.<br/>
+🎧 He likes it very much.<br/>
 🎧 I'm so sorry.<br/>
 🎧 What size do you want?<br/>
 🎧 <span>Medium</span>.<br/>
@@ -638,7 +639,7 @@
 🎧 Thanks. Bye!<br/>
 <span><br/></span>
 
-<h2 id="esc-12-1690">Thank you so much</h2>
+<h2 id="esc-12-1690">Thank you so much <b class="speaker" onclick="startAudio(this, 1690)">🔊</b></h2>
 
 🎧 Hi. I'm going to buy some <span>apples</span>.<br/>
 🎧 I will come with you.<br/>
@@ -660,7 +661,7 @@
 🎧 <span>Goodbye</span>!<br/>
 <span><br/></span>
 
-<h2 id="esc-12-1751">You are my <span>reason</span> for living</h2>
+<h2 id="esc-12-1751">You are my <span>reason</span> for living <b class="speaker" onclick="startAudio(this, 1751)">🔊</b></h2>
 
 🎧 <span>Surprise</span>!<br/>
 🎧 Happy <span>birthday</span> to <span>you!!</span>!<br/>
@@ -690,7 +691,7 @@
 🎧 <span>Awesome</span>.<br/>
 <span><br/></span>
 
-<h2 id="esc-12-1812">Is it in <span>fact</span> the case that…?</h2>
+<h2 id="esc-12-1812">Is it in <span>fact</span> the case that…? <b class="speaker" onclick="startAudio(this, 1812)">🔊</b></h2>
 
 🎧 Make sure you <span>finish</span> <span>preparing</span> for your <span>presentation</span> by <span>tomorrow</span>.<br/>
 🎧 Sure.<br/>

@@ -3,12 +3,6 @@
   <audio class="audio" controls></audio>
   <button onclick="loadAudio(englishSpeakingCourseMp3['004'], this)">Play</button>
   <div class="action action-scroll">
-    <select class="audio-speed" onchange="changeSpeed(this)">
-      <option value="1">🚀 1</option>
-      <option value="0.8">🚀 0.8</option>
-      <option value="0.85">🚀 0.85</option>
-      <option value="0.9">🚀 0.9</option>
-    </select>
     <button class="audio-repeat" onclick="repeat(this)">🔙5s</button>
     <select class="audio-change" onchange="changeAudio(this)" data-english="esc-4">
       <option value="4">Do you like to dance?</option>
@@ -27,10 +21,17 @@
       <option value="930">Do you enjoy going to the beach?</option>
       <option value="988">What is your favorite ice cream flavor?</option>
     </select>
+    <button class="audio-next" onclick="audioNext(this)">🔜2s</button>
+    <select class="audio-speed" onchange="changeSpeed(this)">
+      <option value="1">🚀 1</option>
+      <option value="0.8">🚀 0.8</option>
+      <option value="0.85">🚀 0.85</option>
+      <option value="0.9">🚀 0.9</option>
+    </select>
   </div>
 </div>
 
-<h2 id="esc-4-4">Do you like to dance?</h2>
+<h2 id="esc-4-4">Do you like to dance? <b class="speaker" onclick="startAudio(this, 4)">🔊</b></h2>
 
 🎧 Wow, that's <span>beautiful</span>! What <span>song</span> is that?<br/> 
 🎧 Thanks! It's a <span>traditional</span> <span>tune</span> called <span>"Song</span> of the <span>Night</span> <span>Wind."</span><br/> 
@@ -49,11 +50,11 @@
 🎧 Not exactly, but the music always <span>draws</span> a <span>crowd</span>.<br/> 
 🎧 Do you like to <span>dance</span>?<br/> 
 🎧 More than anything! I can't <span>resist</span> a good <span>beat</span>.<br/> 
-🎧 Then why don't you <span>show</span> me your <span>moves</span>?<br/> 
+🎧 Then why don't you show me your <span>moves</span>?<br/> 
 🎧 I can <span>provide</span> the <span>music</span>.<br/> 
 🎧 <span>Challenge</span> <span>accepted</span>!<br/> <br/> 
 
-<h2 id="esc-4-73">What is your favorite holiday?</h2>
+<h2 id="esc-4-73">What is your favorite holiday? <b class="speaker" onclick="startAudio(this, 73)">🔊</b></h2>
 
 🎧 This place has a really nice <span>atmosphere</span>.<br/> 
 🎧 <span>Perfect</span> for a first <span>date</span>, wouldn't you <span>say</span>?<br/> 
@@ -83,7 +84,7 @@
 🎧 Maybe we could even plan a <span>trip</span> around <span>it</span>.<br/> 
 🎧 Who <span>knows</span>, maybe we'll be <span>celebrating</span> <span>summer</span> <span>solstice</span> together next <span>year</span>.<br/> <br/> 
 
-<h2 id="esc-4-184">Do you like to exercise?</h2>
+<h2 id="esc-4-184">Do you like to exercise? <b class="speaker" onclick="startAudio(this, 184)">🔊</b></h2>
 
 🎧 Hey there, sorry about the <span>barking</span>!<br/> 
 🎧 He <span>gets</span> <span>excited</span> around other <span>people</span>.<br/> 
@@ -110,7 +111,7 @@
 🎧 <span>Running</span> <span>buddies</span>? I think <span>Charlie</span> would love that <span>company</span>.<br/> 
 🎧 <span>Perfect</span>!<br/> <br/> 
 
-<h2 id="esc-4-268">What is your favorite TV show?</h2>
+<h2 id="esc-4-268">What is your favorite TV show? <b class="speaker" onclick="startAudio(this, 268)">🔊</b></h2>
 
 🎧 First time at the <span>dentist</span>? You <span>seem</span> a little <span>tense</span>.<br/> 
 🎧 Maybe a <span>little</span>.<br/> 
@@ -118,19 +119,19 @@
 🎧 What about you?<br/> 
 🎧 <span>Nervous</span> about the <span>drill</span>?<br/> 
 🎧 Actually, I'm just here for a <span>checkup</span>. <span>Hopefully</span>, a <span>quick</span> one!<br/> 
-🎧 So, to <span>distract</span> <span>ourselves</span>, what is your <span>favorite</span> <span>TV</span> <span>show</span>?<br/> 
+🎧 So, to <span>distract</span> <span>ourselves</span>, what is your <span>favorite</span> <span>TV</span> show?<br/> 
 🎧 <span>Movies</span>, definitely! Big <span>action</span> <span>films</span> and <span>comedies</span> are my <span>favorites</span>.<br/> 
 🎧 It's a good way to <span>escape</span> from <span>reality</span>, you know?<br/> 
 🎧 I <span>understand</span> that!<br/> 
 🎧 What about <span>TV</span> <span>shows</span>? Any good <span>ones</span> you <span>recommend</span>?<br/> 
-🎧 <span>Hmm</span>, there's this new <span>sci-fi</span> <span>show</span> I <span>love</span>.<br/> 
+🎧 <span>Hmm</span>, there's this new <span>sci-fi</span> show I <span>love</span>.<br/> 
 🎧 It's about a <span>group</span> of <span>astronauts</span> <span>exploring</span> a <span>strange</span> <span>planet</span>.<br/> 
-🎧 What's the name of the <span>show</span>? Maybe I'll give it a <span>try</span>.<br/> 
+🎧 What's the name of the show? Maybe I'll give it a <span>try</span>.<br/> 
 🎧 It's called <span>"Galaxy</span> <span>Quest."</span><br/> 
 🎧 It's <span>pretty</span> <span>popular</span>, so you might have <span>heard</span> of it already.<br/> 
 🎧 I actually haven't! But thanks for the <span>recommendation</span>.<br/> <br/> 
 
-<h2 id="esc-4-336">What is your favorite dessert?</h2>
+<h2 id="esc-4-336">What is your favorite dessert? <b class="speaker" onclick="startAudio(this, 336)">🔊</b></h2>
 
 🎧 Wow, what is that <span>incredible</span> <span>smell</span>?<br/> 
 🎧 It <span>smells</span> like <span>heaven</span>.<br/> 
@@ -154,7 +155,7 @@
 🎧 What about you?<br/> 
 🎧 I love a good <span>brownie</span>, <span>especially</span> with some <span>chopped</span> <span>nuts</span> and a <span>glass</span> of <span>cold</span> <span>milk</span>.<br/> <br/> 
 
-<h2 id="esc-4-421">Do you have a best friend?</h2>
+<h2 id="esc-4-421">Do you have a best friend? <b class="speaker" onclick="startAudio(this, 421)">🔊</b></h2>
 
 🎧 Still <span>reading</span> that same <span>book</span>?<br/> 
 🎧 <span>Lost</span> in the <span>world</span> again. It's <span>amazing</span>!<br/> 
@@ -171,7 +172,7 @@
 🎧 <span>We've</span> been together for ten <span>years</span>.<br/> 
 🎧 Now that's the kind of <span>loyalty</span> I can <span>appreciate</span>.<br/> <br/> 
 
-<h2 id="esc-4-475">What is your favorite subject in school?</h2>
+<h2 id="esc-4-475">What is your favorite subject in school? <b class="speaker" onclick="startAudio(this, 475)">🔊</b></h2>
 
 🎧 <span>Dude</span>, where'd you get all that food? <span>Sharing</span> <span>fries</span>?<br/> 
 🎧 Maybe. <span>Depends</span> on your answer to a very <span>important</span> <span>question</span>.<br/> 
@@ -190,7 +191,7 @@
 🎧 Anything <span>involving</span> <span>explosions</span> or <span>zombies</span> and the <span>fries</span> are all <span>yours</span>.<br/> 
 🎧 <span>Deal</span>!<br/> <br/> 
 
-<h2 id="esc-4-552">Do you like to draw or paint?</h2>
+<h2 id="esc-4-552">Do you like to draw or paint? <b class="speaker" onclick="startAudio(this, 552)">🔊</b></h2>
 
 🎧 Hey <span>Nadia</span>! Nice <span>drawing</span> in class today.<br/> 
 🎧 Where are you <span>headed</span>?<br/> 
@@ -209,7 +210,7 @@
 🎧 But hey, maybe you can <span>teach</span> me some <span>drawing</span> <span>stuff</span> sometime?<br/> 
 🎧 Maybe! But first, let's see if I can catch this game without <span>making</span> a <span>complete</span> <span>mess</span>.<br/> <br/> 
 
-<h2 id="esc-4-617">What is your favorite animal?</h2>
+<h2 id="esc-4-617">What is your favorite animal? <b class="speaker" onclick="startAudio(this, 617)">🔊</b></h2>
 
 🎧 Hey <span>Noah</span>, what are you <span>looking</span> at on your <span>phone</span>?<br/> 
 🎧 It's a <span>video</span> about red <span>pandas</span>.<br/> 
@@ -231,7 +232,7 @@
 🎧 <span>Plus</span>, they're always <span>cleaning</span> <span>themselves</span>, which is <span>pretty</span> <span>cool</span>.<br/> 
 🎧 <span>Cats</span> are great, too.<br/> <br/> 
 
-<h2 id="esc-4-684">Do you enjoy playing video games?</h2>
+<h2 id="esc-4-684">Do you enjoy playing video games? <b class="speaker" onclick="startAudio(this, 684)">🔊</b></h2>
 
 🎧 <span>Alex</span>, what's up? You <span>seem</span> <span>relaxed</span>!<br/> 
 🎧 Yeah, I just <span>beat</span> the <span>final</span> <span>level</span> on that new <span>space</span> <span>shooter</span> <span>game</span>.<br/> 
@@ -250,7 +251,7 @@
 🎧 Absolutely! We could even play together if you want.<br/> 
 🎧 Really? Thanks, <span>Alex</span>!<br/> <br/> 
 
-<h2 id="esc-4-746">What is your favorite fruit?</h2>
+<h2 id="esc-4-746">What is your favorite fruit? <b class="speaker" onclick="startAudio(this, 746)">🔊</b></h2>
 
 🎧 Wow, this <span>weather</span> is <span>perfect</span> for a <span>picnic</span>!<br/> 
 🎧 Absolutely! <span>Fresh</span> air, good <span>food</span>... what more could you ask <span>for</span>?<br/> 
@@ -270,7 +271,7 @@
 🎧 But first, let's <span>dig</span> into this <span>fruit</span> <span>salad</span>.<br/> 
 🎧 Can't <span>wait</span>!<br/> <br/> 
 
-<h2 id="esc-4-817">Do you like to sing?</h2>
+<h2 id="esc-4-817">Do you like to sing? <b class="speaker" onclick="startAudio(this, 817)">🔊</b></h2>
 
 🎧 Wow, <span>Liam</span>, is that a <span>guitar</span>?<br/> 
 🎧 <span>Yep</span>! Thought it might be fun to play a few <span>tunes</span> after <span>lunch</span>.<br/> 
@@ -286,7 +287,7 @@
 🎧 Okay. Maybe I'll even <span>surprise</span> myself with some <span>hidden</span> <span>talent</span>.<br/> 
 🎧 Sounds good to me.<br/> <br/> 
 
-<h2 id="esc-4-874">What is your favorite sport to watch?</h2>
+<h2 id="esc-4-874">What is your favorite sport to watch? <b class="speaker" onclick="startAudio(this, 874)">🔊</b></h2>
 
 🎧 Wow, <span>close</span> game! Who are they <span>playing</span>?<br/> 
 🎧 Oh, that's the <span>city</span> <span>finals</span> for <span>basketball</span>.<br/> 
@@ -300,7 +301,7 @@
 🎧 The <span>strategy</span>, the <span>skill</span>... it's like <span>watching</span> a <span>chess</span> <span>match</span> <span>played</span> really <span>fast</span>.<br/> 
 🎧 <span>Hmm</span>, maybe. Still, I <span>prefer</span> <span>watching</span> something more <span>graceful</span>.<br/> <br/> 
 
-<h2 id="esc-4-930">Do you enjoy going to the beach?</h2>
+<h2 id="esc-4-930">Do you enjoy going to the beach? <b class="speaker" onclick="startAudio(this, 930)">🔊</b></h2>
 
 🎧 <span>Ugh</span>, this <span>heat</span> is <span>unbearable</span>! I wish I was somewhere <span>cool</span> right now.<br/> 
 🎧 Me too! How about a <span>trip</span> to the <span>beach</span> this weekend?<br/> 
@@ -316,7 +317,7 @@
 🎧 <span>True</span>. And who <span>knows</span>, maybe I'll be a <span>natural</span> <span>surfer</span>!<br/> 
 🎧 Maybe.<br/> <br/> 
 
-<h2 id="esc-4-988">What is your favorite ice cream flavor?</h2>
+<h2 id="esc-4-988">What is your favorite ice cream flavor? <b class="speaker" onclick="startAudio(this, 988)">🔊</b></h2>
 
 🎧 Hey everyone! It's such a hot day, wouldn't ice <span>cream</span> be <span>perfect</span>?<br/> 
 🎧 What is your <span>favorite</span> ice <span>cream</span> <span>flavor</span>?<br/> 

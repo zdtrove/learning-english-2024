@@ -3,12 +3,6 @@
   <audio class="audio" controls></audio>
   <button onclick="loadAudio(englishSpeakingCourseMp3['014'], this)">Play</button>
   <div class="action action-scroll">
-    <select class="audio-speed" onchange="changeSpeed(this)">
-      <option value="1">🚀 1</option>
-      <option value="0.8">🚀 0.8</option>
-      <option value="0.85">🚀 0.85</option>
-      <option value="0.9">🚀 0.9</option>
-    </select>
     <button class="audio-repeat" onclick="repeat(this)">🔙5s</button>
     <select class="audio-change" onchange="changeAudio(this)" data-english="esc-14">
       <option value="4">What do you want?</option>
@@ -42,10 +36,17 @@
       <option value="1704">He's away right</option>
       <option value="1749">Have you ever tried this?</option>
     </select>
+    <button class="audio-next" onclick="audioNext(this)">🔜2s</button>
+    <select class="audio-speed" onchange="changeSpeed(this)">
+      <option value="1">🚀 1</option>
+      <option value="0.8">🚀 0.8</option>
+      <option value="0.85">🚀 0.85</option>
+      <option value="0.9">🚀 0.9</option>
+    </select>
   </div>
 </div>
 
-<h2 id="esc-14-4">What do you want?</h2>
+<h2 id="esc-14-4">What do you want? <b class="speaker" onclick="startAudio(this, 4)">🔊</b></h2>
 
 🎧 Hey, <span>Jim</span>. Are you free now?<br/>
 🎧 I think so. I don't have any <span>homework</span> to do now, so yeah!<br/>
@@ -61,7 +62,7 @@
 🎧 Well, because of the <span>varied</span> <span>menu</span> and the <span>comfortable</span> and <span>passionate</span> <span>decor</span>.<br/>
 <span><br/></span>
 
-<h2 id="esc-14-58">Now let me check it once again.</h2>
+<h2 id="esc-14-58">Now let me check it once again. <b class="speaker" onclick="startAudio(this, 58)">🔊</b></h2>
 
 🎧 Dad! Dad!<br/>
 🎧 What's wrong, <span>Lucy</span>?<br/>
@@ -84,7 +85,7 @@
 🎧 Yeah!<br/>
 <span><br/></span>
 
-<h2 id="esc-14-130">Stop kidding.</h2>
+<h2 id="esc-14-130">Stop kidding. <b class="speaker" onclick="startAudio(this, 130)">🔊</b></h2>
 
 🎧 Are you going to join the <span>party</span> <span>tonight</span>, <span>Adam</span>?<br/>
 🎧 Which <span>party</span>?<br/>
@@ -101,7 +102,7 @@
 🎧 Oh! Come on!<br/>
 <span><br/></span>
 
-<h2 id="esc-14-187">Are you sure?</h2>
+<h2 id="esc-14-187">Are you sure? <b class="speaker" onclick="startAudio(this, 187)">🔊</b></h2>
 
 🎧 I think we're getting <span>lost</span>.<br/>
 🎧 I agree! I don't know where are we right now.<br/>
@@ -117,7 +118,7 @@
 🎧 Okay, we <span>trust</span> you now.<br/>
 <span><br/></span>
 
-<h2 id="esc-14-245">No I don't want to</h2>
+<h2 id="esc-14-245">No I don't want to <b class="speaker" onclick="startAudio(this, 245)">🔊</b></h2>
 
 🎧 <span>Jenny</span>? Do you have a <span>moment</span>?<br/>
 🎧 What's the <span>matter</span>, <span>Luke</span>?<br/>
@@ -136,7 +137,7 @@
 🎧 Got it!<br/>
 <span><br/></span>
 
-<h2 id="esc-14-302">That's strange.</h2>
+<h2 id="esc-14-302">That's strange. <b class="speaker" onclick="startAudio(this, 302)">🔊</b></h2>
 
 🎧 Are you in your room, <span>Sarah</span>?<br/>
 🎧 Yes, mom.<br/>
@@ -155,14 +156,14 @@
 🎧 Thank <span>God</span>.<br/>
 <span><br/></span>
 
-<h2 id="esc-14-366">Can you <span>show</span> me your answer sheet?</h2>
+<h2 id="esc-14-366">Can you show me your answer sheet? <b class="speaker" onclick="startAudio(this, 366)">🔊</b></h2>
 
 🎧 I've just <span>distributed</span> to <span>everybody</span> a <span>question</span> <span>sheet</span> and an answer <span>sheet</span>.<br/>
 🎧 Please <span>fill</span> in your answer in <span>15</span> <span>minutes</span>.<br/>
 🎧 Don't <span>forget</span> to read the <span>question</span> as well.<br/>
 🎧 Hey, <span>Mike</span>.<br/>
 🎧 What?<br/>
-🎧 Could you <span>show</span> me your answer <span>sheet</span>?<br/>
+🎧 Could you show me your answer <span>sheet</span>?<br/>
 🎧 There are some <span>parts</span> that I'm not sure <span>about</span>...<br/>
 🎧 I'm sorry, but I can't.<br/>
 🎧 If Mr. <span>Henry</span> <span>knew</span> this, he would give us an <span>F</span>!<br/>
@@ -172,7 +173,7 @@
 🎧 Okay!<br/>
 <span><br/></span>
 
-<h2 id="esc-14-419">I'm sorry to <span>interrupt</span> you.</h2>
+<h2 id="esc-14-419">I'm sorry to <span>interrupt</span> you. <b class="speaker" onclick="startAudio(this, 419)">🔊</b></h2>
 
 🎧 <span>...So</span>, I just <span>finished</span> <span>discussing</span> the <span>main</span> <span>goals</span> of this <span>project</span>.<br/>
 🎧 <span>Excuse</span> me?<br/>
@@ -189,7 +190,7 @@
 🎧 No <span>problem</span>. I will talk about the <span>goals</span> once again for everyone.<br/>
 <span><br/></span>
 
-<h2 id="esc-14-477">Allow me</h2>
+<h2 id="esc-14-477">Allow me <b class="speaker" onclick="startAudio(this, 477)">🔊</b></h2>
 
 🎧 Hey, <span>Dylan</span>. I am here!<br/>
 🎧 How are you doing?<br/>
@@ -209,7 +210,7 @@
 🎧 Wow, that <span>surprised</span> me!<br/>
 <span><br/></span>
 
-<h2 id="esc-14-538">Will you go there or shall I?</h2>
+<h2 id="esc-14-538">Will you go there or shall I? <b class="speaker" onclick="startAudio(this, 538)">🔊</b></h2>
 
 🎧 Alright. We can end our <span>lessons</span> today.<br/>
 🎧 Don't <span>forget</span> to <span>clean</span> the <span>classroom</span> before you leave!<br/>
@@ -228,7 +229,7 @@
 🎧 Let's do it!<br/>
 <span><br/></span>
 
-<h2 id="esc-14-594">What do you think?</h2>
+<h2 id="esc-14-594">What do you think? <b class="speaker" onclick="startAudio(this, 594)">🔊</b></h2>
 
 🎧 What's the <span>date</span> of today?<br/>
 🎧 It's the <span>6th</span> of <span>July</span>.<br/>
@@ -237,15 +238,15 @@
 🎧 We can go to the <span>shopping</span> <span>center</span> and buy a <span>gift</span> for her.<br/>
 🎧 What do you think?<br/>
 🎧 I'll go with it!<br/>
-🎧 Do you know what she <span>likes</span>?<br/>
-🎧 I <span>guess</span> she <span>likes</span> <span>listening</span> to <span>US-UK</span> music.<br/>
+🎧 Do you know what she likes?<br/>
+🎧 I <span>guess</span> she likes <span>listening</span> to <span>US-UK</span> music.<br/>
 🎧 Then we can go to the <span>CD</span> <span>shop</span> to buy her a <span>vinyl</span> <span>record</span>!<br/>
 🎧 <span>Fantastic</span>!<br/>
 🎧 I <span>believe</span> she's gonna love it!<br/>
 🎧 Let's go!<br/>
 <span><br/></span>
 
-<h2 id="esc-14-645">What are your hobbies?</h2>
+<h2 id="esc-14-645">What are your hobbies? <b class="speaker" onclick="startAudio(this, 645)">🔊</b></h2>
 
 🎧 Are you <span>reading</span> books, <span>Tracy</span>?<br/>
 🎧 That's right. I'm <span>reading</span> a <span>manga</span>.<br/>
@@ -264,7 +265,7 @@
 🎧 We should definitely go!<br/>
 <span><br/></span>
 
-<h2 id="esc-14-713">What did you say?</h2>
+<h2 id="esc-14-713">What did you say? <b class="speaker" onclick="startAudio(this, 713)">🔊</b></h2>
 
 🎧 Today is gonna be a great day!<br/>
 🎧 Yeah! We <span>finally</span> have time to <span>hang</span> out together!<br/>
@@ -283,7 +284,7 @@
 🎧 I bet we're gonna have a lot of nice <span>photo</span>.<br/>
 <span><br/></span>
 
-<h2 id="esc-14-763">What do you need?</h2>
+<h2 id="esc-14-763">What do you need? <b class="speaker" onclick="startAudio(this, 763)">🔊</b></h2>
 
 🎧 I'm going <span>camping</span> with my <span>class<br/></span>
 🎧 this <span>Saturday</span>, Mom.<br/>
@@ -303,7 +304,7 @@
 🎧 Let me <span>write</span> it down.<br/>
 <span><br/></span>
 
-<h2 id="esc-14-825">What do you want to do?</h2>
+<h2 id="esc-14-825">What do you want to do? <b class="speaker" onclick="startAudio(this, 825)">🔊</b></h2>
 
 🎧 <span>Summer</span> is <span>coming</span>.<br/>
 🎧 What do you want to do?<br/>
@@ -318,7 +319,7 @@
 🎧 One day, I will definitely make enough money to go to <span>Hawaii</span>!<br/>
 <span><br/></span>
 
-<h2 id="esc-14-875">What are you up to?</h2>
+<h2 id="esc-14-875">What are you up to? <b class="speaker" onclick="startAudio(this, 875)">🔊</b></h2>
 
 🎧 Hey, <span>Luna</span>. What are you up to?<br/>
 🎧 I'm just <span>making</span> a <span>shopping</span> <span>list</span>.<br/>
@@ -338,7 +339,7 @@
 🎧 Oh! <span>Ice-creams</span> as well!<br/>
 <span><br/></span>
 
-<h2 id="esc-14-942">What do you want?</h2>
+<h2 id="esc-14-942">What do you want? <b class="speaker" onclick="startAudio(this, 942)">🔊</b></h2>
 
 🎧 Today is your <span>birthday</span>, <span>Lucas</span>!<br/>
 🎧 What do you want?<br/>
@@ -362,7 +363,7 @@
 🎧 You're so <span>generous</span>!<br/>
 <span><br/></span>
 
-<h2 id="esc-14-1007">What's your <span>email</span> address?</h2>
+<h2 id="esc-14-1007">What's your <span>email</span> address? <b class="speaker" onclick="startAudio(this, 1007)">🔊</b></h2>
 
 🎧 <span>Oh..I</span> was so <span>sleepy</span> this morning that I <span>missed</span> <span>Economics</span> <span>class</span>...<br/>
 🎧 <span>Wait...you</span> didn't come to class?<br/>
@@ -380,7 +381,7 @@
 🎧 Will do.<br/>
 <span><br/></span>
 
-<h2 id="esc-14-1058">What is your job?</h2>
+<h2 id="esc-14-1058">What is your job? <b class="speaker" onclick="startAudio(this, 1058)">🔊</b></h2>
 
 🎧 How have you been, <span>Bob</span>?<br/>
 🎧 I've got a <span>job</span> and I will start working next week.<br/>
@@ -398,7 +399,7 @@
 🎧 I <span>believe</span> so!<br/>
 <span><br/></span>
 
-<h2 id="esc-14-1120">What's your phone number?</h2>
+<h2 id="esc-14-1120">What's your phone number? <b class="speaker" onclick="startAudio(this, 1120)">🔊</b></h2>
 
 🎧 Hello. I'm <span>Joan</span>.<br/>
 🎧 I'm <span>looking</span> forward to being your <span>deskmate</span> through this <span>semester</span>.<br/>
@@ -420,7 +421,7 @@
 🎧 Sure thing!<br/>
 <span><br/></span>
 
-<h2 id="esc-14-1189">She is not my best friend</h2>
+<h2 id="esc-14-1189">She is not my best friend <b class="speaker" onclick="startAudio(this, 1189)">🔊</b></h2>
 
 🎧 Hey <span>Jennifer</span>. Are you going to <span>Sally's</span> <span>birthday</span> <span>party</span> <span>tonight</span>?<br/>
 🎧 Is that <span>tonight</span>?<br/>
@@ -436,7 +437,7 @@
 🎧 That's really bad.<br/>
 <span><br/></span>
 
-<h2 id="esc-14-1236">Even Steven</h2>
+<h2 id="esc-14-1236">Even Steven <b class="speaker" onclick="startAudio(this, 1236)">🔊</b></h2>
 
 🎧 Thank you so much.<br/>
 🎧 If you hadn't <span>helped</span> me last week, I wouldn't have <span>finished</span> the <span>job</span> on time.<br/>
@@ -455,7 +456,7 @@
 🎧 See <span>ya</span>!<br/>
 <span><br/></span>
 
-<h2 id="esc-14-1292">You have a lot of <span>explaining</span> to do</h2>
+<h2 id="esc-14-1292">You have a lot of <span>explaining</span> to do <b class="speaker" onclick="startAudio(this, 1292)">🔊</b></h2>
 
 🎧 Where have you been?<br/>
 🎧 Do you know what time it is?<br/>
@@ -472,7 +473,7 @@
 🎧 You won't be <span>allowed</span> to go out until you <span>pass</span> the <span>test</span>.<br/>
 <span><br/></span>
 
-<h2 id="esc-14-1347">Feel free to call me any time</h2>
+<h2 id="esc-14-1347">Feel free to call me any time <b class="speaker" onclick="startAudio(this, 1347)">🔊</b></h2>
 
 🎧 We haven't been <span>apart</span> for so long.<br/>
 🎧 I'll <span>miss</span> you.<br/>
@@ -496,7 +497,7 @@
 🎧 Bye, <span>Rachel</span>.<br/>
 <span><br/></span>
 
-<h2 id="esc-14-1420">I love my job</h2>
+<h2 id="esc-14-1420">I love my job <b class="speaker" onclick="startAudio(this, 1420)">🔊</b></h2>
 
 🎧 Hey, how are you?<br/>
 🎧 I'm good. How about you?<br/>
@@ -511,7 +512,7 @@
 🎧 I agree with you.<br/>
 <span><br/></span>
 
-<h2 id="esc-14-1467">Describe <span>yourself</span> in one word</h2>
+<h2 id="esc-14-1467">Describe <span>yourself</span> in one word <b class="speaker" onclick="startAudio(this, 1467)">🔊</b></h2>
 
 🎧 <span>Welcome</span> to <span>PG</span> <span>Group</span>, <span>David</span>.<br/>
 🎧 I'm Tom.<br/>
@@ -542,7 +543,7 @@
 🎧 Thanks, sir. Have a nice day.<br/>
 <span><br/></span>
 
-<h2 id="esc-14-1582">It <span>feels</span> like <span>ages</span> ago</h2>
+<h2 id="esc-14-1582">It <span>feels</span> like <span>ages</span> ago <b class="speaker" onclick="startAudio(this, 1582)">🔊</b></h2>
 
 🎧 Well, hello there, <span>Diana</span>!<br/>
 🎧 Wow. Long time no see.<br/>
@@ -561,7 +562,7 @@
 🎧 For sure, take <span>care</span>. Bye!<br/>
 <span><br/></span>
 
-<h2 id="esc-14-1648">You're <span>important</span> to me</h2>
+<h2 id="esc-14-1648">You're <span>important</span> to me <b class="speaker" onclick="startAudio(this, 1648)">🔊</b></h2>
 
 🎧 Hey listen, now that our <span>anniversary</span> is just a few <span>days</span> after,<br/>
 🎧 why don't we plan to go somewhere?<br/>
@@ -577,7 +578,7 @@
 🎧 So <span>sweet</span>, I love you.<br/>
 <span><br/></span>
 
-<h2 id="esc-14-1704">He's away right</h2>
+<h2 id="esc-14-1704">He's away right <b class="speaker" onclick="startAudio(this, 1704)">🔊</b></h2>
 
 🎧 What <span>happened</span>? You look so sad.<br/>
 🎧 <span>Yesterday</span>, my bag was <span>stolen</span>.<br/>
@@ -591,7 +592,7 @@
 🎧 Me too.<br/>
 <span><br/></span>
 
-<h2 id="esc-14-1749">Have you ever <span>tried</span> this?</h2>
+<h2 id="esc-14-1749">Have you ever <span>tried</span> this? <b class="speaker" onclick="startAudio(this, 1749)">🔊</b></h2>
 
 🎧 Wow this is so <span>delicious</span>.<br/>
 🎧 This is <span>apple</span> <span>pie</span>, right?<br/>

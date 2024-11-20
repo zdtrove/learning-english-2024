@@ -3,12 +3,6 @@
   <audio class="audio" controls></audio>
   <button onclick="loadAudio(englishSpeakingCourseMp3['011'], this)">Play</button>
   <div class="action action-scroll">
-    <select class="audio-speed" onchange="changeSpeed(this)">
-      <option value="1">🚀 1</option>
-      <option value="0.8">🚀 0.8</option>
-      <option value="0.85">🚀 0.85</option>
-      <option value="0.9">🚀 0.9</option>
-    </select>
     <button class="audio-repeat" onclick="repeat(this)">🔙5s</button>
     <select class="audio-change" onchange="changeAudio(this)" data-english="esc-11">
       <option value="4">Waking up</option>
@@ -42,10 +36,17 @@
       <option value="1744">Setting an alarm</option>
       <option value="1796">Going to bed</option>
     </select>
+    <button class="audio-next" onclick="audioNext(this)">🔜2s</button>
+    <select class="audio-speed" onchange="changeSpeed(this)">
+      <option value="1">🚀 1</option>
+      <option value="0.8">🚀 0.8</option>
+      <option value="0.85">🚀 0.85</option>
+      <option value="0.9">🚀 0.9</option>
+    </select>
   </div>
 </div>
 
-<h2 id="esc-11-4">Waking up</h2>
+<h2 id="esc-11-4">Waking up <b class="speaker" onclick="startAudio(this, 4)">🔊</b></h2>
 
 🎧 Good morning, <span>Dina</span>. Time to <span>wake</span> <span>up</span>.<br/> 
 🎧 Just <span>five</span> more <span>minutes</span>, <span>Alex</span>.<br/> 
@@ -63,7 +64,7 @@
 🎧 I'll be right <span>there.<br/>
 </span><br />
 
-<h2 id="esc-11-55">Brushing teeth</h2>
+<h2 id="esc-11-55">Brushing teeth <b class="speaker" onclick="startAudio(this, 55)">🔊</b></h2>
 
 🎧 <span>Dina</span>, you need to <span>brush</span> for at <span>least</span> two <span>minutes</span>.<br/> 
 🎧 It helps keep your <span>teeth</span> <span>healthy</span> and <span>strong</span>.<br/> 
@@ -83,7 +84,7 @@
 🎧 And you are always <span>teasing</span> <span>me.<br/>
 </span><br />
 
-<h2 id="esc-11-126">Morning exercise</h2>
+<h2 id="esc-11-126">Morning exercise <b class="speaker" onclick="startAudio(this, 126)">🔊</b></h2>
 
 🎧 Come on, Dad. Let's do ten more <span>push-ups</span>! You've got <span>this</span>.<br/> 
 🎧 You're really <span>pushing</span> me today, <span>Alex</span>.<br/> 
@@ -102,7 +103,7 @@
 🎧 Now let's <span>refuel</span> with some <span>delicious</span> <span>breakfast.<br/>
 </span><br />
 
-<h2 id="esc-11-181">Making breakfast</h2>
+<h2 id="esc-11-181">Making breakfast <b class="speaker" onclick="startAudio(this, 181)">🔊</b></h2>
 
 🎧 Thanks for <span>helping</span>, <span>Alex</span>.<br/> 
 🎧 Can you <span>pass</span> me the <span>eggs</span>?<br/> 
@@ -119,7 +120,7 @@
 🎧 And some <span>fruit</span>, too. We have <span>bananas</span> and <span>apples.<br/>
 </span><br />
 
-<h2 id="esc-11-233">Getting dressed</h2>
+<h2 id="esc-11-233">Getting dressed <b class="speaker" onclick="startAudio(this, 233)">🔊</b></h2>
 
 🎧 <span>Dina</span>, do you need any help <span>picking</span> out your <span>clothes</span>?<br/> 
 🎧 No, Mom. I think I got <span>it</span>.<br/> 
@@ -139,7 +140,7 @@
 🎧 You look great. Now <span>hurry</span> up so we can get <span>going.<br/>
 </span><br />
 
-<h2 id="esc-11-288">Commuting to work</h2>
+<h2 id="esc-11-288">Commuting to work <b class="speaker" onclick="startAudio(this, 288)">🔊</b></h2>
 
 🎧 Have a great day at work, <span>Alex</span>.<br/> 
 🎧 Thanks, <span>Mom</span>.<br/> 
@@ -159,7 +160,7 @@
 🎧 Thanks, Dad, have a good day at <span>work.<br/>
 </span><br />
 
-<h2 id="esc-11-348">Morning coffee</h2>
+<h2 id="esc-11-348">Morning coffee <b class="speaker" onclick="startAudio(this, 348)">🔊</b></h2>
 
 🎧 Good morning, <span>Aunt</span> <span>Emma</span>.<br/> 
 🎧 Good morning, <span>Neo</span>. Did you <span>sleep</span> well?<br/> 
@@ -181,7 +182,7 @@
 🎧 Okay, <span>Aunt</span> <span>Emma</span>, I'll go get my bag <span>first.<br/>
 </span><br />
 
-<h2 id="esc-11-408">Checking emails</h2>
+<h2 id="esc-11-408">Checking emails <b class="speaker" onclick="startAudio(this, 408)">🔊</b></h2>
 
 🎧 Let's see what we have <span>today</span>.<br/> 
 🎧 A few <span>client</span> <span>emails</span> and some <span>internal</span> <span>messages</span>.<br/> 
@@ -199,7 +200,7 @@
 🎧 Sure <span>thing.<br/>
 </span><br />
 
-<h2 id="esc-11-466">Team meeting</h2>
+<h2 id="esc-11-466">Team meeting <b class="speaker" onclick="startAudio(this, 466)">🔊</b></h2>
 
 🎧 Alright, everyone. Let's get <span>started</span>. We have a lot to <span>cover</span> <span>today</span>.<br/> 
 🎧 First up is the new <span>marketing</span> <span>campaign</span>.<br/> 
@@ -223,7 +224,7 @@
 🎧 Everyone, please <span>send</span> them your <span>ideas</span> by the end of the <span>day.<br/>
 </span><br />
 
-<h2 id="esc-11-545">Lunch break</h2>
+<h2 id="esc-11-545">Lunch break <b class="speaker" onclick="startAudio(this, 545)">🔊</b></h2>
 
 🎧 This <span>sandwich</span> is really good, <span>Dina</span>.<br/> 
 🎧 Thanks, <span>Jimmy</span>. My mom made it <span>fresh</span> this <span>morning</span>.<br/> 
@@ -243,7 +244,7 @@
 🎧 I'm so <span>excited</span> <span>now.<br/>
 </span><br />
 
-<h2 id="esc-11-603">Afternoon tasks</h2>
+<h2 id="esc-11-603">Afternoon tasks <b class="speaker" onclick="startAudio(this, 603)">🔊</b></h2>
 
 🎧 Do you need any help with the <span>report</span>, <span>Ms</span>.?<br/> 
 🎧 The <span>data</span> <span>seems</span> a bit <span>complicated</span>.<br/> 
@@ -265,7 +266,7 @@
 🎧 Okay, I will <span>finish</span> the <span>report</span> right <span>away.<br/>
 </span><br />
 
-<h2 id="esc-11-667">Taking a walk</h2>
+<h2 id="esc-11-667">Taking a walk <b class="speaker" onclick="startAudio(this, 667)">🔊</b></h2>
 
 🎧 <span>Dina</span>, do you want to go to the <span>playground</span>?<br/> 
 🎧 I want to play on the <span>swings</span>.<br/> 
@@ -286,7 +287,7 @@
 🎧 Let's enjoy ice <span>creams</span> and then <span>head</span> <span>on.<br/>
 </span><br />
 
-<h2 id="esc-11-733">Snack time</h2>
+<h2 id="esc-11-733">Snack time <b class="speaker" onclick="startAudio(this, 733)">🔊</b></h2>
 
 🎧 Dad, can I have some <span>cookies</span>? I'm really <span>hungry</span>.<br/> 
 🎧 Sure. Just don't eat too many. You'll <span>ruin</span> your <span>dinner</span>.<br/> 
@@ -307,7 +308,7 @@
 🎧 Thanks, Dad. You're the <span>best.<br/>
 </span><br />
 
-<h2 id="esc-11-795">Finishing work</h2>
+<h2 id="esc-11-795">Finishing work <b class="speaker" onclick="startAudio(this, 795)">🔊</b></h2>
 
 🎧 Great work today, <span>Alex</span>. We got a lot <span>done</span>.<br/> 
 🎧 Thanks, <span>Emma</span>. It was a <span>productive</span> <span>day</span>.<br/> 
@@ -326,7 +327,7 @@
 🎧 Drive <span>safely</span> and enjoy your <span>evening.<br/>
 </span><br />
 
-<h2 id="esc-11-847">Driving home</h2>
+<h2 id="esc-11-847">Driving home <b class="speaker" onclick="startAudio(this, 847)">🔊</b></h2>
 
 🎧 What a <span>busy</span> <span>day</span>.<br/> 
 🎧 I can't wait to get home and <span>relax</span>.<br/> 
@@ -344,7 +345,7 @@
 🎧 Let's go inside and see what Mom and Dad are <span>doing.<br/>
 </span><br />
 
-<h2 id="esc-11-899">Grocery shopping</h2>
+<h2 id="esc-11-899">Grocery shopping <b class="speaker" onclick="startAudio(this, 899)">🔊</b></h2>
 
 🎧 <span>Neo</span>, can you <span>grab</span> some <span>tomatoes</span> and <span>onions</span>?<br/> 
 🎧 We need them for the <span>pasta</span> <span>tonight</span>.<br/> 
@@ -369,7 +370,7 @@
 🎧 Let's <span>head</span> to the <span>checkout.<br/>
 </span><br />
 
-<h2 id="esc-11-974">Preparing dinner</h2>
+<h2 id="esc-11-974">Preparing dinner <b class="speaker" onclick="startAudio(this, 974)">🔊</b></h2>
 
 🎧 <span>Dina</span>, can you help me <span>chop</span> the <span>vegetables</span>?<br/> 
 🎧 Sure, Mom. I'll <span>wash</span> them <span>first</span>.<br/> 
@@ -386,7 +387,7 @@
 🎧 Yes, I put some <span>soda</span> and <span>juice</span> in the <span>fridge</span> <span>earlier.<br/>
 </span><br />
 
-<h2 id="esc-11-1025">Family time</h2>
+<h2 id="esc-11-1025">Family time <b class="speaker" onclick="startAudio(this, 1025)">🔊</b></h2>
 
 🎧 Thanks for having us over, <span>Lisa</span>. The dinner was <span>delicious</span>.<br/> 
 🎧 You're <span>welcome</span>, <span>Danny</span>.<br/> 
@@ -410,7 +411,7 @@
 🎧 Let's see who <span>wins.<br/>
 </span><br />
 
-<h2 id="esc-11-1097">Watching TV</h2>
+<h2 id="esc-11-1097">Watching TV <b class="speaker" onclick="startAudio(this, 1097)">🔊</b></h2>
 
 🎧 <span>Aunt</span> <span>Emma</span>, can we <span>watch</span> the new <span>superhero</span> movie?<br/> 
 🎧 Sure, <span>Neo</span>. But only for an <span>hour</span>, okay?<br/> 
@@ -426,7 +427,7 @@
 🎧 I <span>remember</span>. I'll go to bed right <span>after.<br/>
 </span><br />
 
-<h2 id="esc-11-1158">Laundry room</h2>
+<h2 id="esc-11-1158">Laundry room <b class="speaker" onclick="startAudio(this, 1158)">🔊</b></h2>
 
 🎧 More <span>laundry</span>?<br/> 
 🎧 It never <span>seems</span> to end, does <span>it</span>?<br/> 
@@ -452,7 +453,7 @@
 🎧 Maybe we can even ask <span>Jimmy</span> to help <span>out.<br/>
 </span><br />
 
-<h2 id="esc-11-1241">Cleaning the house</h2>
+<h2 id="esc-11-1241">Cleaning the house <b class="speaker" onclick="startAudio(this, 1241)">🔊</b></h2>
 
 🎧 <span>Alex</span>, can you help me move this <span>rug</span>?<br/> 
 🎧 I think <span>Buddy's</span> <span>hair</span> is all over <span>it</span>.<br/> 
@@ -481,7 +482,7 @@
 🎧 Let's <span>finish</span> up and see what the <span>kids</span> are up <span>to.<br/>
 </span><br />
 
-<h2 id="esc-11-1347">Walking the dog</h2>
+<h2 id="esc-11-1347">Walking the dog <b class="speaker" onclick="startAudio(this, 1347)">🔊</b></h2>
 
 🎧 <span>Buddy</span> looks so happy to be <span>outside</span>.<br/> 
 🎧 I think this is his <span>favorite</span> <span>part</span> of the <span>day</span>.<br/> 
@@ -496,7 +497,7 @@
 🎧 That's a great idea! We can set something up this <span>weekend.<br/>
 </span><br />
 
-<h2 id="esc-11-1400">Talking on the phone</h2>
+<h2 id="esc-11-1400">Talking on the phone <b class="speaker" onclick="startAudio(this, 1400)">🔊</b></h2>
 
 🎧 Yes, Mr. <span>Johnson</span>,<br/> 
 🎧 I have <span>reviewed</span> the <span>proposal</span> and I think we are ready to <span>proceed</span>.<br/> 
@@ -511,7 +512,7 @@
 🎧 I should probably check on <span>Neo</span>. He's been so <span>quiet</span> <span>tonight.<br/>
 </span><br />
 
-<h2 id="esc-11-1450">Evening exercise</h2>
+<h2 id="esc-11-1450">Evening exercise <b class="speaker" onclick="startAudio(this, 1450)">🔊</b></h2>
 
 🎧 It's been a long day, but it's <span>important</span> to keep up with our <span>exercise</span> <span>routine</span>.<br/> 
 🎧 It is quite <span>difficult</span> to <span>maintain</span> in the <span>beginning</span>.<br/> 
@@ -531,7 +532,7 @@
 🎧 Definitely going to need <span>it.<br/>
 </span><br />
 
-<h2 id="esc-11-1517">Taking a shower</h2>
+<h2 id="esc-11-1517">Taking a shower <b class="speaker" onclick="startAudio(this, 1517)">🔊</b></h2>
 
 🎧 This <span>feels</span> <span>amazing</span>.<br/> 
 🎧 It's the <span>perfect</span> way to end the <span>day</span>.<br/> 
@@ -548,7 +549,7 @@
 🎧 I'm just going to <span>relax</span> in my <span>room.<br/>
 </span><br />
 
-<h2 id="esc-11-1561">Planning tomorrow</h2>
+<h2 id="esc-11-1561">Planning tomorrow <b class="speaker" onclick="startAudio(this, 1561)">🔊</b></h2>
 
 🎧 Let's <span>see</span>.<br/> 
 🎧 I've got that <span>meeting</span> at <span>10</span> <span>a.m</span>,<br/> 
@@ -571,7 +572,7 @@
 🎧 Just need to get a good <span>night's</span> <span>sleep.<br/>
 </span><br />
 
-<h2 id="esc-11-1629">Brushing hair</h2>
+<h2 id="esc-11-1629">Brushing hair <b class="speaker" onclick="startAudio(this, 1629)">🔊</b></h2>
 
 🎧 Your <span>hair</span> looks <span>lovely</span>, <span>Dina</span>.<br/> 
 🎧 You've been doing a great <span>job</span> taking <span>care</span> of your <span>hair</span>.<br/> 
@@ -593,7 +594,7 @@
 🎧 Okay, <span>sweetie</span>, but <span>remember</span> not to read too <span>long.<br/>
 </span><br />
 
-<h2 id="esc-11-1686">Reading a book</h2>
+<h2 id="esc-11-1686">Reading a book <b class="speaker" onclick="startAudio(this, 1686)">🔊</b></h2>
 
 🎧 <span>"The</span> <span>detective</span> <span>examined</span> the <span>footprint</span> <span>closely</span>,<br/> 
 🎧 <span>noticing</span> the <span>faint</span> <span>trace</span> of <span>mud</span> on the <span>heel…"<br/></span> 
@@ -612,7 +613,7 @@
 🎧 <span>Goodnight</span>, <span>Mom.<br/>
 </span><br />
 
-<h2 id="esc-11-1744">Setting an alarm</h2>
+<h2 id="esc-11-1744">Setting an alarm <b class="speaker" onclick="startAudio(this, 1744)">🔊</b></h2>
 
 🎧 <span>Neo</span>, are you still not <span>asleep</span>?<br/> 
 🎧 Yes, <span>Aunt</span> <span>Emma</span>.<br/> 
@@ -629,7 +630,7 @@
 🎧 Good <span>boy.<br/>
 </span><br />
 
-<h2 id="esc-11-1796">Going to bed</h2>
+<h2 id="esc-11-1796">Going to bed <b class="speaker" onclick="startAudio(this, 1796)">🔊</b></h2>
 
 🎧 <span>Remember</span> to <span>dust</span> off the <span>blanket</span> before going to bed, <span>son</span>.<br/> 
 🎧 Sure, <span>Mom</span>.<br/> 

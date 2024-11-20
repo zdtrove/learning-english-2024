@@ -3,12 +3,6 @@
   <audio class="audio" controls></audio>
   <button onclick="loadAudio(englishSpeakingCourseMp3['001'], this)">Play</button>
   <div class="action action-scroll">
-    <select class="audio-speed" onchange="changeSpeed(this)">
-      <option value="1">🚀 1</option>
-      <option value="0.8">🚀 0.8</option>
-      <option value="0.85">🚀 0.85</option>
-      <option value="0.9">🚀 0.9</option>
-    </select>
     <button class="audio-repeat" onclick="repeat(this)">🔙5s</button>
     <select class="audio-change" onchange="changeAudio(this)" data-english="esc-1">
       <option value="4">Starting the day</option>
@@ -38,10 +32,17 @@
       <option value="1592">Conversation Starters</option>
       <option value="1663">Saying Goodbye</option>
     </select>
+    <button class="audio-next" onclick="audioNext(this)">🔜2s</button>
+    <select class="audio-speed" onchange="changeSpeed(this)">
+      <option value="1">🚀 1</option>
+      <option value="0.8">🚀 0.8</option>
+      <option value="0.85">🚀 0.85</option>
+      <option value="0.9">🚀 0.9</option>
+    </select>
   </div>
 </div>
 
-<h2 id="esc-1-4">Starting the day</h2>
+<h2 id="esc-1-4">Starting the day <b class="speaker" onclick="startAudio(this, 4)">🔊</b></h2>
 
 🎧 Oh good morning, Tom!<br/> 
 🎧 How are you today?<br/> 
@@ -64,7 +65,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-72">Team Meetings</h2>
+<h2 id="esc-1-72">Team Meetings <b class="speaker" onclick="startAudio(this, 72)">🔊</b></h2>
 
 🎧 Good morning, <span>everyone</span>.<br/> 
 🎧 I hope you're all ready for <span>today's</span> <span>meeting</span>.<br/> 
@@ -90,7 +91,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-164">Lunch Break</h2>
+<h2 id="esc-1-164">Lunch Break <b class="speaker" onclick="startAudio(this, 164)">🔊</b></h2>
 
 🎧 Hi <span>Alice</span>, hi Tom! <span>Mind</span> if I join you for lunch today?<br/> 
 🎧 I <span>brought</span> my lunch from home, but it's always <span>nicer</span> to eat with <span>company</span>.<br/> 
@@ -114,7 +115,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-250">Client Calls</h2>
+<h2 id="esc-1-250">Client Calls <b class="speaker" onclick="startAudio(this, 250)">🔊</b></h2>
 
 🎧 Hello, this is <span>Alice</span> from <span>Brand</span> New <span>Company</span>.<br/> 
 🎧 How can I help you today?<br/> 
@@ -137,7 +138,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-311">Reporting to the Manager</h2>
+<h2 id="esc-1-311">Reporting to the Manager <b class="speaker" onclick="startAudio(this, 311)">🔊</b></h2>
 
 🎧 Here are your <span>documents</span>, <span>sir</span>.<br/> 
 🎧 Tom, do you have a <span>moment</span> to <span>discuss</span> your <span>report</span>?<br/> 
@@ -155,7 +156,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-359">Leaving the Office</h2>
+<h2 id="esc-1-359">Leaving the Office <b class="speaker" onclick="startAudio(this, 359)">🔊</b></h2>
 
 🎧 <span>Alice</span>, are you <span>heading</span> out now?<br/> 
 🎧 Yes, I am. It's been a long day.<br/> 
@@ -174,7 +175,7 @@
 </span>!<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-416">Waking Up</h2>
+<h2 id="esc-1-416">Waking Up <b class="speaker" onclick="startAudio(this, 416)">🔊</b></h2>
 
 🎧 <span>Ugh</span>, is it morning already?<br/> 
 🎧 I feel like I just went to <span>bed</span>.<br/> 
@@ -196,7 +197,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-477">Morning Exercise</h2>
+<h2 id="esc-1-477">Morning Exercise <b class="speaker" onclick="startAudio(this, 477)">🔊</b></h2>
 
 🎧 Alright, so I've <span>found</span> a short morning <span>workout</span> <span>routine</span> online.<br/> 
 🎧 It's only <span>15</span> <span>minutes</span>. It's <span>perfect</span> for <span>beginners</span> like <span>us</span>.<br/> 
@@ -219,7 +220,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-553">Breakfast</h2>
+<h2 id="esc-1-553">Breakfast <b class="speaker" onclick="startAudio(this, 553)">🔊</b></h2>
 
 🎧 Morning <span>exercise</span> done, now it's time for <span>breakfast</span>.<br/> 
 🎧 I'm <span>making</span> <span>pancakes</span> with <span>banana</span> and <span>honey</span>!<br/> 
@@ -241,7 +242,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-612">Getting Ready for Work</h2>
+<h2 id="esc-1-612">Getting Ready for Work <b class="speaker" onclick="startAudio(this, 612)">🔊</b></h2>
 
 🎧 What to <span>wear</span>, what to <span>wear</span>…<br/> 
 🎧 I've got a <span>meeting</span> today, so...<br/> 
@@ -264,7 +265,7 @@
 </span>!<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-681">Lunch Break</h2>
+<h2 id="esc-1-681">Lunch Break <b class="speaker" onclick="startAudio(this, 681)">🔊</b></h2>
 
 🎧 Hey, <span>Emma</span>! How's your day <span>going</span>?<br/> 
 🎧 Do you want to <span>grab</span> lunch together?<br/> 
@@ -285,7 +286,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-738">Evening Relaxation</h2>
+<h2 id="esc-1-738">Evening Relaxation <b class="speaker" onclick="startAudio(this, 738)">🔊</b></h2>
 
 🎧 <span>Finally</span> home.<br/> 
 🎧 What a day!<br/> 
@@ -304,7 +305,7 @@
 </span>!<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-795">Preparing Dinner</h2>
+<h2 id="esc-1-795">Preparing Dinner <b class="speaker" onclick="startAudio(this, 795)">🔊</b></h2>
 
 🎧 So, what should we make for <span>dinner</span>?<br/> 
 🎧 I'm thinking of something <span>quick</span> and easy.<br/> 
@@ -322,7 +323,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-843">Bedtime Routine</h2>
+<h2 id="esc-1-843">Bedtime Routine <b class="speaker" onclick="startAudio(this, 843)">🔊</b></h2>
 
 🎧 I'm so ready for bed. How about you?<br/> 
 🎧 <span>Definitely</span>.<br/> 
@@ -346,7 +347,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-915">Planning the Trip</h2>
+<h2 id="esc-1-915">Planning the Trip <b class="speaker" onclick="startAudio(this, 915)">🔊</b></h2>
 
 🎧 I'm so <span>excited</span> for our <span>trip</span>!<br/> 
 🎧 But I don't know where to start. How do we plan <span>it</span>?<br/> 
@@ -366,7 +367,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-968">Packing the Luggage</h2>
+<h2 id="esc-1-968">Packing the Luggage <b class="speaker" onclick="startAudio(this, 968)">🔊</b></h2>
 
 🎧 Are you all set for <span>packing</span>, Anna?<br/> 
 🎧 Not <span>really</span>... I'm <span>confused</span> about what to <span>pack</span>.<br/> 
@@ -386,7 +387,7 @@
 </span>!<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-1021">Airport Check-In</h2>
+<h2 id="esc-1-1021">Airport Check-In <b class="speaker" onclick="startAudio(this, 1021)">🔊</b></h2>
 
 🎧 I'm so <span>nervous</span>.<br/> 
 🎧 What do we do now?<br/> 
@@ -410,7 +411,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-1080">Boarding the Flight</h2>
+<h2 id="esc-1-1080">Boarding the Flight <b class="speaker" onclick="startAudio(this, 1080)">🔊</b></h2>
 
 🎧 They're <span>calling</span> our <span>row</span>.<br/> 
 🎧 Are you two ready to <span>board</span>?<br/> 
@@ -428,7 +429,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-1124">Call a Taxi</h2>
+<h2 id="esc-1-1124">Call a Taxi <b class="speaker" onclick="startAudio(this, 1124)">🔊</b></h2>
 
 🎧 How do we get to the <span>hotel</span>?<br/> 
 🎧 They have <span>subways</span>, <span>taxis</span>, and many other <span>means</span> of <span>transportation</span> here.<br/> 
@@ -447,7 +448,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-1183">Buying Souvenirs</h2>
+<h2 id="esc-1-1183">Buying Souvenirs <b class="speaker" onclick="startAudio(this, 1183)">🔊</b></h2>
 
 🎧 These are so <span>cute</span>! I want to buy something for my <span>family</span>.<br/> 
 🎧 Good <span>idea</span>.<br/> 
@@ -467,7 +468,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-1237">Local Food</h2>
+<h2 id="esc-1-1237">Local Food <b class="speaker" onclick="startAudio(this, 1237)">🔊</b></h2>
 
 🎧 This place looks <span>amazing</span>.<br/> 
 🎧 I've never <span>tried</span> <span>sushi</span> before.<br/> 
@@ -490,7 +491,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-1310">First Impressions</h2>
+<h2 id="esc-1-1310">First Impressions <b class="speaker" onclick="startAudio(this, 1310)">🔊</b></h2>
 
 🎧 <span>Sophie</span>, I'm so <span>nervous</span>!<br/> 
 🎧 What if he doesn't like me?<br/> 
@@ -499,7 +500,7 @@
 🎧 But what if I say something <span>silly</span>?<br/> 
 🎧 It's okay.<br/> 
 🎧 Just <span>smile</span>, be <span>polite</span>, and ask him about <span>himself</span>.<br/> 
-🎧 Everyone <span>likes</span> to talk about <span>themselves</span>.<br/> 
+🎧 Everyone likes to talk about <span>themselves</span>.<br/> 
 🎧 You're right. I'll just focus on having a good time.<br/> 
 🎧 <span>Exactly</span>!<br/> 
 🎧 And <span>remember</span>, first <span>impressions</span> <span>matter</span>.<br/> 
@@ -540,7 +541,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-1458">Planning the Date</h2>
+<h2 id="esc-1-1458">Planning the Date <b class="speaker" onclick="startAudio(this, 1458)">🔊</b></h2>
 
 🎧 So, <span>Emily</span>, do you have any <span>favorite</span> <span>places</span> in <span>town</span>?<br/> 
 🎧 I really like the <span>park</span> by the <span>river</span>.<br/> 
@@ -560,7 +561,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-1517">Choosing the Restaurant</h2>
+<h2 id="esc-1-1517">Choosing the Restaurant <b class="speaker" onclick="startAudio(this, 1517)">🔊</b></h2>
 
 🎧 Have you been to the <span>AC</span> <span>Italian</span> <span>Cuisine</span> <span>restaurant</span> before?<br/> 
 🎧 I <span>tried</span> that <span>restaurant</span> once a year <span>ago</span>,<br/> 
@@ -586,7 +587,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-1592">Conversation Starters</h2>
+<h2 id="esc-1-1592">Conversation Starters <b class="speaker" onclick="startAudio(this, 1592)">🔊</b></h2>
 
 🎧 So, <span>Emily</span>, what do you like to do in your free time?<br/> 
 🎧 I enjoy <span>reading</span> and <span>painting</span>.<br/> 
@@ -614,7 +615,7 @@
 </span>.<br/> <span><br/>
 </span>
 
-<h2 id="esc-1-1663">Saying Goodbye</h2>
+<h2 id="esc-1-1663">Saying Goodbye <b class="speaker" onclick="startAudio(this, 1663)">🔊</b></h2>
 
 🎧 I had a really great time <span>tonight</span>, <span>Emily</span>.<br/> 
 🎧 Dinner, the <span>walk</span>, the music. It was all <span>perfect</span>.<br/> 

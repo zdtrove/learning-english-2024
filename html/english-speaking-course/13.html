@@ -3,12 +3,6 @@
   <audio class="audio" controls></audio>
   <button onclick="loadAudio(englishSpeakingCourseMp3['013'], this)">Play</button>
   <div class="action action-scroll">
-    <select class="audio-speed" onchange="changeSpeed(this)">
-      <option value="1">🚀 1</option>
-      <option value="0.8">🚀 0.8</option>
-      <option value="0.85">🚀 0.85</option>
-      <option value="0.9">🚀 0.9</option>
-    </select>
     <button class="audio-repeat" onclick="repeat(this)">🔙5s</button>
     <select class="audio-change" onchange="changeAudio(this)" data-english="esc-13">
       <option value="4">At the restaurant</option>
@@ -26,10 +20,17 @@
       <option value="1363">At the police station</option>
       <option value="1481">At the bar</option>
     </select>
+    <button class="audio-next" onclick="audioNext(this)">🔜2s</button>
+    <select class="audio-speed" onchange="changeSpeed(this)">
+      <option value="1">🚀 1</option>
+      <option value="0.8">🚀 0.8</option>
+      <option value="0.85">🚀 0.85</option>
+      <option value="0.9">🚀 0.9</option>
+    </select>
   </div>
 </div>
 
-<h2 id="esc-13-4">At the restaurant</h2>
+<h2 id="esc-13-4">At the restaurant <b class="speaker" onclick="startAudio(this, 4)">🔊</b></h2>
 
 🎧 <span>Mary</span>, have you <span>decided</span> what to <span>order</span>?<br/>
 🎧 Yes I have.<br/>
@@ -109,7 +110,7 @@
 🎧 My <span>pleasure</span>. I'm glad we could enjoy such a nice <span>meal</span>.<br/>
 <span><br/></span>
 
-<h2 id="esc-13-219">At the hotel</h2>
+<h2 id="esc-13-219">At the hotel <b class="speaker" onclick="startAudio(this, 219)">🔊</b></h2>
 
 🎧 Hi. I have a <span>reservation</span> under the name <span>Emily</span> <span>Jones</span>.<br/>
 🎧 <span>Welcome</span>, Ms. <span>Jones</span>. Let me <span>check</span>...<br/>
@@ -147,7 +148,7 @@
 🎧 Of course. Enjoy your <span>vacation</span>!<br/>
 <span><br/></span>
 
-<h2 id="esc-13-336">At home</h2>
+<h2 id="esc-13-336">At home <b class="speaker" onclick="startAudio(this, 336)">🔊</b></h2>
 
 🎧 Hey, Tom, can you help me with the <span>groceries</span>?<br/>
 🎧 Sure, Anna. What did you buy?<br/>
@@ -176,7 +177,7 @@
 🎧 Definitely. I'm <span>looking</span> forward to it.<br/>
 <span><br/></span>
 
-<h2 id="esc-13-419">At the <span>coffee</span> shop</h2>
+<h2 id="esc-13-419">At the <span>coffee</span> shop <b class="speaker" onclick="startAudio(this, 419)">🔊</b></h2>
 
 🎧 Hi, can I get a <span>cappuccino</span>, please?<br/>
 🎧 Sure, anything else?<br/>
@@ -215,7 +216,7 @@
 🎧 Let's do it.<br/>
 <span><br/></span>
 
-<h2 id="esc-13-513">At the hospital</h2>
+<h2 id="esc-13-513">At the hospital <b class="speaker" onclick="startAudio(this, 513)">🔊</b></h2>
 
 🎧 Hello, how can I help you?<br/>
 🎧 Hi, I'm here for my <span>appointment</span> with <span>Dr</span>. Smith.<br/>
@@ -244,7 +245,7 @@
 🎧 No <span>problem</span>. Have a good day, <span>David</span>.<br/>
 <span><br/></span>
 
-<h2 id="esc-13-599">At the workplace</h2>
+<h2 id="esc-13-599">At the workplace <b class="speaker" onclick="startAudio(this, 599)">🔊</b></h2>
 
 🎧 Hey <span>Bob</span>, did you <span>finish</span> the <span>report</span>?<br/>
 🎧 Yes, I just <span>sent</span> it to you.<br/>
@@ -276,7 +277,7 @@
 🎧 Absolutely. We're <span>excited</span> to start.<br/>
 <span><br/></span>
 
-<h2 id="esc-13-700">At school</h2>
+<h2 id="esc-13-700">At school <b class="speaker" onclick="startAudio(this, 700)">🔊</b></h2>
 
 🎧 Good morning, class. Today we will learn about <span>plants</span>.<br/>
 🎧 That sounds fun.<br/>
@@ -312,7 +313,7 @@
 🎧 Now let's get <span>started</span>.<br/>
 <span><br/></span>
 
-<h2 id="esc-13-806">At the airport</h2>
+<h2 id="esc-13-806">At the airport <b class="speaker" onclick="startAudio(this, 806)">🔊</b></h2>
 
 🎧 <span>Jimmy</span>, did you see the <span>news</span>?<br/>
 🎧 Our <span>flight</span> is <span>overbooked</span>.<br/>
@@ -339,7 +340,7 @@
 🎧 And try that famous <span>restaurant</span>. This <span>turned</span> out well!<br/>
 <span><br/></span>
 
-<h2 id="esc-13-901">At the supermarket</h2>
+<h2 id="esc-13-901">At the supermarket <b class="speaker" onclick="startAudio(this, 901)">🔊</b></h2>
 
 🎧 Tom, have you <span>seen</span> the new <span>smart</span> <span>shopping</span> <span>carts</span>?<br/>
 🎧 No, <span>what's</span> so special about them?<br/>
@@ -369,7 +370,7 @@
 🎧 I agree we should use this <span>cart</span> every time.<br/>
 <span><br/></span>
 
-<h2 id="esc-13-1006">At the library</h2>
+<h2 id="esc-13-1006">At the library <b class="speaker" onclick="startAudio(this, 1006)">🔊</b></h2>
 
 🎧 <span>Jake</span>, have you <span>found</span> any good books for our <span>project</span>?<br/>
 🎧 I <span>found</span> a few on <span>recycling</span> and <span>waste</span> <span>management</span>.<br/>
@@ -412,7 +413,7 @@
 🎧 The more I read, the more <span>excited</span> I get.<br/>
 <span><br/></span>
 
-<h2 id="esc-13-1138">At the <span>post</span> office</h2>
+<h2 id="esc-13-1138">At the <span>post</span> office <b class="speaker" onclick="startAudio(this, 1138)">🔊</b></h2>
 
 🎧 <span>Ben</span>, did you <span>remember</span> to <span>bring</span> the <span>packages</span> we need to <span>mail</span>?<br/>
 🎧 Yes, they're right here.<br/>
@@ -441,7 +442,7 @@
 🎧 Yes, and we're off to a good start.<br/>
 <span><br/></span>
 
-<h2 id="esc-13-1245">At the <span>railway</span> station</h2>
+<h2 id="esc-13-1245">At the <span>railway</span> station <b class="speaker" onclick="startAudio(this, 1245)">🔊</b></h2>
 
 🎧 <span>Ken</span>, do you see the <span>train</span> <span>schedule</span>?<br/>
 🎧 <span>Emma's</span> <span>train</span> should be <span>arriving</span> any <span>minute</span> now.<br/>
@@ -469,7 +470,7 @@
 🎧 and then we thought <span>we'd</span> take you out for lunch.<br/>
 🎧 That sounds <span>perfect</span>. I'm <span>starving</span>!<br/>
 🎧 Great! <span>There's</span> a nice <span>café</span> near our <span>apartment</span>. <span>You'll</span> love it.<br/>
-🎧 And after lunch, we can <span>show</span> you around the <span>city</span>.<br/>
+🎧 And after lunch, we can show you around the <span>city</span>.<br/>
 🎧 I can't wait.<br/>
 🎧 It's my first time here, so I'm <span>looking</span> forward to <span>exploring</span>.<br/>
 🎧 We're glad you're here.<br/>
@@ -477,7 +478,7 @@
 🎧 Absolutely. Let's <span>head</span> out and start your <span>adventure</span>!<br/>
 <span><br/></span>
 
-<h2 id="esc-13-1363">At the <span>police</span> station</h2>
+<h2 id="esc-13-1363">At the <span>police</span> station <b class="speaker" onclick="startAudio(this, 1363)">🔊</b></h2>
 
 🎧 I <span>can't</span> <span>believe</span> <span>someone</span> <span>stole</span> my <span>bike</span>, <span>Mark</span>.<br/>
 🎧 I loved that <span>bike</span>.<br/>
@@ -509,7 +510,7 @@
 🎧 Great, you should do that.<br/>
 <span><br/></span>
 
-<h2 id="esc-13-1481">At the bar</h2>
+<h2 id="esc-13-1481">At the bar <b class="speaker" onclick="startAudio(this, 1481)">🔊</b></h2>
 
 🎧 <span>Congratulations</span> on the new <span>job</span>, <span>Alex</span>!<br/>
 🎧 This <span>calls</span> for a <span>celebration</span>.<br/>
