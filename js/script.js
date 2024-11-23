@@ -92,6 +92,7 @@ function loadAllContents() {
         });
       }
     });
+    document.getElementById("overlay").style.display = "none";
   }, 1000);
 }
 

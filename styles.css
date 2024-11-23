@@ -45,7 +45,11 @@ span {
   font-weight: bold;
 }
 
-.conversation, .level2, .toeic-600-words, .easy-english, .english-speaking-course {
+.conversation,
+.level2,
+.toeic-600-words,
+.easy-english,
+.english-speaking-course {
   display: none;
 }
 
@@ -103,7 +107,8 @@ span {
   cursor: pointer;
 }
 
-.audio-speed, .audio-change {
+.audio-speed,
+.audio-change {
   display: none;
   border: 1px solid powderblue;
   border-radius: 5px;
@@ -111,7 +116,9 @@ span {
   outline: none;
 }
 
-.audio-repeat, .audio-change, .audio-next {
+.audio-repeat,
+.audio-change,
+.audio-next {
   display: none;
 }
 
@@ -174,6 +181,52 @@ audio {
 .speaker {
   display: inline-block;
   transform: translateY(2px);
+  cursor: pointer;
+}
+
+.loader {
+  border: 3px solid #eee;
+  border-radius: 50%;
+  border-top: 3px solid gray;
+  width: 50px;
+  height: 50px;
+  -webkit-animation: spin 1.5s linear infinite;
+  animation: spin 1.5s linear infinite;
+}
+
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+#overlay {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5);
+  z-index: 2;
   cursor: pointer;
 }
 
