@@ -163,7 +163,7 @@ function repeat(btn) {
 
 function audioNext(btn) {
   const audio = btn.parentElement.previousElementSibling.previousElementSibling;
-  audio.currentTime = Math.max(0, audio.currentTime + 2);
+  audio.currentTime = Math.max(0, audio.currentTime + 5);
 }
 
 function initVocabulary() {
