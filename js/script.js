@@ -83,7 +83,7 @@ function loadAllContents() {
     document.addEventListener('keydown', function (event) {
       if (['ArrowLeft', 'ArrowRight'].includes(event.code)) {
         const audios = document.querySelectorAll('audio');
-        const num = event.code === 'ArrowLeft' ? -5 : 2;
+        const num = event.code === 'ArrowLeft' ? -5 : 3;
       
         audios.forEach(audio => {
           if (!audio.paused) {
