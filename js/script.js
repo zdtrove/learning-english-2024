@@ -25,6 +25,7 @@ function activeFirstItemSection(sectionClass) {
     'english-speaking-course',
     'easy-english',
     'english-at-work',
+    'new-vocabulary',
     'ielts-speaking',
     'ielts-listening',
     'level2',
@@ -63,6 +64,7 @@ function loadAllContents() {
   getSection(19, 'english-speaking-course');
   getSection(2, 'easy-english');
   getSection(13, 'english-at-work');
+  getSection(1, 'new-vocabulary');
   getSection(7, 'ielts-speaking');
   getSection(1, 'ielts-listening');
   getSection(11, 'level2');
@@ -80,11 +82,12 @@ function loadAllContents() {
         select.value = secondOption.value;
       }
     });
+
     document.addEventListener('keydown', function (event) {
       if (['ArrowLeft', 'ArrowRight'].includes(event.code)) {
         const audios = document.querySelectorAll('audio');
         const num = event.code === 'ArrowLeft' ? -5 : 3;
-      
+
         audios.forEach(audio => {
           if (!audio.paused) {
             audio.currentTime = Math.max(0, audio.currentTime + num);
@@ -92,7 +95,21 @@ function loadAllContents() {
         });
       }
     });
+
     document.getElementById("overlay").style.display = "none";
+
+    const vocabularyData = localStorage.getItem('vocabulary');
+
+    if (vocabularyData) {
+      const vocabularyList = JSON.parse(vocabularyData);
+      const vocabularyContainer = document.getElementById('vocabulary-list');
+
+      vocabularyList.forEach((word, index) => {
+        const listItem = document.createElement('li');
+        listItem.innerHTML = `<small style="font-style: italic; font-size: 12px;">${index + 1}.</small> <b style="color: burlywood;">${word}</b>`;
+        vocabularyContainer.appendChild(listItem);
+      });
+    }
   }, 1000);
 }
 
