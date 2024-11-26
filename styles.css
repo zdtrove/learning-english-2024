@@ -49,7 +49,9 @@ span {
 .level2,
 .toeic-600-words,
 .easy-english,
-.english-speaking-course {
+.english-speaking-course,
+.ielts-speaking,
+.ielts-listening {
   display: none;
 }
 
