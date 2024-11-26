@@ -1,0 +1,365 @@
+[041] Cam5 - Test 3 - Part 1
+
+🎧 Good morning, please take a seat.
+🎧 How can I help you?
+🎧 Well, I'm thinking of buying a new car and I'd like some advice.
+🎧 Sure, yes.
+🎧 Had you got any particular make in mind?
+🎧 I'm interested in a Lida,
+🎧 I've had one before and liked it but haven't really made up my mind.
+🎧 Sure. We've got various models.
+🎧 Umm, right.
+🎧 What about the engine size? Any ideas?
+🎧 Er... the one I've got at the moment's a 1.2 litre engine but
+🎧 I find it a bit slow on long journeys.
+🎧 I'd like a bit more power this time...
+🎧 a 1.4 should do,
+🎧 I don't think I need a 1.6 or anything.
+🎧 Right.
+🎧 Well, I think the model you're looking at is the Max.
+🎧 Here's a picture.
+🎧 Oh, yes...
+🎧 have you got one in?
+🎧 Yes.
+🎧 I'll take you to have a look at it in a minute.
+🎧 I'll just get a few more details.
+🎧 Is there anything else to do with the engine?
+🎧 What kind of gear change do you want?
+🎧 I presume you'd want a manual?
+🎧 I'd want automatic -
+🎧 I've never driven a car with manual gears.
+🎧 Right.
+🎧 Well now, here's the colour chart for the Max.
+🎧 Have you given that any thought?
+🎧 This blue's very popular at the moment.
+🎧 Yes, it is nice, I like blue.
+🎧 Erm... what's it called? 'Royal'?
+🎧 Yes.
+🎧 But actually, I think I prefer this lighter shade here - 'Sky'.
+🎧 Yes, that's popular too.
+🎧 I think I'll go for that.
+🎧 You might have to wait a week or so for that colour,
+🎧 but I assume that'd be okay?
+🎧 Oh yes, fine.
+🎧 Well, we can go outside and you can have a good look at one,
+🎧 and perhaps take it out.
+🎧 But first, can I just ask you about finance?
+🎧 The cash price is going to be somewhere in the region of 7500.
+🎧 How would you like to pay?
+🎧 Are you in a position to pay cash, or would you need credit?
+🎧 I'd like credit provided the terms are reasonable.
+🎧 Well you can discuss that with my colleague in a moment;
+🎧 we have various arrangements.
+🎧 And would you be interested in us taking your present car as part exchange?
+🎧 Yes.
+🎧 Okay, fine.
+🎧 So I'll just need some details from you and then we can do a valuation...
+🎧 Is that okay?
+🎧 Fine, yes.
+🎧 Could I have your full name?
+🎧 Wendy Harries,
+🎧 that's HARRIES.
+🎧 And is that Mrs..?. Miss...? Ms...?
+🎧 It's Doctor, actually.
+🎧 Oh, right.
+🎧 And your address?
+🎧 20 Green Banks.
+🎧 Is that 'Green' spelled as in the colour?
+🎧 Yes, that's right.
+🎧 Okay.
+🎧 Alton.
+🎧 Is that OLTON?
+🎧 Not quite, it begins with an A, not an O.
+🎧 Oh yes, that's in Hampshire isn't it?
+🎧 That's right.
+🎧 And do you know your postcode?
+🎧 Yes. It's GU89EW.
+🎧 Do you have a daytime phone number?
+🎧 Well, I work at a hospital but it's a bit difficult to get hold of me.
+🎧 I can give you a number just for messages,
+🎧 and then I'll get back to you when I can. Is that okay?
+🎧 That's fine.
+🎧 It's 0798257643.
+🎧 Fine.
+🎧 And about the car you have now, what make is it?
+🎧 It's a Conti.
+🎧 Do you know the year or the model name?
+🎧 I think it's 1996, and it's called a Lion - like the animal.
+🎧 Then it must be 1994, because they brought out the Fox after that.
+🎧 Oh right, yes.
+🎧 Mileage? Roughly?
+🎧 I'm not sure.
+🎧 I know it's less than 70,000.
+🎧 Okay.
+🎧 What colour is it?
+🎧 It's grey, metallic grey.
+🎧 Right, and one last thing -
+🎧 what sort of condition would you say it's in?
+🎧 I'd probably describe it as reasonable.
+🎧 Do you need to see it? It's parked outside.
+🎧 Not at the moment, no.
+🎧 Perhaps you could call in one day next week...
+
+[042] Cam5 - Test 3 - Part 2
+
+🎧 As I said earlier,
+🎧 there is, I think, at Rexford, an excellent combination of physical and geographical advantages -
+🎧 as well as having a rural setting and still being close to central London,
+🎧 something that will certainly be of interest to you
+🎧 is that Rexford is just 35 minutes from London Airport.
+🎧 At Rexford we have a strong research capability.
+🎧 We came 7th out of 101 universities in last year's research assessment,
+🎧 carried out by a government body
+🎧 and did particularly well in your particular subjects, engineering and science.
+🎧 Actually we got a top research grade of five for engineering, geography and computer sciences.
+🎧 One further point - and I know from talking to you individually
+🎧 that a number of you may be looking for some experience in industry after the course -
+🎧 is that all our science and engineering research departments
+🎧 have unusually close relationships with industry in the area.
+🎧 Anyway, that's enough sales talk from me...
+🎧 I'll just take a sip of this coffee that's just arrived, thank you,
+🎧 and then I'll say something about what actually happens when you apply.
+🎧 Right... Now if you do decide to make an application,
+🎧 what you do is send it directly to me in my department.
+🎧 I will then immediately send confirmation and the application process begins.
+🎧 I'd like to say at this point that you shouldn't worry if this process doesn't work all that quickly -
+🎧 I mean occasionally there are postal problems,
+🎧 but most often, the hold-up is caused by references -
+🎧 the people you give as referees,
+🎧 shall we say, take their time to reply.
+🎧 Anyway, it's absolutely normal for this process to take three to four months.
+🎧 What I do in this period is keep in touch with you
+🎧 and reassure you that things are moving along.
+🎧 One of the ways we've devised to help you decide about applying
+🎧 as well as later when you've been accepted... hopefully...
+🎧 is to put you in contact with, if possible, a student from your own country
+🎧 who is at present studying with us.
+🎧 What you can do is phone them up -
+🎧 we will, of course, liaise between you
+🎧 and discuss your concerns with them.
+🎧 That way you can get an objective opinion of what you can expect
+🎧 if you come to live and study at Rexford -
+🎧 not only the academic atmosphere
+🎧 but important details like what the leisure facilities are like
+🎧 and whether the English weather and food are really as awful as everybody says!
+🎧 If you decide you can face it,
+🎧 the contact can also help you just before you leave,
+🎧 with tips on what to pack and that sort of thing.
+🎧 At the moment I think we've got two second-year students
+🎧 and one postgraduate from this country.
+🎧 Now to move on to the other concerns you expressed earlier.
+🎧 At a UK university - as I'm sure you know -
+🎧 you will be in an environment where independent learning is the norm,
+🎧 which takes most students a while to adjust to,
+🎧 and at a time when you will be separated from your normal surroundings
+🎧 and, in most cases, your family.
+🎧 This can be a difficult time.
+🎧 But remember that something like 25% of our student body
+🎧 are international students like yourselves,
+🎧 and that there are several organisations in the university and city
+🎧 whose main purpose is to offer help
+🎧 and ensure that your time with us is enjoyable and useful.
+🎧 One or two of you touched on the subject of accommodation earlier.
+🎧 So I'll just add a few points:
+🎧 it is the University's policy to give priority in the allocation of residence places to three categories,
+🎧 and those are: visiting students, exchange students and new postgraduate students.
+🎧 However, demand exceeds supply,
+🎧 so there is still a need to put your name down early for campus accommodation,
+🎧 particularly if your family is accompanying you.
+🎧 This means that the earlier you decide whether you want to study with us...
+🎧 and so get the procedure moving, the better it will be for everybody.
+🎧 Erm... Yes?
+🎧 What if you would prefer to live outside the university?
+🎧 If you're planning to live off-campus, you've got to sort things out even earlier.
+🎧 As with everything in short supply,
+🎧 the good accommodation gets snapped up months before the beginning of term -
+🎧 in other words, if you're starting in October,
+🎧 you need to be thinking about it in June or at the very latest July,
+🎧 So you do need to think very carefully about what you need,
+🎧 how much you can afford to pay, well in advance.
+🎧 What you can't do is leave it until a few days before the start of term.
+🎧 The agencies in town are pretty good -
+🎧 it's just a matter of contacting them in good time.
+🎧 Of course, we have a full-time accommodation officer available to help all students.
+🎧 She'll get in touch with you when you're accepted -
+🎧 she's got plenty of contacts in the town and will deal with the agencies on your behalf.
+🎧 One or two of you asked me earlier about your level of spoken English.
+🎧 Obviously most of you have already achieved a lot -
+🎧 I wish I could speak your language half as well.
+🎧 Having said that though,
+🎧 I'm afraid the lecturers will make little or no allowance for the presence of non-native speakers in the audience.
+🎧 So, anything you can do to improve your spoken English -
+🎧 even beyond the pretty high levels most of you have already reached -
+🎧 will help make your stay with us that bit more fun for you.
+🎧 Some extra practice before you arrive is worth more than...
+🎧 for example private lessons afterwards, when you won't really have time.
+🎧 Oh... and one last thing before I invite further questions:
+🎧 it's very important...
+
+[043] Cam5 - Test 3 - Part 3
+
+🎧 Oh Ben - I just remembered I never filled in that form for Nick.
+🎧 Did you do it?
+🎧 The course feedback form?
+🎧 Yes.
+🎧 If you want, we can do it together,
+🎧 I've got mine here.
+🎧 Is that OK?
+🎧 Yeah.
+🎧 Okay, let's have a look then.
+🎧 What do we have to do?
+🎧 Let's fill in the top first,
+🎧 let's see, Course, Course code...
+🎧 Er, it's Communication in Business.
+🎧 Okay, Communication... in.. Business.
+🎧 I do know that, but what's the code?
+🎧 CB16 something,
+🎧 CB162, isn't it?
+🎧 Mmm, that's it. Okay and dates.
+🎧 When did we start?
+🎧 I remember, my birthday's on May 4th and it was the day after,
+🎧 it must have been May 5th.
+🎧 Gosh, doesn't seem that long ago, does it?
+🎧 No, and we finish at the end of this week, on Friday, so that's...
+🎧 July 15th?
+🎧 Er 16th, Monday was the 12th.
+🎧 Right, that was the easy bit, now let's have a look -
+🎧 "Please give your comments on the following aspects of the course".
+🎧 Okay, what's the first one?
+🎧 Oh, course organisation.
+🎧 What do you think?
+🎧 Er, clear?
+🎧 It was, wasn't it?
+🎧 Yes, I think the organisation was clear.
+🎧 Okay, anything else for course organisation?
+🎧 Erm... It was a good thing he gave us the course outline at the beginning, in the first session,
+🎧 that was useful, so I'll put that down, shall I?
+🎧 Yeah.
+🎧 Now, going on to suggestions for improvement,
+🎧 one thing that wasn't so good,
+🎧 I think we could have done a bit more work at the beginning,
+🎧 I mean at the beginning it seemed dead easy.
+🎧 I thought it was going to be really easy
+🎧 and then all of a sudden in the second half of the course, we got a whole load of work,
+🎧 reading to do and essays and things.
+🎧 Yeah, it'd be better if it was more even.
+🎧 Okay, now course delivery,
+🎧 does that mean teaching?
+🎧 Yeah, I suppose so.
+🎧 Well, what I thought was really good on this course was the standard of teaching.
+🎧 Actually - I mean some of the teachers were better than others -
+🎧 but the standard generally was fine.
+🎧 Much better than other courses I've been on.
+🎧 Yeah, I agree. Let's put that then.
+🎧 What about suggestions for improvement?
+🎧 I didn't think it was all that wonderful when we had great long group discussion sessions that went on for hours and hours.
+🎧 I don't mean we shouldn't have group discussions,
+🎧 just that they shouldn't go on too long.
+🎧 Now, on to materials and equipment.
+🎧 Oh, now what was good about some sessions was the handouts.
+🎧 Yes, I thought all the handouts were good actually, and some were great, with website addresses and everything.
+🎧 One problem though with materials was the key texts.
+🎧 Yes!
+🎧 There just weren't enough copies on reserve in the library.
+🎧 And if you can't get the key texts before the session,
+🎧 how are you supposed to do the reading?
+🎧 And not enough computers.
+🎧 You have to wait ages to get one.
+🎧 OK, testing and evaluation.
+🎧 Well, I don't know, it's hard to say until we've got our written assignments back.
+🎧 Don't talk about it,
+🎧 I only got mine in yesterday, it was a real struggle.
+🎧 I hate to think what mark I'll get.
+🎧 Yeah, but at least we've done the oral presentation.
+🎧 I thought that was good, the way I got my feedback really quickly.
+🎧 Yes, it was.
+🎧 And I liked the way we knew what we'd be evaluated on,
+🎧 we knew the criteria, so we knew we had to think about clarity, organisation, and so on.
+🎧 But I'm not so sure about the written work.
+🎧 One thing I think is that there's just too much, it's really stressful.
+🎧 Oh yes, I'd agree
+🎧 and I don't see why they can't let us know the criteria they use for marking.
+🎧 The written assignments?
+🎧 But he told us.
+🎧 No, for the final exams.
+🎧 What are they looking for - what are the criteria?
+🎧 What makes a pass or a fail?
+🎧 Yeah, I never thought of that.
+🎧 It'd be really useful.
+🎧 Okay, any other comments?
+🎧 I thought student support was excellent.
+🎧 Yeah, me too.
+🎧 Okay, excellent.
+🎧 Other comments?
+🎧 No. I can't think of anything else.
+🎧 Nor me.
+🎧 Okay, so that's done.
+🎧 Thanks, Ben.
+🎧 No, thank you.
+
+[044] Cam5 - Test 3 - Part 4
+
+🎧 Well, my group has been doing a project on how household waste is recycled in Britain.
+🎧 We were quite shocked to discover that only 9% of people here in the UK
+🎧 make an effort to recycle their household waste.
+🎧 This is a lower figure than in most other European countries,
+🎧 and needs to increase dramatically in the next few years
+🎧 if the government is going to meet its recycling targets.
+🎧 The agreed targets for the UK mean that by 2008 we must reduce our carbon dioxide emissions by 12.5%,
+🎧 compared with 1990.
+🎧 And recycling can help to achieve that goal, in two main ways:
+🎧 the production of recycled glass and paper uses much less energy than producing them from virgin materials,
+🎧 and also recycling reduces greenhouse gas emissions from landfill sites and incineration plants.
+🎧 As part of our project,
+🎧 we carried out a survey of people in the street,
+🎧 and the thing that came up over and over again
+🎧 is that people don't think it's easy enough to recycle their waste.
+🎧 One problem is that there aren't enough 'drop- off' sites,
+🎧 that is, the places where the public are supposed to take their waste.
+🎧 We also discovered that waste that's collected from householders
+🎧 is taken to places called 'bring banks', for sorting and baling into loads.
+🎧 One problem here is taking out everything that shouldn't have been placed in the recycling containers:
+🎧 people put all sorts of things into bottle banks, like plastic bags and even broken umbrellas.
+🎧 All this has to be removed by hand.
+🎧 Another difficulty is that toughened glass used for cooking doesn't fully melt at the temperature required for other glass,
+🎧 and so that also has to be picked out by hand.
+🎧 Glass is easy to recycle because it can be reused over and over again without becoming weaker.
+🎧 Two million tons of glass is thrown away each year,
+🎧 that is, seven billion bottles and jars;
+🎧 but only 500,000 tons of that is collected and recycled.
+🎧 Oddly enough, half the glass that's collected is green,
+🎧 and a lot of that is imported,
+🎧 so more green glass is recycled than the UK needs.
+🎧 As a result, new uses are being developed for recycled glass, particularly green glass,
+🎧 for example, in fibreglass manufacture and water filtration.
+🎧 A company called CLF Aggregates makes a product for roads,
+🎧 and 30% of the material is crushed glass.
+🎧 For recycling paper, Britain comes second in Europe with 40%,
+🎧 behind Germany's amazing 70%.
+🎧 When recycling started, there were quality problems,
+🎧 so it was difficult to use recycled paper in office printers.
+🎧 But these problems have now been solved,
+🎧 and Martin's, based in South London,
+🎧 produces a range of office stationery which is 100% recycled,
+🎧 costs the same as normal paper and is of equally high quality.
+🎧 But this high quality comes at a cost in terms of the waste produced during the process.
+🎧 Over a third of the waste paper that comes in can't be used in the recycled paper,
+🎧 leaving the question of what to do with it.
+🎧 One firm, Papersave, currently sells this to farmers as a soil conditioner,
+🎧 though this practice will soon be banned because of transport costs and the smell,
+🎧 and the company is looking into the possibility of alternative uses.
+🎧 Plastic causes problems, because there are so many different types of plastic in use today,
+🎧 and each one has to be dealt with differently.
+🎧 Pacrite recycles all sorts of things, from bottles to car bumpers,
+🎧 and one of its most successful activities is recycling plastic bottles to make containers
+🎧 which are used all over the country to collect waste.
+🎧 The Save-a-Cup scheme was set up by the vending and plastics industries
+🎧 to recycle as many as possible of the 3.5 billion polystyrene cups used each year.
+🎧 At the moment, 500 million polycups are collected, processed and sold on to other businesses, such as Waterford,
+🎧 which turns the cups into pencils,
+🎧 and Johnson & Jones, a Welsh-based firm,
+🎧 which has developed a wide variety of items, including business cards.
+🎧 Well, to sum up,
+🎧 there seems to be plenty of research going on into how to re-use materials,
+🎧 but the biggest problem is getting people to think about recycling instead of throwing things away.
+🎧 At least doing the research made us much more careful.
