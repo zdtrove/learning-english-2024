@@ -1,271 +1,279 @@
-Conference Centre Reservations. Good morning.
-Hi. I'm interested in the computing conference next month.
-Future Directions in Computing?
-Yes, that's right.
-Could I ask you a few questions about it?
-Of course.
-OK.
-I know the conference is for three days
-but actually I want to attend on the Friday and Saturday only.
-Will that work out to be any cheaper?
-Let me have a look.
-Well, you could register for the two days separately,
-but that wouldn't actually save you very much
-as it still costs £35 for each day.
-In fact, if you could register for the three days,
-you also get an invitation to a free dinner on the Saturday night,
-so that's probably the better option.
-Right, I'll do that.
-How much will the fees be in that case?
-It's £75.
-All right.
-I'd like to register for the full three days.
-Now, can I pay that by credit card?
-I'm afraid not.
-You'll have to send a cheque to us,
-or you can pay at the conference office.
-Fine.
-So it's probably easiest if I pay by cheque.
-Now then, what else do I need to arrange?
-Right. How about accommodation?
-I guess that's not included in the price?
-No, I'm sorry, it's not,
-but we do have a few rooms available for delegates at the conference centre if you'd like.
-Those are very cheap but if you're interested you'll need to book soon,
-because there's always a heavy demand for them.
-They are only £15 per night,
-but they are very basic and you'd have to get your own breakfast,
-because they don't provide you with that.
-But it's very convenient,
-because it's in the same building as the conference rooms.
-Uhuh.
-Or there's a very reasonable guest house which is £25 per night.
-And I think that includes your breakfast.
-Is it close to the conference centre?
-It would be about a ten-minute walk away from here.
-I see.
-That sounds quite reasonable.
-The details are all in our conference pack, which I'll send you.
-Great, thanks.
-That'll be very useful.
-Oh, and can you also send me an application form?
-Of course.
-I'll get that in the post to you straight away.
-Is there anything else?
-Yes, actually.
-Can you tell me where exactly the conference centre is?
-Well, it's on South Park Road and it's right at the end of the road next to the library.
-It's a ten-minute taxi ride from the station
-and will cost you £5.
-Otherwise, you can take the bus which runs every half an hour from the station,
-that's the 21A,
-and it brings you straight to the conference centre.
-Right, got that.
+[061] Cam6 - Test 4 - Part 1
 
-Good morning and welcome, everybody.
-I'm Jenny Stewart
-and I'm the Staff Manager here at the exhibition centre.
-We're expecting this year's International Travel Exhibition
-to attract over 10,000 visitors a day, ladies and gentlemen,
-and you are among the 200 extra staff recruited to help look after them.
-Now, to help things run smoothly,
-we have divided you into four teams -
-the blue team, the green team, the red team, and the yellow team.
-So first, I'll explain how the teams are divided up,
-and then we'll be giving you colour-coded T-shirts so we can identify you more easily.
-First of all, those who will be looking after the phones
-and handling all calls regarding the exhibition,
-you will be on the red team.
-Now, we've also put the entrance staff on the red team
-and you'll be stamping the entrance tickets and giving out publicity leaflets, okay?
-Those of you involved in distributing entrance tickets will be on the yellow team
-and we've also put those of you who'll be staffing the information booths around the conference centre on the yellow team, so...
-you'll be getting a yellow T-shirt.
-Now, most of the hospitality staff have been put in the blue team,
-so the chefs among you and the kitchen hands will all need a blue T-shirt, but...
-because of the sheer numbers,
-all waiting staff will be on the yellow team,
-and this includes the bar staff among you.
-Those who will be monitoring and directing the traffic in the car parks are on the green team,
-so you'll need to get a green T-shirt.
-This year, we've also employed a considerable number of attendants
-to direct the human traffic around the conference centre.
-Now, you'll be working in the exhibition hall at all times,
-giving directions and generally helping people whenever you can,
-and you will be in the red team, so please collect a red T-shirt.
-Right, now that everyone knows what team they're in,
-we'll get on with the orientation and training programme
-and first, I'll run through the rest of today's programme,
-which you should have in front of you,
-so that you can get a general idea of what else is in store today.
-This introduction finishes at 9.30
-and then you'll be hearing from Anne Smith.
-Anne works in the accounts department on level two
-and she looks after all temporary staff,
-and so she is the person to see if you have any problems regarding pay.
-Anne will be explaining when and how you get this.
-She will also be handing out your tax forms.
-And I will just stress that all tax forms must be completed
-and returned to Anne before your pay can be processed.
-Following Anne's talk you'll hear from Peter Chen, our Conference Manager,
-and he will be going over a plan of the conference centre with you,
-which will help you to orient yourselves.
-He will also go through the security arrangements with you
-and show you the fire exits.
-Then at 10.30,
-there will be a coffee break in the staff canteen,
-which is located down on the ground floor.
-Now, after the break,
-we'll be moving to a different location for a video presentation,
-so instead of coming back here,
-we'd like you all to go to Lecture Room 311.
-You'll find it on this same level, just down the hall,
-and there you will be shown a video about important safety issues in the workplace,
-called Safety at Work.
-We'll finish off the morning with lunch,
-which should give everyone a chance to meet and get to know each other,
-and we'll be serving you a buffet lunch in the Main Hall,
-which is on the first floor, from 12.00 o'clock.
-After lunch, you'll be divided up into your teams to meet your team leaders
-and we're hoping to be all finished by 3.00, so...
-I won't delay you any longer...
+🎧 Conference Centre Reservations. Good morning.
+🎧 Hi. I'm interested in the computing conference next month.
+🎧 Future Directions in Computing?
+🎧 Yes, that's right.
+🎧 Could I ask you a few questions about it?
+🎧 Of course.
+🎧 OK.
+🎧 I know the conference is for three days
+🎧 but actually I want to attend on the Friday and Saturday only.
+🎧 Will that work out to be any cheaper?
+🎧 Let me have a look.
+🎧 Well, you could register for the two days separately,
+🎧 but that wouldn't actually save you very much
+🎧 as it still costs £35 for each day.
+🎧 In fact, if you could register for the three days,
+🎧 you also get an invitation to a free dinner on the Saturday night,
+🎧 so that's probably the better option.
+🎧 Right, I'll do that.
+🎧 How much will the fees be in that case?
+🎧 It's £75.
+🎧 All right.
+🎧 I'd like to register for the full three days.
+🎧 Now, can I pay that by credit card?
+🎧 I'm afraid not.
+🎧 You'll have to send a cheque to us,
+🎧 or you can pay at the conference office.
+🎧 Fine.
+🎧 So it's probably easiest if I pay by cheque.
+🎧 Now then, what else do I need to arrange?
+🎧 Right. How about accommodation?
+🎧 I guess that's not included in the price?
+🎧 No, I'm sorry, it's not,
+🎧 but we do have a few rooms available for delegates at the conference centre if you'd like.
+🎧 Those are very cheap but if you're interested you'll need to book soon,
+🎧 because there's always a heavy demand for them.
+🎧 They are only £15 per night,
+🎧 but they are very basic and you'd have to get your own breakfast,
+🎧 because they don't provide you with that.
+🎧 But it's very convenient,
+🎧 because it's in the same building as the conference rooms.
+🎧 Uhuh.
+🎧 Or there's a very reasonable guest house which is £25 per night.
+🎧 And I think that includes your breakfast.
+🎧 Is it close to the conference centre?
+🎧 It would be about a ten-minute walk away from here.
+🎧 I see.
+🎧 That sounds quite reasonable.
+🎧 The details are all in our conference pack, which I'll send you.
+🎧 Great, thanks.
+🎧 That'll be very useful.
+🎧 Oh, and can you also send me an application form?
+🎧 Of course.
+🎧 I'll get that in the post to you straight away.
+🎧 Is there anything else?
+🎧 Yes, actually.
+🎧 Can you tell me where exactly the conference centre is?
+🎧 Well, it's on South Park Road and it's right at the end of the road next to the library.
+🎧 It's a ten-minute taxi ride from the station
+🎧 and will cost you £5.
+🎧 Otherwise, you can take the bus which runs every half an hour from the station,
+🎧 that's the 21A,
+🎧 and it brings you straight to the conference centre.
+🎧 Right, got that.
 
-Good afternoon. Can I help you?
-Good afternoon.
-Yes, I've just transferred to the School of Education,
-and I'd like information about joining the library.
-Well, the School of Education has libraries on two sites, as I'm sure you know.
-This one here is the Fordham Site, and the other is on Castle Road.
-And is there any difference between the two libraries?
-Not in terms of their facilities.
-Access to online databases and the Internet is available at both sites
-and each site has a range of reference materials on education.
-Oh yes. I see.
-But the Castle Road site has books on the sociology of education
-and a collection of textbooks and teaching resources
-covering most of the subjects taught in secondary schools.
-Ah, right,
-but I'm training to be a primary teacher
-so I need to look at materials for the five to eleven age group.
-Then you've come to the right place.
-At Fordham we hold material relating to primary education,
-as well as special needs,
-but of course you'll need to familiarise yourself with both sites to make the most of our resources.
-You haven't mentioned periodicals.
-Are they held at both sites?
-Current issues, yes but if you want to look at back issues
-you'll need to use the CD-ROM databases which are held here at Fordham.
-I see.
-Now, about borrowing books.
-I'm living out of town, so I'm hoping I can borrow quite a few items,
-and cut down on the number of trips I have to make.
-Right, well, members can borrow two books at a time from each site.
-Only two books?
-Only two from each site, but that's four altogether.
-Oh I see,
-and how long can I hang on to them for?
-The borrowing period is one month, but of course books can be renewed.
-You can renew any item a maximum of three times.
-Do I have to come to the library to do that?
-No, you can do it by telephone or email,
-but you can't renew overdue books this way,
-only before or on the due date stamped in the book.
-We'll need your full name, your borrower number
-and the name of the site library you borrowed the items from.
-So theoretically I can borrow books for up to three months -
-is that what you're saying?
-Yes, provided they're not recalled.
-So, what happens then?
-Well, sometimes an item is requested by another borrower,
-in which case we'd send you a letter,
-and you'd have to return the book within seven working days.
-Don't forget we're closed on Sundays.
-Okay.
-I expect it'll take me a while to find what I need.
-There's such a lot here.
-Yes, there is,
-but if you need help getting started,
-this term we're running three study skills workshops.
-Oh?
-What are they on?
-Er, let me see.
-The first one's on resources...
-yes, here it is.
-How to use the library's resources.
-That includes everything, not just the print and technical resources.
-That sounds useful.
-Is there anything on using the Internet?
-Er, let's see.
-The one on the Internet for beginners was last term.
-This term it's finding research materials online.
-That sounds interesting too,
-hm, what's the last one?
-It's a workshop on dissertations.
-What do you mean? how to write one?
-Er, no it's more to do with academic writing conventions,
-you know, writing a bibliography and how to refer to sources in your text.
-That sort of thing.
-Anyway, here's a leaflet with information about all three.
-Thanks a lot.
-That'll be very useful.
-You're welcome.
+[062] Cam6 - Test 4 - Part 2
 
-Well, most people think that lions only come from Africa.
-And you would be forgiven for thinking this,
-because in fact, most lions do come from Africa.
-But this hasn't always been the case.
-If we go back 10,000 years, we would find that there were lions roaming vast sections of the globe.
-But now, unfortunately,
-only very small sections of the lions' former habitat remain.
-My particular interest is Asiatic lions,
-which are a sub-species of African lions.
-It's almost 100,000 years since the Asiatic lions split off and developed as a sub-species.
-At one time the Asiatic lion was living as far west as Greece
-and they were found from there,
-in a band that spread east through various countries of the Middle East,
-all the way to India.
-In museums, you can now see Greek coins that have clear images of the Asiatic lion on them.
-Most of them are dated at around 500 B.C.
-However, Europe saw its last Asiatic lion roaming free 2000 years ago.
-Over the next nineteen hundred years the numbers of Asiatic lions in the other areas declined steadily,
-but it was only in the nineteenth century that they disappeared from everywhere but India.
-So, how can you tell an Asiatic lion from an African lion,
-with which you're probably more familiar?
-Well, in general, Asiatic lions are not as big as African lions.
-The colour is more or less the same, but the appearance of the mane is different -
-that's the hair around the lion's face and neck.
-The Asiatic lion's mane is noticeably shorter than the African lion's.
-Asiatic lions also have a long fold of skin on their undersides,
-whereas not many African lions have this.
-Well, I'd like to talk to you now about the Gir Sanctuary in India.
-That's where I've just come back from.
-The sanctuary was established specifically to protect the Asiatic lion.
-It's 1.450 square kilometres in area and most of it is forest.
-There are now around 300 Asiatic lions in India
-and almost all of them are in this sanctuary.
-But despite living in a sanctuary, which makes them safe from hunters,
-they still face a number of problems that threaten their survival.
-One of these is the ever-present danger of disease.
-This is what killed more than a third of Africa's Serengeti lions in 1994,
-and people are fearful that something similar could happen in the Gir Sanctuary
-and kill off many of the Asiatic lions there.
-India's lions are particularly vulnerable because they have a limited gene pool.
-The reason for this is interesting -
-it's because all of them are descended from a few dozen lions that were saved by a prince
-who took a particular interest in them.
-He was very wealthy, and he managed to protect them -
-otherwise they'd probably have died out completely.
-When you see the Asiatic lion in India,
-what you sense is enormous vitality.
-They're very impressive beasts
-and you would never guess that they had this vulnerability when you look at them.
-The Asiatic lions don't have the Gir Sanctuary to themselves, I should add.
-They actually share it with about 2000 farmers.
-A significant proportion of the lions' diet is made up of the livestock of these farmers -
-goats, chickens and so on -
-as much as a third, in fact.
-And they've even been known to attack humans, especially in times of drought.
-One final piece of interesting information -
-in ancient India, one of the greatest tests of leadership for a man was to fight a lion.
-Now it seems, in modern India it will be a great test to see if the lion can be saved.
-I'm sure this is something that all of you will share concern for too.
+🎧 Good morning and welcome, everybody.
+🎧 I'm Jenny Stewart
+🎧 and I'm the Staff Manager here at the exhibition centre.
+🎧 We're expecting this year's International Travel Exhibition
+🎧 to attract over 10,000 visitors a day, ladies and gentlemen,
+🎧 and you are among the 200 extra staff recruited to help look after them.
+🎧 Now, to help things run smoothly,
+🎧 we have divided you into four teams -
+🎧 the blue team, the green team, the red team, and the yellow team.
+🎧 So first, I'll explain how the teams are divided up,
+🎧 and then we'll be giving you colour-coded T-shirts so we can identify you more easily.
+🎧 First of all, those who will be looking after the phones
+🎧 and handling all calls regarding the exhibition,
+🎧 you will be on the red team.
+🎧 Now, we've also put the entrance staff on the red team
+🎧 and you'll be stamping the entrance tickets and giving out publicity leaflets, okay?
+🎧 Those of you involved in distributing entrance tickets will be on the yellow team
+🎧 and we've also put those of you who'll be staffing the information booths around the conference centre on the yellow team, so...
+🎧 you'll be getting a yellow T-shirt.
+🎧 Now, most of the hospitality staff have been put in the blue team,
+🎧 so the chefs among you and the kitchen hands will all need a blue T-shirt, but...
+🎧 because of the sheer numbers,
+🎧 all waiting staff will be on the yellow team,
+🎧 and this includes the bar staff among you.
+🎧 Those who will be monitoring and directing the traffic in the car parks are on the green team,
+🎧 so you'll need to get a green T-shirt.
+🎧 This year, we've also employed a considerable number of attendants
+🎧 to direct the human traffic around the conference centre.
+🎧 Now, you'll be working in the exhibition hall at all times,
+🎧 giving directions and generally helping people whenever you can,
+🎧 and you will be in the red team, so please collect a red T-shirt.
+🎧 Right, now that everyone knows what team they're in,
+🎧 we'll get on with the orientation and training programme
+🎧 and first, I'll run through the rest of today's programme,
+🎧 which you should have in front of you,
+🎧 so that you can get a general idea of what else is in store today.
+🎧 This introduction finishes at 9.30
+🎧 and then you'll be hearing from Anne Smith.
+🎧 Anne works in the accounts department on level two
+🎧 and she looks after all temporary staff,
+🎧 and so she is the person to see if you have any problems regarding pay.
+🎧 Anne will be explaining when and how you get this.
+🎧 She will also be handing out your tax forms.
+🎧 And I will just stress that all tax forms must be completed
+🎧 and returned to Anne before your pay can be processed.
+🎧 Following Anne's talk you'll hear from Peter Chen, our Conference Manager,
+🎧 and he will be going over a plan of the conference centre with you,
+🎧 which will help you to orient yourselves.
+🎧 He will also go through the security arrangements with you
+🎧 and show you the fire exits.
+🎧 Then at 10.30,
+🎧 there will be a coffee break in the staff canteen,
+🎧 which is located down on the ground floor.
+🎧 Now, after the break,
+🎧 we'll be moving to a different location for a video presentation,
+🎧 so instead of coming back here,
+🎧 we'd like you all to go to Lecture Room 311.
+🎧 You'll find it on this same level, just down the hall,
+🎧 and there you will be shown a video about important safety issues in the workplace,
+🎧 called Safety at Work.
+🎧 We'll finish off the morning with lunch,
+🎧 which should give everyone a chance to meet and get to know each other,
+🎧 and we'll be serving you a buffet lunch in the Main Hall,
+🎧 which is on the first floor, from 12.00 o'clock.
+🎧 After lunch, you'll be divided up into your teams to meet your team leaders
+🎧 and we're hoping to be all finished by 3.00, so...
+🎧 I won't delay you any longer...
+
+[063] Cam6 - Test 4 - Part 3
+
+🎧 Good afternoon. Can I help you?
+🎧 Good afternoon.
+🎧 Yes, I've just transferred to the School of Education,
+🎧 and I'd like information about joining the library.
+🎧 Well, the School of Education has libraries on two sites, as I'm sure you know.
+🎧 This one here is the Fordham Site, and the other is on Castle Road.
+🎧 And is there any difference between the two libraries?
+🎧 Not in terms of their facilities.
+🎧 Access to online databases and the Internet is available at both sites
+🎧 and each site has a range of reference materials on education.
+🎧 Oh yes. I see.
+🎧 But the Castle Road site has books on the sociology of education
+🎧 and a collection of textbooks and teaching resources
+🎧 covering most of the subjects taught in secondary schools.
+🎧 Ah, right,
+🎧 but I'm training to be a primary teacher
+🎧 so I need to look at materials for the five to eleven age group.
+🎧 Then you've come to the right place.
+🎧 At Fordham we hold material relating to primary education,
+🎧 as well as special needs,
+🎧 but of course you'll need to familiarise yourself with both sites to make the most of our resources.
+🎧 You haven't mentioned periodicals.
+🎧 Are they held at both sites?
+🎧 Current issues, yes but if you want to look at back issues
+🎧 you'll need to use the CD-ROM databases which are held here at Fordham.
+🎧 I see.
+🎧 Now, about borrowing books.
+🎧 I'm living out of town, so I'm hoping I can borrow quite a few items,
+🎧 and cut down on the number of trips I have to make.
+🎧 Right, well, members can borrow two books at a time from each site.
+🎧 Only two books?
+🎧 Only two from each site, but that's four altogether.
+🎧 Oh I see,
+🎧 and how long can I hang on to them for?
+🎧 The borrowing period is one month, but of course books can be renewed.
+🎧 You can renew any item a maximum of three times.
+🎧 Do I have to come to the library to do that?
+🎧 No, you can do it by telephone or email,
+🎧 but you can't renew overdue books this way,
+🎧 only before or on the due date stamped in the book.
+🎧 We'll need your full name, your borrower number
+🎧 and the name of the site library you borrowed the items from.
+🎧 So theoretically I can borrow books for up to three months -
+🎧 is that what you're saying?
+🎧 Yes, provided they're not recalled.
+🎧 So, what happens then?
+🎧 Well, sometimes an item is requested by another borrower,
+🎧 in which case we'd send you a letter,
+🎧 and you'd have to return the book within seven working days.
+🎧 Don't forget we're closed on Sundays.
+🎧 Okay.
+🎧 I expect it'll take me a while to find what I need.
+🎧 There's such a lot here.
+🎧 Yes, there is,
+🎧 but if you need help getting started,
+🎧 this term we're running three study skills workshops.
+🎧 Oh?
+🎧 What are they on?
+🎧 Er, let me see.
+🎧 The first one's on resources...
+🎧 yes, here it is.
+🎧 How to use the library's resources.
+🎧 That includes everything, not just the print and technical resources.
+🎧 That sounds useful.
+🎧 Is there anything on using the Internet?
+🎧 Er, let's see.
+🎧 The one on the Internet for beginners was last term.
+🎧 This term it's finding research materials online.
+🎧 That sounds interesting too,
+🎧 hm, what's the last one?
+🎧 It's a workshop on dissertations.
+🎧 What do you mean? how to write one?
+🎧 Er, no it's more to do with academic writing conventions,
+🎧 you know, writing a bibliography and how to refer to sources in your text.
+🎧 That sort of thing.
+🎧 Anyway, here's a leaflet with information about all three.
+🎧 Thanks a lot.
+🎧 That'll be very useful.
+🎧 You're welcome.
+
+[064] Cam6 - Test 4 - Part 4
+
+🎧 Well, most people think that lions only come from Africa.
+🎧 And you would be forgiven for thinking this,
+🎧 because in fact, most lions do come from Africa.
+🎧 But this hasn't always been the case.
+🎧 If we go back 10,000 years, we would find that there were lions roaming vast sections of the globe.
+🎧 But now, unfortunately,
+🎧 only very small sections of the lions' former habitat remain.
+🎧 My particular interest is Asiatic lions,
+🎧 which are a sub-species of African lions.
+🎧 It's almost 100,000 years since the Asiatic lions split off and developed as a sub-species.
+🎧 At one time the Asiatic lion was living as far west as Greece
+🎧 and they were found from there,
+🎧 in a band that spread east through various countries of the Middle East,
+🎧 all the way to India.
+🎧 In museums, you can now see Greek coins that have clear images of the Asiatic lion on them.
+🎧 Most of them are dated at around 500 B.C.
+🎧 However, Europe saw its last Asiatic lion roaming free 2000 years ago.
+🎧 Over the next nineteen hundred years the numbers of Asiatic lions in the other areas declined steadily,
+🎧 but it was only in the nineteenth century that they disappeared from everywhere but India.
+🎧 So, how can you tell an Asiatic lion from an African lion,
+🎧 with which you're probably more familiar?
+🎧 Well, in general, Asiatic lions are not as big as African lions.
+🎧 The colour is more or less the same, but the appearance of the mane is different -
+🎧 that's the hair around the lion's face and neck.
+🎧 The Asiatic lion's mane is noticeably shorter than the African lion's.
+🎧 Asiatic lions also have a long fold of skin on their undersides,
+🎧 whereas not many African lions have this.
+🎧 Well, I'd like to talk to you now about the Gir Sanctuary in India.
+🎧 That's where I've just come back from.
+🎧 The sanctuary was established specifically to protect the Asiatic lion.
+🎧 It's 1.450 square kilometres in area and most of it is forest.
+🎧 There are now around 300 Asiatic lions in India
+🎧 and almost all of them are in this sanctuary.
+🎧 But despite living in a sanctuary, which makes them safe from hunters,
+🎧 they still face a number of problems that threaten their survival.
+🎧 One of these is the ever-present danger of disease.
+🎧 This is what killed more than a third of Africa's Serengeti lions in 1994,
+🎧 and people are fearful that something similar could happen in the Gir Sanctuary
+🎧 and kill off many of the Asiatic lions there.
+🎧 India's lions are particularly vulnerable because they have a limited gene pool.
+🎧 The reason for this is interesting -
+🎧 it's because all of them are descended from a few dozen lions that were saved by a prince
+🎧 who took a particular interest in them.
+🎧 He was very wealthy, and he managed to protect them -
+🎧 otherwise they'd probably have died out completely.
+🎧 When you see the Asiatic lion in India,
+🎧 what you sense is enormous vitality.
+🎧 They're very impressive beasts
+🎧 and you would never guess that they had this vulnerability when you look at them.
+🎧 The Asiatic lions don't have the Gir Sanctuary to themselves, I should add.
+🎧 They actually share it with about 2000 farmers.
+🎧 A significant proportion of the lions' diet is made up of the livestock of these farmers -
+🎧 goats, chickens and so on -
+🎧 as much as a third, in fact.
+🎧 And they've even been known to attack humans, especially in times of drought.
+🎧 One final piece of interesting information -
+🎧 in ancient India, one of the greatest tests of leadership for a man was to fight a lion.
+🎧 Now it seems, in modern India it will be a great test to see if the lion can be saved.
+🎧 I'm sure this is something that all of you will share concern for too.

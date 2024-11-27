@@ -1,313 +1,321 @@
-Good morning. I'd like to open a bank account, please.
-Certainly.
-If you'd like to take a seat, I'll just get some details from you.
-It won't take long.
-Thanks.
-Is it a current account or a deposit account you wanted?
-A current account.
-Right.
-I've got the application form here then.
-We have different types - I see you've got our leaflet there.
-I've decided on the one called 'Select.'
-Right, that's fine, so, first of all, can I have your full name please?
-Yes, it's Pieter Henes.
-That's PIETER.
-Is it HENNES?
-Uh, only one N actually. It's a less common spelling of the name.
-Oh, right. Okay.
-And what's your date of birth please?
-The 27th of the first, 1973.
-Right.
-And will this be a joint account?
-No, just myself.
-Okay, fine.
-And where are you living, Mr Henes?
-15, Riverside.
-Is that all one word?
-Yes.
-Exeter?
-Yes.
-How long have you been at your present address?
-Er, is it more than two years?
-Ah, just two weeks actually.
-I only arrived in the country a month ago.
-I'm from Holland.
-Oh, that's fine.
-But we normally ask for a previous address in that case.
-Oh yes, well, it's Rielsdorf 2.
-That's RIELSDORF 2, Utrecht.
-Holland.
-Okay. Thank you.
-Do you have a daytime telephone number?
-Yes, I think the number at my office is 606295.
-Um, just a minute, I'd better check.
-Oh, no, sorry, 616. I'm not used to it yet.
-Would you like my home number too?
-Yes please.
-It's 796431.
-Are they both local numbers?
-Yes.
-﻿Right. And your occupation?
-Well, I'm in Britain as a project manager, but that's not my main job.
-I'm an engineer by profession.
-I see.
-I think I'll put that then. It's shorter!
-Now, we usually ask for a piece of information which we can use to check your identity, for security reasons.
-You know, if you phone us.
-Like, erm, my wife's first name?
-Mother's might be better. It's less likely to be known.
-Okay. Hers is Siti.
-Siti?
-Yes, SITI.
-It's Indonesian.
-Fine.
-And how much would you like to open your account with?
-We usually ask for a minimum sum of £50.
-That's about €75.
-Well, I'm going to transfer €2,000 from my Dutch account, just till I get paid.
-In fact, I wanted to ask you about that.
-What's the best way to do it?
-It depends which bank you're with.
-It's the Fransen Bank in Utrecht.
-OK, fine. I'll check that in a minute.
-If we have links with them we can do a direct transfer. But it's not a big problem either way.
-Um, let's see.
-How often would you like to receive statements?
-I haven't really thought.
-What's the usual thing?
-It's up to you. Some people like them weekly.
-Oh, no, that's too often.
-Can I have them sent, um, once a month?
-Yes, that's fine.
-Is there anything else?
-I was thinking of registering for your internet service at some stage.
-Oh, yes.
-Would you like me to send you information about that?
-Please, yes.
-And would you like to receive information about the bank's other services -
-insurance, loans, anything like that?
-Hmm, I don't think so, thanks.
-That's okay then.
-And one last thing, if you agree...
+[057] Cam6 - Test 3 - Part 1
 
-Welcome, everybody, to the lovely house and gardens of Rosewood,
-once the home of the famous writer, Sebastian George.
-He bought the house in 1902
-although he had first seen it two years earlier.
-At that time, the owners let it out to a tenant
-because George was too slow making up his mind to buy it.
-When it came back on the market, there was no hesitation
-and he bought it immediately, for £9,300,
-even though the house had no bathroom, no running water upstairs, and no electricity.
-When he came here, he'd been married for ten years.
-During that time, he'd become one of the most famous writers in the English-speaking world.
-His professional success was enormous,
-but his personal life wasn't as successful.
-He was no longer on speaking terms with his brother
-and had been devastated by the death at the age of seven of his elder daughter, Josephine.
-Moving to Rosewood allowed the family to start a new life.
-George regarded Rosewood as a pure example of a traditional country house of this part of England
-and did some of his most successful writing here.
-The house and its grounds became the family haven
-and their escape to privacy and quiet.
-The walls, and the mullioned windows were built of the local sandstone,
-the tiles on the roofs and the bricks of the chimney stack were baked from local clay,
-and the wooden structures inside came from oak trees which grow around here.
-Now, please look at the map I've given you of the house and gardens.
-We're here at the Information Centre.
-Follow the path marked with the arrow
-and the first area you come to is the orchard on your left.
-As you go further down the path, there's the kitchen garden on the right
-and as you go round the first sharp corner
-you will find, to your left, an area where different types of pear tree have been planted
-as well as some lovely flowers,
-and this is known as Pear Alley - designed by George himself.
-Next to this is the greenhouse
-where some exotic plants and fruits are grown.
-Follow the path round the second corner
-and on your right you will see the entrance to the Mulberry Garden
-with its 500-year-old tree.
-Past the Mulberry Garden, follow the path until you reach the front of the house.
-I suggest you spend a good hour wandering around this lovely building.
-A guide takes visitor groups round every two hours.
-If you would like to purchase any of George's books or other souvenirs,
-then leave the house by the side entrance,
-where you will find our shop, which is situated between the house and the garage
-which contains the magnificent old Rolls-Royce car
-which used to belong to George.
-I expect by this time you may also be in need of a rest and some refreshment.
-Most visitors are, so why don't you visit the tea room on the far side of the garage?
-If you have time, there is a lovely walk down towards the River Dudwell.
-For me, this is the best part of the estate.
-This isn't on the map but it is all clearly signposted.
-You cross the field which spreads along the banks of the river.
-In spring, this area is well worth a visit.
-Spend a minute or two watching the water pass by underneath as you cross the footbridge,
-and then continue along the River Walk through the woodland.
-On a hot summer's day the trees along this path provide welcome shade.
-Eventually, you come to the water mill
-which used to provide the electricity for the house -
-only about four hours every evening - in George's time.
-And, finally, for those of you who would like to see stunning views of the surrounding countryside
-and who are a little bit more energetic,
-when you return from the mill, take the first turning on your left
-and climb up to the viewpoint.
-You won't regret it.
-Enjoy your visit!
+🎧 Good morning. I'd like to open a bank account, please.
+🎧 Certainly.
+🎧 If you'd like to take a seat, I'll just get some details from you.
+🎧 It won't take long.
+🎧 Thanks.
+🎧 Is it a current account or a deposit account you wanted?
+🎧 A current account.
+🎧 Right.
+🎧 I've got the application form here then.
+🎧 We have different types - I see you've got our leaflet there.
+🎧 I've decided on the one called 'Select.'
+🎧 Right, that's fine, so, first of all, can I have your full name please?
+🎧 Yes, it's Pieter Henes.
+🎧 That's PIETER.
+🎧 Is it HENNES?
+🎧 Uh, only one N actually. It's a less common spelling of the name.
+🎧 Oh, right. Okay.
+🎧 And what's your date of birth please?
+🎧 The 27th of the first, 1973.
+🎧 Right.
+🎧 And will this be a joint account?
+🎧 No, just myself.
+🎧 Okay, fine.
+🎧 And where are you living, Mr Henes?
+🎧 15, Riverside.
+🎧 Is that all one word?
+🎧 Yes.
+🎧 Exeter?
+🎧 Yes.
+🎧 How long have you been at your present address?
+🎧 Er, is it more than two years?
+🎧 Ah, just two weeks actually.
+🎧 I only arrived in the country a month ago.
+🎧 I'm from Holland.
+🎧 Oh, that's fine.
+🎧 But we normally ask for a previous address in that case.
+🎧 Oh yes, well, it's Rielsdorf 2.
+🎧 That's RIELSDORF 2, Utrecht.
+🎧 Holland.
+🎧 Okay. Thank you.
+🎧 Do you have a daytime telephone number?
+🎧 Yes, I think the number at my office is 606295.
+🎧 Um, just a minute, I'd better check.
+🎧 Oh, no, sorry, 616. I'm not used to it yet.
+🎧 Would you like my home number too?
+🎧 Yes please.
+🎧 It's 796431.
+🎧 Are they both local numbers?
+🎧 Yes.
+🎧 ﻿Right. And your occupation?
+🎧 Well, I'm in Britain as a project manager, but that's not my main job.
+🎧 I'm an engineer by profession.
+🎧 I see.
+🎧 I think I'll put that then. It's shorter!
+🎧 Now, we usually ask for a piece of information which we can use to check your identity, for security reasons.
+🎧 You know, if you phone us.
+🎧 Like, erm, my wife's first name?
+🎧 Mother's might be better. It's less likely to be known.
+🎧 Okay. Hers is Siti.
+🎧 Siti?
+🎧 Yes, SITI.
+🎧 It's Indonesian.
+🎧 Fine.
+🎧 And how much would you like to open your account with?
+🎧 We usually ask for a minimum sum of £50.
+🎧 That's about €75.
+🎧 Well, I'm going to transfer €2,000 from my Dutch account, just till I get paid.
+🎧 In fact, I wanted to ask you about that.
+🎧 What's the best way to do it?
+🎧 It depends which bank you're with.
+🎧 It's the Fransen Bank in Utrecht.
+🎧 OK, fine. I'll check that in a minute.
+🎧 If we have links with them we can do a direct transfer. But it's not a big problem either way.
+🎧 Um, let's see.
+🎧 How often would you like to receive statements?
+🎧 I haven't really thought.
+🎧 What's the usual thing?
+🎧 It's up to you. Some people like them weekly.
+🎧 Oh, no, that's too often.
+🎧 Can I have them sent, um, once a month?
+🎧 Yes, that's fine.
+🎧 Is there anything else?
+🎧 I was thinking of registering for your internet service at some stage.
+🎧 Oh, yes.
+🎧 Would you like me to send you information about that?
+🎧 Please, yes.
+🎧 And would you like to receive information about the bank's other services -
+🎧 insurance, loans, anything like that?
+🎧 Hmm, I don't think so, thanks.
+🎧 That's okay then.
+🎧 And one last thing, if you agree...
 
-Lucy, we really need to get working on this marketing assignment.
-We've only got five weeks left to the end of term to design it,
-carry it out, and then write up the results.
-Sure. Well, let's get started right now.
-Let's go over the instructions.
-What exactly do we have to do?
-Well, it says here we have to look at one area of the entertainment industry.
-There's a list of the different types.
-What are they?
-Music, cinema, theatre, sport, and eating out.
-Is that all?
-Looks like it.
-So we choose one branch of the industry
-and then we look at how two different groups of people use it?
-Is that right?
-Yes.
-And do we have to use any particular method to get our data?
-Can we mail out a questionnaire, or do face-to-face interviews, or maybe even observations?
-Well actually, it looks like we don't have a choice.
-We have to do telephone interviews.
-Okay, so at least we don't have to waste time deciding between the different methods.
-Yeah, that's right.
-Oh, and the other requirement is the number of interviewees.
-Not too many, I hope. Ten? Twenty?
-Well, we have to do two groups, remember,
-and it looks like we have to interview fifteen for each group.
-That's thirty altogether then.
-It's going to take ages.
-Yes, but remember we're working on this together,
-so we'll only have to do fifteen each.
-Okay, so those are all the requirements?
-Yes, looks like it.
-So, first, which area are we going to choose?
-My preference would be cinema, since that's where I spend most of my money.
-Hmm, I don't think that's such a good idea.
-I don't think there are huge differences in the market there.
-I mean, you get young and old, male and female, rich and poor...
-all going to the same movies.
-Yeah, maybe you're right.
-Let's make it music then.
-Right.
-So, what two groups will we compare and contrast?
-Male and female?
-No.
-Most of my female friends like the same music as me.
-Different age groups would be much more likely to show up differences, I think.
-Yeah, I suppose you're right again.
-I'll take some notes, shall I?
-So... Age Groups.
-What do you think?
-Maybe 25 or under for one group, and 45 or over for the other group?
-That should show up differences.
-Right.
-Okay. Next.
-How about the kind of music they like? Let's give them some choices and then we can just tick boxes.
-Okay. Let's have pop, jazz, folk, easy listening...
-What else?
-Well, we should include classical.
-Some people like it, you know.
-Okay.
-And then we should have how they listen to music.
-The medium. Right. Let's include radio, CD...
-and then I guess there's TV.
-What about concerts? You know, in pubs and halls.
-Oh yeah, we should include live music of course.
-Okay, we're on a roll now!
-Next point could be about where they actually get their music.
-You mean like, do they buy it in music shops, or department stores?
-Yes, or download it from the Internet.
-Right. That could be for recorded music.
-Then we need another section for live music.
-Where do they go for that?
-Okay. Let's say disco, pub, club, concert hall...
-Or opera house!
-And I guess we should include karaoke bars.
-Not many of them in this city!
-Okay. We'll leave that out then.
-So, what's left to do?
-That's it.
-Well, now we can make a time-scale for doing it.
+[058] Cam6 - Test 3 - Part 2
 
-Good morning everyone.
-Last week we were looking at the hunter-gatherers in Ireland,
-across the Irish Sea from England.
-Today, we're going to move on to the period between 4 and 6000 years ago,
-known as the Neolithic period,
-which is when a total farming economy was introduced in Ireland.
-Now, there are several hypotheses about the origins of the first Neolithic settlers in Ireland,
-but most of these contain problems.
-For instance, there are considerable archaeological difficulties about the theory that they came from England.
-The evidence doesn't really add up.
-But there are even greater practical problems about the theory that they came directly from continental Europe.
-For one thing, it's not clear just how sufficient numbers of men and women could have been transported to Ireland
-to establish a viable population.
-As you know, the hunter-gatherer economy which existed beforehand was based on small scattered groups.
-The farming economy would almost certainly have required much larger communities
-to do all the work needed to plant and tend sufficient crops to sustain them through the year.
-The early farmers kept various animals, including cattle and sheep.
-There's also evidence of pigs,
-but it is possible that these could have been descended from the native wild species.
-Now, we know from modern farming that if the level of breeding stock falls below about 300 females,
-the future of the species locally is at risk.
-So we must assume that from the beginnings of Neolithic farming,
-the number of breeding sheep would have considerably exceeded 300,
-and the national cattle herd must have been of a similar size.
-The question is how these were brought to the area and where they came from.
-It's usually suggested that the Neolithic settlers used skin-covered boats to transport livestock.
-But this method would have severely restricted the range of the colonising fleets.
-The sheer volume of animal transport necessary
-means it's unlikely that this livestock could have been brought from anywhere further than England.
-What about crops?
-Well, two main cereal crops were introduced to Ireland during this time:
-wheat and barley, both in several varieties.
-The main evidence for their presence consists of impressions on pottery,
-where a cereal grain accidentally became embedded in the surface of a pot before it was fired.
-The grain itself was destroyed by the firing,
-but it left an impression on the pot
-which could be studied and identified by botanists.
-Let's turn our attention now to the farming technology available at that time.
-Before the cereal crops could be planted,
-it would have been necessary to clear the forest and to break the ground by ploughing.
-The stone blade of a plough has been discovered during excavation in County Mayo in western Ireland.
-The body of the plough would have been of wood
-and could have been drawn by people,
-but it's also likely that cattle were used.
-Now, the cultivation of crops and the husbandry of livestock brought about changes in people's lifestyle
-such as the type of shelters they made.
-For one thing, instead of moving from place to place
-they needed permanent dwellings.
-The stone axes used to chop down trees to make these dwellings
-were far superior to any that the Stone Age hunter-gatherers used.
-To make the axes, sources of suitable stone had to be found and systematically exploited.
-These so-called 'axe factories' were really quarries rather than factories,
-as the manufacture of the axes wasn't regularly performed on the quarry site.
-However, after the axe had been chipped into shape,
-they needed water and sand for grinding and polishing,
-so a high mountainside wouldn't have been an appropriate place for this.
-So this final stage of the manufacture must have been carried out close to water
-and sure enough, there's ample evidence of this at coastal sites.
-Now it's clear that these Neolithic axes were transported all over Ireland,
-as well as to Scotland and the south of England.
-It's not really surprising that axes from 'axe factories' in England have also been found in Ireland.
-At the very least, this indicates that there was a link between the two islands during that period.
-One of the most useful innovations of the colonisers was pottery making,
-which was quite unknown to Irish hunter-gatherers.
-The pottery was probably made by shaping clay into a ball with the hand,
-and then hollowing it until the walls were the right thickness.
-After firing, the outside was often polished.
-This would have helped the pots to retain water, as they weren't glazed.
-Now we know that the clay used usually came from local sources,
-which suggests that manufacture was on a fairly small scale,
-even though thousands of fragments are usually found at Neolithic sites.
-In the course of time decoration began to appear.
-At first this looked like a series of stitches and was just around the tops of the pots.
-This could have been an imitation of earlier vessels which were made of leather sewn onto wood.
-Then eventually pots with decoration...
+🎧 Welcome, everybody, to the lovely house and gardens of Rosewood,
+🎧 once the home of the famous writer, Sebastian George.
+🎧 He bought the house in 1902
+🎧 although he had first seen it two years earlier.
+🎧 At that time, the owners let it out to a tenant
+🎧 because George was too slow making up his mind to buy it.
+🎧 When it came back on the market, there was no hesitation
+🎧 and he bought it immediately, for £9,300,
+🎧 even though the house had no bathroom, no running water upstairs, and no electricity.
+🎧 When he came here, he'd been married for ten years.
+🎧 During that time, he'd become one of the most famous writers in the English-speaking world.
+🎧 His professional success was enormous,
+🎧 but his personal life wasn't as successful.
+🎧 He was no longer on speaking terms with his brother
+🎧 and had been devastated by the death at the age of seven of his elder daughter, Josephine.
+🎧 Moving to Rosewood allowed the family to start a new life.
+🎧 George regarded Rosewood as a pure example of a traditional country house of this part of England
+🎧 and did some of his most successful writing here.
+🎧 The house and its grounds became the family haven
+🎧 and their escape to privacy and quiet.
+🎧 The walls, and the mullioned windows were built of the local sandstone,
+🎧 the tiles on the roofs and the bricks of the chimney stack were baked from local clay,
+🎧 and the wooden structures inside came from oak trees which grow around here.
+🎧 Now, please look at the map I've given you of the house and gardens.
+🎧 We're here at the Information Centre.
+🎧 Follow the path marked with the arrow
+🎧 and the first area you come to is the orchard on your left.
+🎧 As you go further down the path, there's the kitchen garden on the right
+🎧 and as you go round the first sharp corner
+🎧 you will find, to your left, an area where different types of pear tree have been planted
+🎧 as well as some lovely flowers,
+🎧 and this is known as Pear Alley - designed by George himself.
+🎧 Next to this is the greenhouse
+🎧 where some exotic plants and fruits are grown.
+🎧 Follow the path round the second corner
+🎧 and on your right you will see the entrance to the Mulberry Garden
+🎧 with its 500-year-old tree.
+🎧 Past the Mulberry Garden, follow the path until you reach the front of the house.
+🎧 I suggest you spend a good hour wandering around this lovely building.
+🎧 A guide takes visitor groups round every two hours.
+🎧 If you would like to purchase any of George's books or other souvenirs,
+🎧 then leave the house by the side entrance,
+🎧 where you will find our shop, which is situated between the house and the garage
+🎧 which contains the magnificent old Rolls-Royce car
+🎧 which used to belong to George.
+🎧 I expect by this time you may also be in need of a rest and some refreshment.
+🎧 Most visitors are, so why don't you visit the tea room on the far side of the garage?
+🎧 If you have time, there is a lovely walk down towards the River Dudwell.
+🎧 For me, this is the best part of the estate.
+🎧 This isn't on the map but it is all clearly signposted.
+🎧 You cross the field which spreads along the banks of the river.
+🎧 In spring, this area is well worth a visit.
+🎧 Spend a minute or two watching the water pass by underneath as you cross the footbridge,
+🎧 and then continue along the River Walk through the woodland.
+🎧 On a hot summer's day the trees along this path provide welcome shade.
+🎧 Eventually, you come to the water mill
+🎧 which used to provide the electricity for the house -
+🎧 only about four hours every evening - in George's time.
+🎧 And, finally, for those of you who would like to see stunning views of the surrounding countryside
+🎧 and who are a little bit more energetic,
+🎧 when you return from the mill, take the first turning on your left
+🎧 and climb up to the viewpoint.
+🎧 You won't regret it.
+🎧 Enjoy your visit!
+
+[059] Cam6 - Test 3 - Part 3
+
+🎧 Lucy, we really need to get working on this marketing assignment.
+🎧 We've only got five weeks left to the end of term to design it,
+🎧 carry it out, and then write up the results.
+🎧 Sure. Well, let's get started right now.
+🎧 Let's go over the instructions.
+🎧 What exactly do we have to do?
+🎧 Well, it says here we have to look at one area of the entertainment industry.
+🎧 There's a list of the different types.
+🎧 What are they?
+🎧 Music, cinema, theatre, sport, and eating out.
+🎧 Is that all?
+🎧 Looks like it.
+🎧 So we choose one branch of the industry
+🎧 and then we look at how two different groups of people use it?
+🎧 Is that right?
+🎧 Yes.
+🎧 And do we have to use any particular method to get our data?
+🎧 Can we mail out a questionnaire, or do face-to-face interviews, or maybe even observations?
+🎧 Well actually, it looks like we don't have a choice.
+🎧 We have to do telephone interviews.
+🎧 Okay, so at least we don't have to waste time deciding between the different methods.
+🎧 Yeah, that's right.
+🎧 Oh, and the other requirement is the number of interviewees.
+🎧 Not too many, I hope. Ten? Twenty?
+🎧 Well, we have to do two groups, remember,
+🎧 and it looks like we have to interview fifteen for each group.
+🎧 That's thirty altogether then.
+🎧 It's going to take ages.
+🎧 Yes, but remember we're working on this together,
+🎧 so we'll only have to do fifteen each.
+🎧 Okay, so those are all the requirements?
+🎧 Yes, looks like it.
+🎧 So, first, which area are we going to choose?
+🎧 My preference would be cinema, since that's where I spend most of my money.
+🎧 Hmm, I don't think that's such a good idea.
+🎧 I don't think there are huge differences in the market there.
+🎧 I mean, you get young and old, male and female, rich and poor...
+🎧 all going to the same movies.
+🎧 Yeah, maybe you're right.
+🎧 Let's make it music then.
+🎧 Right.
+🎧 So, what two groups will we compare and contrast?
+🎧 Male and female?
+🎧 No.
+🎧 Most of my female friends like the same music as me.
+🎧 Different age groups would be much more likely to show up differences, I think.
+🎧 Yeah, I suppose you're right again.
+🎧 I'll take some notes, shall I?
+🎧 So... Age Groups.
+🎧 What do you think?
+🎧 Maybe 25 or under for one group, and 45 or over for the other group?
+🎧 That should show up differences.
+🎧 Right.
+🎧 Okay. Next.
+🎧 How about the kind of music they like? Let's give them some choices and then we can just tick boxes.
+🎧 Okay. Let's have pop, jazz, folk, easy listening...
+🎧 What else?
+🎧 Well, we should include classical.
+🎧 Some people like it, you know.
+🎧 Okay.
+🎧 And then we should have how they listen to music.
+🎧 The medium. Right. Let's include radio, CD...
+🎧 and then I guess there's TV.
+🎧 What about concerts? You know, in pubs and halls.
+🎧 Oh yeah, we should include live music of course.
+🎧 Okay, we're on a roll now!
+🎧 Next point could be about where they actually get their music.
+🎧 You mean like, do they buy it in music shops, or department stores?
+🎧 Yes, or download it from the Internet.
+🎧 Right. That could be for recorded music.
+🎧 Then we need another section for live music.
+🎧 Where do they go for that?
+🎧 Okay. Let's say disco, pub, club, concert hall...
+🎧 Or opera house!
+🎧 And I guess we should include karaoke bars.
+🎧 Not many of them in this city!
+🎧 Okay. We'll leave that out then.
+🎧 So, what's left to do?
+🎧 That's it.
+🎧 Well, now we can make a time-scale for doing it.
+
+[060] Cam6 - Test 3 - Part 4
+
+🎧 Good morning everyone.
+🎧 Last week we were looking at the hunter-gatherers in Ireland,
+🎧 across the Irish Sea from England.
+🎧 Today, we're going to move on to the period between 4 and 6000 years ago,
+🎧 known as the Neolithic period,
+🎧 which is when a total farming economy was introduced in Ireland.
+🎧 Now, there are several hypotheses about the origins of the first Neolithic settlers in Ireland,
+🎧 but most of these contain problems.
+🎧 For instance, there are considerable archaeological difficulties about the theory that they came from England.
+🎧 The evidence doesn't really add up.
+🎧 But there are even greater practical problems about the theory that they came directly from continental Europe.
+🎧 For one thing, it's not clear just how sufficient numbers of men and women could have been transported to Ireland
+🎧 to establish a viable population.
+🎧 As you know, the hunter-gatherer economy which existed beforehand was based on small scattered groups.
+🎧 The farming economy would almost certainly have required much larger communities
+🎧 to do all the work needed to plant and tend sufficient crops to sustain them through the year.
+🎧 The early farmers kept various animals, including cattle and sheep.
+🎧 There's also evidence of pigs,
+🎧 but it is possible that these could have been descended from the native wild species.
+🎧 Now, we know from modern farming that if the level of breeding stock falls below about 300 females,
+🎧 the future of the species locally is at risk.
+🎧 So we must assume that from the beginnings of Neolithic farming,
+🎧 the number of breeding sheep would have considerably exceeded 300,
+🎧 and the national cattle herd must have been of a similar size.
+🎧 The question is how these were brought to the area and where they came from.
+🎧 It's usually suggested that the Neolithic settlers used skin-covered boats to transport livestock.
+🎧 But this method would have severely restricted the range of the colonising fleets.
+🎧 The sheer volume of animal transport necessary
+🎧 means it's unlikely that this livestock could have been brought from anywhere further than England.
+🎧 What about crops?
+🎧 Well, two main cereal crops were introduced to Ireland during this time:
+🎧 wheat and barley, both in several varieties.
+🎧 The main evidence for their presence consists of impressions on pottery,
+🎧 where a cereal grain accidentally became embedded in the surface of a pot before it was fired.
+🎧 The grain itself was destroyed by the firing,
+🎧 but it left an impression on the pot
+🎧 which could be studied and identified by botanists.
+🎧 Let's turn our attention now to the farming technology available at that time.
+🎧 Before the cereal crops could be planted,
+🎧 it would have been necessary to clear the forest and to break the ground by ploughing.
+🎧 The stone blade of a plough has been discovered during excavation in County Mayo in western Ireland.
+🎧 The body of the plough would have been of wood
+🎧 and could have been drawn by people,
+🎧 but it's also likely that cattle were used.
+🎧 Now, the cultivation of crops and the husbandry of livestock brought about changes in people's lifestyle
+🎧 such as the type of shelters they made.
+🎧 For one thing, instead of moving from place to place
+🎧 they needed permanent dwellings.
+🎧 The stone axes used to chop down trees to make these dwellings
+🎧 were far superior to any that the Stone Age hunter-gatherers used.
+🎧 To make the axes, sources of suitable stone had to be found and systematically exploited.
+🎧 These so-called 'axe factories' were really quarries rather than factories,
+🎧 as the manufacture of the axes wasn't regularly performed on the quarry site.
+🎧 However, after the axe had been chipped into shape,
+🎧 they needed water and sand for grinding and polishing,
+🎧 so a high mountainside wouldn't have been an appropriate place for this.
+🎧 So this final stage of the manufacture must have been carried out close to water
+🎧 and sure enough, there's ample evidence of this at coastal sites.
+🎧 Now it's clear that these Neolithic axes were transported all over Ireland,
+🎧 as well as to Scotland and the south of England.
+🎧 It's not really surprising that axes from 'axe factories' in England have also been found in Ireland.
+🎧 At the very least, this indicates that there was a link between the two islands during that period.
+🎧 One of the most useful innovations of the colonisers was pottery making,
+🎧 which was quite unknown to Irish hunter-gatherers.
+🎧 The pottery was probably made by shaping clay into a ball with the hand,
+🎧 and then hollowing it until the walls were the right thickness.
+🎧 After firing, the outside was often polished.
+🎧 This would have helped the pots to retain water, as they weren't glazed.
+🎧 Now we know that the clay used usually came from local sources,
+🎧 which suggests that manufacture was on a fairly small scale,
+🎧 even though thousands of fragments are usually found at Neolithic sites.
+🎧 In the course of time decoration began to appear.
+🎧 At first this looked like a series of stitches and was just around the tops of the pots.
+🎧 This could have been an imitation of earlier vessels which were made of leather sewn onto wood.
+🎧 Then eventually pots with decoration...
