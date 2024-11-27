@@ -1,3 +1,5 @@
+[097] Cam9 - Test 1 - Part 1
+
 🎧 Good evening. King's Restaurant.
 🎧 Good evening.
 🎧 I'm ringing about the job I understand you have vacant.
@@ -81,7 +83,9 @@
 🎧 Okay.
 🎧 I've got that. Thanks very much.
 🎧 Look forward to seeing you later on then.
-🎧 
+
+[098] Cam9 - Test 1 - Part 2
+
 🎧 Now we go to Jane who is going to tell us about what's happening in town this weekend.
 🎧 Right, thanks Andrew,
 🎧 and now on to what's new,
@@ -131,7 +135,9 @@
 🎧 so to make a booking, phone 560341.
 🎧 In addition, if you open an account you get lots more special offers
 🎧 including the chance to try out equipment...
-🎧 
+
+[099] Cam9 - Test 1 - Part 3
+
 🎧 Before we start, Spiros and Hiroko,
 🎧 thanks for coming in today to talk about your recent study experiences
 🎧 and congratulations to you both in doing so well in your first semester exams!
@@ -221,7 +227,9 @@
 🎧 and I would have been more motivated.
 🎧 It was good though that we could work on our own topics when we wrote the research assignments.
 🎧 Okay, let's move on to writing now...
-🎧 
+
+[100] Cam9 - Test 1 - Part 4
+
 🎧 Good afternoon everyone.
 🎧 Well, with some of you about to go out on field work
 🎧 it's timely that in this afternoon's session I'll be sharing some ideas about the reasons why groups of whales and dolphins

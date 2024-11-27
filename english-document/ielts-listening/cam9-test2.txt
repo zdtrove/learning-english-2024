@@ -1,3 +1,5 @@
+[101] Cam9 - Test 2 - Part 1
+
 🎧 Good morning. Can I help you?
 🎧 Yes. I've just been accepted on a course at the university
 🎧 and I'd like to try and arrange accommodation in the hall of residence.
@@ -67,7 +69,9 @@
 🎧 Sure, I'll just find it.
 🎧 It's 667549.
 🎧 Great, so we'll be in contact with you as soon as possible...
-🎧 
+
+[102] Cam9 - Test 2 - Part 2
+
 🎧 Hello,
 🎧 I'm delighted to welcome you to our Wildlife Club,
 🎧 and very pleased that you're interested in the countryside
@@ -121,7 +125,9 @@
 🎧 that's the circular area on the map surrounded by paths.
 🎧 And finally, there's a wooded area in the western section of the park, between two paths.
 🎧 Okay, that's enough from me, so let's...
-🎧 
+
+[103] Cam9 - Test 2 - Part 3
+
 🎧 Hi Jun.
 🎧 As you know, I've asked you here today to discuss the future of our Self-Access Centre.
 🎧 We have to decide what we want to do about this very important resource for our English language students.
@@ -197,7 +203,9 @@
 🎧 Yes, that would be fine.
 🎧 OK, anyway...that's great for now.
 🎧 We'll discuss it further when we've managed...
-🎧 
+
+[104] Cam9 - Test 2 - Part 4
+
 🎧 Good morning everyone.
 🎧 Now whether you're going to university to study business or some other subject,
 🎧 many of you will eventually end up working for a company of some kind.

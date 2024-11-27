@@ -1,3 +1,5 @@
+[109] Cam9 - Test 4 - Part 1
+
 🎧 Can I help you?
 🎧 Yes, I've just moved to this area with my wife and children
 🎧 and I'd like to know where we can all register with a doctor at a Health Centre.
@@ -60,7 +62,9 @@
 🎧 and it'll be in Room 6.
 🎧 It also says the talk is suitable for all ages.
 🎧 And finally, there's a talk called 'Stress Management'...
-🎧 
+
+[110] Cam9 - Test 4 - Part 2
+
 🎧 Hello?
 🎧 Hi. It's Laura Cariton here.
 🎧 We've just arrived at the holiday flat, but I can't get the hot water and heating to work.
@@ -144,7 +148,9 @@
 🎧 and it's also the only day of the week when they're not open!
 🎧 Anything else?
 🎧 Not for the moment. Thanks!
-🎧 
+
+[111] Cam9 - Test 4 - Part 3
+
 🎧 Hello, Kira, how are you?
 🎧 Fine thanks, Paul, how are you?
 🎧 Well, thanks.
@@ -224,7 +230,9 @@
 🎧 It sounds as if it was a real challenge.
 🎧 Congratulations, Kira.
 🎧 Thanks, Paul.
-🎧 
+
+[112] Cam9 - Test 4 - Part 4
+
 🎧 Good morning.
 🎧 Today I'd like to present the findings of our Year 2 project on wildlife found in gardens throughout our city.
 🎧 I'll start by saying something about the background to the project,
