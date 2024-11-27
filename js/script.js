@@ -86,7 +86,7 @@ function loadAllContents() {
     document.addEventListener('keydown', function (event) {
       if (['ArrowLeft', 'ArrowRight'].includes(event.code)) {
         const audios = document.querySelectorAll('audio');
-        const num = event.code === 'ArrowLeft' ? -5 : 3;
+        const num = event.code === 'ArrowLeft' ? -3 : 3;
 
         audios.forEach(audio => {
           if (!audio.paused) {
@@ -176,7 +176,7 @@ function changeAudio(select) {
 
 function repeat(btn) {
   const audio = btn.parentElement.previousElementSibling.previousElementSibling;
-  audio.currentTime = Math.max(0, audio.currentTime - 5);
+  audio.currentTime = Math.max(0, audio.currentTime - 3);
 }
 
 function audioNext(btn) {
