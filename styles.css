@@ -146,15 +146,20 @@ audio {
   pointer-events: none;
 }
 
+.btn-sp-group {
+  display: flex;
+  gap: 5px;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  z-index: 9999;
+}
+
 .btn-disabled {
   border: 1px solid burlywood;
   border-radius: 4px;
   padding: 5px 8px;
   cursor: pointer;
-  position: fixed;
-  right: 10px;
-  bottom: 10px;
-  z-index: 9999;
 }
 
 .pl-15 {

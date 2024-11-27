@@ -339,3 +339,23 @@ function startAudio(element, seconds) {
   audio.currentTime = startTime;
   audio.play();
 }
+
+function spNext() {
+  const audios = document.querySelectorAll('audio');
+
+  audios.forEach(audio => {
+    if (!audio.paused) {
+      audio.currentTime = Math.max(0, audio.currentTime + 3);
+    }
+  });
+}
+
+function spPrev() {
+  const audios = document.querySelectorAll('audio');
+
+  audios.forEach(audio => {
+    if (!audio.paused) {
+      audio.currentTime = Math.max(0, audio.currentTime - 5);
+    }
+  });
+}
