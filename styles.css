@@ -160,7 +160,7 @@ audio {
 .btn-sp-group button {
   border: 1px solid burlywood;
   border-radius: 4px;
-  padding: 5px 8px;
+  padding: 8px 10px;
   cursor: pointer;
 }
 
@@ -171,7 +171,7 @@ audio {
   cursor: pointer;
   position: fixed;
   right: 10px;
-  bottom: 10px;
+  bottom: 13px;
   z-index: 9999;
 }
 
