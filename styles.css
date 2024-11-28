@@ -10,6 +10,10 @@ body {
   position: relative;
 }
 
+button, select {
+  font-family: system-ui;
+}
+
 h2 {
   margin: unset;
   line-height: 1.4;
@@ -31,6 +35,8 @@ select.select-lesson {
   cursor: pointer;
   margin-bottom: 15px;
 }
+
+
 
 span {
   cursor: pointer;
@@ -60,7 +66,7 @@ span {
   overflow: auto;
   white-space: nowrap;
   display: flex;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .tab button {
@@ -162,10 +168,10 @@ audio {
   gap: 5px;
   position: fixed;
   right: 10px;
-  bottom: 10px;
+  bottom: 200px;
   z-index: 9999;
+  flex-direction: column;
   justify-content: center;
-  width: 100%;
 }
 
 .btn-sp-group.show {
@@ -175,8 +181,10 @@ audio {
 .btn-sp-group button {
   border: 1px solid burlywood;
   border-radius: 4px;
-  padding: 8px 10px;
+  padding: 8px 3px;
   cursor: pointer;
+  background: #0000003d;
+  color: gainsboro;
 }
 
 .btn-disabled {
@@ -212,6 +220,7 @@ audio {
   cursor: pointer;
   margin-left: 8px;
   margin-bottom: 12px;
+  line-height: 1.1;
 }
 
 .speaker {
