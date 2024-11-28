@@ -10,7 +10,15 @@ body {
   position: relative;
 }
 
-button, select {
+button {
+  font-family: system-ui;
+  background: #0000003d;
+  color: gainsboro;
+  border: 1px solid powderblue;
+}
+
+select {
+  border: 1px solid powderblue;
   font-family: system-ui;
 }
 
@@ -110,7 +118,6 @@ span {
 }
 
 .audio-wrapper button.audio-repeat, .audio-wrapper button.audio-next {
-  border: 1px solid burlywood;
   border-radius: 4px;
   padding: 2px 6px;
   cursor: pointer;
@@ -125,12 +132,12 @@ span {
   position: absolute;
   top: 16px;
   left: 16px;
+  color: black;
 }
 
 .audio-speed,
 .audio-change {
   display: none;
-  border: 1px solid powderblue;
   border-radius: 5px;
   padding: 3px;
   outline: none;
@@ -179,16 +186,12 @@ audio {
 }
 
 .btn-sp-group button {
-  border: 1px solid burlywood;
   border-radius: 4px;
   padding: 8px 3px;
   cursor: pointer;
-  background: #0000003d;
-  color: gainsboro;
 }
 
 .btn-disabled {
-  border: 1px solid burlywood;
   border-radius: 4px;
   padding: 5px 8px;
   cursor: pointer;
@@ -214,9 +217,8 @@ audio {
 }
 
 .button-voca {
-  border: 1px solid burlywood;
   border-radius: 4px;
-  padding: 2px 6px;
+  padding: 4px 6px;
   cursor: pointer;
   margin-left: 8px;
   margin-bottom: 12px;
