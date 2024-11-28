@@ -130,8 +130,9 @@ span {
   outline: none;
   background: transparent;
   position: absolute;
-  top: 16px;
-  left: 16px;
+  top: 15px;
+  left: 15px;
+  font-size: 15px;
   color: black;
 }
 
@@ -172,7 +173,7 @@ audio {
 
 .btn-sp-group {
   display: none;
-  gap: 5px;
+  gap: 8px;
   position: fixed;
   right: 10px;
   bottom: 350px;
@@ -187,7 +188,7 @@ audio {
 
 .btn-sp-group button {
   border-radius: 4px;
-  padding: 8px 3px;
+  padding: 10px 5px;
   cursor: pointer;
 }
 
