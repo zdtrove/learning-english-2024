@@ -258,6 +258,9 @@ function initVocabulary() {
   });
 
   const scrollDivs = document.querySelectorAll('.scroll-div');
+  const showThreshold = 300;
+  const hideThreshold = 300;
+  const btnSpGroup = document.querySelector('.btn-sp-group');
   window.addEventListener('scroll', () => {
     const scrollPosition = window.scrollY;
     scrollDivs.forEach(div => {
@@ -267,6 +270,13 @@ function initVocabulary() {
         div.classList.remove('fixed-div');
       }
     });
+
+    const scrollTop = window.scrollY || document.documentElement.scrollTop;
+    if (scrollTop > showThreshold) {
+      btnSpGroup.classList.add('show');
+    } else if (scrollTop < hideThreshold) {
+      btnSpGroup.classList.remove('show');
+    }
   });
 }
 
