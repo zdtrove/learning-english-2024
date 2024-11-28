@@ -15,12 +15,12 @@
       <button class="tab-link active" onclick="changeTab(event, 'conversation')">Conversation</button>
       <button class="tab-link" onclick="changeTab(event, 'ielts-listening')">IELTS Listening</button>
       <button class="tab-link" onclick="changeTab(event, 'new-vocabulary')">New Vocabulary</button>
-      <button class="tab-link" onclick="changeTab(event, 'english-speaking-course')">English Speaking Course</button>
-      <button class="tab-link" onclick="changeTab(event, 'easy-english')">Easy English</button>
-      <button class="tab-link" onclick="changeTab(event, 'english-at-work')">English At Work</button>
-      <button class="tab-link" onclick="changeTab(event, 'ielts-speaking')">IELTS Speaking</button>
-      <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
-      <button class="tab-link" onclick="changeTab(event, 'toeic-600-words')">600 Toeic</button>
+      <!-- <button class="tab-link" onclick="changeTab(event, 'english-speaking-course')">English Speaking Course</button> -->
+      <!-- <button class="tab-link" onclick="changeTab(event, 'easy-english')">Easy English</button> -->
+      <!-- <button class="tab-link" onclick="changeTab(event, 'english-at-work')">English At Work</button> -->
+      <!-- <button class="tab-link" onclick="changeTab(event, 'ielts-speaking')">IELTS Speaking</button> -->
+      <!-- <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button> -->
+      <!-- <button class="tab-link" onclick="changeTab(event, 'toeic-600-words')">600 Toeic</button> -->
     </section>
     <button class="button-voca" onclick="downloadLocalStorage()">Download Vocabulary</button>
     <button class="button-voca" onclick="triggerFileUpload()">Update Vocabulary</button>
@@ -51,7 +51,7 @@
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
     </section>
-    <section id="english-speaking-course" class="tab-content">
+    <!-- <section id="english-speaking-course" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.english-speaking-course')">
         <option value="english-speaking-course-1">English Speaking Course 001</option>
         <option value="english-speaking-course-2">English Speaking Course 002</option>
@@ -81,8 +81,8 @@
         <option value="easy-english-2">Easy English 002</option>
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
-    </section>
-    <section id="english-at-work" class="tab-content">
+    </section> -->
+    <!-- <section id="english-at-work" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.english-at-work')">
         <option value="english-at-work-1">001 → 005</option>
         <option value="english-at-work-2">006 → 010</option>
@@ -99,9 +99,9 @@
         <option value="english-at-work-13">061 → 066</option>
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
-    </section>
+    </section> -->
     <section id="new-vocabulary" class="tab-content"></section>
-    <section id="ielts-speaking" class="tab-content">
+    <!-- <section id="ielts-speaking" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.ielts-speaking')">
         <option value="ielts-speaking-1">001 → 005</option>
         <option value="ielts-speaking-2">005 → 010</option>
@@ -112,7 +112,7 @@
         <option value="ielts-speaking-7">031 → 035</option>
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
-    </section>
+    </section> -->
     <section id="ielts-listening" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.ielts-listening')">
         <option value="ielts-listening-1">Cam3 - Test 1 (001 → 004)</option>
@@ -147,6 +147,10 @@
         <option value="ielts-listening-30">Cam10 - Test 2 (117 → 120)</option>
         <option value="ielts-listening-31">Cam10 - Test 3 (121 → 124)</option>
         <option value="ielts-listening-32">Cam10 - Test 4 (125 → 128)</option>
+        <option value="ielts-listening-32">Cam11 - Test 1 (128 → 132)</option>
+        <option value="ielts-listening-32">Cam11 - Test 2 (133 → 136)</option>
+        <option value="ielts-listening-32">Cam11 - Test 3 (137 → 140)</option>
+        <option value="ielts-listening-32">Cam11 - Test 4 (141 → 144)</option>
       </select>
       <div class="btn-sp-group">
         <button onclick="spPrev()">🔙 5s</button>
@@ -155,7 +159,7 @@
       </div>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
     </section>
-    <section id="level2" class="tab-content">
+    <!-- <section id="level2" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.level2')">
         <option value="level2-1">001 → 010</option>
         <option value="level2-2">011 → 020</option>
@@ -184,7 +188,7 @@
         <option value="toeic-600-words-9">41 → 45</option>
         <option value="toeic-600-words-10">46 → 50</option>
       </select>
-    </section>
+    </section> -->
   </body>
   <script type="application/javascript" src="js/script.js"></script>
   <script type="application/javascript" src="js/create-html.js"></script>
