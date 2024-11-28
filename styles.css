@@ -100,14 +100,25 @@ span {
   gap: 5px;
   margin-bottom: 10px;
   flex-direction: column;
+  position: relative;
 }
 
-.audio-wrapper button {
+.audio-wrapper button.audio-repeat, .audio-wrapper button.audio-next {
   border: 1px solid burlywood;
   border-radius: 4px;
   padding: 2px 6px;
   cursor: pointer;
   outline: none;
+}
+
+.audio-wrapper button.audio-play {
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background: transparent;
+  position: absolute;
+  top: 16px;
+  left: 16px;
 }
 
 .audio-speed,
