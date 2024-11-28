@@ -1,5 +1,7 @@
 let isFirstScroll = true;
 let currentSeconds = 0;
+let lastPlayedAudio = null;
+let isDisabled = false;
 
 function changeTab(evt, lessonName) {
   let i, tabContent, tabLinks;
@@ -191,7 +193,6 @@ function initVocabulary() {
     storedArray = [];
   }
 
-  let lastPlayedAudio = null;
   document.addEventListener('keydown', function (event) {
     if (event.code === 'Space') {
       event.preventDefault();
@@ -255,8 +256,6 @@ function initVocabulary() {
     });
   });
 }
-
-let isDisabled = false;
 
 function disabledClick() {
   const spans = document.getElementsByTagName("span");

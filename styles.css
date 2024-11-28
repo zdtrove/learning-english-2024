@@ -155,11 +155,22 @@ audio {
   z-index: 9999;
 }
 
+.btn-sp-group button {
+  border: 1px solid burlywood;
+  border-radius: 4px;
+  padding: 5px 8px;
+  cursor: pointer;
+}
+
 .btn-disabled {
   border: 1px solid burlywood;
   border-radius: 4px;
   padding: 5px 8px;
   cursor: pointer;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  z-index: 9999;
 }
 
 .pl-15 {
