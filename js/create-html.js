@@ -20,12 +20,12 @@ newString = newString.split(' ');
 const arrayFilter = newString.filter(item => item !== '');
 const arrayHtml = arrayFilter.map((item) => {
   let lastChar = '';
-  if (item.endsWith('.') || item.endsWith(',') || item.endsWith('!') || item.endsWith('?')) {
+  if (item.endsWith('.') || item.endsWith(',') || item.endsWith('!') || item.endsWith('?') || item.endsWith(':')) {
     lastChar = item.slice(-1);
     item = item.slice(0, -1);
   }
 
-  if (item.endsWith('.<br/>') || item.endsWith(',<br/>') || item.endsWith('!<br/>') || item.endsWith('?<br/>')) {
+  if (item.endsWith('.<br/>') || item.endsWith(',<br/>') || item.endsWith('!<br/>') || item.endsWith('?<br/>') || item.endsWith(':<br/>')) {
     lastChar = item.slice(-6);
     item = item.slice(0, -6);
   }
@@ -44,7 +44,7 @@ const arrayHtml = arrayFilter.map((item) => {
     item = `${item}\n`;
   }
 
-  if (lastChar.endsWith('.<br/>') || lastChar.endsWith(',<br/>') || lastChar.endsWith('!<br/>') || lastChar.endsWith('?<br/>')) {
+  if (lastChar.endsWith('.<br/>') || lastChar.endsWith(',<br/>') || lastChar.endsWith('!<br/>') || lastChar.endsWith('?<br/>') || lastChar.endsWith(':<br/>')) {
     lastChar = `${lastChar}\n`;
   }
 
