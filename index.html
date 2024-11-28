@@ -142,9 +142,10 @@
       </select>
       <div class="btn-sp-group">
         <button onclick="spPrev()">🔙 5s</button>
+        <button id="audio-start-stop" onclick="spStartStop(this)">▶️</button>
         <button onclick="spNext()">3s 🔜</button>
-        <button onclick="disabledClick()">Disabled click</button>
       </div>
+      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
     </section>
     <section id="level2" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.level2')">

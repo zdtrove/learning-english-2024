@@ -131,15 +131,24 @@ function loadAudio(src, button) {
   const change = div.querySelector('select.audio-change');
   source.src = `https://dl.dropboxusercontent.com/scl/fi/${src}`;
   source.type = 'audio/mpeg';
-
+  const startStop = document.getElementById('audio-start-stop');
+  startStop.textContent = "⏸️";
+  
   audio.appendChild(source);
   audio.load();
   audio.play();
+  audio.addEventListener("play", () => {
+    startStop.textContent = "⏸️";
+  });
+  audio.addEventListener("pause", () => {
+    startStop.textContent = "▶️";
+  });
   audio.onended = function () {
     setTimeout(() => {
       audio.play();
     }, 1500);
   };
+  lastPlayedAudio = audio;
 
   button.style.display = 'none';
   const arrayChange = [speed, repeat];
@@ -194,6 +203,7 @@ function initVocabulary() {
   }
 
   document.addEventListener('keydown', function (event) {
+    const startStop = document.getElementById('audio-start-stop');
     if (event.code === 'Space') {
       event.preventDefault();
       const audioPlayers = document.querySelectorAll('.audio');
@@ -203,17 +213,20 @@ function initVocabulary() {
         if (!audioPlayer.paused) {
           audioPlayer.pause();
           currentlyPlaying = audioPlayer;
+          startStop.textContent = "▶️";
         }
       });
 
       if (currentlyPlaying === null) {
         if (lastPlayedAudio && lastPlayedAudio.currentTime > 0 && lastPlayedAudio.currentTime < lastPlayedAudio.duration) {
           lastPlayedAudio.play();
+          startStop.textContent = "⏸️";
         } else {
           audioPlayers.forEach(function (audioPlayer) {
             if (audioPlayer.currentTime > 0 && audioPlayer.currentTime < audioPlayer.duration) {
               audioPlayer.play();
               lastPlayedAudio = audioPlayer;
+              startStop.textContent = "⏸️";
               return;
             }
           });
@@ -357,4 +370,39 @@ function spPrev() {
       audio.currentTime = Math.max(0, audio.currentTime - 5);
     }
   });
+}
+
+function spStartStop(btn) {
+  if (lastPlayedAudio) {
+    const audioPlayers = document.querySelectorAll('.audio');
+    let currentlyPlaying = null;
+
+    audioPlayers.forEach(function (audioPlayer) {
+      if (!audioPlayer.paused) {
+        audioPlayer.pause();
+        currentlyPlaying = audioPlayer;
+        btn.textContent = "▶️";
+      }
+    });
+
+    if (currentlyPlaying === null) {
+      if (lastPlayedAudio && lastPlayedAudio.currentTime > 0 && lastPlayedAudio.currentTime < lastPlayedAudio.duration) {
+        lastPlayedAudio.play();
+        btn.textContent = "⏸️";
+      } else {
+        audioPlayers.forEach(function (audioPlayer) {
+          if (audioPlayer.currentTime > 0 && audioPlayer.currentTime < audioPlayer.duration) {
+            audioPlayer.play();
+            lastPlayedAudio = audioPlayer;
+            btn.textContent = "⏸️";
+            return;
+          }
+        });
+      }
+    }
+
+    if (currentlyPlaying) {
+      lastPlayedAudio = currentlyPlaying;
+    }
+  }
 }

@@ -147,12 +147,14 @@ audio {
 }
 
 .btn-sp-group {
-  display: flex;
+  display: none;
   gap: 5px;
   position: fixed;
   right: 10px;
   bottom: 10px;
   z-index: 9999;
+  justify-content: center;
+  width: 100%;
 }
 
 .btn-sp-group button {
@@ -271,5 +273,9 @@ audio {
 
   #vocabulary-list {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .btn-sp-group {
+    display: flex;
   }
 }
