@@ -62,3 +62,10 @@ listTimes.length && listTimes.forEach(item => {
 
 const outputHtml = arrayHtml.join(' ') + '<br/><br/>';
 string.trim() !== "" && console.log(outputHtml);
+
+// const result = string
+//   .split('\n')
+//   .map(line => `🎧 ${line}`)
+//   .join('\n');
+
+// console.log(result);
