@@ -783,3 +783,8 @@ const englishAtWorkMp3 = {
   '065': 'u0h1hpayatjfeu6i3g1hv/064.mp3?rlkey=i1mhytycnbf2ier40tje8s6i1',
   '066': 'p4q41ld1l8vkec6j69qav/066.mp3?rlkey=7ceu033izztb4nkzvfgjhpcvh',
 }
+
+const oxfordOnlineEnglishMp3 = {
+  '001': '5een66gpl6211y9hyzfbf/001.mp3?rlkey=5jmnqy4qwfkc31zfcxm5cqe23',
+  '002': 'ib23ad7rktp4g5078ajng/002.mp3?rlkey=ygnnarsttxlmyd01vllfmrim2',
+}

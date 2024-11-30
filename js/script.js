@@ -31,7 +31,8 @@ function activeFirstItemSection(sectionClass) {
     'ielts-speaking',
     'ielts-listening',
     'level2',
-    'toeic-600-words'
+    'toeic-600-words',
+    'oxford-online-english'
   ].forEach((item) => {
     if (sectionClass === item) {
       document.getElementById(`${sectionClass}-1`).style.display = 'block';
@@ -63,6 +64,7 @@ function getSection(num, id) {
 
 function loadAllContents() {
   getSection(1, 'conversation');
+  getSection(2, 'oxford-online-english');
   // getSection(19, 'english-speaking-course');
   // getSection(2, 'easy-english');
   // getSection(13, 'english-at-work');
@@ -132,16 +134,20 @@ function loadAudio(src, button) {
   source.src = `https://dl.dropboxusercontent.com/scl/fi/${src}`;
   source.type = 'audio/mpeg';
   const startStop = document.getElementById('audio-start-stop');
+  const startStopOxford = document.getElementById('audio-start-stop-oxford');
   startStop.textContent = "⏸️";
+  startStopOxford.textContent = "⏸️";
   
   audio.appendChild(source);
   audio.load();
   audio.play();
   audio.addEventListener("play", () => {
     startStop.textContent = "⏸️";
+    startStopOxford.textContent = "⏸️";
   });
   audio.addEventListener("pause", () => {
     startStop.textContent = "▶️";
+    startStopOxford.textContent = "▶️";
   });
   audio.onended = function () {
     setTimeout(() => {
@@ -204,6 +210,7 @@ function initVocabulary() {
 
   document.addEventListener('keydown', function (event) {
     const startStop = document.getElementById('audio-start-stop');
+    const startStopOxford = document.getElementById('audio-start-stop-oxford');
     if (event.code === 'Space') {
       event.preventDefault();
       const audioPlayers = document.querySelectorAll('.audio');
@@ -214,6 +221,7 @@ function initVocabulary() {
           audioPlayer.pause();
           currentlyPlaying = audioPlayer;
           startStop.textContent = "▶️";
+          startStopOxford.textContent = "▶️";
         }
       });
 
@@ -221,12 +229,14 @@ function initVocabulary() {
         if (lastPlayedAudio && lastPlayedAudio.currentTime > 0 && lastPlayedAudio.currentTime < lastPlayedAudio.duration) {
           lastPlayedAudio.play();
           startStop.textContent = "⏸️";
+          startStopOxford.textContent = "⏸️";
         } else {
           audioPlayers.forEach(function (audioPlayer) {
             if (audioPlayer.currentTime > 0 && audioPlayer.currentTime < audioPlayer.duration) {
               audioPlayer.play();
               lastPlayedAudio = audioPlayer;
               startStop.textContent = "⏸️";
+              startStopOxford.textContent = "⏸️";
               return;
             }
           });

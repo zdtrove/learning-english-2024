@@ -67,5 +67,10 @@ string.trim() !== "" && console.log(outputHtml);
 //   .split('\n')
 //   .map(line => `🎧 ${line}`)
 //   .join('\n');
+// console.log(result);
 
+// const result = string
+//   .split('\n')
+//   .filter(line => !/^\d{1,2}:\d{2}$/.test(line))
+//   .join('\n');
 // console.log(result);
