@@ -787,4 +787,12 @@ const englishAtWorkMp3 = {
 const oxfordOnlineEnglishMp3 = {
   '001': '5een66gpl6211y9hyzfbf/001.mp3?rlkey=5jmnqy4qwfkc31zfcxm5cqe23',
   '002': 'ib23ad7rktp4g5078ajng/002.mp3?rlkey=ygnnarsttxlmyd01vllfmrim2',
+  '003': 'uti41qcnmpwksa9tblpsw/003.mp3?rlkey=yi1umaz0tjmnhskav8zblnh47',
+  '004': 'ko7z1f3ue3dhupitz1r0p/004.mp3?rlkey=20cf6qztwauptiu64py3v847h',
+  '005': 'xaw1l42xbv88pyx5upi6a/005.mp3?rlkey=fqot5nb8jy0no7qv0klzr1r6m',
+  '006': 'l8dicoxwi0vwoz2d9nous/006.mp3?rlkey=dqfvnzpydxv9nt04hsj99iatw',
+  '007': 'lgfrrm7bgsc4cs1y5gt7t/007.mp3?rlkey=zrekt9ki0ricn53ct01v4w674',
+  '008': 'trv3syh0gvf7st8bx49sb/008.mp3?rlkey=nsjv29nv38k80jz0y894m3b29',
+  '009': 'b2ceaf4tbm3gqrru7b496/009.mp3?rlkey=xypoy5vzpmhrisg3jpuetzehi',
+  '010': '7tpb2aagpurl387mi88z1/010.mp3?rlkey=j6eod5puigl2q0bt82d78ymth',
 }

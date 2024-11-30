@@ -14,7 +14,7 @@
     <section class="tab">
       <button class="tab-link active" onclick="changeTab(event, 'conversation')">Conversation</button>
       <button class="tab-link" onclick="changeTab(event, 'oxford-online-english')">Oxford Online English</button>
-      <button class="tab-link" onclick="changeTab(event, 'ielts-listening')">IELTS Listening</button>
+      <!-- <button class="tab-link" onclick="changeTab(event, 'ielts-listening')">IELTS Listening</button> -->
       <button class="tab-link" onclick="changeTab(event, 'new-vocabulary')">New Vocabulary</button>
       <!-- <button class="tab-link" onclick="changeTab(event, 'english-speaking-course')">English Speaking Course</button> -->
       <!-- <button class="tab-link" onclick="changeTab(event, 'easy-english')">Easy English</button> -->
@@ -56,6 +56,14 @@
       <select class="select-lesson" onchange="changeConversation(this, '.oxford-online-english')">
         <option value="oxford-online-english-1">Talking About Your Free Time and Hobbies</option>
         <option value="oxford-online-english-2">Talking About Your Hometown</option>
+        <option value="oxford-online-english-3">Talking About Your Family</option>
+        <option value="oxford-online-english-4">Talking About Your Home</option>
+        <option value="oxford-online-english-5">How to Describe a Person</option>
+        <option value="oxford-online-english-6">Talking About Your Vacation</option>
+        <option value="oxford-online-english-7">Job Interview Tips and Tricks</option>
+        <option value="oxford-online-english-8">Talking About Your Job</option>
+        <option value="oxford-online-english-9">How to Describe a Picture</option>
+        <option value="oxford-online-english-10">Talking About the Weather</option>
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
       <div class="btn-sp-group">
@@ -126,7 +134,7 @@
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
     </section> -->
-    <section id="ielts-listening" class="tab-content">
+    <!-- <section id="ielts-listening" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.ielts-listening')">
         <option value="ielts-listening-1">Cam3 - Test 1 (001 → 004)</option>
         <option value="ielts-listening-2">Cam3 - Test 2 (005 → 009)</option>
@@ -175,7 +183,7 @@
         <button onclick="spNext()">3s 🔜</button>
       </div>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
-    </section>
+    </section> -->
     <!-- <section id="level2" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.level2')">
         <option value="level2-1">001 → 010</option>
