@@ -74,3 +74,10 @@ string.trim() !== "" && console.log(outputHtml);
 //   .filter(line => !/^\d{1,2}:\d{2}$/.test(line))
 //   .join('\n');
 // console.log(result);
+
+// const sentences = string.match(/[^.!?;:…]*[.!?;:…]["')\]]?/g);
+
+// if (sentences) {
+//   const result = sentences.map(sentence => sentence.trim()).join('\n');
+//   console.log(result);
+// }
