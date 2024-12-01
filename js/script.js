@@ -163,7 +163,7 @@ function loadAudio(src, button) {
 }
 
 function changeSpeed(select) {
-  const audio = select.parentElement.previousElementSibling.previousElementSibling;
+  const audio = select.closest('.audio-wrapper').querySelector('.audio');
   audio.playbackRate = select.value;
 }
 
@@ -182,7 +182,7 @@ function changeAudio(select) {
     isFirstScroll = false;
   }
 
-  const audio = select.parentElement.previousElementSibling.previousElementSibling;
+  const audio = select.closest('.audio-wrapper').querySelector('.audio');
   const startTime = parseInt(select.value, 10);
   audio.currentTime = startTime;
   audio.play();
