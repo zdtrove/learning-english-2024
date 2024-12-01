@@ -21,6 +21,7 @@
       <!-- <button class="tab-link" onclick="changeTab(event, 'english-at-work')">English At Work</button> -->
       <!-- <button class="tab-link" onclick="changeTab(event, 'ielts-speaking')">IELTS Speaking</button> -->
       <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
+      <button class="tab-link" onclick="changeTab(event, 'english-podcast')">English Podcast</button>
       <!-- <button class="tab-link" onclick="changeTab(event, 'toeic-600-words')">600 Toeic</button> -->
     </section>
     <button class="button-voca" onclick="downloadLocalStorage()">Download Vocabulary</button>
@@ -69,7 +70,18 @@
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
       <div class="btn-sp-group">
         <button onclick="spPrev()">🔙 5s</button>
-        <button class="audio-start-stop" id="audio-start-stop-oxford" onclick="spStartStop(this)">▶️</button>
+        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
+        <button onclick="spNext()">3s 🔜</button>
+      </div>
+    </section>
+    <section id="english-podcast" class="tab-content">
+      <select class="select-lesson" onchange="changeConversation(this, '.english-podcast')">
+        <option value="english-podcast-1">Daily Routine</option>
+      </select>
+      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
+      <div class="btn-sp-group">
+        <button onclick="spPrev()">🔙 5s</button>
+        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
         <button onclick="spNext()">3s 🔜</button>
       </div>
     </section>
@@ -180,7 +192,7 @@
       </select>
       <div class="btn-sp-group">
         <button onclick="spPrev()">🔙 5s</button>
-        <button class="audio-start-stop" id="audio-start-stop" onclick="spStartStop(this)">▶️</button>
+        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
         <button onclick="spNext()">3s 🔜</button>
       </div>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
@@ -202,7 +214,7 @@
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
       <div class="btn-sp-group">
         <button onclick="spPrev()">🔙 5s</button>
-        <button class="audio-start-stop" id="audio-start-stop-level2" onclick="spStartStop(this)">▶️</button>
+        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
         <button onclick="spNext()">3s 🔜</button>
       </div>
     </section>
