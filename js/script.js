@@ -71,7 +71,7 @@ function loadAllContents() {
   getSection(1, 'new-vocabulary');
   // getSection(7, 'ielts-speaking');
   // getSection(40, 'ielts-listening');
-  // getSection(11, 'level2');
+  getSection(11, 'level2');
   // getSection(10, 'toeic-600-words');
 
   document.getElementById('conversation').style.display = 'block';
@@ -135,8 +135,10 @@ function loadAudio(src, button) {
   source.type = 'audio/mpeg';
   // const startStop = document.getElementById('audio-start-stop');
   const startStopOxford = document.getElementById('audio-start-stop-oxford');
+  const startStopLevel2 = document.getElementById('audio-start-stop-level2');
   // startStop.textContent = "⏸️";
   startStopOxford.textContent = "⏸️";
+  startStopLevel2.textContent = "⏸️";
   
   audio.appendChild(source);
   audio.load();
@@ -144,10 +146,12 @@ function loadAudio(src, button) {
   audio.addEventListener("play", () => {
     // startStop.textContent = "⏸️";
     startStopOxford.textContent = "⏸️";
+    startStopLevel2.textContent = "⏸️";
   });
   audio.addEventListener("pause", () => {
     // startStop.textContent = "▶️";
     startStopOxford.textContent = "▶️";
+    startStopLevel2.textContent = "▶️";
   });
   audio.onended = function () {
     setTimeout(() => {
@@ -211,6 +215,7 @@ function initVocabulary() {
   document.addEventListener('keydown', function (event) {
     // const startStop = document.getElementById('audio-start-stop');
     const startStopOxford = document.getElementById('audio-start-stop-oxford');
+    const startStopLevel2 = document.getElementById('audio-start-stop-level2');
     if (event.code === 'Space') {
       event.preventDefault();
       const audioPlayers = document.querySelectorAll('.audio');
@@ -222,6 +227,7 @@ function initVocabulary() {
           currentlyPlaying = audioPlayer;
           // startStop.textContent = "▶️";
           startStopOxford.textContent = "▶️";
+          startStopLevel2.textContent = "▶️";
         }
       });
 
@@ -230,6 +236,7 @@ function initVocabulary() {
           lastPlayedAudio.play();
           // startStop.textContent = "⏸️";
           startStopOxford.textContent = "⏸️";
+          startStopLevel2.textContent = "⏸️";
         } else {
           audioPlayers.forEach(function (audioPlayer) {
             if (audioPlayer.currentTime > 0 && audioPlayer.currentTime < audioPlayer.duration) {
@@ -237,6 +244,7 @@ function initVocabulary() {
               lastPlayedAudio = audioPlayer;
               // startStop.textContent = "⏸️";
               startStopOxford.textContent = "⏸️";
+              startStopLevel2.textContent = "⏸️";
               return;
             }
           });
@@ -270,7 +278,7 @@ function initVocabulary() {
   const scrollDivs = document.querySelectorAll('.scroll-div');
   const showThreshold = 300;
   const hideThreshold = 300;
-  const btnSpGroup = document.querySelector('.btn-sp-group');
+  const btnSpGroup = document.querySelectorAll('.btn-sp-group');
   window.addEventListener('scroll', () => {
     const scrollPosition = window.scrollY;
     scrollDivs.forEach(div => {
@@ -283,9 +291,9 @@ function initVocabulary() {
 
     const scrollTop = window.scrollY || document.documentElement.scrollTop;
     if (scrollTop > showThreshold) {
-      btnSpGroup.classList.add('show');
+      btnSpGroup.forEach((group) => group.classList.add('show'));
     } else if (scrollTop < hideThreshold) {
-      btnSpGroup.classList.remove('show');
+      btnSpGroup.forEach((group) => group.classList.remove('show'));
     }
   });
 }

@@ -20,7 +20,7 @@
       <!-- <button class="tab-link" onclick="changeTab(event, 'easy-english')">Easy English</button> -->
       <!-- <button class="tab-link" onclick="changeTab(event, 'english-at-work')">English At Work</button> -->
       <!-- <button class="tab-link" onclick="changeTab(event, 'ielts-speaking')">IELTS Speaking</button> -->
-      <!-- <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button> -->
+      <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
       <!-- <button class="tab-link" onclick="changeTab(event, 'toeic-600-words')">600 Toeic</button> -->
     </section>
     <button class="button-voca" onclick="downloadLocalStorage()">Download Vocabulary</button>
@@ -185,7 +185,7 @@
       </div>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
     </section> -->
-    <!-- <section id="level2" class="tab-content">
+    <section id="level2" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.level2')">
         <option value="level2-1">001 → 010</option>
         <option value="level2-2">011 → 020</option>
@@ -200,8 +200,13 @@
         <option value="level2-11">101 → 107</option>
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
+      <div class="btn-sp-group">
+        <button onclick="spPrev()">🔙 5s</button>
+        <button class="audio-start-stop" id="audio-start-stop-level2" onclick="spStartStop(this)">▶️</button>
+        <button onclick="spNext()">3s 🔜</button>
+      </div>
     </section>
-    <section id="toeic-600-words" class="tab-content">
+    <!-- <section id="toeic-600-words" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.toeic-600-words')">
         <option value="toeic-600-words-1">01 → 05</option>
         <option value="toeic-600-words-2">06 → 10</option>
