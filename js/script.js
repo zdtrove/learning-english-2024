@@ -2,6 +2,7 @@ let isFirstScroll = true;
 let currentSeconds = 0;
 let lastPlayedAudio = null;
 let isDisabled = false;
+const API_URL = 'https://node-api-delta-bice.vercel.app/api/vocabulary';
 
 function changeTab(evt, lessonName) {
   let i, tabContent, tabLinks;
@@ -62,7 +63,7 @@ function getSection(num, id) {
   }
 }
 
-function loadAllContents() {
+async function loadAllContents() {
   getSection(1, 'conversation');
   getSection(11, 'oxford-online-english');
   // getSection(19, 'english-speaking-course');
@@ -78,44 +79,52 @@ function loadAllContents() {
   document.getElementById('conversation').style.display = 'block';
   document.getElementById('conversation-1').style.display = 'block';
 
-  setTimeout(async () => {
-    await initVocabulary();
-    const selects = document.querySelectorAll(".audio-change");
-    selects.forEach(select => {
-      const secondOption = select.options[1];
-      if (secondOption) {
-        select.value = secondOption.value;
-      }
-    });
+  await initVocabulary();
+  const selects = document.querySelectorAll(".audio-change");
+  selects.forEach(select => {
+    const secondOption = select.options[1];
+    if (secondOption) {
+      select.value = secondOption.value;
+    }
+  });
 
-    document.addEventListener('keydown', function (event) {
-      if (['ArrowLeft', 'ArrowRight'].includes(event.code)) {
-        const audios = document.querySelectorAll('audio');
-        const num = event.code === 'ArrowLeft' ? -5 : 3;
+  document.addEventListener('keydown', function (event) {
+    if (['ArrowLeft', 'ArrowRight'].includes(event.code)) {
+      const audios = document.querySelectorAll('audio');
+      const num = event.code === 'ArrowLeft' ? -5 : 3;
 
-        audios.forEach(audio => {
-          if (!audio.paused) {
-            audio.currentTime = Math.max(0, audio.currentTime + num);
-          }
-        });
-      }
-    });
+      audios.forEach(audio => {
+        if (!audio.paused) {
+          audio.currentTime = Math.max(0, audio.currentTime + num);
+        }
+      });
+    }
+  });
 
-    document.getElementById("overlay").style.display = "none";
+  document.getElementById("overlay").style.display = "none";
 
-    const vocabularyData = localStorage.getItem('vocabulary');
+  try {
+    const response = await fetch(API_URL);
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    const vocabulary = await response.json();
+
+    const vocabularyData = vocabulary.data;
 
     if (vocabularyData) {
-      const vocabularyList = JSON.parse(vocabularyData);
       const vocabularyContainer = document.getElementById('vocabulary-list');
 
-      vocabularyList.forEach((word, index) => {
+      vocabularyData.forEach((word, index) => {
         const listItem = document.createElement('li');
-        listItem.innerHTML = `<small style="font-style: italic; font-size: 12px;">${index + 1}.</small> <b style="color: burlywood;">${word}</b>`;
+        listItem.innerHTML = `<small style="font-style: italic; font-size: 12px;">${index + 1}.</small> <b style="color: burlywood;">${word.value}</b>`;
         vocabularyContainer.appendChild(listItem);
       });
     }
-  }, 1000);
+
+  } catch (error) {
+    console.error('Có lỗi khi lấy dữ liệu:', error);
+  }
 }
 
 function changeConversation(object, className) {
@@ -201,7 +210,7 @@ function audioNext(btn) {
 async function initVocabulary() {
   let storedArray = []
   try {
-    const response = await fetch('https://node-api-delta-bice.vercel.app/api/vocabulary');
+    const response = await fetch(API_URL);
     if (!response.ok) {
       throw new Error('Network response was not ok');
     }
@@ -383,7 +392,7 @@ function spStartStop(btn) {
 
 async function deleteVocabulary(id) {
   try {
-    const response = await fetch(`https://node-api-delta-bice.vercel.app/api/vocabulary/${id}`, {
+    const response = await fetch(`${API_URL}/${id}`, {
       method: 'DELETE',
     });
 
@@ -401,7 +410,7 @@ async function deleteVocabulary(id) {
 
 async function addVocabulary(vocabulary) {
   try {
-    const response = await fetch('https://node-api-delta-bice.vercel.app/api/vocabulary', {
+    const response = await fetch(API_URL, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
