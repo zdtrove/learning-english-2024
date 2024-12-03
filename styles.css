@@ -8,6 +8,7 @@ body {
   color: gainsboro;
   letter-spacing: -0.3px;
   position: relative;
+  letter-spacing: -1px;
 }
 
 button {
