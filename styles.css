@@ -151,6 +151,12 @@ span {
   outline: none;
 }
 
+.audio-change-lv2 {
+  border-radius: 5px;
+  padding: 3px;
+  outline: none;
+}
+
 .audio-repeat,
 .audio-change,
 .audio-next {

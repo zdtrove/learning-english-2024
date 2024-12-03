@@ -176,14 +176,14 @@ function changeSpeed(select) {
   audio.playbackRate = select.value;
 }
 
-function changeAudio(select) {
+function changeAudio(select, isLv2 = false) {
   currentSeconds = select.value;
   const dataEnglish = select.getAttribute("data-english");
   const targetElement = document.getElementById(`${dataEnglish}-${select.value}`);
 
   if (targetElement) {
     const elementPosition = targetElement.getBoundingClientRect().top + window.scrollY;
-    const offset = isFirstScroll ? 200 : 100;
+    const offset = isLv2 ? 30 : isFirstScroll ? 200 : 100;
     window.scrollTo({
       top: elementPosition - offset,
       behavior: "smooth",
@@ -191,10 +191,12 @@ function changeAudio(select) {
     isFirstScroll = false;
   }
 
-  const audio = select.closest('.audio-wrapper').querySelector('.audio');
-  const startTime = parseInt(select.value, 10);
-  audio.currentTime = startTime;
-  audio.play();
+  if (select.closest('.audio-wrapper')) {
+    const audio = select.closest('.audio-wrapper').querySelector('.audio');
+    const startTime = parseInt(select.value, 10);
+    audio.currentTime = startTime;
+    audio.play();
+  }
 }
 
 function repeat(btn) {
