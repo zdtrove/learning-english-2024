@@ -78,8 +78,8 @@ function loadAllContents() {
   document.getElementById('conversation').style.display = 'block';
   document.getElementById('conversation-1').style.display = 'block';
 
-  setTimeout(() => {
-    initVocabulary();
+  setTimeout(async () => {
+    await initVocabulary();
     const selects = document.querySelectorAll(".audio-change");
     selects.forEach(select => {
       const secondOption = select.options[1];
@@ -198,11 +198,18 @@ function audioNext(btn) {
   audio.currentTime = Math.max(0, audio.currentTime + 3);
 }
 
-function initVocabulary() {
-  let storedArray = JSON.parse(localStorage.getItem('vocabulary'));
-  if (!storedArray) {
-    localStorage.setItem('vocabulary', JSON.stringify([]));
-    storedArray = [];
+async function initVocabulary() {
+  let storedArray = []
+  try {
+    const response = await fetch('https://node-api-delta-bice.vercel.app/api/vocabulary');
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    const vocabulary = await response.json();
+
+    storedArray = vocabulary.data;
+  } catch (error) {
+    console.error('Có lỗi khi lấy dữ liệu:', error);
   }
 
   document.addEventListener('keydown', function (event) {
@@ -245,17 +252,25 @@ function initVocabulary() {
   const spans = document.getElementsByTagName("span");
   const spanArray = Array.from(spans);
   spanArray.forEach((span) => {
-    storedArray.forEach((item) => span.textContent.toLowerCase() === item.toLocaleLowerCase() && span.classList.add('learn'));
-    span.addEventListener("click", function () {
-      let storedArray = JSON.parse(localStorage.getItem('vocabulary'));
-      if (!storedArray.includes(span.textContent)) {
-        spanArray.forEach((span1) => span1.textContent.toLowerCase() === span.textContent.toLocaleLowerCase() && span1.classList.add('learn'));
-        storedArray.push(span.textContent.replace(/\n/g, ''));
-        localStorage.setItem('vocabulary', JSON.stringify(storedArray));
+    storedArray.forEach((item) => {
+      if (span.textContent.toLowerCase() === item.value.toLowerCase()) {
+        span.classList.add('learn');
+        span.id = item._id;
+      }
+    });
+    span.addEventListener("click", async function () {
+      if (!span.id) {
+        span.classList.add('loading');
+        const id = await addVocabulary(span.textContent.replace(/\n/g, ''));
+        span.id = id;
+        span.classList.remove('loading');
+        span.classList.add('learn');
       } else {
-        spanArray.forEach((span2) => span2.textContent.toLowerCase() === span.textContent.toLocaleLowerCase() && span2.classList.remove('learn'));
-        storedArray = storedArray.filter(item => item !== span.textContent)
-        localStorage.setItem('vocabulary', JSON.stringify(storedArray));
+        span.classList.add('loading');
+        await deleteVocabulary(span.id);
+        span.classList.remove('loading');
+        span.removeAttribute('id');
+        span.classList.remove('learn');
       }
     });
   });
@@ -301,60 +316,6 @@ function disabledClick() {
 
 function formatTimes(times) {
   return String(times).padStart(2, '0');
-}
-
-function downloadLocalStorage() {
-  const data = localStorage.getItem("vocabulary");
-
-  if (data) {
-    const now = new Date();
-    const year = now.getFullYear();
-    const month = formatTimes(now.getMonth() + 1);
-    const date = formatTimes(now.getDate());
-    const hours = formatTimes(now.getHours());
-    const minutes = formatTimes(now.getMinutes());
-    const seconds = formatTimes(now.getSeconds());
-    const timestamp = `${year}-${month}-${date}-${hours}-${minutes}-${seconds}`;
-    const filename = `vocabulary-${timestamp}.json`;
-    const blob = new Blob([data], { type: "application/json" });
-    const url = URL.createObjectURL(blob);
-
-    const a = document.createElement("a");
-    a.href = url;
-    a.download = filename;
-    a.click();
-
-    URL.revokeObjectURL(url);
-    console.log("Download successful!");
-  } else {
-    console.log("No vocabulary data found in localStorage.");
-  }
-}
-
-function updateLocalStorage(event) {
-  const file = event.target.files[0];
-
-  if (file && file.type === "application/json") {
-    const reader = new FileReader();
-
-    reader.onload = function (e) {
-      try {
-        const data = JSON.parse(e.target.result);
-        localStorage.setItem("vocabulary", JSON.stringify(data));
-        console.log("Local storage updated successfully!");
-        location.reload();
-      } catch (error) {
-        console.error("Invalid JSON file:", error);
-      }
-    };
-    reader.readAsText(file);
-  } else {
-    console.log("Please upload a valid JSON file.");
-  }
-}
-
-function triggerFileUpload() {
-  document.getElementById("fileInput").click();
 }
 
 function startAudio(element, seconds) {
@@ -417,5 +378,46 @@ function spStartStop(btn) {
     if (currentlyPlaying) {
       lastPlayedAudio = currentlyPlaying;
     }
+  }
+}
+
+async function deleteVocabulary(id) {
+  try {
+    const response = await fetch(`https://node-api-delta-bice.vercel.app/api/vocabulary/${id}`, {
+      method: 'DELETE',
+    });
+
+    const result = await response.json();
+
+    if (response.ok) {
+      console.log('Xóa từ vựng thành công:', result.message);
+    } else {
+      console.error('Xóa từ vựng thất bại:', result.message || result.error);
+    }
+  } catch (error) {
+    console.error('Có lỗi xảy ra khi xoá từ vựng:', error);
+  }
+}
+
+async function addVocabulary(vocabulary) {
+  try {
+    const response = await fetch('https://node-api-delta-bice.vercel.app/api/vocabulary', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ value: vocabulary }),
+    });
+
+    const result = await response.json();
+
+    if (response.ok) {
+      console.log('Thêm từ vựng thành công:', result);
+      return result.insertedId;
+    } else {
+      console.error('Thêm từ vựng thất bại:', result.message || result.error);
+    }
+  } catch (error) {
+    console.error('Có lỗi xảy ra khi thêm từ vựng:', error);
   }
 }

@@ -48,6 +48,8 @@ select.select-lesson {
 
 span {
   cursor: pointer;
+  position: relative;
+  display: inline-block;
 }
 
 .learn {
@@ -244,6 +246,24 @@ audio {
   height: 50px;
   -webkit-animation: spin 1.5s linear infinite;
   animation: spin 1.5s linear infinite;
+}
+span.loading {
+  pointer-events: none;
+  cursor: default;
+}
+
+span.loading::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 1em;
+  height: 1em;
+  margin: -0.5em;
+  border: 2px solid transparent;
+  border-top-color: #3498db;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
 }
 
 #vocabulary-list {

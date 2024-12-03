@@ -24,9 +24,6 @@
       <button class="tab-link" onclick="changeTab(event, 'english-podcast')">English Podcast</button>
       <!-- <button class="tab-link" onclick="changeTab(event, 'toeic-600-words')">600 Toeic</button> -->
     </section>
-    <button class="button-voca" onclick="downloadLocalStorage()">Download Vocabulary</button>
-    <button class="button-voca" onclick="triggerFileUpload()">Update Vocabulary</button>
-    <input type="file" id="fileInput" accept=".json" style="display: none" onchange="updateLocalStorage(event)" />
     <section id="conversation" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.conversation')">
         <option value="conversation-1">001 → 010</option>

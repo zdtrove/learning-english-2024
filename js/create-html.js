@@ -75,9 +75,9 @@ string.trim() !== "" && console.log(outputHtml);
 //   .join('\n');
 // console.log(result);
 
-// const sentences = string.match(/[^.!?;:…]*[.!?;:…]["')\]]?/g);
+const sentences = string.match(/[^.!?;:…]*[.!?;:…]["')\]]?/g);
 
-// if (sentences) {
-//   const result = sentences.map(sentence => sentence.trim()).join('\n');
-//   console.log(result);
-// }
+if (sentences) {
+  const result = sentences.map(sentence => sentence.trim()).join('\n');
+  console.log(result);
+}
