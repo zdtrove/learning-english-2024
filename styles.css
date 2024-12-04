@@ -9,6 +9,7 @@ body {
   letter-spacing: -0.3px;
   position: relative;
   letter-spacing: -1px;
+  height: 2000px;
 }
 
 button {
@@ -286,6 +287,17 @@ span.loading::after {
   border-radius: 4px;
   text-align: left;
   color: white;
+}
+
+#scrollToTopBtn {
+  display: none;
+  right: 115px;
+  border-radius: 4px;
+  padding: 5px 8px;
+  cursor: pointer;
+  position: fixed;
+  bottom: 13px;
+  z-index: 9999;
 }
 
 @-webkit-keyframes spin {

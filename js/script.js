@@ -125,6 +125,23 @@ async function loadAllContents() {
   } catch (error) {
     console.error('Có lỗi khi lấy dữ liệu:', error);
   }
+
+  const scrollToTopBtn = document.getElementById('scrollToTopBtn');
+
+  window.onscroll = function () {
+    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+      scrollToTopBtn.style.display = "block";
+    } else {
+      scrollToTopBtn.style.display = "none";
+    }
+  };
+
+  scrollToTopBtn.addEventListener('click', function () {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  });
 }
 
 function changeConversation(object, className) {
@@ -145,7 +162,7 @@ function loadAudio(src, button) {
   source.type = 'audio/mpeg';
   const startStopBtns = document.querySelectorAll('.audio-start-stop');
   startStopBtns.forEach((startStop) => startStop.textContent = "⏸️");
-  
+
   audio.appendChild(source);
   audio.load();
   audio.play();
