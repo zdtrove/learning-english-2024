@@ -293,12 +293,24 @@ async function initVocabulary() {
         span.id = id;
         span.classList.remove('loading');
         span.classList.add('learn');
+        spanArray.forEach((spanAdd) => {
+          if (spanAdd.textContent.toLowerCase() === span.textContent.toLocaleLowerCase()) {
+            spanAdd.classList.add('learn');
+            spanAdd.id = id;
+          }
+        });
       } else {
         span.classList.add('loading');
         await deleteVocabulary(span.id);
         span.classList.remove('loading');
         span.removeAttribute('id');
         span.classList.remove('learn');
+        spanArray.forEach((spanRemove) => {
+          if (spanRemove.textContent.toLowerCase() === span.textContent.toLocaleLowerCase()) {
+            spanRemove.classList.remove('learn');
+            spanRemove.removeAttribute('id');
+          }
+        });
       }
     });
   });
