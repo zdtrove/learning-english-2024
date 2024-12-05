@@ -65,7 +65,7 @@ function getSection(num, id) {
 
 async function loadAllContents() {
   getSection(1, 'conversation');
-  getSection(11, 'oxford-online-english');
+  // getSection(11, 'oxford-online-english');
   // getSection(19, 'english-speaking-course');
   // getSection(2, 'easy-english');
   // getSection(13, 'english-at-work');
@@ -73,7 +73,7 @@ async function loadAllContents() {
   // getSection(7, 'ielts-speaking');
   // getSection(40, 'ielts-listening');
   getSection(11, 'level2');
-  getSection(1, 'english-podcast');
+  // getSection(1, 'english-podcast');
   // getSection(10, 'toeic-600-words');
 
   document.getElementById('conversation').style.display = 'block';
