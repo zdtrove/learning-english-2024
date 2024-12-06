@@ -1118,3 +1118,7 @@ const englishGraded4Mp3 = {
   '099': 'e2rd2qsuq15lzkcnjbb2g/099.mp3?rlkey=80u0m63tvtihesnaoagu3wf56',
   '100': 'ulgkd4k7rzl8uf36if9rk/100.mp3?rlkey=9lf6y8bt21ssj400bckd4vei9',
 }
+
+const englishStoryMp3 = {
+  '001': 'r22bifnsnaadtjr5dr853/001.mp3?rlkey=jtawejlwgw6765700ydkkiaq0',
+}

@@ -35,6 +35,7 @@ function activeFirstItemSection(sectionClass) {
     'toeic-600-words',
     'oxford-online-english',
     'mini-novels',
+    'english-story',
   ].forEach((item) => {
     if (sectionClass === item) {
       document.getElementById(`${sectionClass}-1`).style.display = 'block';
@@ -74,7 +75,8 @@ async function loadAllContents() {
   // getSection(7, 'ielts-speaking');
   // getSection(40, 'ielts-listening');
   getSection(11, 'level2');
-  getSection(2, 'mini-novels');
+  // getSection(2, 'mini-novels');
+  getSection(1, 'english-story');
   // getSection(1, 'english-podcast');
   // getSection(10, 'toeic-600-words');
 
