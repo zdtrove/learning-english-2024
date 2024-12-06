@@ -46,12 +46,9 @@ select.select-lesson {
   margin-bottom: 15px;
 }
 
-
-
 span {
   cursor: pointer;
   position: relative;
-  display: inline-block;
 }
 
 .learn {
