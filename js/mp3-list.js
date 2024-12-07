@@ -1121,4 +1121,5 @@ const englishGraded4Mp3 = {
 
 const englishStoryMp3 = {
   '001': 'r22bifnsnaadtjr5dr853/001.mp3?rlkey=jtawejlwgw6765700ydkkiaq0',
+  '002': 'my3qks561wgv6yaxqto9h/002.mp3?rlkey=0qcpues8g6fb56qjcq0cmtr07',
 }

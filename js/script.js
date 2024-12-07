@@ -76,7 +76,7 @@ async function loadAllContents() {
   // getSection(40, 'ielts-listening');
   getSection(11, 'level2');
   // getSection(2, 'mini-novels');
-  getSection(1, 'english-story');
+  getSection(2, 'english-story');
   // getSection(1, 'english-podcast');
   // getSection(10, 'toeic-600-words');
 
