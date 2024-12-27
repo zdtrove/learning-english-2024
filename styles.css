@@ -347,4 +347,8 @@ span.loading::after {
   #vocabulary-list {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  select {
+    max-width: 165px;
+  }
 }

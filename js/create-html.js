@@ -55,7 +55,7 @@ const arrayHtml = arrayFilter.map((item) => {
   return `${item}${lastChar}`;
 });
 
-const listTimes = [0.21, 1.37, 3.2, 4.49, 6.27, 7.48, 9.19, 10.56, 12.21, 14.06, 15.28, 17.09, 18.48, 20.11, 21.52, 23.14, 24.46, 26.14, 27.39, 29.03, 30.33, 32.14, 33.32, 34.59, 36.18, 37.55, 39.1, 40.37, 42.12, 43.44, 45.19, 46.48];
+const listTimes = [];
 listTimes.length && listTimes.forEach(item => {
   console.log(convertToSeconds(item));
 });
