@@ -349,7 +349,7 @@ span.loading::after {
   }
 
   select {
-    max-width: 192px;
+    max-width: 200px;
   }
 
   .audio-wrapper button.audio-repeat, .audio-wrapper button.audio-next {
