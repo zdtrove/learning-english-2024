@@ -58,6 +58,11 @@
         <option value="english-easier-with-eric-1">001 → 010</option>
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
+      <div class="btn-sp-group">
+        <button onclick="spPrev()">🔙 5s</button>
+        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
+        <button onclick="spNext()">3s 🔜</button>
+      </div>
     </section>
     <!-- <section id="oxford-online-english" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.oxford-online-english')">

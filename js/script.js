@@ -364,7 +364,9 @@ function formatTimes(times) {
   return String(times).padStart(2, '0');
 }
 
-function startAudio(element, seconds) {
+function startAudio(element, x = 1) {
+  const h2Id = element.closest('h2').id;
+  const seconds = parseInt(h2Id.split('-').pop(), 10);
   currentSeconds = seconds;
   const audio = element.closest('div').querySelector('.audio');
   const startTime = parseInt(seconds, 10);
