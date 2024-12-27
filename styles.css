@@ -349,6 +349,18 @@ span.loading::after {
   }
 
   select {
-    max-width: 165px;
+    max-width: 192px;
+  }
+
+  .audio-wrapper button.audio-repeat, .audio-wrapper button.audio-next {
+    padding: 2px 3px;
+  }
+
+  .action {
+    gap: 3px;
+  }
+
+  .audio-speed, .audio-change {
+    padding: 3px 0;
   }
 }
