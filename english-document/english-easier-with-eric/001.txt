@@ -1,4 +1,4 @@
-[001] Ease off - reduce in intensity
+Ease off - reduce in intensity
 
 🎧 Have you been following the weather forecast lately
 🎧 Yes, I have, it seems like the rain is finally going to ease off this weekend
@@ -12,7 +12,7 @@
 🎧 Sounds good, hopefully the weather will be clear by then
 🎧 Fingers crossed! It'll be nice to get some fresh air and sunshine
 
-[002] Fall for - be deceived by
+Fall for - be deceived by
 
 🎧 So I heard you bought a car from that online ad, how did it go
 🎧 Not great, actually, I think I fell for one of those too-good-to-be-true deals
@@ -24,7 +24,7 @@
 🎧 Definitely a lesson learned. Next time I'll be more cautious and probably insist on seeing the car in person before making any payments
 🎧 Yeah, that's a safer approach. It's tough out there with all these deceptive ads. Let me know if you need help sorting it out with your bank
 
-[003] Dial back - reduce or decrease
+Dial back - reduce or decrease
 
 🎧 I've been thinking about how hectic our weekends have been lately. Maybe we should dial back on some of our plans
 🎧 I was thinking the same. It feels like we're always rushing from one event to another without a moment to relax
@@ -34,7 +34,7 @@
 🎧 I'd vote for something outdoors. How about we just plan for a morning hike? We could take a leisurely pace and have a picnic
 🎧 That sounds perfect. Let's go with the hike then. It'll be nice to have a more relaxed day for a change
 
-[004] Brush off - ignore or dismiss someone or something
+Brush off - ignore or dismiss someone or something
 
 🎧 Did you mention the parking issue to the building manager yesterday
 🎧 I did, but he just brushed it off, said there's nothing they can do about the space limitations right now
@@ -47,7 +47,7 @@
 🎧 Exactly. Let's do that. We'll gather some feedback from other tenants too to strengthen our case
 🎧 Sounds like a plan. I'll start reaching out to others this week to get their input
 
-[005] Firm up - make more definite or secure
+Firm up - make more definite or secure
 
 🎧 Have you thought about our vacation plans for this summer
 🎧 Yes, I have. We need to firm up our dates soon
@@ -61,7 +61,7 @@
 🎧 Agreed. Let's make a list of everything we need to firm up before booking
 🎧 Sounds like a plan. I'll draft a list and share it with you
 
-[006] Quiet down - become quiet, lighter, or calm down
+Quiet down - become quiet, lighter, or calm down
 
 🎧 Did you hear about the concert in the park this weekend? I'm thinking about going
 🎧 Oh, that sounds like fun, but isn't it supposed to be really crowded? These events usually are
@@ -72,7 +72,7 @@
 🎧 Perfect. It's settled then. We'll head over in the late afternoon, enjoy the music, and relax. It'll be a nice break from our usual weekends
 🎧 Agreed. I'll bring some snacks. It'll be a good change of pace
 
-[007] Iron out - resolve or work out the details
+Iron out - resolve or work out the details
 
 🎧 We really need to iron out the details for our road trip next month
 🎧 Definitely. Should we start with the route and stopovers? I think that's the biggest task
@@ -84,7 +84,7 @@
 🎧 That sounds efficient. Once we have all the information, we can review it together and make any necessary adjustments
 🎧 Agreed. It's better to iron out all these issues now rather than deal with surprises on the road
 
-[008] Talk down - speak to someone as if they are inferior
+Talk down - speak to someone as if they are inferior
 
 🎧 I was at the electronic store yesterday trying to pick a new laptop, and the salesperson really started talking down to me when I asked about the specs
 🎧 Oh no, that's the worst. What did they say
@@ -94,7 +94,7 @@
 🎧 Good for you. It's frustrating how some people assume they need to simplify everything. Did you find a laptop you liked in the end
 🎧 Yes, I ended up finding one with the exact specs I wanted, and I made sure to check out with another salesperson
 
-[009] X-ray - examine thoroughly
+X-ray - examine thoroughly
 
 🎧 I finally took my car to the mechanic because it was making that strange noise again. They had to x-ray the whole engine to find the issue
 🎧 X-ray the engine? I didn't know they could do that. What did they find
@@ -106,7 +106,7 @@
 🎧 Makes me think I should get my car checked too. Better safe than sorry, right
 🎧 Definitely a good idea. Regular checks can save you a lot in the long run
 
-[010] Act on - take action because of information or advice
+Act on - take action because of information or advice
 
 🎧 I got an interesting tip from a friend about a new investment opportunity
 🎧 Really? What's it about
@@ -119,7 +119,7 @@
 🎧 That's a great idea. Let's meet up this weekend and go through the information
 🎧 Sounds like a plan
 
-[011] Kick around - Discuss informally
+Kick around - Discuss informally
 
 🎧 Have you thought anymore about the idea we were kicking around last week?
 🎧 You mean the community garden project? Yeah, I've been thinking about it a lot. It could really bring people together.
@@ -133,7 +133,7 @@
 🎧 Yes, especially if we offer to feature them in any publicity. This is really coming together. We should set a date for our first meeting.
 🎧 Agreed. I'll draft an announcement and we can start spreading the word.
 
-[012] Weigh in - Give an opinion or enter a discussion
+Weigh in - Give an opinion or enter a discussion
 
 🎧 Have you seen the new policy changes they're proposing in our community newsletter?
 🎧 I skimmed through it, but I haven't gone into the details yet. What's it about?
@@ -146,7 +146,7 @@
 🎧 Agreed. Let's draft something this weekend. I'll gather some more feedback from the neighbors too.
 🎧 Perfect. I'll look into some other cities' policies and see if we can find a better solution.
 
-[013] Hold up - Delay or rob
+Hold up - Delay or rob
 
 🎧 Did you hear why the meeting started so late today?
 🎧 Yeah, apparently there was a traffic accident that held everyone up.
@@ -160,7 +160,7 @@
 🎧 I hope they catch them soon. It's scary to think something like that could happen here.
 🎧 Definitely. We need to stay alert.
 
-[014] Invite over - Ask someone to come to your home
+Invite over - Ask someone to come to your home
 
 🎧 Hey, are you free this Saturday evening? I was thinking of having a small get-together at my place.
 🎧 That sounds like fun. What's the occasion?
@@ -174,7 +174,7 @@
 🎧 Looking forward to it. Thanks for inviting me over. I'll see you Saturday then.
 🎧 Great! See you Saturday.
 
-[015] Reach out - Attempt to contact or communicate
+Reach out - Attempt to contact or communicate
 
 🎧 Have you heard from Sarah recently?
 🎧 No, it's been a while. I was thinking I should reach out to her. We used to hang out all the time.
@@ -187,7 +187,7 @@
 🎧 Me too. Let's make it a regular thing if she's up for it.
 🎧 Absolutely. Reaching out more often will help keep our friendship strong.
 
-[016] Smooth over - Make problems seem less serious
+Smooth over - Make problems seem less serious
 
 🎧 Did you hear about the argument at Mark's party last night?
 🎧 Yeah, I heard bits and pieces. What exactly happened?
@@ -201,7 +201,7 @@
 🎧 That's a relief. I'll check in with Jane and Tom later, just to make sure they're okay.
 🎧 Good idea. A little follow-up never hurts.
 
-[017] Whip up - Prepare quickly
+Whip up - Prepare quickly
 
 🎧 Hey, I was thinking about inviting some friends over tonight. Do you have any ideas for what we could serve?
 🎧 Sure, we can whip up some quick appetizers. How about a platter with cheese, crackers, and some fresh fruit?
@@ -213,7 +213,7 @@
 🎧 Let me check. I think we might need more cheese and some chocolate chips for the brownies.
 🎧 All right, let's make a quick shopping list and head out.
 
-[018] Barge in - Enter rudely or abruptly
+Barge in - Enter rudely or abruptly
 
 🎧 Did you hear about the new café that opened downtown?
 🎧 Yes, I did. It seems like everyone is talking about it. Have you been there yet?
@@ -226,7 +226,7 @@
 🎧 Yeah, that was so unexpected. He didn't even apologize.
 🎧 Some people have no manners. Anyway, let's plan for the café this Saturday.
 
-[019] Key in - Enter data via keyboard
+Key in - Enter data via keyboard
 
 🎧 Did you finish inputting the data for the survey?
 🎧 Not yet. I still have a few more responses to key in. It's taking longer than I thought.
@@ -239,7 +239,7 @@
 🎧 Got it! I'll start with these and see how far I get.
 🎧 Perfect. With your help, we should be able to finish much faster.
 
-[020] Catch up with - Reach someone ahead of you
+Catch up with - Reach someone ahead of you
 
 🎧 I heard you've started running in the mornings. How's that going?
 🎧 It's been good. I'm actually trying to catch up with Jenna's pace. She's been at it for years and is super fast now.
@@ -251,7 +251,7 @@
 🎧 Exactly. I plan to sign up this week. Hopefully, I'll start closing the gap soon.
 🎧 You're on the right track. Keep pushing, and you'll be at her level before you know it.
 
-[021] Die down - Decrease in intensity or volume
+Die down - Decrease in intensity or volume
 
 🎧 Have you noticed how the traffic has finally started to die down around here?
 🎧 Yes, it's been a relief. During the construction last month, it was unbearable. How's the noise been on your end?
@@ -263,7 +263,7 @@
 🎧 Yes, it's actually much faster. It seems like many haven't caught on yet, so it's less crowded too.
 🎧 I'll have to try that then. Anything to avoid a repeat of last month's chaos.
 
-[022] Flake out - Fail to follow through or appear, also fall asleep
+Flake out - Fail to follow through or appear, also fall asleep
 
 🎧 Did you go to Emily's party last night?
 🎧 No, I planned to, but I completely flaked out. I fell asleep on the couch.
@@ -277,7 +277,7 @@
 🎧 Wow, that's huge. I really wish I hadn't flaked out.
 🎧 Don't worry. We can catch up with her before she leaves.
 
-[023] Opt for - Choose one thing over others
+Opt for - Choose one thing over others
 
 🎧 So, what are you thinking for dinner tonight? There's a new Thai place that just opened up down the street.
 🎧 Thai sounds good, but didn't you mention that sushi spot near the park last week? We could check that out instead.
@@ -286,7 +286,7 @@
 🎧 All right, let's opt for the Thai place then. It'll be nice to try something new, and a little spice might be just what we need to liven up the week.
 🎧 Agreed. I'll make a reservation. Maybe we can walk around the neighborhood after dinner too.
 
-[024] Hone in - Focus or concentrate on something
+Hone in - Focus or concentrate on something
 
 🎧 Have you started planning your vacation yet?
 🎧 Not really. I'm trying to hone in on a destination first.
@@ -299,7 +299,7 @@
 🎧 I'll definitely look into that. It might be just what I need.
 🎧 Let me know what you decide. It sounds exciting.
 
-[025] Join in - Participate in an activity with others
+Join in - Participate in an activity with others
 
 🎧 Did you hear about the charity run happening next weekend in the park? I was thinking about signing up.
 🎧 Yeah, I saw the flyers. It looks like a good cause. Are you going to join in?
@@ -310,7 +310,7 @@
 🎧 Awesome! I'll send you the sign-up link. Thanks for deciding to join in. It's always more fun to do these things together.
 🎧 Absolutely! Thanks for the nudge. It'll be good to do something different and help out the community at the same time.
 
-[026] Bail out - Rescue from financial difficulties
+Bail out - Rescue from financial difficulties
 
 🎧 I heard Tom's business is struggling. Have you talked to him lately?
 🎧 Yes, I spoke with him yesterday. He's in quite a bit of financial trouble.
@@ -322,7 +322,7 @@
 🎧 That's a good idea. We can get a clearer picture and decide if we want to bail him out.
 🎧 Let's set up a meeting soon. I'll call him and arrange it.
 
-[027] Yell out - Shout or exclaim loudly
+Yell out - Shout or exclaim loudly
 
 🎧 Did you hear that noise outside just now?
 🎧 Yeah, I did. Sounded like someone was yelling out. Maybe someone's celebrating.
@@ -335,7 +335,7 @@
 🎧 Good thinking. Let's be quick, though. If it's just a celebration, we shouldn't intrude for too long.
 🎧 Agreed. If someone's in trouble, though, we'll be right there to help out.
 
-[028] Walk off - Leave suddenly without explanation
+Walk off - Leave suddenly without explanation
 
 🎧 Did you hear about what happened at the party last night? Sarah just walked off without saying anything to anyone.
 🎧 Really? That doesn't sound like her at all. Did something happen?
@@ -346,7 +346,7 @@
 🎧 That's what I was thinking. We should probably give her some space for now, but maybe in a couple of days we could check in on her to see if she wants to talk.
 🎧 Good idea. It's important to support friends, especially when they do something out of the ordinary like that.
 
-[029] Double up - Share something intended for one person with another
+Double up - Share something intended for one person with another
 
 🎧 Hey, did you know the new office policy now allows us to double up on hotel rooms during conferences? They're trying to cut down on travel expenses.
 🎧 Really? Doubling up on hotel rooms? That could be a bit awkward depending on who you end up sharing with.
@@ -356,7 +356,7 @@
 🎧 I can see the benefit in that. Maybe we should pair up for the next conference. We'd probably have a great time.
 🎧 I'm in! It'll double the fun and halve the cost. Let's let HR know we're pairing up.
 
-[030] Play up - Emphasize or exaggerate
+Play up - Emphasize or exaggerate
 
 🎧 I just got back from the car dealership. You wouldn't believe the sales pitch I got today.
 🎧 Oh, do tell. Was it the usual spiel or something out of the ordinary?
@@ -367,7 +367,7 @@
 🎧 I'm considering it. The car's good, but I need to do a bit more research. I don't want to make a decision based solely on an exaggerated sales pitch.
 🎧 Smart move. Take your time, and maybe you'll find something even better without all the hype.
 
-[031] Knockout - Defeat or overwhelm
+Knockout - Defeat or overwhelm
 
 🎧 Did you watch the boxing match last night?
 🎧 Yes, I did. That knockout in the final round was unexpected.
@@ -380,7 +380,7 @@
 🎧 You should go for it. It's challenging but very rewarding. Maybe it'll be you in the ring someday.
 🎧 Who knows? For now, I'll start with the basics.
 
-[032] Bear out - Confirm the truth
+Bear out - Confirm the truth
 
 🎧 Did you hear back about the results from that study on climate change?
 🎧 Yes, I did. The predictions about rising sea levels were actually borne out. The data confirmed what many scientists have been warning about for years.
