@@ -1125,14 +1125,14 @@ const englishStoryMp3 = {
 }
 
 const englishEasierWithEricMp3 = {
-  '001': '',
-  '002': '',
-  '003': '',
-  '004': '',
-  '005': '',
-  '006': '',
-  '007': '',
-  '008': '',
-  '009': '',
-  '010': '',
+  '001': 'n78nbd227an0a0vi8uuay/001.mp3?rlkey=p04pn3rdeqk20gqpj4ph0c62b',
+  '002': '6vkspoqpaj2evqvn1muot/002.mp3?rlkey=5g8uw0tvuujz40pr47xxs9aik',
+  '003': '4bf4lnhxkwe063um8wczo/003.mp3?rlkey=u6cj8q75vttsyp7xiec8y11d1',
+  '004': 'vd9yny7003eo8tqfcq8bf/004.mp3?rlkey=tgqvl7x9vn4zd7ljnuqlqvloh',
+  '005': 'sb9h950ii2ez2qmnce98n/005.mp3?rlkey=5966gpwubteiyvmpn9m8glmtq',
+  '006': 'vbptupnr71cle80v0a2d9/006.mp3?rlkey=mh38ii6b96m4yzrx5psy3aitk',
+  '007': 'xp8kdr1nsb03hrn17ai4x/007.mp3?rlkey=jdxqfxr1yv2xuek2foo1iuwsg',
+  '008': '0txpph4xrvurtb0n5n89o/008.mp3?rlkey=auaram0pdrgl1lycw42v4amvq',
+  '009': '8y0bgvkve3p76oo9c8289/009.mp3?rlkey=1ir0k0ey1vg9p4a5i45y5ksln',
+  '010': 'g11ff0fwepjo8llgg4n4s/010.mp3?rlkey=xc0ely4ghoojfib3v4nkydgbk',
 }

@@ -13,6 +13,7 @@
     </div>
     <section class="tab">
       <button class="tab-link active" onclick="changeTab(event, 'conversation')">Conversation</button>
+      <button class="tab-link" onclick="changeTab(event, 'english-easier-with-eric')">English Easier With Eric</button>
       <!-- <button class="tab-link" onclick="changeTab(event, 'oxford-online-english')">Practice English</button> -->
       <!-- <button class="tab-link" onclick="changeTab(event, 'ielts-listening')">IELTS Listening</button> -->
       <!-- <button class="tab-link" onclick="changeTab(event, 'english-speaking-course')">English Speaking Course</button> -->
@@ -21,7 +22,7 @@
       <!-- <button class="tab-link" onclick="changeTab(event, 'ielts-speaking')">IELTS Speaking</button> -->
       <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
       <!-- <button class="tab-link" onclick="changeTab(event, 'mini-novels')">Mini Novels</button> -->
-      <button class="tab-link" onclick="changeTab(event, 'english-story')">English Story</button>
+      <!-- <button class="tab-link" onclick="changeTab(event, 'english-story')">English Story</button> -->
       <button class="tab-link" onclick="changeTab(event, 'new-vocabulary')">New Vocabulary</button>
       <!-- <button class="tab-link" onclick="changeTab(event, 'english-podcast')">English Podcast</button> -->
       <!-- <button class="tab-link" onclick="changeTab(event, 'toeic-600-words')">600 Toeic</button> -->
@@ -38,7 +39,7 @@
         <option value="conversation-8">071 → 080</option>
         <option value="conversation-9">081 → 090</option>
         <option value="conversation-10">091 → 100</option>
-        <option value="conversation-11">101 → 110</option>
+        <!-- <option value="conversation-11">101 → 110</option>
         <option value="conversation-12">111 → 120</option>
         <option value="conversation-13">121 → 130</option>
         <option value="conversation-14">131 → 140</option>
@@ -48,7 +49,13 @@
         <option value="conversation-18">171 → 180</option>
         <option value="conversation-19">181 → 190</option>
         <option value="conversation-20">191 → 200</option>
-        <option value="conversation-21">201 → 210</option>
+        <option value="conversation-21">201 → 210</option> -->
+      </select>
+      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
+    </section>
+    <section id="english-easier-with-eric" class="tab-content">
+      <select class="select-lesson" onchange="changeConversation(this, '.english-easier-with-eric')">
+        <option value="english-easier-with-eric-1">001 → 010</option>
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
     </section>
@@ -229,7 +236,7 @@
         <button onclick="spNext()">3s 🔜</button>
       </div>
     </section> -->
-    <section id="english-story" class="tab-content">
+    <!-- <section id="english-story" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.english-story')">
         <option value="english-story-1">001</option>
         <option value="english-story-2">002</option>
@@ -240,7 +247,7 @@
         <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
         <button onclick="spNext()">3s 🔜</button>
       </div>
-    </section>
+    </section> -->
     <!-- <section id="toeic-600-words" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.toeic-600-words')">
         <option value="toeic-600-words-1">01 → 05</option>

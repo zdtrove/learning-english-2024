@@ -36,6 +36,7 @@ function activeFirstItemSection(sectionClass) {
     'oxford-online-english',
     'mini-novels',
     'english-story',
+    'english-easier-with-eric',
   ].forEach((item) => {
     if (sectionClass === item) {
       document.getElementById(`${sectionClass}-1`).style.display = 'block';
@@ -66,7 +67,8 @@ function getSection(num, id) {
 }
 
 async function loadAllContents() {
-  getSection(21, 'conversation');
+  getSection(10, 'conversation');
+  getSection(1, 'english-easier-with-eric');
   // getSection(11, 'oxford-online-english');
   // getSection(19, 'english-speaking-course');
   // getSection(2, 'easy-english');
@@ -76,7 +78,7 @@ async function loadAllContents() {
   // getSection(40, 'ielts-listening');
   getSection(11, 'level2');
   // getSection(2, 'mini-novels');
-  getSection(2, 'english-story');
+  // getSection(2, 'english-story');
   // getSection(1, 'english-podcast');
   // getSection(10, 'toeic-600-words');
 
