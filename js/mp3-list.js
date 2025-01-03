@@ -1127,4 +1127,5 @@ const englishStoryMp3 = {
 const englishEasierWithEricMp3 = {
   '001': 'wn1sy3nvtlio5zhecc8xc/001.mp3?rlkey=rg41ss2gql35wb04j5burlqwx',
   '002': 'fawecequo3z9higvcysw5/002.mp3?rlkey=u8sbqqzy6691or51zda7nyz11',
+  '003': 'zfb2a7liimj30j5995f2b/003.mp3?rlkey=jlvab8e2fbqjuvi4mx2090vul',
 }
