@@ -167,6 +167,7 @@ function loadAudio(src, button) {
   source.src = `https://dl.dropboxusercontent.com/scl/fi/${src}`;
   source.type = 'audio/mpeg';
   const startStopBtns = document.querySelectorAll('.audio-start-stop');
+  const audioTimeBtn = document.querySelector('#audio-time');
   startStopBtns.forEach((startStop) => startStop.textContent = "⏸️");
 
   audio.appendChild(source);
@@ -182,6 +183,9 @@ function loadAudio(src, button) {
     setTimeout(() => {
       audio.play();
     }, 1500);
+  };
+  audio.ontimeupdate = function () {
+    audioTimeBtn.textContent = audio.currentTime.toFixed(2);
   };
   lastPlayedAudio = audio;
 
@@ -364,7 +368,8 @@ function formatTimes(times) {
   return String(times).padStart(2, '0');
 }
 
-function startAudio(element, x = 1) {
+function startAudio(element, endTime = null) {
+  const audioTimeBtn = document.querySelector('#audio-time');
   const h2Id = element.closest('h2').id;
   const seconds = parseInt(h2Id.split('-').pop(), 10);
   currentSeconds = seconds;
@@ -372,6 +377,22 @@ function startAudio(element, x = 1) {
   const startTime = parseInt(seconds, 10);
   audio.currentTime = startTime;
   audio.play();
+
+  audio.ontimeupdate = null;
+
+  audio.ontimeupdate = function () {
+    audioTimeBtn.textContent = audio.currentTime.toFixed(2);
+  };
+
+  if (endTime) {
+    audio.ontimeupdate = function() {
+      audioTimeBtn.textContent = audio.currentTime.toFixed(2);
+      if (audio.currentTime >= endTime) {
+        audio.currentTime = startTime;
+        audio.play();
+      }
+    };
+  }
 }
 
 function spNext() {
