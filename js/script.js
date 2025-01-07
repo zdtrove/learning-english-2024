@@ -233,7 +233,7 @@ function repeat(btn) {
 
 function audioNext(btn) {
   const audio = btn.parentElement.previousElementSibling.previousElementSibling;
-  audio.currentTime = Math.max(0, audio.currentTime + 3);
+  audio.currentTime = Math.max(0, audio.currentTime + 5);
 }
 
 async function initVocabulary() {
@@ -400,7 +400,7 @@ function spNext() {
 
   audios.forEach(audio => {
     if (!audio.paused) {
-      audio.currentTime = Math.max(0, audio.currentTime + 3);
+      audio.currentTime = Math.max(0, audio.currentTime + 5);
     }
   });
 }
