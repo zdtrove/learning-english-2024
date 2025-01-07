@@ -292,7 +292,7 @@ span.loading::after {
 
 #scrollToTopBtn {
   display: none;
-  right: 167px;
+  right: 177px;
   border-radius: 4px;
   padding: 5px 8px;
   cursor: pointer;
@@ -303,9 +303,10 @@ span.loading::after {
 }
 
 #audio-time {
+  width: 60px;
   right: 110px;
   border-radius: 4px;
-  padding: 5px 8px;
+  padding: 5px;
   cursor: pointer;
   position: fixed;
   bottom: 13px;
