@@ -76,7 +76,7 @@ async function loadAllContents() {
   getSection(1, 'new-vocabulary');
   // getSection(7, 'ielts-speaking');
   getSection(68, 'ielts-listening');
-  // getSection(11, 'level2');
+  getSection(11, 'level2');
   // getSection(2, 'mini-novels');
   // getSection(2, 'english-story');
   // getSection(1, 'english-podcast');
