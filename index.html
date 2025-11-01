@@ -12,14 +12,14 @@
       <div class="loader"></div>
     </div>
     <section class="tab">
-      <button class="tab-link active" onclick="changeTab(event, 'conversation')">Conversation</button>
+      <!-- <button class="tab-link active" onclick="changeTab(event, 'conversation')">Conversation</button> -->
       <!-- <button class="tab-link" onclick="changeTab(event, 'english-easier-with-eric')">English Easier With Eric</button> -->
       <!-- <button class="tab-link" onclick="changeTab(event, 'oxford-online-english')">Practice English</button> -->
+      <button class="tab-link" onclick="changeTab(event, 'ielts-speaking')">IELTS Speaking</button>
       <button class="tab-link" onclick="changeTab(event, 'ielts-listening')">IELTS Listening</button>
       <!-- <button class="tab-link" onclick="changeTab(event, 'english-speaking-course')">English Speaking Course</button> -->
       <!-- <button class="tab-link" onclick="changeTab(event, 'easy-english')">Easy English</button> -->
       <!-- <button class="tab-link" onclick="changeTab(event, 'english-at-work')">English At Work</button> -->
-      <!-- <button class="tab-link" onclick="changeTab(event, 'ielts-speaking')">IELTS Speaking</button> -->
       <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
       <!-- <button class="tab-link" onclick="changeTab(event, 'mini-novels')">Mini Novels</button> -->
       <!-- <button class="tab-link" onclick="changeTab(event, 'english-story')">English Story</button> -->
@@ -27,10 +27,10 @@
       <!-- <button class="tab-link" onclick="changeTab(event, 'english-podcast')">English Podcast</button> -->
       <!-- <button class="tab-link" onclick="changeTab(event, 'toeic-600-words')">600 Toeic</button> -->
     </section>
-    <section id="conversation" class="tab-content">
+    <!-- <section id="conversation" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.conversation')">
         <option value="conversation-1">001 → 010</option>
-        <!-- <option value="conversation-2">011 → 020</option>
+        <option value="conversation-2">011 → 020</option>
         <option value="conversation-3">021 → 030</option>
         <option value="conversation-4">031 → 040</option>
         <option value="conversation-5">041 → 050</option>
@@ -49,10 +49,10 @@
         <option value="conversation-18">171 → 180</option>
         <option value="conversation-19">181 → 190</option>
         <option value="conversation-20">191 → 200</option>
-        <option value="conversation-21">201 → 210</option> -->
+        <option value="conversation-21">201 → 210</option>
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
-    </section>
+    </section> -->
     <!-- <section id="english-easier-with-eric" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.english-easier-with-eric')">
         <option value="english-easier-with-eric-1">English Easier With Eric 001</option>
@@ -148,18 +148,13 @@
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
     </section> -->
     <section id="new-vocabulary" class="tab-content"></section>
-    <!-- <section id="ielts-speaking" class="tab-content">
+    <section id="ielts-speaking" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.ielts-speaking')">
-        <option value="ielts-speaking-1">001 → 005</option>
-        <option value="ielts-speaking-2">005 → 010</option>
-        <option value="ielts-speaking-3">011 → 015</option>
-        <option value="ielts-speaking-4">016 → 020</option>
-        <option value="ielts-speaking-5">021 → 025</option>
-        <option value="ielts-speaking-6">026 → 030</option>
-        <option value="ielts-speaking-7">031 → 035</option>
+        <option value="ielts-speaking-1">001 → 010</option>
+        <option value="ielts-speaking-2">011 → 020</option>
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
-    </section> -->
+    </section>
     <section id="ielts-listening" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.ielts-listening')">
         <option value="ielts-listening-1">Cam3 - Test 1 (001 → 004)</option>

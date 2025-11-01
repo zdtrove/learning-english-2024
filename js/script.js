@@ -67,14 +67,14 @@ function getSection(num, id) {
 }
 
 async function loadAllContents() {
-  getSection(1, 'conversation');
+  // getSection(1, 'conversation');
   // getSection(3, 'english-easier-with-eric');
   // getSection(11, 'oxford-online-english');
   // getSection(19, 'english-speaking-course');
   // getSection(2, 'easy-english');
   // getSection(13, 'english-at-work');
   getSection(1, 'new-vocabulary');
-  // getSection(7, 'ielts-speaking');
+  getSection(2, 'ielts-speaking');
   getSection(68, 'ielts-listening');
   getSection(11, 'level2');
   // getSection(2, 'mini-novels');
@@ -82,8 +82,8 @@ async function loadAllContents() {
   // getSection(1, 'english-podcast');
   // getSection(10, 'toeic-600-words');
 
-  document.getElementById('conversation').style.display = 'block';
-  document.getElementById('conversation-1').style.display = 'block';
+  document.getElementById('ielts-speaking').style.display = 'block';
+  document.getElementById('ielts-speaking-1').style.display = 'block';
 
   await initVocabulary();
   const selects = document.querySelectorAll(".audio-change");
