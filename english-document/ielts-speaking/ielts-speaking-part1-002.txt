@@ -1,4 +1,4 @@
-[007] Foreign food
+[011] Foreign food
  
 1. Have you ever tried foreign food?
 Of course! Since Germany welcomes many immigrants and refugees, we embrace a multi-cultural cuisine. Since there are many with Turkish roots living here, we are huge fans of kebab. Moreover, we enjoy many asian cuisines, especially Vietnamese, since there is a large Vietnamese community living here.
@@ -18,19 +18,6 @@ As Germany welcomes many immigrants into our country, I would say yes, since peo
 6. Will people eat more or less foreign food?
 More! Since Germany continues to be one of the most desirable migration destinations in the world, I'm sure that even more foreign cuisines will be introduced into our country. Moreover, I think that the traditional German food may become a fusion with other popular cuisines here. I really look forward to this! I think that multi-cultural foods bring more culture and richness (diversity) to a place.
 
-[011] Sports
- 
-🎧 Do you like to watch sports on TV?
-🎧 Not at all! I despise (hate) it. I get extremely bored and disinterested. I usually try to avoid watching sports on TV at all costs unless it's an exciting event, like the World Cup or Super Bowl. In that case, I go for the social event rather than the game itself.
-🎧 Do you play any sports?
-🎧 Not anymore. I was an avid (enthusiastic) swimmer as a child, but I gave that up after high school, as it was quite time-consuming. Nowadays, I enjoy going to the gym, running around the lake by my house, and going on mountain treks. I'm not sure if these are considered sports, but I'm really into physical activity.
-🎧 Which is the popular sports in your country?
-🎧 Soccer of course! As soccer is the sport of the world, that would be number one. People go wild when our team wins a game- they even drive around waving flags, blocking off the streets! Apart from this, many people enjoy playing tennis and doing martial arts.
-🎧 Who is your favorite sports star?
-🎧 As I'm not a big sports fan, I don't really have one. However, I think I may like Cristiano Ronaldo. Although I don't know anything about him or his athletic abilities, I think I've always been drawn to him (attracted to) because of his looks.
-🎧 What kinds of sports would you like to try in the future?
-🎧 I'm really intrigued by soccer. I think it's something that can really connect people, as well as is good cardiovascular and coordination activity. Actually, I wish I had gotten into it as a child. I think it would be interesting to join a league in my city. 
- 
 [012] Boredom
  
 1. Do you ever get bored?
@@ -44,7 +31,6 @@ I always call my mom! We have an extremely close relationship, so I know she is 
 
 4. When you were young, what would you do if you felt bored?
 When I was young, I would always venture (explore) outside when I was stuck in the house all day. It always kept me entertained to go outside and people watch (sit outside and observe people). Moreover, there was a small pond and park near my house, so I would often go there to play at the playground. The swings were always my first choice.
-
 
 [013] Maps/Navigation
  
@@ -68,7 +54,7 @@ I believe that people will help you in most cases, so I certainly have. I know s
 
 7. What type of maps do people use the most nowadays? Why?
 Google maps or other online maps/GPS have completely taken over (became popular). Nowadays, you don't even need to know where you're going. Since we have these modern day conveniences, less and less people are going through the hassle (inconvenience) of reading a paper map. Furthermore, since GPS and online maps are so popular, perhaps people are losing the skill to read and follow a map.
- 
+
 [014] Teachers
  
 1. Do you like any teachers of yours?
@@ -89,21 +75,134 @@ Oh yes! I remember playing teacher with a small chalkboard my friend had at her 
 6. What qualities should a good teacher have?
 Firstly, I think a teacher needs to be patient. Secondly, I think the teacher must be kind and encouraging, which creates a warm, open learning environment. I also think they should have interpersonal skills to be able to understand the needs of all different students. There are different kinds of teachers, but I would use this as rule of thumb (a general rule).
 
-[012] Physical Exercises
- 
-🎧 Do you do any physical exercise?
-🎧 You could call me a couch potato (a lazy person who sits on the sofa a lot. "Couch" is another word for sofa). I'm naturally thin without any exercise, so I'm quite lazy when it comes to exercise. I do go for mountain hikes, but I should definitely do more to gain muscle.
-🎧 Do young people in your country like to do exercise?
-🎧 Gyms are not very popular in my country because of the cost, but I would say that people get their fair share of exercise everyday because of the hills in the city. Many people climb a mountain to their home every single day! I used to live in a house that was unreachable by car and a total of 200 stairs to get there!
-🎧 Do you think people are keen on doing physical activity? Why?
-🎧 Well, I think they are quite accustomed to it. I don't think they would be too keen on going to the gym, but they really enjoy going on mountain hikes. Since our religion is based upon the Mother Earth and the Mountain Gods, these treks are a spiritual journey.
- 
-[013] Drinking Water
- 
-🎧 How often do you drink water?
-🎧 Well, everyday of course! Staying hydrated (provide water for someone to keep them healthy) is a priority for me since I easily get a headache if I don't, not to mention my weight loss goals. Drinking enough water is of paramount importance for health.
-🎧 What kind of water do you like to drink?
-🎧 All different kinds; I'm not too picky (selective)! I either drink tap water that I put in a Brita filter, or bottled water from time to time (sometimes). I usually put water in my refillable water bottle and carry it around me with me all day.
-🎧 Do you drink bottled water or water from water machines?
-🎧 Bottled water. Since the water in my country is potable (drinkable), I usually opt for that with a filter to improve the flavor. If this isn't available to me, I buy a bottle of water, although I prefer not to because of my environmental concerns.
- 
+[015] Punctuality/Time Management
+
+1. How do you organize you time?
+I often prioritize things that matter to me most, in the order of urgency and importance. Usually, I often spend the evening planning out what to do the next day.
+
+2. Do you think young people organize their time in the same way?
+No, it depends on each individual. Some prefer to have no plans at all as they can improvise quite well no matter what situations. For me, I always plan out my schedule in advance as I'm a safe guy/girl and don't want to take risks.
+
+3. Are you ever late for anything?
+Yes I had a few times late last week for work, but I didn't get into big trouble because most of the time I was early.
+
+4. How do you feel when you are late for an appointment?
+I really don't like to keep others waiting. I feel very apologetic and guilty of not being punctual. Usually I'm late because I'm trying to fit too many things into my schedule.
+
+5. Do you like to wear watches?
+Well, I am more a cosmetics girl than clothing and accessories, hence, there are not many watches and jewelries in my possession. However, I have nothing against wearing a beautiful piece of art on my wrist and do own a few exclusive timepieces which suit perfectly with my clothing on some special occasions, giving me a sense of identity and uniqueness.
+
+[016] Watches
+
+1. Do you usually wear a watch?
+As I'm a very punctual person, yes I do. I like to be able to quickly check my wrist instead of going through the hassle (inconvenience) to check it on my phone. Furthermore, I like the way they look!
+
+2. Where did you get your watch?
+A thrift store near my house. Since I didn't want to splurge (spend a lot of money for luxury) on a new Rolex, I bought a vintage one that I found. Actually, I like it more since it's unique! I really enjoy thrift store shopping since you can find high quality for low prices.
+
+3. What kinds of watches do you like to wear?
+High quality yet reasonable prices. I'm not the type of person who likes to have the same watch that everyone and their brother (an expression meaning everyone)has, so I really enjoy when I find unique pieces. With this said, I often go to vintage or thrift shops.
+
+4. Why do some people like to wear expensive watches?
+Well, I think there are 2 reasons. One is that it is a status symbol (something that shows your economic class). They know that if someone catches a glimpse (a quick look) of their watch, they will know that he/she has money. Furthermore, perhaps they really like to appearance of it or they are the type of person who likes high quality products.
+
+5. Have you ever received a watch as a gift?
+Not since I was a child. I remember my mother gave me a pink, shiny digital watch for my 11th birthday and I was ecstatic about it! I wore it everyday at every moment till I went swimming with it on one day and broke it. 
+
+[017] Parks/ Public Gardens
+
+1 Are public gardens very important in your country?
+Yes, absolutely. This is simply because people can enjoy a great time with their friends or families in public gardens via some activities like going for a stroll or looking at the beautiful flowerbeds.
+
+2. Are there many public gardens in your country?
+Not much I have to say. People tend to be so tied up at the workplace or at school, therefore, there is no need to have many public gardens, from the government's perspective.
+
+3. Do you think there are enough public gardens in your hometown?
+I think it's pretty enough as I am more concerned about the quality rather than the quantity. And most of the public gardens in the place where I am living, which is also my hometown, offer me a great experience you know, looking at the beautiful plants and flowers every time I tire myself out.
+
+[018] School
+
+1. How old are you when you started school?
+Well, to the best of my recollection, I attended kindergarden at the age of four. And then when I turned six, I entered primary school.
+
+2. Where did you go to school?
+I lived on the outskirt of town ages ago, so I entered a primary and secondary school in my little town. But when I got into high school, my parents decided to move to live in the city so that I could study in a more prestigious school with modern facilities.
+
+3. How did you get to school each day?
+My school was within walking distance so I just walked there. My parents also bought me a bike so that I could get to the school easily, but I preferred to go by foot as a means of taking exercises to strengthen my lower body.
+
+4. Did you enjoy it?
+Yes, for sure. Unlike some of my friends who had aversion to school and just wanted to play truant from school, I just really loved to go to school everyday. Maybe the reason is that I was eager to learn new things from my teachers and friends.
+
+5. Have you ever returned to see your old school again?
+Yes, once in a while when I was off from work and back to my hometown, I paid a visit to my old school as well. It reminds me of sweet memories when I was still a naughty kid who liked to pull other's leg.
+
+[019] Work/Study
+
+1. Describe your education
+I graduated from High School for the Gifted and got into an International University because I think 2-year study at this university would prepare me well, especially my critical thinking skills before I finish another 2 years abroad at the University of Nottingham.
+
+2. What is your area of specialization?
+My major is Plant Biotechnology. I have been into Biology since I was in high school and I think a shift to a field where Biology and advanced technology are associated would be interesting and promising for my future career.
+
+3. Why did you choose to study that major?
+There are many reasons for my choice. As I've already explained about my long-term interest in Biology and plants, another reason could be because of science itself, since I've found my personalities have changed in a positive way, you know, like I've become more patient and skillful.
+
+4. Do you like your major? (Why?/Why not?)
+To tell you the truth it was quite challenging for me at first, because the university's requirements are especially high and you know science itself highly demands skillful hands and curious mind. However, as time goes by I think I'm getting used to an insurmountable amount of pressure and actually enjoy my study.
+
+5. What kind of school did you go to as a child?
+Well just like most of the pupils, I spent five years at the government's primary school. It took me only 10 minutes to go to school and I had my parents take me to school everyday. Classes start at 7 in the morning and end at 5 in the evening.
+
+6. What was your favourite subject as a child?
+To tell you the truth, I was quite good at Literature back then. Besides, my Literature teacher was really dedicated and caring, thus I always tried my best to get high score and impressed my teacher. 
+
+7. (Possibly) Are you looking forward to working?
+To be honest, working is actually my plan B just in case I need to make ends meet. In the future I think my higher degree is my priority. 
+
+8. What do you do?
+For the past few months I've been working for The Guardian as a news editor. In fact this is my first job ever, I'm working really hard to contribute to the success of this prestigious newspaper.
+
+9. What are your responsibilities?
+As a part-time editor, I am responsible for editing news related to different current affairs as well as collecting information for the newspaper edition.
+
+10. Why did you choose to do that type of work (or, that job)?
+I guess it's mainly because of the job flexibility & my passion for journalism. To be more specific, this job offers me alternatives to the typical nine-to-five work schedule, enabling me to find a better balance between work and life. Besides, this job gives me opportunities to pursue my dream to become a journalist down the road. 
+
+11. Is there some other kind of work you would rather do?
+At present I don't think I'm able to dedicate myself to any other job rather than this one. In fact, to me it's the experiences and opportunities I can gain that really matters.
+
+12. Describe the company or organization you work for.
+The Guardian is a National British daily newspaper which offers free access both to current news and an archive of three million stories. In April 2011, MediaWeek reported that The Guardian was the fifth most popular newspaper site in the world. I personally believe that the guardian is the inspirational workplace for all people who dream of becoming a journalist.
+
+13. Do you enjoy your work?
+Most of the time. Contributing to the news production for a world-class newspaper gives me a sense of satisfaction and pride. 
+
+14. What do you like/dislike about your job?
+Well the perk of being a news editor is that you'll surround yourself with inspiring news on a daily basis. What I don't like about this job is that I have to do a thousand edits to get the final one to meet the requirement of my boss. Sometimes I feel a bit overloaded with tons of tasks. 
+
+15. (Possibly) Do you miss being a student?
+I surely will miss my student life once I get involve in the workplace. For me I think when I'm a student, at least I have someone guide me, whereas at work mostly you must guide yourself. The academic environment appears to be a comfort zone for me, while I'm sure I'll struggle with fitting in the working environment. 
+
+[020] Travel
+
+1. Do you like to travel by air?
+Certainly! It's the quickest and most efficient way. I would choose this over a 12+ hour bus or car ride any day! Furthermore, whenever I set foot on (enter; step into) a plane, I tend to feel sleepy and end up drifting off (sleep) for pretty much the entire flight.
+
+2. What do you think about travelling to the outer space?
+I think it's quite intriguing, as I believe that other life forms may exist. Moreover, it's fascinating to find out more about the other complex galaxies surrounding us. I believe there is much more to the universe than only Earth.
+
+3. Do you want to travel to the space?
+Yes, of course! I would be really interested to see what else it out there. I'm not sure if this would happen in my lifetime though. However, I've heard that one day we may be able to take trips to space. I think it's a possibility! The future never ceases (fails) to amaze me.
+
+4. Who would you like to go with?
+At this point in time, I can just imagine going alone with a specialized person. Down the road (in the future) I could imagine going with my partner, and perhaps my children as well. I would love for all of us to share this experience together.
+
+5. What would you prepare on a trip to the outer space?
+Definitely appropriate astronautical gear, as I've seen in pictures. Furthermore, I would like to bring some kind of camera or video to be able to show my friends on earth what I saw. Lastly, I would like to bring some kind of gift from earth just in case I came across (encountered by accident) another life form there.
+
+6. Where would you like to go to?
+The moon or mars! I would say the moon because I'm interested to know what it feels lie to walk on it. I'm also curious if the myth that it's made out of cheese is accurate. On the other hand, I've heard there is water on Mars, suggesting that there could be life there, so I'd be fascinated to investigate that firsthand.
+
+7. Do you think it's necessary to see other planets?
+I would say it's a luxury more than a necessity for average people. However, I think it's necessary for scientists to investigate other planets so that we have better research and understanding of what is going on around us. Lastly, it's good for us humans to realize that Earth isn't the only planet. 
