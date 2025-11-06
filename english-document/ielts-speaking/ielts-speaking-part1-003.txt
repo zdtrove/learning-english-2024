@@ -1,31 +1,264 @@
-[000] Sports
- 
-🎧 Do you like to watch sports on TV?
-🎧 Not at all! I despise (hate) it. I get extremely bored and disinterested. I usually try to avoid watching sports on TV at all costs unless it's an exciting event, like the World Cup or Super Bowl. In that case, I go for the social event rather than the game itself.
-🎧 Do you play any sports?
-🎧 Not anymore. I was an avid (enthusiastic) swimmer as a child, but I gave that up after high school, as it was quite time-consuming. Nowadays, I enjoy going to the gym, running around the lake by my house, and going on mountain treks. I'm not sure if these are considered sports, but I'm really into physical activity.
-🎧 Which is the popular sports in your country?
-🎧 Soccer of course! As soccer is the sport of the world, that would be number one. People go wild when our team wins a game- they even drive around waving flags, blocking off the streets! Apart from this, many people enjoy playing tennis and doing martial arts.
-🎧 Who is your favorite sports star?
-🎧 As I'm not a big sports fan, I don't really have one. However, I think I may like Cristiano Ronaldo. Although I don't know anything about him or his athletic abilities, I think I've always been drawn to him (attracted to) because of his looks.
-🎧 What kinds of sports would you like to try in the future?
-🎧 I'm really intrigued by soccer. I think it's something that can really connect people, as well as is good cardiovascular and coordination activity. Actually, I wish I had gotten into it as a child. I think it would be interesting to join a league in my city. 
+[021] Shoes
 
-[000] Physical Exercises
- 
-🎧 Do you do any physical exercise?
-🎧 You could call me a couch potato (a lazy person who sits on the sofa a lot. "Couch" is another word for sofa). I'm naturally thin without any exercise, so I'm quite lazy when it comes to exercise. I do go for mountain hikes, but I should definitely do more to gain muscle.
-🎧 Do young people in your country like to do exercise?
-🎧 Gyms are not very popular in my country because of the cost, but I would say that people get their fair share of exercise everyday because of the hills in the city. Many people climb a mountain to their home every single day! I used to live in a house that was unreachable by car and a total of 200 stairs to get there!
-🎧 Do you think people are keen on doing physical activity? Why?
-🎧 Well, I think they are quite accustomed to it. I don't think they would be too keen on going to the gym, but they really enjoy going on mountain hikes. Since our religion is based upon the Mother Earth and the Mountain Gods, these treks are a spiritual journey.
- 
-[000] Drinking Water
- 
-🎧 How often do you drink water?
-🎧 Well, everyday of course! Staying hydrated (provide water for someone to keep them healthy) is a priority for me since I easily get a headache if I don't, not to mention my weight loss goals. Drinking enough water is of paramount importance for health.
-🎧 What kind of water do you like to drink?
-🎧 All different kinds; I'm not too picky (selective)! I either drink tap water that I put in a Brita filter, or bottled water from time to time (sometimes). I usually put water in my refillable water bottle and carry it around me with me all day.
-🎧 Do you drink bottled water or water from water machines?
-🎧 Bottled water. Since the water in my country is potable (drinkable), I usually opt for that with a filter to improve the flavor. If this isn't available to me, I buy a bottle of water, although I prefer not to because of my environmental concerns.
- 
+1. Do you like shoes?
+Yes, of course! I'm quite a girly girl (very feminine), so I've always been into shoes since I was a little girl. My mother used to catch me trying on her high heels in her closet! Moreover, I'm a fashionista (a person who likes fashion) so I feel that shoes really tie the whole outfit together.
+
+2. How often do you buy shoes?
+Mm I would say every couple months. I'm trying to save up for a new car right now, so I don't like to spend too much unnecessary money. With this said, I usually buy a new pair at the start of every season.
+
+3. Do you like to wear shoes that are comfortable or good looking?
+Definitely good looking, hopefully comfortable too! I care much more about the appearance and if they complement my outfit. However, I try to buy nicer brands so that more comfortable should be expected. Moreover, many comfortable shoes are often unattractive, like Crocs for example.
+
+4. What is your favorite type of shoes?
+High heels 100%! I feel that they really tie the whole outfit together. Moreover, I feel feminine when I wear them, not to mention that they accentuate my legs. I have spent several years getting used to them so I can now strut my stuff (walk confidently) in heels everywhere I go!
+
+5. Why do some people have too many shoes?
+Well, there could be various reasons. I think one is that perhaps they see shoes on sale so they buy them on a whim (buying something without thinking about it), even if they don't need them. Moreover, some people are really into shoes so they like to collect them. Lastly, maybe they keep their old shoes so their collection keeps growing.
+
+6. Have you ever bought shoes online?
+Of course, although I don't prefer it. I have only bought shoes online from familiar stores, like Aldo and Zara, which I know fit me well. On the other hand, I don't like to buy shoes from new stores when I'm not able to try them on first.
+
+7. Are people willing to buy expensive shoes?
+Some people! I think people who are wealthy are more apt to (likely to) buy expensive brands. On the other hand, there are some people who would rather have a few quality items rather than a bunch of cheap quality pairs. So, I think this type of person often tends to buy more expensive shoes also. 
+
+[022] Rain
+
+1. Does it rain much in your country? (Where? When?)
+I would say yes. It rains a lot in the summer when tropical storms strike our country. There is torrential rain in the region in June, July and August, and the rainfall tends to be higher in the North than in the South.
+
+2. Is there any part of your country where it doesn't rain much?
+To tell you the truth, I have no clue about this. I do not give a hoot about geography and the amount of rain in my country. I think the most rainfall is in the North where there is an intricate system of rivers.
+
+3. Does it rain a lot in your hometown?
+Well, it depends on the season. In winter and spring, there is a dearth of rain associated with the arid weather. In contrast, it is usually raining cats and dogs in summer and august, causing loads of troubles for people travelling on the road.
+
+4. Can you remember any time when it rained particularly heavily in your hometown?
+That would be last summer. I was going to work and then all of a sudden it started to rain, followed by a deluge. I was soaked to the skin and couldn't attend a very important meeting.
+
+5. Does rain ever affect transportation in your hometown?
+Yeah, of course. Traffic is often held up when it rains. All the roads are clogged, and people find it difficult to escape from traffic congestion. I would stay at home and watch TV rather than going out and being caught up in traffic.
+
+[023] Letters / Handwriting
+
+1. Do you like to write a letter or an email?
+Due to time constraint and professionalism, emails are much more favorable than traditional handwritten correspondence. However, I still enjoy the sophistication and artfulness of handwritten letters since each one is unique and intensely personal. Therefore, unless in business context, I usually send written notes or invitations for my friends and family for their intimacy.
+
+2. Do you think emails are useful?
+Obviously yes. It's one of the most primary tools in business communication as well as personal correspondence. On the business front, emails are immediate, direct and efficient for both internal and external communication. Parties can send and receive inquiries or contracts in the matter of seconds, which helps keep the flow of information and business process going.
+
+3. Who do you usually write to and what do you write about?
+I write to my family, and to my friends; we keep each other posted about our lives and work, and also we have heart-to-hear talks about our opinions and feelings.
+
+4. What sorts of letters (or emails) do you think are most difficult to write?
+In my opinion, complaint letters are one of the toughest pieces of writing because of the discomfort they may cause. Since I'm an easy-going and conflict-averse person, I don't usually complain when I should, whether it's a poor service experience or product. Hence, writing a formal letter of complaint is even more difficult, especially when I have to carefully choose my words and tones so it can be less critical and more constructive.
+
+5. Do you think email might one day replace handwritten letters?
+Regarding the widespread use of emails in modern communication, it's understandable that some might think handwritten letters could be completely replaced one day but I don't. Since handwriting is the most primal tool of human interaction and closely connected with cultural identity, it would be preserved and promoted. Besides, many have preferred handwriting in more personal notes or letters since it can express how special the recipients are.
+
+6. How do you feel when you receive a letter or email?
+I will be very glad to receive a letter or email, because it means that there is someone who cares for me and sends me something for greetings, or if they have something to discuss with me, I am also pleased to reply to them.
+
+7. Who do you usually write to and what do you write about?
+I write to my family, and to my friends; we keep each other updated about our lives and work, and also we have heart-to-heart talks about our opinions and feelings.
+
+[024] Daily Routine
+
+1. Do you like to plan what you will do each day?
+So far, planning has become one of my unbreakable habits. The more I get older, the more I learn about the importance of planning ahead even though I have just started this lately. Every night before I go to bed, I would make a todo list for the following day, then scan through my monthly planner for any upcoming events such as deadlines, meetings or travel trips. Such organizing activity has helped ease my life.
+
+2. Please describe your typical daily routine
+A typical day of mine starts at 8 am. After waking up, I would just go for some basic getting-ready steps just like other girls. On weekdays I usually have classes so I would leave home at around 8.45 am to be there on time. After classes, I have lunch and go straight back home for some rest as I find morning classes are quite overwhelming. Meanwhile, on weekends when I don't have classes, I would spend my morning on assignments. In the evening I would do some workout, take a shower and then cook dinner with my friends in order to supply oursleves some healthy foods and save money on a budget. I also eat out sometimes if we're both busy or we run out of food. After I finish my dinner, I check my planner and get myself back to work. Additionally, as I'm not a night owl, I try to manage my time as efficiently as possible until around 12 am. Before I brush my teeth and go to bed at around 1 am, I would scan through my planner for what to do on the following day and maybe listen to some relaxing music and do some meditation.
+
+3. What do you usually do at this time of day?
+As usual I would still be working on my assignments. I always spend loads of time and efforts on researching for materials, organizing ideas and writing a number of drafts as I always aim to get good marks. Between duration of hard work when I find myself quite drained out, I take a 15-minute break to go online, drink some water or listen to some music to refresh my mind.
+
+4. Do you usually do the same things at the same time each day?
+Well I guess I would say repeating similar things everyday is not my lifestyle. A meaningful life to me is when I can balance between my personal life and my social life. What I mean is, I always seek for opportunities to see, interact and maybe involve in other perople's lives to open my mind and learn great things from them. Thus, instead of studying, I would love to spend some evenings or nights, either outdoor or indoor, with my family and friends. Besides, I also  participate in social activities held by my university. I believe that this is the right time for the young generation like me to discover the outside world.
+
+5. How do you organize your study time?
+Maybe because I am very keen on study, I keep studying as a daily routine. Normally I start after lunch or dinner everyday and try to finish it before midnight. However, sometimes it appears to be so boring for me, after I go out and have fun, I would either stay up late or wake up early in the morning to study depending on how tired I am.
+
+6. Do you ever change your plans?
+Well I guess I have to say I've changed my plans a number of times actually. Beside those events such as appointments, meetings or travel trips could barely be put off, I tend to be flexible and go with the flow. Some people who manage their time exactly to every minute but that's just not my style. If I feel changes do not significantly alter other activities, I would just go for it.
+
+6. Do you ever change your plans?
+Well I guess I have to say I've changed my plans a number of times actually. Beside those events such as appointments, meetings or travel trips could barely be put off, I tend to be flexible and go with the flow. Some people who manage their time exactly to every minute but that's just not my style. If I feel changes do not significantly alter other activities, I would just go for it. I guess I would definitely have to change my routine once I jump into the workplace, especially if I work in an office. I think I firstly have to get myself used to unchangeable events, then manage myself to adapt to the new working environment, as I am actually not good at dealing with changes. 
+
+[025] Friends
+
+1. How often do you go out with your friends?
+Well, I'd say that I hang out with my friends on a weekly basis. We often gather at a coffee shop or movie theater to share moments together. To tell the truth, I can't live without my friends.
+
+2. When was the last time you went out with your friends? & What did you talk about?
+Well, it was last week when we threw a party at my close friend's house to celebrate her birthday. We had a whale of time at the party and didn't want to go home at all. So, we decided to stay and had a chit-chat all night about our favorite topics like shopping, travelling, etc.
+
+3. What is fashion among teenagers?
+Probably, many teenagers now are slaves to fashion and never stop keep up with the latest trends in fashion. Most teenage boys and girls show a big preference for clothing styles just like those from their idols, especially worldclass singers and actors.
+
+4. Do you think friends are important in your life?
+Sure, they play an important role in my life. I agree that friends are your relatives chosen by yourself. My friends accompany me when I am going through ups and downs. I think your happiness will be doubled and sadness will be halved if they are shared by your friends. In addition to that, good friends offer me valuable suggestions when I feel lost.
+Or:
+Well, honestly, besides my family, my friends play an important role in my life. With them, I am able to share all the problems that I find difficult to talk to my parents. They're also the ones who I can trust and enjoy the most beautiful moments of my youth.
+
+5. What does friendship mean to you?
+I think friendship is a necessary part of life. Friendship, in my opinion, means you have somebody who can share your happiness and pain. Friends are those whom you feel easy with. They are always your good listeners. And they are the people you can discuss the interesting issues with.
+
+6. What is the best part of being a teenager?
+The teenage years are the most dynamic stage of life since teenagers really hang out a lot with their friends. You can also date with your beloved friends, and enjoy the freedom you have. There's no need to worry about your job, money and teenagers simply enjoy their life to the fullest.
+
+7. What qualities do you value in your best friend?
+Honesty and faith, l think, are the most important. We needn't agree on everything , but we can trust each other totally. I don't like being with a person who always tells lies. It's too boring to judge all the time whether he is telling the truth or not. If I go astray he will point it to me frankly without hesitation. I don't like the friends who often flatter me. In fact they are not real friends.
+Or:
+Well, it's hard to say anything. Though making friends is easy, maintaining that relationship is much harder. Therefore, I think my best friends are those who should be honest and sympathetic because I am a kind of person that prefers the truth and easily get affected my emotions.
+
+8. How do people make friends with others? How do you make new friends?
+Besides being classmates and colleagues, I think the most common way to make friends is through other friends. It is especially true for people like me, because I am introverted and not used to introducing myself to strangers. In addition, with the development of the Internet more and more young people enjoy making friends online.
+Or:
+Let me see, I come from a country which is agricultural, so it means that the people are very friendly and warm-hearted. In my country, it is very easy to make friends just by saying hello to someone, then asking about other's health. Sometimes, just a smile can bring people close to each other.
+
+9. What are the differences between adults and children in making friends?
+I think children make friends just for playing together. If they can play with each other, they will become good friends. A toy or a candy can make them become friends. Their friendship is rather pure. But of course they are likely to break up easily and make up again. When they grow up, they will not make friends very readily. Adults choose friends more cautiously. And they may have many kinds of friends, such as business partners, colleagues. The friendship has some profits or advantages for them.
+Or:
+Well, this question is such an interesting one. In fact, adults and children do have a difference in making friends owing to their age and their interests. While adults prefer friends who have the same jobs and goals in life, children make friends as they simply want to find someone who can play and have fun with them.
+
+10. Where do young people usually meet in your city?
+Well, it's difficult to say because there are many good meeting places in my city, like cafes, cinemas or parks. As far as I am concerned, I usually meet my friends in the cafes. They have comfortable seats and pleasant background music. We can chat without being disturbed while enjoying a cup of coffee or juice. If the weather is fine we will go to the parks. It is agreeable to sit on the bench near the lake, enjoying the pleasant scenery far away.
+
+11. Have you made any friends on the Internet?
+Yes, I'm keen on surfing the Internet, especially chatting with others on Facebook. I have made many friends via the Internet. In my opinion, they are not different from other friends of mine. We know each other's personal information and trust each other. We often discuss something we are both interested in. The only difference is that we meet online but not in real places
+
+12. How can you keep in touch with your friends if you two are not seeing each other frequently?
+Everything becomes easy with modern technology. We call each other or send messages. Sometimes we chat online and even see each other on the screen with the help of a small camera. We often send pictures and letters by Internet as well.
+
+13. Do you prefer to spend time with friends or alone?
+To me, friends are the best thing that I've ever had, so whenever I am free, I usually would like to spend time with my beloved friends. We often hang out at the coffee shop in the weekends, gossiping about our daily issues.
+
+14. Do you have many friends?
+Oh, many friends? I am a kind of person who is fun-loving and outgoing. Therefore, that I have many friends is just a matter of time. I have my friends, most of whom are my classmates from my high school and my university. We find it very exciting to be friends for such a long time.
+
+15. Do you like meeting new people?
+Honestly, I am a kind of person who is very reserved and quite, so I prefer meeting my acquaintances rather than try to make new friends. I don't like meeting new people since I have to start all the things to get to know those and balance the new relationship, which takes a lot time and efforts.
+
+16. What kind of friend do you want to meet in the future?
+In the future? Oh well, I prefer making friends who are better than me both in general knowledge and soft skills. Therefore, in the future, I would like to meet friends that may set the same goals as mine in their careers and in their lives. Besides, those who master in English do catch my attention a lot since English is my favorite language.
+
+[026] Weather
+
+1. What do you like to do when the weather is great?
+I'd love to participate in some outdoor activities like meeting up with some friends or do some sports, especially swimming. Or I'll grab the chance for a photography tour. Everything becomes so clear and stunning on sunny days, no matter it's early in the morning or late in the afternoon, as long as the sun shines, I'm sure I'll find inspiration almost everywhere.
+
+2. Would you like to stay at home or go outside when the weather is great?
+It's recommended that people should spend more time outside for both physical and mental benefits and there's no reason not to, especially when the weather is great. I usually get out of the house for a walk or short break just to enjoy the fresh air. It's also a really helpful tactic to boost creativity and regain focus after long working hours.
+
+[027] Music
+
+1. Do you often (like to) listen to music? Or Do you like listening to songs?
+So far I haven't met anyone who dislikes listening to music. However, when the workload is too heavy that requires me to stay highly focused, music is a huge distractor. Unlike many people who like listening to instrumental music because it highly benefits for their concentration and study, in my case the music makes me feel instantly sleepy.
+
+2. When do you listen to music?
+Well, music is essential to human in the whole world so I'm no exception. I usually listen to cheerful music when I need motivation while sad music is my go-to choice during emotional days.
+
+3. How much time do you spend listening to music every day?
+As I've mentioned I prefer working in silence. To put it simply, no music is allowed during my working hours. After a long day at school, I probably want to chill out for like half an hour with music to help me stay energetic so I can get back to work later.
+
+4. What kinds of music do you like to listen to? Or What's your favorite kind of music?
+My music taste varies widely from West to East and from the 90s to modern EDM. But if Korean pop is considered as a kind of music, then yeah, that's my favorite of all time. More than half of my playlists are Korean songs and I always keep myself updated with the news related to Korean showbiz.
+
+5. Have you ever been to a concert before? Or Have you ever been to a musical performance?
+Once in a blue moon I attend a concert, since the ticket price for foreign artists' concerts is so out of my reach that I can only stay home and watch online. It was 2014 that I finally did go to a concert on my own, obviously it was an international music concert. It was absolutely mind-blowing and unforgettable for me.
+
+6. Do you like to listen to live music?
+Unless it's live at a coffee shop, where literally there are only you and music, then yeah I would love to. But I would change my mind if it's a concert. The crowd is too crazy. It's completely a mess that most of the time I end up having serious dizzy and headache.
+
+7. When did you start listening to this type of music?
+Since the day a friend of mine introduced her favorite group to me. She couldn't help herself talking on and on about them that I thought I somehow needed to catch up with her. And the more I know about Korean pop, the more passionate I've become.
+
+8. Where do you listen to it?
+Almost everywhere, except for classroom. It's the golden era of mobile devices, everyone carries earphone and phone with them all the time, music therefore is on their fingertips.
+
+9. How do you feel when you listen to this music?
+Well I'm a type of person whose mood is easily affected by what I'm listening to, thus as the music changes, my mood also fluctuates. But most of the time, listening to some music helps me pick up my energy and chill a bit.
+
+10. Have you ever learned to play a musical instrument?
+I learned to play the organ when I was in kindergarten. It was quite funny because I started out as one of the performers, then my teacher told my mom that I had better play the organ instead of performing, so I became her trainee and it continued for around 4 to 5 years until I was 10.
+
+11. Is music an important subject at school in your country?
+Music is one of the compulsory subjects for primary and secondary students in my country. However, mainly singing is focused. We can also add some movements to make the songs more lively. Only those who are selected for the big performances are allowed to use musical instruments.
+
+12. Did you often listen to music when you were a child? (If yes give details.)
+Since my parents are music-lovers and they also have very good tastes, I was exposed to the old kinds of music at a very young age. Sometimes my mom sang me to sleep with her lullabies. Although I can't get the message at that time, my mom said that I buoyed up when listening to them.
+
+13. What kinds of music are (most) popular in your country?
+Beside pop music, the young generation nowadays expose to a number of different types of music. It is indeed difficult to tell which is the most in demand, since from my point of view each type has roughly the same popularity. But I guess pop music is the most sought-after now. At least I've never met someone who completely doesn't know a single pop song.
+
+14. Do you like traditional songs?
+Well, it's easy for me to name some traditional songs, some of which are even quite familiar to me. But to be honest, I think I'm not that into this kind of music. 
+
+[028] Gifts
+
+1. What is your favourite gift?
+I received lots of gifts from my relatives and friends, among which I show a great preference for the bicycle best. It's a birthday present from my parents when I was ten, and it's rare to have a mountain bike at that time. I used to ride it to school and it makes my life more at ease.
+
+2. Do you often give gifts to people?
+Yes, I really love giving people gifts as they are always so happy and thankful and it is such a good feeling. Even something small pleases anyone.
+
+3. What was the last gift you received?
+A lovely watch, but the sentimental value counts even more. I was very pouched by her thoughtfulness. My girlfriend gave me a watch a few weeks ago because she thought I'd like it. It's The last gift I received was a birthday present of some kind. I don't recall exactly.
+
+4. When considering a present to give to someone, how do you select this gift?
+It can be pretty tricky trying to find the perfect gift, especially if the recipient is already well-off. You can get clues by listening closely to their needs, and try to guess what they'd like based on their hobbies and interests.
+
+5. Have you ever received a gift that you didn't like?
+Well, I haven't received any gift I dislike, but I do have gifts I pile up for years, such as soft toys, I'm not into soft toys so much as other girls, and I have about twenty toys in various types in stock.
+
+6. Do you prefer receiving a gift or giving a gift?
+I prefer receiving a gift. For giving a gift, I need to consider the interest of the recipient, and sometimes it may not be accurate, so it is not that easy to send gifts. But for receiving a gift, you can make up your own mind if you like it or not.
+
+7. Do you think it's difficult to choose what gift to give to people?
+Of course, it is very different to choose gifts for people. Everyone is different I need to consider the interest of the recipient, and sometimes it may not be accurate, so it is not that easy to send gifts. But for receiving a gift, you can make up your own mind if you like it or not.
+
+8. What were the gifts you sent to others recently?
+I sent to my friends some cosmetics such as the eye shadow makeup or the daycare cream. Besides, I also sent one of my friends a blue bag that is very cute, and she liked it very much.
+
+[029] Family Activities
+
+1. How often do you meet with your family?
+Well, because all of us are fully occupied with our schedule, we don't see each other during daytime. In the evening we'll have dinner and watch TV together and talk about our day. I think in the future if I'm ever able to move out, I'll try to set aside time to visit my parents at least twice a week.
+
+2. How do you spend the time with your family?
+We'll have a delicious big dinner together with scrumptious food prepared by my mom. After we have dinner at around 7 o'clock, we'll watch the news, have some chat with each other or huddle together to play cards. It's a precious time when we can momentarily get away from the hectic whirlwind of daily activities.
+
+3. Do you want to live with your family in the future?
+I think probably not. It's better for me to try to start an independent life as a grown-up. However, I still have the responsibility to tak good care of my parents that I'll make time to visit them at least twice a week.
+
+4. What activities do your family like doing together?
+Well, as I've mentioned we usually have dinner together. Besides, on weekends, we would love to eat out or get outdoor. Sometimes we have a family trip to the beach to enjoy ourselves on the day that all of us are free from work.
+
+5. What activities did your family do when you were young?
+From my recollection, when I was knee high to a grass hopper, my family often went on a picnic together. On that occasion, we would prepare slap-up snacks to bring along and sit together to com . Such family activity did really strengthen the bonds between us.
+
+5. Are you close to your family members?
+My parents are quite traditional that they try to form a strong bond between all of the family members. They take good care of my brother and me and guide us in some of our life aspects.
+
+6. How has your family influenced you?
+Although my parents are traditional, they try to become my friends, by helping me and encouraging me without forcing me to live up to their expectations. They also imprinted on me proper principles like moral values, respect, humbleness, patience, diligence, etc. I think my family shaped who I am now. I'm deeply thankful for having such a wonderful family.
+
+[030] Politeness
+
+1. Do you think you are a polite person?
+I would say yes, but I think that manners depend on the country. Here in Denmark, it's impolite to strike up a conversation with someone in public, as you may be disturbing them. On the other hand, it's seen as rude to be unfriendly and not acknowledge others in other countries. However, I consider others, so yes I would say I am a polite person.
+
+2. Who taught you about politeness when you were a child?
+My mother. She constantly reminded me to say please, thank you, and to greet guests that came into our home. Moreover, she was very particular about table manners and using utensils correctly. I could not get away with (be allowed to) talking with food in my mouth or eating with my hands.
+
+3. Are we less polite with members of our families than with people we don't know?
+I agree, because we feel more comfortable with family. Moreover, we often take family for granted and fail to thank them for all they do for us. However, when we meet someone we don't know, we are less likely to tell them our true opinions and are always careful not to offend them.
+
+4. Why should people be polite?
+We feel better and they feel better! When we know we are treating people in a respectful way that doesn't cause harm, we tend to feel better. When they are treated this way, I imagine they feel the same. Furthermore, all countries have different etiquette so we should consider this to not offend them.
+
+5. In your country's culture, how do you show that you are being polite?
+We show politeness by saying please, thank you, respecting the environment, and trying our best not to disturb others. We shouldn't be overly loud and obnoxious (causing attention to yourself) and should never be late. Also, when we are invited to someone's house for a meal, we should bring a gift, like a dessert, flowers, or wine.
+
+6. Have there been any changes in politeness in the past few decades?
+I would say so. Nowadays, there's a lot less emphasis on respecting the elders. We no longer have to Sir/Ma'am, etc. Moreover, people are beginning to not even acknowledge you when you enter a social circle. Furthermore, chivalry (men being gentlemen) is becoming to die and it isn't frowned upon for women to use curse words anymore.
