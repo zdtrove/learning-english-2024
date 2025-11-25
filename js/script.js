@@ -33,6 +33,7 @@ function activeFirstItemSection(sectionClass) {
     'ielts-listening',
     'level2',
     'toeic-600-words',
+    'toeic-2000-words',
     'oxford-online-english',
     'mini-novels',
     'english-story',
@@ -74,6 +75,7 @@ async function loadAllContents() {
   // getSection(2, 'easy-english');
   // getSection(13, 'english-at-work');
   getSection(1, 'new-vocabulary');
+  getSection(2, 'toeic-2000-words');
   getSection(6, 'ielts-speaking');
   getSection(69, 'ielts-listening');
   getSection(11, 'level2');

@@ -16,6 +16,7 @@
       <!-- <button class="tab-link" onclick="changeTab(event, 'english-easier-with-eric')">English Easier With Eric</button> -->
       <!-- <button class="tab-link" onclick="changeTab(event, 'oxford-online-english')">Practice English</button> -->
       <button class="tab-link active" onclick="changeTab(event, 'ielts-speaking')">IELTS Speaking</button>
+      <button class="tab-link" onclick="changeTab(event, 'toeic-2000-words')">TOEIC 2000 Words</button>
       <button class="tab-link" onclick="changeTab(event, 'ielts-listening')">IELTS Listening</button>
       <!-- <button class="tab-link" onclick="changeTab(event, 'english-speaking-course')">English Speaking Course</button> -->
       <!-- <button class="tab-link" onclick="changeTab(event, 'easy-english')">Easy English</button> -->
@@ -156,6 +157,13 @@
         <option value="ielts-speaking-4">031 → 040</option>
         <option value="ielts-speaking-5">041 → 050</option>
         <option value="ielts-speaking-6">051 → 060</option>
+      </select>
+      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
+    </section>
+    <section id="toeic-2000-words" class="tab-content">
+      <select class="select-lesson" onchange="changeConversation(this, '.toeic-2000-words')">
+        <option value="toeic-2000-words-1">A</option>
+        <option value="toeic-2000-words-2">B</option>
       </select>
       <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
     </section>
