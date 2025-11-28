@@ -113,28 +113,28 @@ async function loadAllContents() {
 
   document.getElementById("overlay").style.display = "none";
 
-  try {
-    const response = await fetch(API_URL);
-    if (!response.ok) {
-      throw new Error('Network response was not ok');
-    }
-    const vocabulary = await response.json();
+  // try {
+  //   const response = await fetch(API_URL);
+  //   if (!response.ok) {
+  //     throw new Error('Network response was not ok');
+  //   }
+  //   const vocabulary = await response.json();
 
-    const vocabularyData = vocabulary.data;
+  //   const vocabularyData = vocabulary.data;
 
-    if (vocabularyData) {
-      const vocabularyContainer = document.getElementById('vocabulary-list');
+  //   if (vocabularyData) {
+  //     const vocabularyContainer = document.getElementById('vocabulary-list');
 
-      vocabularyData.forEach((word, index) => {
-        const listItem = document.createElement('li');
-        listItem.innerHTML = `<small style="font-style: italic; font-size: 12px;">${index + 1}.</small> <b style="color: burlywood;">${word.value}</b>`;
-        vocabularyContainer.appendChild(listItem);
-      });
-    }
+  //     vocabularyData.forEach((word, index) => {
+  //       const listItem = document.createElement('li');
+  //       listItem.innerHTML = `<small style="font-style: italic; font-size: 12px;">${index + 1}.</small> <b style="color: burlywood;">${word.value}</b>`;
+  //       vocabularyContainer.appendChild(listItem);
+  //     });
+  //   }
 
-  } catch (error) {
-    console.error('Có lỗi khi lấy dữ liệu:', error);
-  }
+  // } catch (error) {
+  //   console.error('Có lỗi khi lấy dữ liệu:', error);
+  // }
 
   const scrollToTopBtn = document.getElementById('scrollToTopBtn');
 
@@ -242,17 +242,17 @@ function audioNext(btn) {
 
 async function initVocabulary() {
   let storedArray = []
-  try {
-    const response = await fetch(API_URL);
-    if (!response.ok) {
-      throw new Error('Network response was not ok');
-    }
-    const vocabulary = await response.json();
+  // try {
+  //   const response = await fetch(API_URL);
+  //   if (!response.ok) {
+  //     throw new Error('Network response was not ok');
+  //   }
+  //   const vocabulary = await response.json();
 
-    storedArray = vocabulary.data;
-  } catch (error) {
-    console.error('Có lỗi khi lấy dữ liệu:', error);
-  }
+  //   storedArray = vocabulary.data;
+  // } catch (error) {
+  //   console.error('Có lỗi khi lấy dữ liệu:', error);
+  // }
 
   document.addEventListener('keydown', function (event) {
     const startStopBtns = document.querySelectorAll('audio-start-stop');
@@ -291,43 +291,43 @@ async function initVocabulary() {
     }
   });
 
-  const spans = document.getElementsByTagName("span");
-  const spanArray = Array.from(spans);
-  spanArray.forEach((span) => {
-    storedArray.forEach((item) => {
-      if (span.textContent.toLowerCase() === item.value.toLowerCase()) {
-        span.classList.add('learn');
-        span.id = item._id;
-      }
-    });
-    span.addEventListener("click", async function () {
-      if (!span.id) {
-        span.classList.add('loading');
-        const id = await addVocabulary(span.textContent.replace(/\n/g, ''));
-        span.id = id;
-        span.classList.remove('loading');
-        span.classList.add('learn');
-        spanArray.forEach((spanAdd) => {
-          if (spanAdd.textContent.toLowerCase() === span.textContent.toLocaleLowerCase()) {
-            spanAdd.classList.add('learn');
-            spanAdd.id = id;
-          }
-        });
-      } else {
-        span.classList.add('loading');
-        await deleteVocabulary(span.id);
-        span.classList.remove('loading');
-        span.removeAttribute('id');
-        span.classList.remove('learn');
-        spanArray.forEach((spanRemove) => {
-          if (spanRemove.textContent.toLowerCase() === span.textContent.toLocaleLowerCase()) {
-            spanRemove.classList.remove('learn');
-            spanRemove.removeAttribute('id');
-          }
-        });
-      }
-    });
-  });
+  // const spans = document.getElementsByTagName("span");
+  // const spanArray = Array.from(spans);
+  // spanArray.forEach((span) => {
+  //   storedArray.forEach((item) => {
+  //     if (span.textContent.toLowerCase() === item.value.toLowerCase()) {
+  //       span.classList.add('learn');
+  //       span.id = item._id;
+  //     }
+  //   });
+  //   span.addEventListener("click", async function () {
+  //     if (!span.id) {
+  //       span.classList.add('loading');
+  //       const id = await addVocabulary(span.textContent.replace(/\n/g, ''));
+  //       span.id = id;
+  //       span.classList.remove('loading');
+  //       span.classList.add('learn');
+  //       spanArray.forEach((spanAdd) => {
+  //         if (spanAdd.textContent.toLowerCase() === span.textContent.toLocaleLowerCase()) {
+  //           spanAdd.classList.add('learn');
+  //           spanAdd.id = id;
+  //         }
+  //       });
+  //     } else {
+  //       span.classList.add('loading');
+  //       await deleteVocabulary(span.id);
+  //       span.classList.remove('loading');
+  //       span.removeAttribute('id');
+  //       span.classList.remove('learn');
+  //       spanArray.forEach((spanRemove) => {
+  //         if (spanRemove.textContent.toLowerCase() === span.textContent.toLocaleLowerCase()) {
+  //           spanRemove.classList.remove('learn');
+  //           spanRemove.removeAttribute('id');
+  //         }
+  //       });
+  //     }
+  //   });
+  // });
 
   const scrollDivs = document.querySelectorAll('.scroll-div');
   const showThreshold = 300;
