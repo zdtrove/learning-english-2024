@@ -80,7 +80,7 @@ async function loadAllContents() {
   getSection(69, 'ielts-listening');
   getSection(6, 'ielts-speaking');
   getSection(11, 'level2');
-  getSection(2, 'level6');
+  getSection(10, 'level6');
   // getSection(2, 'mini-novels');
   // getSection(2, 'english-story');
   // getSection(1, 'english-podcast');
