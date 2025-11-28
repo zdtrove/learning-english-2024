@@ -351,7 +351,7 @@ async function initVocabulary() {
         btnSpGroup.forEach((group) => group.classList.remove('show'));
       }
     });
-  }, 500);
+  }, 1500);
 }
 
 function disabledClick() {
