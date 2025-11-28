@@ -335,7 +335,6 @@ async function initVocabulary() {
     const hideThreshold = 300;
     const btnSpGroup = document.querySelectorAll('.btn-sp-group');
     window.addEventListener('scroll', () => {
-      console.log({ scrollDivs });
       const scrollPosition = window.scrollY;
       scrollDivs.forEach(div => {
         if (scrollPosition > 100) {
