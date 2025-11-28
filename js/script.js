@@ -241,7 +241,7 @@ function audioNext(btn) {
 }
 
 async function initVocabulary() {
-  let storedArray = []
+  // let storedArray = []
   // try {
   //   const response = await fetch(API_URL);
   //   if (!response.ok) {
@@ -329,27 +329,30 @@ async function initVocabulary() {
   //   });
   // });
 
-  const scrollDivs = document.querySelectorAll('.scroll-div');
-  const showThreshold = 300;
-  const hideThreshold = 300;
-  const btnSpGroup = document.querySelectorAll('.btn-sp-group');
-  window.addEventListener('scroll', () => {
-    const scrollPosition = window.scrollY;
-    scrollDivs.forEach(div => {
-      if (scrollPosition > 100) {
-        div.classList.add('fixed-div');
-      } else if (scrollPosition < 50) {
-        div.classList.remove('fixed-div');
+  setTimeout(() => {
+    const scrollDivs = document.querySelectorAll('.scroll-div');
+    const showThreshold = 300;
+    const hideThreshold = 300;
+    const btnSpGroup = document.querySelectorAll('.btn-sp-group');
+    window.addEventListener('scroll', () => {
+      console.log({ scrollDivs });
+      const scrollPosition = window.scrollY;
+      scrollDivs.forEach(div => {
+        if (scrollPosition > 100) {
+          div.classList.add('fixed-div');
+        } else if (scrollPosition < 50) {
+          div.classList.remove('fixed-div');
+        }
+      });
+
+      const scrollTop = window.scrollY || document.documentElement.scrollTop;
+      if (scrollTop > showThreshold) {
+        btnSpGroup.forEach((group) => group.classList.add('show'));
+      } else if (scrollTop < hideThreshold) {
+        btnSpGroup.forEach((group) => group.classList.remove('show'));
       }
     });
-
-    const scrollTop = window.scrollY || document.documentElement.scrollTop;
-    if (scrollTop > showThreshold) {
-      btnSpGroup.forEach((group) => group.classList.add('show'));
-    } else if (scrollTop < hideThreshold) {
-      btnSpGroup.forEach((group) => group.classList.remove('show'));
-    }
-  });
+  }, 500);
 }
 
 function disabledClick() {
