@@ -74,8 +74,8 @@ async function loadAllContents() {
   // getSection(19, 'english-speaking-course');
   // getSection(2, 'easy-english');
   // getSection(13, 'english-at-work');
-  getSection(1, 'new-vocabulary');
-  getSection(3, 'toeic-2000-words');
+  // getSection(1, 'new-vocabulary');
+  // getSection(3, 'toeic-2000-words');
   getSection(6, 'ielts-speaking');
   getSection(69, 'ielts-listening');
   getSection(11, 'level2');
@@ -84,8 +84,8 @@ async function loadAllContents() {
   // getSection(1, 'english-podcast');
   // getSection(10, 'toeic-600-words');
 
-  document.getElementById('ielts-speaking').style.display = 'block';
-  document.getElementById('ielts-speaking-1').style.display = 'block';
+  document.getElementById('ielts-listening').style.display = 'block';
+  document.getElementById('ielts-listening-1').style.display = 'block';
 
   await initVocabulary();
   const selects = document.querySelectorAll(".audio-change");
