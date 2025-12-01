@@ -185,6 +185,9 @@ function loadAudio(src, button) {
   });
   audio.onended = function () {
     setTimeout(() => {
+      const div = button.nextElementSibling.parentElement;
+      const h2 = div.previousElementSibling;
+      h2.scrollIntoView({ behavior: "smooth", block: "start" });
       audio.play();
     }, 1500);
   };
