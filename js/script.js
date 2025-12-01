@@ -25,20 +25,20 @@ function changeTab(evt, lessonName) {
 
 function activeFirstItemSection(sectionClass) {
   [
-    'english-speaking-course',
-    'easy-english',
+    // 'english-speaking-course',
+    // 'easy-english',
     'english-at-work',
-    'new-vocabulary',
+    // 'new-vocabulary',
     'ielts-speaking',
     'ielts-listening',
     'level2',
     'level6',
-    'toeic-600-words',
-    'toeic-2000-words',
-    'oxford-online-english',
-    'mini-novels',
-    'english-story',
-    'english-easier-with-eric',
+    // 'toeic-600-words',
+    // 'toeic-2000-words',
+    // 'oxford-online-english',
+    // 'mini-novels',
+    // 'english-story',
+    // 'english-easier-with-eric',
   ].forEach((item) => {
     if (sectionClass === item) {
       document.getElementById(`${sectionClass}-1`).style.display = 'block';
