@@ -427,7 +427,7 @@ function spStartStop(btn) {
   }
 }
 
-function smoothScrollBy(distance = 150, duration = 900) {
+function smoothScrollBy(distance = 135, duration = 900) {
   const start = window.scrollY;
   const end = start + distance;
   const startTime = performance.now();
