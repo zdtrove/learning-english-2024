@@ -218,9 +218,13 @@ function loadAudio(src, button) {
     setTimeout(() => {
       const div = button.nextElementSibling.parentElement;
       const h2 = div.previousElementSibling;
+
       h2.scrollIntoView({ behavior: "smooth", block: "start" });
       audio.play();
-      startScroll();
+      
+      setTimeout(() => {
+        startScroll();
+      }, 3000);
     }, 1500);
   };
   lastPlayedAudio = audio;
@@ -232,7 +236,10 @@ function loadAudio(src, button) {
   arrayChange.forEach((item) => {
     item.style.display = 'block';
   });
-  startScroll();
+
+  setTimeout(() => {
+    startScroll();
+  }, 3000);
 }
 
 function changeSpeed(select) {
