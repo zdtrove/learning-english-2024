@@ -532,7 +532,7 @@ function smoothScrollBy(distance = 125, duration = 900) {
   requestAnimationFrame(animate);
 }
 
-function startScroll(number = 7000) {
+function startScroll(number = 8000) {
   if (autoScrollInterval) return;
 
   autoScrollInterval = setInterval(() => {
@@ -545,10 +545,10 @@ function stopScroll() {
   autoScrollInterval = null;
 }
 
-function scrollUp(distance = -125, duration = 900) {
+function scrollUp(distance = -100, duration = 900) {
   smoothScrollBy(distance, duration);
 }
 
-function scrollDown(distance = 125, duration = 900) {
+function scrollDown(distance = 100, duration = 900) {
   smoothScrollBy(distance, duration);
 }

@@ -192,7 +192,7 @@ audio {
   gap: 8px;
   position: fixed;
   right: 15px;
-  bottom: 420px;
+  bottom: 400px;
   z-index: 9999;
   flex-direction: column;
   justify-content: center;
