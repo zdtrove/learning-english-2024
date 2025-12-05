@@ -506,14 +506,31 @@ async function addVocabulary(vocabulary) {
   }
 }
 
+function smoothScrollBy(distance = 150, duration = 1000) {
+  const start = window.scrollY;
+  const end = start + distance;
+  const startTime = performance.now();
+
+  function animate(now) {
+    const elapsed = now - startTime;
+    const progress = Math.min(elapsed / duration, 1);
+    const eased = progress * (2 - progress);
+
+    window.scrollTo(0, start + (end - start) * eased);
+
+    if (progress < 1) {
+      requestAnimationFrame(animate);
+    }
+  }
+
+  requestAnimationFrame(animate);
+}
+
 function startScroll(number = 7000) {
   if (autoScrollInterval) return;
 
   autoScrollInterval = setInterval(() => {
-    window.scrollBy({
-      top: 100,
-      behavior: 'smooth'
-    });
+    smoothScrollBy();
   }, number);
 }
 
