@@ -28,6 +28,7 @@ h2 {
   margin: unset;
   line-height: 1.4;
   margin-bottom: 15px;
+  letter-spacing: -1.5px;
 }
 
 i {
@@ -41,7 +42,7 @@ select.select-lesson {
   border-radius: 5px;
   border: 1px solid powderblue;
   outline: none;
-  padding: 5px 10px;
+  padding: 8px 10px;
   cursor: pointer;
   margin-bottom: 15px;
 }
@@ -154,7 +155,7 @@ span {
 
 .audio-change-lv2 {
   border-radius: 5px;
-  padding: 5px 10px;
+  padding: 8px 10px;
   outline: none;
   cursor: pointer;
 }
@@ -190,8 +191,8 @@ audio {
   display: none;
   gap: 8px;
   position: fixed;
-  right: 5px;
-  bottom: 300px;
+  right: 15px;
+  bottom: 450px;
   z-index: 9999;
   flex-direction: column;
   justify-content: center;
@@ -203,7 +204,7 @@ audio {
 
 .btn-sp-group button {
   border-radius: 4px;
-  padding: 8px 3px;
+  padding: 10px 5px;
   cursor: pointer;
 }
 
@@ -294,14 +295,13 @@ span.loading::after {
 
 #scrollToTopBtn {
   display: none;
-  right: 70px;
+  right: 15px;
   border-radius: 4px;
-  padding: 5px 8px;
+  padding: 8px 10px;
   cursor: pointer;
   position: fixed;
   bottom: 13px;
   z-index: 9999;
-  height: 29.2px;
 }
 
 #audio-time {

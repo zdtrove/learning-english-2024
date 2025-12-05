@@ -172,7 +172,7 @@ function loadAudio(src, button) {
   source.src = `https://dl.dropboxusercontent.com/scl/fi/${src}`;
   source.type = 'audio/mpeg';
   const startStopBtns = document.querySelectorAll('.audio-start-stop');
-  const audioTimeBtn = document.querySelector('#audio-time');
+  // const audioTimeBtn = document.querySelector('#audio-time');
   startStopBtns.forEach((startStop) => startStop.textContent = "⏸️");
 
   audio.appendChild(source);
@@ -194,9 +194,9 @@ function loadAudio(src, button) {
       startScroll();
     }, 1500);
   };
-  audio.ontimeupdate = function () {
-    audioTimeBtn.textContent = audio.currentTime.toFixed(2);
-  };
+  // audio.ontimeupdate = function () {
+  //   audioTimeBtn.textContent = audio.currentTime.toFixed(2);
+  // };
   lastPlayedAudio = audio;
 
   button.style.display = 'none';
@@ -382,7 +382,7 @@ function formatTimes(times) {
 }
 
 function startAudio(element, endTime = null) {
-  const audioTimeBtn = document.querySelector('#audio-time');
+  // const audioTimeBtn = document.querySelector('#audio-time');
   const h2Id = element.closest('h2').id;
   const seconds = parseInt(h2Id.split('-').pop(), 10);
   currentSeconds = seconds;
@@ -393,13 +393,13 @@ function startAudio(element, endTime = null) {
 
   audio.ontimeupdate = null;
 
-  audio.ontimeupdate = function () {
-    audioTimeBtn.textContent = audio.currentTime.toFixed(2);
-  };
+  // audio.ontimeupdate = function () {
+  //   audioTimeBtn.textContent = audio.currentTime.toFixed(2);
+  // };
 
   if (endTime) {
     audio.ontimeupdate = function() {
-      audioTimeBtn.textContent = audio.currentTime.toFixed(2);
+      // audioTimeBtn.textContent = audio.currentTime.toFixed(2);
       if (audio.currentTime >= endTime) {
         audio.currentTime = startTime;
         audio.play();
@@ -409,6 +409,8 @@ function startAudio(element, endTime = null) {
 }
 
 function spNext() {
+  stopScroll();
+  scrollDown();
   const audios = document.querySelectorAll('audio');
 
   audios.forEach(audio => {
@@ -416,9 +418,12 @@ function spNext() {
       audio.currentTime = Math.max(0, audio.currentTime + 5);
     }
   });
+  startScroll();
 }
 
 function spPrev() {
+  stopScroll();
+  scrollUp();
   const audios = document.querySelectorAll('audio');
 
   audios.forEach(audio => {
@@ -426,6 +431,7 @@ function spPrev() {
       audio.currentTime = Math.max(0, audio.currentTime - 5);
     }
   });
+  startScroll();
 }
 
 function spStartStop(btn) {
@@ -537,4 +543,12 @@ function startScroll(number = 7000) {
 function stopScroll() {
   clearInterval(autoScrollInterval);
   autoScrollInterval = null;
+}
+
+function scrollUp(distance = -125, duration = 900) {
+  smoothScrollBy(distance, duration);
+}
+
+function scrollDown(distance = 125, duration = 900) {
+  smoothScrollBy(distance, duration);
 }
