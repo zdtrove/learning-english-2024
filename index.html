@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Learning English Conversation</title>
+    <title>Learning English</title>
     <link rel="stylesheet" href="styles.css" />
     <link rel="icon" type="image/x-icon" href="favicon.ico">
   </head>
@@ -12,125 +12,12 @@
       <div class="loader"></div>
     </div>
     <section class="tab">
-      <!-- <button class="tab-link active" onclick="changeTab(event, 'conversation')">Conversation</button> -->
-      <!-- <button class="tab-link" onclick="changeTab(event, 'english-easier-with-eric')">English Easier With Eric</button> -->
-      <!-- <button class="tab-link" onclick="changeTab(event, 'oxford-online-english')">Practice English</button> -->
       <button class="tab-link active" onclick="changeTab(event, 'ielts-listening')">IELTS Listening</button>
       <button class="tab-link" onclick="changeTab(event, 'ielts-speaking')">IELTS Speaking</button>
-      <!-- <button class="tab-link" onclick="changeTab(event, 'toeic-2000-words')">TOEIC 2000 Words</button> -->
-      <!-- <button class="tab-link" onclick="changeTab(event, 'english-speaking-course')">English Speaking Course</button> -->
-      <!-- <button class="tab-link" onclick="changeTab(event, 'easy-english')">Easy English</button> -->
       <button class="tab-link" onclick="changeTab(event, 'english-at-work')">English At Work</button>
       <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
       <button class="tab-link" onclick="changeTab(event, 'level6')">Level 6</button>
-      <!-- <button class="tab-link" onclick="changeTab(event, 'mini-novels')">Mini Novels</button> -->
-      <!-- <button class="tab-link" onclick="changeTab(event, 'english-story')">English Story</button> -->
-      <!-- <button class="tab-link" onclick="changeTab(event, 'new-vocabulary')">New Vocabulary</button> -->
-      <!-- <button class="tab-link" onclick="changeTab(event, 'english-podcast')">English Podcast</button> -->
-      <!-- <button class="tab-link" onclick="changeTab(event, 'toeic-600-words')">600 Toeic</button> -->
     </section>
-    <!-- <section id="conversation" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.conversation')">
-        <option value="conversation-1">001 → 010</option>
-        <option value="conversation-2">011 → 020</option>
-        <option value="conversation-3">021 → 030</option>
-        <option value="conversation-4">031 → 040</option>
-        <option value="conversation-5">041 → 050</option>
-        <option value="conversation-6">051 → 060</option>
-        <option value="conversation-7">061 → 070</option>
-        <option value="conversation-8">071 → 080</option>
-        <option value="conversation-9">081 → 090</option>
-        <option value="conversation-10">091 → 100</option>
-        <option value="conversation-11">101 → 110</option>
-        <option value="conversation-12">111 → 120</option>
-        <option value="conversation-13">121 → 130</option>
-        <option value="conversation-14">131 → 140</option>
-        <option value="conversation-15">141 → 150</option>
-        <option value="conversation-16">151 → 160</option>
-        <option value="conversation-17">161 → 170</option>
-        <option value="conversation-18">171 → 180</option>
-        <option value="conversation-19">181 → 190</option>
-        <option value="conversation-20">191 → 200</option>
-        <option value="conversation-21">201 → 210</option>
-      </select>
-      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
-    </section> -->
-    <!-- <section id="english-easier-with-eric" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.english-easier-with-eric')">
-        <option value="english-easier-with-eric-1">English Easier With Eric 001</option>
-        <option value="english-easier-with-eric-2">English Easier With Eric 002</option>
-        <option value="english-easier-with-eric-3">English Easier With Eric 003</option>
-      </select>
-      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
-      <div class="btn-sp-group">
-        <button onclick="spPrev()">🔙 5s</button>
-        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
-        <button onclick="spNext()">5s 🔜</button>
-      </div>
-    </section> -->
-    <!-- <section id="oxford-online-english" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.oxford-online-english')">
-        <option value="oxford-online-english-1">Talking About Your Free Time and Hobbies</option>
-        <option value="oxford-online-english-2">Talking About Your Hometown</option>
-        <option value="oxford-online-english-3">Talking About Your Family</option>
-        <option value="oxford-online-english-4">Talking About Your Home</option>
-        <option value="oxford-online-english-5">How to Describe a Person</option>
-        <option value="oxford-online-english-6">Talking About Your Vacation</option>
-        <option value="oxford-online-english-7">Job Interview Tips and Tricks</option>
-        <option value="oxford-online-english-8">Talking About Your Job</option>
-        <option value="oxford-online-english-9">How to Describe a Picture</option>
-        <option value="oxford-online-english-10">Talking About the Weather</option>
-        <option value="oxford-online-english-11">Daily Routine</option>
-      </select>
-      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
-      <div class="btn-sp-group">
-        <button onclick="spPrev()">🔙 5s</button>
-        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
-        <button onclick="spNext()">5s 🔜</button>
-      </div>
-    </section> -->
-    <!-- <section id="english-podcast" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.english-podcast')">
-        <option value="english-podcast-1">Daily Routine</option>
-      </select>
-      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
-      <div class="btn-sp-group">
-        <button onclick="spPrev()">🔙 5s</button>
-        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
-        <button onclick="spNext()">5s 🔜</button>
-      </div>
-    </section> -->
-    <!-- <section id="english-speaking-course" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.english-speaking-course')">
-        <option value="english-speaking-course-1">English Speaking Course 001</option>
-        <option value="english-speaking-course-2">English Speaking Course 002</option>
-        <option value="english-speaking-course-3">English Speaking Course 003</option>
-        <option value="english-speaking-course-4">English Speaking Course 004</option>
-        <option value="english-speaking-course-5">English Speaking Course 005</option>
-        <option value="english-speaking-course-6">English Speaking Course 006</option>
-        <option value="english-speaking-course-7">English Speaking Course 007</option>
-        <option value="english-speaking-course-8">English Speaking Course 008</option>
-        <option value="english-speaking-course-9">English Speaking Course 009</option>
-        <option value="english-speaking-course-10">English Speaking Course 010</option>
-        <option value="english-speaking-course-11">English Speaking Course 011</option>
-        <option value="english-speaking-course-12">English Speaking Course 012</option>
-        <option value="english-speaking-course-13">English Speaking Course 013</option>
-        <option value="english-speaking-course-14">English Speaking Course 014</option>
-        <option value="english-speaking-course-15">English Speaking Course 015</option>
-        <option value="english-speaking-course-16">English Speaking Course 016</option>
-        <option value="english-speaking-course-17">English Speaking Course 017</option>
-        <option value="english-speaking-course-18">English Speaking Course 018</option>
-        <option value="english-speaking-course-19">English Speaking Course 019</option>
-      </select>
-      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
-    </section>
-    <section id="easy-english" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.easy-english')">
-        <option value="easy-english-1">Easy English 001</option>
-        <option value="easy-english-2">Easy English 002</option>
-      </select>
-      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
-    </section> -->
     <section id="english-at-work" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.english-at-work')">
         <option value="english-at-work-1">001 → 005</option>
@@ -153,7 +40,6 @@
         <button onclick="spNext()">5s 🔜</button>
       </div>
     </section>
-    <!-- <section id="new-vocabulary" class="tab-content"></section> -->
     <section id="ielts-speaking" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.ielts-speaking')">
         <option value="ielts-speaking-1">Part 1: 001 → 010</option>
@@ -163,16 +49,7 @@
         <option value="ielts-speaking-5">Part 1: 041 → 050</option>
         <option value="ielts-speaking-6">Part 1: 051 → 060</option>
       </select>
-      <!-- <button class="btn-disabled" onclick="disabledClick()">Disabled click</button> -->
     </section>
-    <!-- <section id="toeic-2000-words" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.toeic-2000-words')">
-        <option value="toeic-2000-words-1">A</option>
-        <option value="toeic-2000-words-2">B</option>
-        <option value="toeic-2000-words-3">C</option>
-      </select>
-      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
-    </section> -->
     <section id="ielts-listening" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.ielts-listening')">
         <option value="ielts-listening-1">Cam3 - Test 1 (001 → 004)</option>
@@ -250,7 +127,6 @@
         <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
         <button onclick="spNext()">5s 🔜</button>
       </div>
-      <!-- <button class="btn-disabled" onclick="disabledClick()">Disabled click</button> -->
     </section>
     <section id="level2" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.level2')">
@@ -266,7 +142,6 @@
         <option value="level2-10">091 → 100</option>
         <option value="level2-11">101 → 107</option>
       </select>
-      <!-- <button class="btn-disabled" onclick="disabledClick()">Disabled click</button> -->
       <div class="btn-sp-group">
         <button onclick="spPrev()">🔙 5s</button>
         <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
@@ -286,53 +161,13 @@
         <option value="level6-9">081 → 090</option>
         <option value="level6-10">091 → 100</option>
       </select>
-      <!-- <button class="btn-disabled" onclick="disabledClick()">Disabled click</button> -->
       <div class="btn-sp-group">
         <button onclick="spPrev()">🔙 5s</button>
         <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
         <button onclick="spNext()">5s 🔜</button>
       </div>
     </section>
-    <!-- <section id="mini-novels" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.mini-novels')">
-        <option value="mini-novels-1">001 → 010</option>
-        <option value="mini-novels-2">011 → 020</option>
-      </select>
-      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
-      <div class="btn-sp-group">
-        <button onclick="spPrev()">🔙 5s</button>
-        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
-        <button onclick="spNext()">5s 🔜</button>
-      </div>
-    </section> -->
-    <!-- <section id="english-story" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.english-story')">
-        <option value="english-story-1">001</option>
-        <option value="english-story-2">002</option>
-      </select>
-      <button class="btn-disabled" onclick="disabledClick()">Disabled click</button>
-      <div class="btn-sp-group">
-        <button onclick="spPrev()">🔙 5s</button>
-        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
-        <button onclick="spNext()">5s 🔜</button>
-      </div>
-    </section> -->
-    <!-- <section id="toeic-600-words" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.toeic-600-words')">
-        <option value="toeic-600-words-1">01 → 05</option>
-        <option value="toeic-600-words-2">06 → 10</option>
-        <option value="toeic-600-words-3">11 → 15</option>
-        <option value="toeic-600-words-4">16 → 20</option>
-        <option value="toeic-600-words-5">21 → 25</option>
-        <option value="toeic-600-words-6">26 → 30</option>
-        <option value="toeic-600-words-7">31 → 35</option>
-        <option value="toeic-600-words-8">36 → 40</option>
-        <option value="toeic-600-words-9">41 → 45</option>
-        <option value="toeic-600-words-10">46 → 50</option>
-      </select>
-    </section> -->
-    <button id="scrollToTopBtn">↑ Top</button>audio-time
-    <!-- <button id="audio-time">00.00</button> -->
+    <button id="scrollToTopBtn">↑ Top</button>
   </body>
   <script type="application/javascript" src="js/script.js"></script>
   <script type="application/javascript" src="js/create-html.js"></script>

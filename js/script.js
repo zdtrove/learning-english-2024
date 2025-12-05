@@ -4,6 +4,7 @@ let lastPlayedAudio = null;
 let isDisabled = false;
 let autoScrollInterval = null;
 const API_URL = 'https://node-api-delta-bice.vercel.app/api/vocabulary';
+const AUDIO_URL = 'https://dl.dropboxusercontent.com/scl/fi/';
 const sectionList = [
   {
     name: 'conversation',
@@ -198,7 +199,7 @@ function loadAudio(src, button) {
   const next = div.querySelector('button.audio-next');
   const source = document.createElement('source');
   const change = div.querySelector('select.audio-change');
-  source.src = `https://dl.dropboxusercontent.com/scl/fi/${src}`;
+  source.src = `${AUDIO_URL}${src}`;
   source.type = 'audio/mpeg';
   const startStopBtns = document.querySelectorAll('.audio-start-stop');
   startStopBtns.forEach((startStop) => startStop.textContent = "⏸️");
