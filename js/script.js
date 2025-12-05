@@ -224,7 +224,7 @@ function loadAudio(src, button) {
       
       setTimeout(() => {
         startScroll();
-      }, 6000);
+      }, 9000);
     }, 1500);
   };
   lastPlayedAudio = audio;
@@ -239,7 +239,7 @@ function loadAudio(src, button) {
 
   setTimeout(() => {
     startScroll();
-  }, 6000);
+  }, 9000);
 }
 
 function changeSpeed(select) {
@@ -447,7 +447,7 @@ function smoothScrollBy(distance = 125, duration = 900) {
   requestAnimationFrame(animate);
 }
 
-function startScroll(number = 10000) {
+function startScroll(number = 12000) {
   if (autoScrollInterval) return;
 
   autoScrollInterval = setInterval(() => {
