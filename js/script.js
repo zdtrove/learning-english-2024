@@ -506,7 +506,7 @@ async function addVocabulary(vocabulary) {
   }
 }
 
-function smoothScrollBy(distance = 150, duration = 1000) {
+function smoothScrollBy(distance = 125, duration = 900) {
   const start = window.scrollY;
   const end = start + distance;
   const startTime = performance.now();
