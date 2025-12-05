@@ -2,6 +2,7 @@ let isFirstScroll = true;
 let currentSeconds = 0;
 let lastPlayedAudio = null;
 let isDisabled = false;
+let autoScrollInterval = null;
 const API_URL = 'https://node-api-delta-bice.vercel.app/api/vocabulary';
 
 function changeTab(evt, lessonName) {
@@ -184,11 +185,13 @@ function loadAudio(src, button) {
     startStopBtns.forEach((startStop) => startStop.textContent = "▶️");
   });
   audio.onended = function () {
+    stopScroll();
     setTimeout(() => {
       const div = button.nextElementSibling.parentElement;
       const h2 = div.previousElementSibling;
       h2.scrollIntoView({ behavior: "smooth", block: "start" });
       audio.play();
+      startScroll();
     }, 1500);
   };
   audio.ontimeupdate = function () {
@@ -203,6 +206,7 @@ function loadAudio(src, button) {
   arrayChange.forEach((item) => {
     item.style.display = 'block';
   });
+  startScroll();
 }
 
 function changeSpeed(select) {
@@ -434,6 +438,7 @@ function spStartStop(btn) {
         audioPlayer.pause();
         currentlyPlaying = audioPlayer;
         btn.textContent = "▶️";
+        stopScroll();
       }
     });
 
@@ -451,6 +456,7 @@ function spStartStop(btn) {
           }
         });
       }
+      startScroll();
     }
 
     if (currentlyPlaying) {
@@ -498,4 +504,20 @@ async function addVocabulary(vocabulary) {
   } catch (error) {
     console.error('Có lỗi xảy ra khi thêm từ vựng:', error);
   }
+}
+
+function startScroll(number = 7000) {
+  if (autoScrollInterval) return;
+
+  autoScrollInterval = setInterval(() => {
+    window.scrollBy({
+      top: 100,
+      behavior: 'smooth'
+    });
+  }, number);
+}
+
+function stopScroll() {
+  clearInterval(autoScrollInterval);
+  autoScrollInterval = null;
 }
