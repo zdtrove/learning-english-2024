@@ -4,6 +4,83 @@ let lastPlayedAudio = null;
 let isDisabled = false;
 let autoScrollInterval = null;
 const API_URL = 'https://node-api-delta-bice.vercel.app/api/vocabulary';
+const sectionList = [
+  {
+    name: 'conversation',
+    active: false,
+    pages: 1,
+  },
+  {
+    name: 'english-speaking-course',
+    active: false,
+    pages: 19,
+  },
+  {
+    name: 'english-speaking-course',
+    active: false,
+    pages: 19,
+  },
+  {
+    name: 'easy-english',
+    active: false,
+    pages: 2,
+  },
+  {
+    name: 'english-at-work',
+    active: true,
+    pages: 13,
+  },
+  {
+    name: 'ielts-speaking',
+    active: true,
+    pages: 6,
+  },
+  {
+    name: 'ielts-listening',
+    active: true,
+    pages: 69,
+  },
+  {
+    name: 'level2',
+    active: true,
+    pages: 11,
+  },
+  {
+    name: 'level6',
+    active: true,
+    pages: 10,
+  },
+  {
+    name: 'toeic-600-words',
+    active: false,
+    pages: 10,
+  },
+  {
+    name: 'toeic-2000-words',
+    active: false,
+    pages: 3,
+  },
+  {
+    name: 'oxford-online-english',
+    active: false,
+    pages: 11,
+  },
+  {
+    name: 'mini-novels',
+    active: false,
+    pages: 2,
+  },
+  {
+    name: 'english-story',
+    active: false,
+    pages: 2,
+  },
+  {
+    name: 'english-easier-with-eric',
+    active: false,
+    pages: 3,
+  },
+];
 
 function changeTab(evt, lessonName) {
   let i, tabContent, tabLinks;
@@ -25,23 +102,8 @@ function changeTab(evt, lessonName) {
 }
 
 function activeFirstItemSection(sectionClass) {
-  [
-    // 'english-speaking-course',
-    // 'easy-english',
-    'english-at-work',
-    // 'new-vocabulary',
-    'ielts-speaking',
-    'ielts-listening',
-    'level2',
-    'level6',
-    // 'toeic-600-words',
-    // 'toeic-2000-words',
-    // 'oxford-online-english',
-    // 'mini-novels',
-    // 'english-story',
-    // 'english-easier-with-eric',
-  ].forEach((item) => {
-    if (sectionClass === item) {
+  sectionList.forEach((item) => {
+    if (sectionClass === item.name && item.active) {
       document.getElementById(`${sectionClass}-1`).style.display = 'block';
     }
   });
@@ -70,27 +132,17 @@ function getSection(num, id) {
 }
 
 async function loadAllContents() {
-  // getSection(1, 'conversation');
-  // getSection(3, 'english-easier-with-eric');
-  // getSection(11, 'oxford-online-english');
-  // getSection(19, 'english-speaking-course');
-  // getSection(2, 'easy-english');
-  getSection(13, 'english-at-work');
-  // getSection(1, 'new-vocabulary');
-  // getSection(3, 'toeic-2000-words');
-  getSection(69, 'ielts-listening');
-  getSection(6, 'ielts-speaking');
-  getSection(11, 'level2');
-  getSection(10, 'level6');
-  // getSection(2, 'mini-novels');
-  // getSection(2, 'english-story');
-  // getSection(1, 'english-podcast');
-  // getSection(10, 'toeic-600-words');
+  sectionList.forEach((section) => {
+    if (section.active) {
+      getSection(section.pages, section.name);
+    }
+  });
 
   document.getElementById('ielts-listening').style.display = 'block';
   document.getElementById('ielts-listening-1').style.display = 'block';
 
-  await initVocabulary();
+  await configAudio();
+
   const selects = document.querySelectorAll(".audio-change");
   selects.forEach(select => {
     const secondOption = select.options[1];
@@ -113,29 +165,6 @@ async function loadAllContents() {
   });
 
   document.getElementById("overlay").style.display = "none";
-
-  // try {
-  //   const response = await fetch(API_URL);
-  //   if (!response.ok) {
-  //     throw new Error('Network response was not ok');
-  //   }
-  //   const vocabulary = await response.json();
-
-  //   const vocabularyData = vocabulary.data;
-
-  //   if (vocabularyData) {
-  //     const vocabularyContainer = document.getElementById('vocabulary-list');
-
-  //     vocabularyData.forEach((word, index) => {
-  //       const listItem = document.createElement('li');
-  //       listItem.innerHTML = `<small style="font-style: italic; font-size: 12px;">${index + 1}.</small> <b style="color: burlywood;">${word.value}</b>`;
-  //       vocabularyContainer.appendChild(listItem);
-  //     });
-  //   }
-
-  // } catch (error) {
-  //   console.error('Có lỗi khi lấy dữ liệu:', error);
-  // }
 
   const scrollToTopBtn = document.getElementById('scrollToTopBtn');
 
@@ -172,7 +201,6 @@ function loadAudio(src, button) {
   source.src = `https://dl.dropboxusercontent.com/scl/fi/${src}`;
   source.type = 'audio/mpeg';
   const startStopBtns = document.querySelectorAll('.audio-start-stop');
-  // const audioTimeBtn = document.querySelector('#audio-time');
   startStopBtns.forEach((startStop) => startStop.textContent = "⏸️");
 
   audio.appendChild(source);
@@ -194,9 +222,6 @@ function loadAudio(src, button) {
       startScroll();
     }, 1500);
   };
-  // audio.ontimeupdate = function () {
-  //   audioTimeBtn.textContent = audio.currentTime.toFixed(2);
-  // };
   lastPlayedAudio = audio;
 
   button.style.display = 'none';
@@ -247,20 +272,7 @@ function audioNext(btn) {
   audio.currentTime = Math.max(0, audio.currentTime + 5);
 }
 
-async function initVocabulary() {
-  // let storedArray = []
-  // try {
-  //   const response = await fetch(API_URL);
-  //   if (!response.ok) {
-  //     throw new Error('Network response was not ok');
-  //   }
-  //   const vocabulary = await response.json();
-
-  //   storedArray = vocabulary.data;
-  // } catch (error) {
-  //   console.error('Có lỗi khi lấy dữ liệu:', error);
-  // }
-
+async function configAudio() {
   document.addEventListener('keydown', function (event) {
     const startStopBtns = document.querySelectorAll('audio-start-stop');
     if (event.code === 'Space') {
@@ -298,44 +310,6 @@ async function initVocabulary() {
     }
   });
 
-  // const spans = document.getElementsByTagName("span");
-  // const spanArray = Array.from(spans);
-  // spanArray.forEach((span) => {
-  //   storedArray.forEach((item) => {
-  //     if (span.textContent.toLowerCase() === item.value.toLowerCase()) {
-  //       span.classList.add('learn');
-  //       span.id = item._id;
-  //     }
-  //   });
-  //   span.addEventListener("click", async function () {
-  //     if (!span.id) {
-  //       span.classList.add('loading');
-  //       const id = await addVocabulary(span.textContent.replace(/\n/g, ''));
-  //       span.id = id;
-  //       span.classList.remove('loading');
-  //       span.classList.add('learn');
-  //       spanArray.forEach((spanAdd) => {
-  //         if (spanAdd.textContent.toLowerCase() === span.textContent.toLocaleLowerCase()) {
-  //           spanAdd.classList.add('learn');
-  //           spanAdd.id = id;
-  //         }
-  //       });
-  //     } else {
-  //       span.classList.add('loading');
-  //       await deleteVocabulary(span.id);
-  //       span.classList.remove('loading');
-  //       span.removeAttribute('id');
-  //       span.classList.remove('learn');
-  //       spanArray.forEach((spanRemove) => {
-  //         if (spanRemove.textContent.toLowerCase() === span.textContent.toLocaleLowerCase()) {
-  //           spanRemove.classList.remove('learn');
-  //           spanRemove.removeAttribute('id');
-  //         }
-  //       });
-  //     }
-  //   });
-  // });
-
   setTimeout(() => {
     const scrollDivs = document.querySelectorAll('.scroll-div');
     const showThreshold = 300;
@@ -361,28 +335,7 @@ async function initVocabulary() {
   }, 1500);
 }
 
-function disabledClick() {
-  const spans = document.getElementsByTagName("span");
-  const spanArray = Array.from(spans);
-  const btns = document.querySelectorAll('.btn-disabled');
-
-  spanArray.forEach((span) => {
-    isDisabled ? span.classList.remove('disabled') : span.classList.add('disabled');
-  });
-
-  btns.forEach((btn) => {
-    btn.innerHTML = isDisabled ? 'Disabled click' : 'Enabled click';
-  });
-
-  isDisabled = !isDisabled;
-}
-
-function formatTimes(times) {
-  return String(times).padStart(2, '0');
-}
-
 function startAudio(element, endTime = null) {
-  // const audioTimeBtn = document.querySelector('#audio-time');
   const h2Id = element.closest('h2').id;
   const seconds = parseInt(h2Id.split('-').pop(), 10);
   currentSeconds = seconds;
@@ -393,13 +346,8 @@ function startAudio(element, endTime = null) {
 
   audio.ontimeupdate = null;
 
-  // audio.ontimeupdate = function () {
-  //   audioTimeBtn.textContent = audio.currentTime.toFixed(2);
-  // };
-
   if (endTime) {
     audio.ontimeupdate = function() {
-      // audioTimeBtn.textContent = audio.currentTime.toFixed(2);
       if (audio.currentTime >= endTime) {
         audio.currentTime = startTime;
         audio.play();
@@ -468,47 +416,6 @@ function spStartStop(btn) {
     if (currentlyPlaying) {
       lastPlayedAudio = currentlyPlaying;
     }
-  }
-}
-
-async function deleteVocabulary(id) {
-  try {
-    const response = await fetch(`${API_URL}/${id}`, {
-      method: 'DELETE',
-    });
-
-    const result = await response.json();
-
-    if (response.ok) {
-      console.log('Xóa từ vựng thành công:', result.message);
-    } else {
-      console.error('Xóa từ vựng thất bại:', result.message || result.error);
-    }
-  } catch (error) {
-    console.error('Có lỗi xảy ra khi xoá từ vựng:', error);
-  }
-}
-
-async function addVocabulary(vocabulary) {
-  try {
-    const response = await fetch(API_URL, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ value: vocabulary }),
-    });
-
-    const result = await response.json();
-
-    if (response.ok) {
-      console.log('Thêm từ vựng thành công:', result);
-      return result.insertedId;
-    } else {
-      console.error('Thêm từ vựng thất bại:', result.message || result.error);
-    }
-  } catch (error) {
-    console.error('Có lỗi xảy ra khi thêm từ vựng:', error);
   }
 }
 
