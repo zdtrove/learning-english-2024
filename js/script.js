@@ -447,7 +447,7 @@ function smoothScrollBy(distance = 125, duration = 900) {
   requestAnimationFrame(animate);
 }
 
-function startScroll(number = 12000) {
+function startScroll(number = 11000) {
   if (autoScrollInterval) return;
 
   autoScrollInterval = setInterval(() => {
