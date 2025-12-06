@@ -3,6 +3,7 @@ let currentSeconds = 0;
 let lastPlayedAudio = null;
 let isDisabled = false;
 let autoScrollInterval = null;
+let wakeLock = null;
 const API_URL = 'https://node-api-delta-bice.vercel.app/api/vocabulary';
 const AUDIO_URL = 'https://dl.dropboxusercontent.com/scl/fi/';
 const sectionList = [
@@ -82,6 +83,15 @@ const sectionList = [
     pages: 3,
   },
 ];
+
+async function keepScreenAwake() {
+  try {
+    wakeLock = await navigator.wakeLock.request("screen");
+    console.log("Wake Lock activated");
+  } catch (err) {
+    console.error("Wake Lock error:", err);
+  }
+}
 
 function changeTab(evt, lessonName) {
   let i, tabContent, tabLinks;
@@ -208,6 +218,7 @@ function loadAudio(src, button) {
   audio.load();
   audio.play();
   audio.addEventListener("play", () => {
+    keepScreenAwake();
     startStopBtns.forEach((startStop) => startStop.textContent = "⏸️");
   });
   audio.addEventListener("pause", () => {
