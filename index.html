@@ -49,6 +49,11 @@
         <option value="ielts-speaking-5">Part 1: 041 → 050</option>
         <option value="ielts-speaking-6">Part 1: 051 → 060</option>
       </select>
+      <div class="btn-sp-group">
+        <button onclick="spPrev()">🔙 5s</button>
+        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
+        <button onclick="spNext()">5s 🔜</button>
+      </div>
     </section>
     <section id="ielts-listening" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.ielts-listening')">
