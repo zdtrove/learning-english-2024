@@ -31,6 +31,11 @@ h2 {
   letter-spacing: -1.5px;
 }
 
+hr {
+  margin-block-start: 25px;
+  margin-block-end: 25px;
+}
+
 i {
   font-size: 16px;
   font-weight: bold;
@@ -350,6 +355,12 @@ span.loading::after {
   background-color: rgba(0,0,0,0.5);
   z-index: 2;
   cursor: pointer;
+}
+
+.me {
+  font-style: italic;
+  color: greenyellow;
+  opacity: 0.9;
 }
 
 @media only screen and (max-width: 480px) {
