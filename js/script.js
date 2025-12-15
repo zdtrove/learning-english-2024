@@ -35,7 +35,7 @@ const sectionList = [
   {
     name: 'ielts-speaking',
     active: true,
-    pages: 6,
+    pages: 7,
   },
   {
     name: 'ielts-listening',
