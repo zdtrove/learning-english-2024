@@ -17,6 +17,7 @@
       <button class="tab-link" onclick="changeTab(event, 'english-at-work')">English At Work</button>
       <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
       <button class="tab-link" onclick="changeTab(event, 'level6')">Level 6</button>
+      <button class="tab-link" onclick="changeTab(event, 'mini-novels')">Mini Novels</button>
     </section>
     <section id="english-at-work" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.english-at-work')">
@@ -161,6 +162,26 @@
         <option value="level6-8">071 → 080</option>
         <option value="level6-9">081 → 090</option>
         <option value="level6-10">091 → 100</option>
+      </select>
+      <div class="btn-sp-group">
+        <button onclick="spPrev()">🔙 5s</button>
+        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
+        <button onclick="spNext()">5s 🔜</button>
+      </div>
+    </section>
+    <section id="mini-novels" class="tab-content">
+      <select class="select-lesson" onchange="changeConversation(this, '.mini-novels')">
+        <option value="mini-novels-1">001 → 010</option>
+        <option value="mini-novels-2">011 → 020</option>
+        <option value="mini-novels-3">021 → 030</option>
+        <option value="mini-novels-4">031 → 040</option>
+        <option value="mini-novels-5">041 → 050</option>
+        <option value="mini-novels-6">051 → 060</option>
+        <option value="mini-novels-7">061 → 070</option>
+        <option value="mini-novels-8">071 → 080</option>
+        <option value="mini-novels-9">081 → 090</option>
+        <option value="mini-novels-10">091 → 100</option>
+        <option value="mini-novels-11">101 → 109</option>
       </select>
       <div class="btn-sp-group">
         <button onclick="spPrev()">🔙 5s</button>

@@ -69,8 +69,8 @@ const sectionList = [
   },
   {
     name: 'mini-novels',
-    active: false,
-    pages: 2,
+    active: true,
+    pages: 11,
   },
   {
     name: 'english-story',
