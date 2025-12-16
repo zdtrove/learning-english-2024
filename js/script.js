@@ -82,6 +82,11 @@ const sectionList = [
     active: false,
     pages: 3,
   },
+  {
+    name: 'english-graded-4',
+    active: true,
+    pages: 5,
+  }
 ];
 
 async function keepScreenAwake() {

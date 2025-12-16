@@ -18,6 +18,7 @@
       <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
       <button class="tab-link" onclick="changeTab(event, 'level6')">Level 6</button>
       <button class="tab-link" onclick="changeTab(event, 'mini-novels')">Mini Novels</button>
+      <button class="tab-link" onclick="changeTab(event, 'english-graded-4')">English Graded 4</button>
     </section>
     <section id="english-at-work" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.english-at-work')">
@@ -182,6 +183,20 @@
         <option value="mini-novels-9">081 → 090</option>
         <option value="mini-novels-10">091 → 100</option>
         <option value="mini-novels-11">101 → 109</option>
+      </select>
+      <div class="btn-sp-group">
+        <button onclick="spPrev()">🔙 5s</button>
+        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
+        <button onclick="spNext()">5s 🔜</button>
+      </div>
+    </section>
+    <section id="english-graded-4" class="tab-content">
+      <select class="select-lesson" onchange="changeConversation(this, '.english-graded-4')">
+        <option value="english-graded-4-1">001 → 010</option>
+        <option value="english-graded-4-2">011 → 020</option>
+        <option value="english-graded-4-3">021 → 030</option>
+        <option value="english-graded-4-4">031 → 040</option>
+        <option value="english-graded-4-5">041 → 050</option>
       </select>
       <div class="btn-sp-group">
         <button onclick="spPrev()">🔙 5s</button>
