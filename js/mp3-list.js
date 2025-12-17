@@ -1134,4 +1134,5 @@ const englishEasierWithEricMp3 = {
 const lepPodcastMp3 = {
   '001': '2svfnytagm3d9m0pbg1l5/001.mp3?rlkey=juklyhd8ubrrbfw1ijwph01et',
   '002': 'l3dq096bwqsk0ec4712ru/002.mp3?rlkey=3y2ikq1v830jv5r3lcb1vkryw',
+  '003': '65fhrglit4lc5yeuqvgy5/003.mp3?rlkey=0ptsjvp9onbgbruglb6rcrdvw',
 }
