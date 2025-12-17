@@ -85,7 +85,7 @@ const sectionList = [
   {
     name: 'english-graded-4',
     active: true,
-    pages: 5,
+    pages: 10,
   }
 ];
 
