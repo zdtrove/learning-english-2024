@@ -86,6 +86,11 @@ const sectionList = [
     name: 'english-graded-4',
     active: true,
     pages: 10,
+  },
+  {
+    name: 'lep-podcast',
+    active: true,
+    pages: 1,
   }
 ];
 

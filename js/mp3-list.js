@@ -1130,3 +1130,7 @@ const englishEasierWithEricMp3 = {
   '003': 'zfb2a7liimj30j5995f2b/003.mp3?rlkey=jlvab8e2fbqjuvi4mx2090vul',
   '004': 'blys7te1mgouykcbmo3m2/004.mp3?rlkey=2c8a0xbj94ivgyl2bvnwopar9',
 }
+
+const lepPodcastMp3 = {
+  '001': '22lr1jhc1dq3hrujuhg8d/001.mp3?rlkey=70ynoakm1cm80d9zk0s2lfmgy',
+}
