@@ -4,6 +4,9 @@ let lastPlayedAudio = null;
 let isDisabled = false;
 let autoScrollInterval = null;
 let wakeLock = null;
+let currentIndex = 0;
+let currentPlaylist = [];
+const audioAll = document.getElementById('audioAll');
 const API_URL = 'https://node-api-delta-bice.vercel.app/api/vocabulary';
 const AUDIO_URL = 'https://dl.dropboxusercontent.com/scl/fi/';
 const sectionList = [
@@ -488,3 +491,41 @@ function scrollUp(distance = -100, duration = 900) {
 function scrollDown(distance = 100, duration = 900) {
   smoothScrollBy(distance, duration);
 }
+
+function playAll(mp3Map, range) {
+  if (!mp3Map || !Array.isArray(range) || range.length !== 2) return;
+
+  const [start, end] = range.map(Number);
+
+  currentPlaylist = [];
+
+  for (let i = start; i <= end; i++) {
+    const key = String(i);
+    if (mp3Map[key]) {
+      currentPlaylist.push(mp3Map[key]);
+    }
+  }
+
+  if (!currentPlaylist.length) return;
+
+  currentIndex = 0;
+  playCurrent();
+}
+
+function playCurrent() {
+  audioAll.src = `${AUDIO_URL}${currentPlaylist[currentIndex]}`;
+  audioAll.play();
+  audioAll.playbackRate = 0.85;
+}
+
+audioAll.addEventListener('ended', () => {
+  if (!currentPlaylist.length) return;
+
+  currentIndex++;
+
+  if (currentIndex >= currentPlaylist.length) {
+    currentIndex = 0;
+  }
+
+  playCurrent();
+});

@@ -365,6 +365,12 @@ span.loading::after {
   opacity: 0.9;
 }
 
+.audio-play-all {
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 5px 10px
+}
+
 @media only screen and (max-width: 480px) {
   .action-scroll {
     justify-content: space-between;
