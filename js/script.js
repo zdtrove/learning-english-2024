@@ -495,12 +495,17 @@ function scrollDown(distance = 100, duration = 900) {
 function playAll(mp3Map, range) {
   if (!mp3Map || !Array.isArray(range) || range.length !== 2) return;
 
-  const [start, end] = range.map(Number);
+  const [startStr, endStr] = range;
+
+  const startNum = Number(startStr);
+  const endNum = Number(endStr);
+  const padLength = Math.max(startStr.length, endStr.length);
 
   currentPlaylist = [];
 
-  for (let i = start; i <= end; i++) {
-    const key = String(i);
+  for (let i = startNum; i <= endNum; i++) {
+    const key = String(i).padStart(padLength, '0');
+
     if (mp3Map[key]) {
       currentPlaylist.push(mp3Map[key]);
     }
