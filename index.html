@@ -14,6 +14,7 @@
     <section class="tab">
       <button class="tab-link active" onclick="changeTab(event, 'ielts-listening')">IELTS Listening</button>
       <button class="tab-link" onclick="changeTab(event, 'ielts-speaking')">IELTS Speaking</button>
+      <button class="tab-link" onclick="changeTab(event, 'toeic-listening')">TOEIC Listening</button>
       <button class="tab-link" onclick="changeTab(event, 'lep-podcast')">LEP Podcast</button>
       <button class="tab-link" onclick="changeTab(event, 'english-at-work')">English At Work</button>
       <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
@@ -213,6 +214,18 @@
     <section id="lep-podcast" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.lep-podcast')">
         <option value="lep-podcast-1">001 - 003</option>
+      </select>
+      <div class="btn-sp-group">
+        <button onclick="spPrev()">🔙 5s</button>
+        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
+        <button onclick="spNext()">5s 🔜</button>
+      </div>
+    </section>
+    <section id="toeic-listening" class="tab-content">
+      <select class="select-lesson" onchange="changeConversation(this, '.toeic-listening')">
+        <option value="toeic-listening-1">001 - 010</option>
+        <option value="toeic-listening-2">011 - 020</option>
+        <option value="toeic-listening-3">021 - 030</option>
       </select>
       <div class="btn-sp-group">
         <button onclick="spPrev()">🔙 5s</button>

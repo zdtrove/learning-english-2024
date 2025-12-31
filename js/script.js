@@ -94,6 +94,11 @@ const sectionList = [
     name: 'lep-podcast',
     active: true,
     pages: 1,
+  },
+  {
+    name: 'toeic-listening',
+    active: true,
+    pages: 3,
   }
 ];
 
