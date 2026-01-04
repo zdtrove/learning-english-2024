@@ -502,7 +502,7 @@ function scrollDown(distance = 100, duration = 900) {
   smoothScrollBy(distance, duration);
 }
 
-function playAll(mp3Map, range) {
+function playAll(mp3Map, range, speed = 0.85) {
   if (!mp3Map || !Array.isArray(range) || range.length !== 2) return;
 
   const [startStr, endStr] = range;
@@ -524,13 +524,13 @@ function playAll(mp3Map, range) {
   if (!currentPlaylist.length) return;
 
   currentIndex = 0;
-  playCurrent();
+  playCurrent(speed);
 }
 
-function playCurrent() {
+function playCurrent(speed) {
   audioAll.src = `${AUDIO_URL}${currentPlaylist[currentIndex]}`;
   audioAll.play();
-  audioAll.playbackRate = 0.85;
+  audioAll.playbackRate = speed;
 }
 
 audioAll.addEventListener('ended', () => {
