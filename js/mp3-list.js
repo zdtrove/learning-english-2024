@@ -1169,3 +1169,10 @@ const toeicLcMp3 = {
   '029': 'zviu4tb4ld7azv5rpm076/029.mp3?rlkey=xex5k0cx5q9n2qydmtsmekh40',
   '030': '108xfytmikuzt6zjyd6ik/030.mp3?rlkey=no46gxf2ehiolhm5y10u00hky',
 }
+
+const toeicTestMp3 = {
+  '001': 'jo64xtm2g4p0filzajrp4/001.mp3?rlkey=1vkkwgs4nrio7omnl5wr36b74',
+  '002': 'cz8b6vptpd3xnou0yqxz3/002.mp3?rlkey=i1mt6sx5oqh6r7kz5vcvmsbye',
+  '003': 'd106o2zutki0stb2tqr7g/003.mp3?rlkey=i5drxqohjmt7yhkarllf8fcnt',
+  '004': '6fmfdt11wqwzdf0oowjqk/004.mp3?rlkey=o51o3sxpz9ekkunmq777qw7rc',
+}

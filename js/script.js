@@ -99,6 +99,11 @@ const sectionList = [
     name: 'toeic-listening',
     active: true,
     pages: 3,
+  },
+  {
+    name: 'toeic-test',
+    active: true,
+    pages: 1,
   }
 ];
 
@@ -219,7 +224,7 @@ function changeConversation(object, className) {
   });
 }
 
-function loadAudio(src, button) {
+function loadAudio(src, button, isScroll = true) {
   const audio = button.previousElementSibling;
   const div = button.nextElementSibling;
   const speed = div.querySelector('select.audio-speed');
@@ -243,7 +248,7 @@ function loadAudio(src, button) {
     startStopBtns.forEach((startStop) => startStop.textContent = "▶️");
   });
   audio.onended = function () {
-    stopScroll();
+    isScroll && stopScroll();
     setTimeout(() => {
       const div = button.nextElementSibling.parentElement;
       const h2 = div.previousElementSibling;
@@ -252,7 +257,7 @@ function loadAudio(src, button) {
       audio.play();
       
       setTimeout(() => {
-        startScroll();
+        isScroll && startScroll();
       }, 9000);
     }, 1500);
   };
@@ -267,7 +272,7 @@ function loadAudio(src, button) {
   });
 
   setTimeout(() => {
-    startScroll();
+    isScroll && startScroll();
   }, 9000);
 }
 
