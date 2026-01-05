@@ -545,7 +545,7 @@ audioAll.addEventListener('ended', () => {
   playCurrent();
 });
 
-function togglePdf() {
-  const el = document.getElementById('pdf-container');
+function togglePdf(id) {
+  const el = document.getElementById(id);
   el.style.display = el.style.display === 'none' ? 'block' : 'none';
 }

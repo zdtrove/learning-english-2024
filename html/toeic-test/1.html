@@ -1,10 +1,21 @@
-<button class="open-pdf" onclick="togglePdf()">PDF</button>
+<button class="open-pdf" onclick="togglePdf('pdf-test')">PDF</button>
 
-<div id="pdf-container" style="display: none; margin-top: 16px;">
+<div id="pdf-test" style="display: none; margin-top: 16px;">
   <iframe
     src="https://drive.google.com/file/d/1qibDYPtj1ndLqexbknvSU1R3BRuomes0/preview"
     width="100%"
-    height="650"
+    height="500"
+    style="border:none;"
+  ></iframe>
+</div>
+
+<button class="open-pdf" onclick="togglePdf('pdf-transcript')">Transcript</button>
+
+<div id="pdf-transcript" style="display: none; margin-top: 16px;">
+  <iframe
+    src="https://drive.google.com/file/d/1SygVw27X9plsjizV8ykwPkgL0JYqIbEa/preview"
+    width="100%"
+    height="500"
     style="border:none;"
   ></iframe>
 </div>
