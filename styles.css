@@ -373,31 +373,34 @@ span.loading::after {
   padding: 5px 10px
 }
 
-.pdf-iframe {
-  width: 100%;
-  height: 500px;
-  border: none;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, .15);
-  transform-origin: top left;
-}
-
 .pdf-toolbar {
   margin-bottom: 8px;
 }
 
 .pdf-toolbar button {
-  width: 36px;
-  height: 36px;
-  font-size: 20px;
+  width: 30px;
+  height: 30px;
   cursor: pointer;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2px;
 }
 
 .pdf-wrapper {
   width: 100%;
   height: 500px;
   overflow: auto;
-  border: 1px solid #ddd;
+  margin-bottom: 16px;
+}
+
+.pdf-iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, .15);
+  transform-origin: top left;
 }
 
 @media only screen and (max-width: 480px) {

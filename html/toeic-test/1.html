@@ -1,23 +1,26 @@
-<button class="open-pdf" onclick="togglePdf('pdf-test', '001', 'test')">
+<button class="open-pdf" onclick="togglePdf('pdf-test-001', '001', 'test')">
   PDF
 </button>
 
-<div class="pdf-toolbar">
-  <button onclick="pdfZoomOut()">−</button>
-  <button onclick="pdfZoomIn()">+</button>
-</div>
-
-<div class="pdf-wrapper" id="pdf-test" style="display: none; margin-top: 16px;">
+<div class="pdf-wrapper" id="pdf-test-001" style="display: none; margin-top: 8px;">
+  <div class="pdf-toolbar">
+    <button onclick="pdfZoomOut('pdf-test-001')">−</button>
+    <button onclick="pdfZoomIn('pdf-test-001')">+</button>
+  </div>
   <iframe class="pdf-iframe"></iframe>
 </div>
 
-<button class="open-pdf" onclick="togglePdf('pdf-transcript', '001', 'transcript')">Transcript</button>
+<button class="open-pdf" onclick="togglePdf('pdf-transcript-001', '001', 'transcript')">Transcript</button>
 
-<div id="pdf-transcript" style="display: none; margin-top: 16px;">
+<div class="pdf-wrapper" id="pdf-transcript-001" style="display: none; margin-top: 8px;">
+  <div class="pdf-toolbar">
+    <button onclick="pdfZoomOut('pdf-transcript-001')">−</button>
+    <button onclick="pdfZoomIn('pdf-transcript-001')">+</button>
+  </div>
   <iframe class="pdf-iframe"></iframe>
 </div>
 
-<button class="audio-play-all" onclick="playAll(toeicTestMp3, ['001', '004'], 0.95)">Part 1 - Part 4</button>
+<button class="audio-play-all" onclick="playAll(toeicTestMp3, ['001', '004'], 0.95)">Listen All Part 1 -> Part 4</button>
 <br /><br />
 
 <h2>Test 001 - part 1</h2>

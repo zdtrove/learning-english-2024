@@ -564,16 +564,18 @@ function togglePdf(containerId, code, type) {
   }
 }
 
-function pdfZoomIn() {
+function pdfZoomIn(containerId) {
   pdfScale = Math.min(pdfScale + pdfStep, pdfMaxScale);
-  pdfApplyZoom();
+  pdfApplyZoom(containerId);
 }
 
-function pdfZoomOut() {
+function pdfZoomOut(containerId) {
   pdfScale = Math.max(pdfScale - pdfStep, pdfMinScale);
-  pdfApplyZoom();
+  pdfApplyZoom(containerId);
 }
 
-function pdfApplyZoom() {
-  document.querySelector('.pdf-iframe').style.transform = `scale(${pdfScale})`;
+function pdfApplyZoom(containerId) {
+  const container = document.getElementById(containerId);
+  const iframe = container.querySelector('iframe');
+  iframe.style.transform = `scale(${pdfScale})`;
 }
