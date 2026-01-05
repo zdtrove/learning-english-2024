@@ -2,7 +2,12 @@
   PDF
 </button>
 
-<div id="pdf-test" style="display: none; margin-top: 16px;">
+<div class="pdf-toolbar">
+  <button onclick="pdfZoomOut()">−</button>
+  <button onclick="pdfZoomIn()">+</button>
+</div>
+
+<div class="pdf-wrapper" id="pdf-test" style="display: none; margin-top: 16px;">
   <iframe class="pdf-iframe"></iframe>
 </div>
 

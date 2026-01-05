@@ -6,6 +6,10 @@ let autoScrollInterval = null;
 let wakeLock = null;
 let currentIndex = 0;
 let currentPlaylist = [];
+let pdfScale = 1;
+const pdfStep = 0.1;
+const pdfMinScale = 0.7;
+const pdfMaxScale = 2;
 const audioAll = document.getElementById('audioAll');
 const API_URL = 'https://node-api-delta-bice.vercel.app/api/vocabulary';
 const AUDIO_URL = 'https://dl.dropboxusercontent.com/scl/fi/';
@@ -558,4 +562,18 @@ function togglePdf(containerId, code, type) {
     iframe.src = '';
     container.style.display = 'none';
   }
+}
+
+function pdfZoomIn() {
+  pdfScale = Math.min(pdfScale + pdfStep, pdfMaxScale);
+  pdfApplyZoom();
+}
+
+function pdfZoomOut() {
+  pdfScale = Math.max(pdfScale - pdfStep, pdfMinScale);
+  pdfApplyZoom();
+}
+
+function pdfApplyZoom() {
+  document.querySelector('.pdf-iframe').style.transform = `scale(${pdfScale})`;
 }
