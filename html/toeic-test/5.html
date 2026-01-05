@@ -1,18 +1,18 @@
 <button class="open-pdf" onclick="togglePdf('pdf-test-005', '005', 'test')">PDF</button>
+<div class="pdf-toolbar">
+  <button onclick="pdfZoomOut('pdf-test-005')">−</button>
+  <button onclick="pdfZoomIn('pdf-test-005')">+</button>
+</div>
 <div class="pdf-wrapper" id="pdf-test-005" style="display: none;">
-  <div class="pdf-toolbar">
-    <button onclick="pdfZoomOut('pdf-test-005')">−</button>
-    <button onclick="pdfZoomIn('pdf-test-005')">+</button>
-  </div>
   <iframe></iframe>
 </div>
 
 <button class="open-pdf" onclick="togglePdf('pdf-transcript-005', '005', 'transcript')">Transcript</button>
+<div class="pdf-toolbar">
+  <button onclick="pdfZoomOut('pdf-transcript-005')">−</button>
+  <button onclick="pdfZoomIn('pdf-transcript-005')">+</button>
+</div>
 <div class="pdf-wrapper" id="pdf-transcript-005" style="display: none;">
-  <div class="pdf-toolbar">
-    <button onclick="pdfZoomOut('pdf-transcript-005')">−</button>
-    <button onclick="pdfZoomIn('pdf-transcript-005')">+</button>
-  </div>
   <iframe></iframe>
 </div>
 
