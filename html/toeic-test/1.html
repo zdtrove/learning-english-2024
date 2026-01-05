@@ -1,29 +1,22 @@
-<button class="open-pdf" onclick="togglePdf('pdf-test-001', '001', 'test')">
-  PDF
-</button>
-
-<div class="pdf-wrapper" id="pdf-test-001" style="display: none; margin-top: 8px;">
+<button class="open-pdf" onclick="togglePdf('pdf-test-001', '001', 'test')">PDF</button>
+<div class="pdf-wrapper" id="pdf-test-001" style="display: none;">
   <div class="pdf-toolbar">
     <button onclick="pdfZoomOut('pdf-test-001')">−</button>
     <button onclick="pdfZoomIn('pdf-test-001')">+</button>
   </div>
-  <iframe class="pdf-iframe"></iframe>
+  <iframe></iframe>
 </div>
 
 <button class="open-pdf" onclick="togglePdf('pdf-transcript-001', '001', 'transcript')">Transcript</button>
-
-<div class="pdf-wrapper" id="pdf-transcript-001" style="display: none; margin-top: 8px;">
+<div class="pdf-wrapper" id="pdf-transcript-001" style="display: none;">
   <div class="pdf-toolbar">
     <button onclick="pdfZoomOut('pdf-transcript-001')">−</button>
     <button onclick="pdfZoomIn('pdf-transcript-001')">+</button>
   </div>
-  <iframe class="pdf-iframe"></iframe>
+  <iframe></iframe>
 </div>
 
-<button class="audio-play-all" onclick="playAll(toeicTestMp3, ['001', '004'], 0.95)">Listen All Part 1 -> Part 4</button>
-<br /><br />
-
-<h2>Test 001 - part 1</h2>
+<h2>Listen Part 1</h2>
 <div class="audio-wrapper">
   <audio class="audio" controls></audio>
   <button class="audio-play" onclick="loadAudio(toeicTestMp3['001'], this, false)">▶</button>
@@ -39,7 +32,7 @@
   </div>
 </div>
 
-<h2>Test 001 - part 2</h2>
+<h2>Listen Part 2</h2>
 <div class="audio-wrapper">
   <audio class="audio" controls></audio>
   <button class="audio-play" onclick="loadAudio(toeicTestMp3['002'], this, false)">▶</button>
@@ -55,7 +48,7 @@
   </div>
 </div>
 
-<h2>Test 001 - part 3</h2>
+<h2>Listen Part 3</h2>
 <div class="audio-wrapper">
   <audio class="audio" controls></audio>
   <button class="audio-play" onclick="loadAudio(toeicTestMp3['003'], this, false)">▶</button>
@@ -71,7 +64,7 @@
   </div>
 </div>
 
-<h2>Test 001 - part 4</h2>
+<h2>Listen Part 4</h2>
 <div class="audio-wrapper">
   <audio class="audio" controls></audio>
   <button class="audio-play" onclick="loadAudio(toeicTestMp3['004'], this, false)">▶</button>
@@ -86,3 +79,5 @@
     <button class="audio-next" onclick="audioNext(this)">5s 🔜</button>
   </div>
 </div>
+
+<button class="audio-play-all" onclick="playAll(toeicTestMp3, ['001', '004'], 0.95)">Listen All Part 1 -> Part 4</button>
