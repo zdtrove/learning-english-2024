@@ -367,7 +367,7 @@ span.loading::after {
   opacity: 0.9;
 }
 
-.audio-play-all {
+.audio-play-all, .open-pdf {
   cursor: pointer;
   border-radius: 5px;
   padding: 5px 10px
