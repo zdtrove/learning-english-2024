@@ -1179,6 +1179,10 @@ const toeicTestMp3 = {
   '006': 'qn1cfoetogvrgfgqhnfj3/006.mp3?rlkey=ugd43xf46isljg6l0sw33uvjk',
   '007': 'd2ixbckrke4j5auirrhx8/007.mp3?rlkey=l56p0nij3t7awigwyl6qczewn',
   '008': 'ipr3q2k2qsak5f9ev4obe/008.mp3?rlkey=ofxzwahtdn34ejpsqfzyjvpl9',
+  '009': '02fdajvxvjx5y6j8n1om9/009.mp3?rlkey=9aun147wlwe9e9pspngofxwu1',
+  '010': 'fi5qybp66pkcaz31mm1j2/010.mp3?rlkey=yqs4ona1q5w411571gs96k414',
+  '011': 'uq5j8ms5qnwmqkj6ptyth/011.mp3?rlkey=5uuerde2tt788t3uh4ld2hap9',
+  '012': '0ckom8jpl930gnt1baik5/012.mp3?rlkey=2u87ilc9hjwtu0yfkgwt5rn5j',
 }
 
 const toeicTestPdf = {
