@@ -558,9 +558,11 @@ function togglePdf(containerId, code, type) {
   if (isHidden) {
     iframe.src = toeicTestPdf[code][type];
     container.style.display = 'block';
+    container.previousElementSibling.style.display = 'inline';
   } else {
     iframe.src = '';
     container.style.display = 'none';
+    container.previousElementSibling.style.display = 'none';
   }
 }
 

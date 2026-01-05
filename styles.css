@@ -373,8 +373,13 @@ span.loading::after {
   padding: 5px 10px
 }
 
+.open-pdf {
+  margin-bottom: 4px;
+}
+
 .pdf-toolbar {
-  margin-bottom: 8px;
+  margin-bottom: 12px;
+  display: none;
 }
 
 .pdf-toolbar button {
@@ -392,16 +397,16 @@ span.loading::after {
   height: 450px;
   overflow: auto;
   margin-top: 8px;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .pdf-wrapper iframe {
-    width: 100%;
-    height: 100%;
-    border: none;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, .15);
-    transform-origin: top left;
+  width: 100%;
+  height: 100%;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, .15);
+  transform-origin: top left;
 }
 
 @media only screen and (max-width: 480px) {
