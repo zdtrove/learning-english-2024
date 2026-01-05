@@ -1,0 +1,83 @@
+<button class="open-pdf" onclick="togglePdf('pdf-test-007', '007', 'test')">PDF</button>
+<div class="pdf-wrapper" id="pdf-test-007" style="display: none;">
+  <div class="pdf-toolbar">
+    <button onclick="pdfZoomOut('pdf-test-007')">−</button>
+    <button onclick="pdfZoomIn('pdf-test-007')">+</button>
+  </div>
+  <iframe></iframe>
+</div>
+
+<button class="open-pdf" onclick="togglePdf('pdf-transcript-007', '007', 'transcript')">Transcript</button>
+<div class="pdf-wrapper" id="pdf-transcript-007" style="display: none;">
+  <div class="pdf-toolbar">
+    <button onclick="pdfZoomOut('pdf-transcript-007')">−</button>
+    <button onclick="pdfZoomIn('pdf-transcript-007')">+</button>
+  </div>
+  <iframe></iframe>
+</div>
+
+<h2>Listen Part 1</h2>
+<div class="audio-wrapper">
+  <audio class="audio" controls></audio>
+  <button class="audio-play" onclick="loadAudio(toeicTestMp3['025'], this, false)">▶</button>
+  <div class="action">
+    <button class="audio-repeat" onclick="repeat(this)">🔙 5s</button>
+    <select class="audio-speed" onchange="changeSpeed(this)">
+      <option value="1">🚀 1</option>
+      <option value="0.8">🚀 0.8</option>
+      <option value="0.85">🚀 0.85</option>
+      <option value="0.9">🚀 0.9</option>
+    </select>
+    <button class="audio-next" onclick="audioNext(this)">5s 🔜</button>
+  </div>
+</div>
+
+<h2>Listen Part 2</h2>
+<div class="audio-wrapper">
+  <audio class="audio" controls></audio>
+  <button class="audio-play" onclick="loadAudio(toeicTestMp3['026'], this, false)">▶</button>
+  <div class="action">
+    <button class="audio-repeat" onclick="repeat(this)">🔙 5s</button>
+    <select class="audio-speed" onchange="changeSpeed(this)">
+      <option value="1">🚀 1</option>
+      <option value="0.8">🚀 0.8</option>
+      <option value="0.85">🚀 0.85</option>
+      <option value="0.9">🚀 0.9</option>
+    </select>
+    <button class="audio-next" onclick="audioNext(this)">5s 🔜</button>
+  </div>
+</div>
+
+<h2>Listen Part 3</h2>
+<div class="audio-wrapper">
+  <audio class="audio" controls></audio>
+  <button class="audio-play" onclick="loadAudio(toeicTestMp3['027'], this, false)">▶</button>
+  <div class="action">
+    <button class="audio-repeat" onclick="repeat(this)">🔙 5s</button>
+    <select class="audio-speed" onchange="changeSpeed(this)">
+      <option value="1">🚀 1</option>
+      <option value="0.8">🚀 0.8</option>
+      <option value="0.85">🚀 0.85</option>
+      <option value="0.9">🚀 0.9</option>
+    </select>
+    <button class="audio-next" onclick="audioNext(this)">5s 🔜</button>
+  </div>
+</div>
+
+<h2>Listen Part 4</h2>
+<div class="audio-wrapper">
+  <audio class="audio" controls></audio>
+  <button class="audio-play" onclick="loadAudio(toeicTestMp3['028'], this, false)">▶</button>
+  <div class="action">
+    <button class="audio-repeat" onclick="repeat(this)">🔙 5s</button>
+    <select class="audio-speed" onchange="changeSpeed(this)">
+      <option value="1">🚀 1</option>
+      <option value="0.8">🚀 0.8</option>
+      <option value="0.85">🚀 0.85</option>
+      <option value="0.9">🚀 0.9</option>
+    </select>
+    <button class="audio-next" onclick="audioNext(this)">5s 🔜</button>
+  </div>
+</div>
+
+<button class="audio-play-all" onclick="playAll(toeicTestMp3, ['025', '028'], 0.95)">Listen All Part 1 -> Part 4</button>
