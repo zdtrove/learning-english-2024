@@ -107,7 +107,7 @@ const sectionList = [
   {
     name: 'toeic-test',
     active: true,
-    pages: 3,
+    pages: 5,
   }
 ];
 
