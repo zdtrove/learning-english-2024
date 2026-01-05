@@ -545,7 +545,17 @@ audioAll.addEventListener('ended', () => {
   playCurrent();
 });
 
-function togglePdf(id) {
-  const el = document.getElementById(id);
-  el.style.display = el.style.display === 'none' ? 'block' : 'none';
+function togglePdf(containerId, code, type) {
+  const container = document.getElementById(containerId);
+  const iframe = container.querySelector('iframe');
+
+  const isHidden = container.style.display === 'none';
+
+  if (isHidden) {
+    iframe.src = toeicTestPdf[code][type];
+    container.style.display = 'block';
+  } else {
+    iframe.src = '';
+    container.style.display = 'none';
+  }
 }

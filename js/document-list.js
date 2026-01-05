@@ -1176,3 +1176,10 @@ const toeicTestMp3 = {
   '003': 'ilo8lr1vawv33xkmft51c/003.mp3?rlkey=p99dbcxhhcfqhxscguq0f9rl5',
   '004': '4zoet7dap7u7y48du8mq0/004.mp3?rlkey=s8nltauql7rf1exv05lme4miq',
 }
+
+const toeicTestPdf = {
+  '001': {
+    test: 'https://drive.google.com/file/d/1qibDYPtj1ndLqexbknvSU1R3BRuomes0/preview',
+    transcript: 'https://drive.google.com/file/d/1SygVw27X9plsjizV8ykwPkgL0JYqIbEa/preview',
+  }
+}
