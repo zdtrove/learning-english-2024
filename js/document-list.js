@@ -1195,43 +1195,43 @@ const toeicTestMp3 = {
 
 const toeicTestPdf = {
   '001': {
-    test: 'https://drive.google.com/file/d/1qibDYPtj1ndLqexbknvSU1R3BRuomes0/preview',
-    transcript: 'https://drive.google.com/file/d/1SygVw27X9plsjizV8ykwPkgL0JYqIbEa/preview',
+    test: '1qibDYPtj1ndLqexbknvSU1R3BRuomes0',
+    transcript: '1SygVw27X9plsjizV8ykwPkgL0JYqIbEa',
   },
   '002': {
-    test: 'https://drive.google.com/file/d/1Nb2wMBJuhz_Jzpg6NMcLdqfPVDAMYyID/preview',
-    transcript: 'https://drive.google.com/file/d/19rBBgES1XhTWW0UClcduOHRqAQzZD7hM/preview',
+    test: '1Nb2wMBJuhz_Jzpg6NMcLdqfPVDAMYyID',
+    transcript: '19rBBgES1XhTWW0UClcduOHRqAQzZD7hM',
   },
   '003': {
-    test: 'https://drive.google.com/file/d/1af0pxd1oZgQ7W4DB5ATMwlezqfUNMRNc/preview',
-    transcript: 'https://drive.google.com/file/d/1fMDGxOhIC6PB5oVqr27UMVVHu-rng8g_/preview',
+    test: '1af0pxd1oZgQ7W4DB5ATMwlezqfUNMRNc',
+    transcript: '1fMDGxOhIC6PB5oVqr27UMVVHu-rng8g_',
   },
   '004': {
-    test: 'https://drive.google.com/file/d/1RgmtJtEbFRPfBbiNVPeoM1RhdvznPycu/preview',
-    transcript: 'https://drive.google.com/file/d/1W8mo3zxEP2BP7TSOVbQ64cgAWXYJ7MNe/preview',
+    test: '1RgmtJtEbFRPfBbiNVPeoM1RhdvznPycu',
+    transcript: '1W8mo3zxEP2BP7TSOVbQ64cgAWXYJ7MNe',
   },
   '005': {
-    test: 'https://drive.google.com/file/d/18yYTrlyoNWZeEYjoCYZIC_hFQWjfOatf/preview',
-    transcript: 'https://drive.google.com/file/d/1zefCXaTRl5PxfNfkRMnal-dumlPEWlWp/preview',
+    test: '18yYTrlyoNWZeEYjoCYZIC_hFQWjfOatf',
+    transcript: '1zefCXaTRl5PxfNfkRMnal-dumlPEWlWp',
   },
   '006': {
-    test: 'https://drive.google.com/file/d/1HGxq2rBBBBXr5uiMvJTYpvEATNRIxpRn/preview',
-    transcript: 'https://drive.google.com/file/d/15ZSc8rbNkMlyB-NSqsvH377dSe8S8FVR/preview',
+    test: '1HGxq2rBBBBXr5uiMvJTYpvEATNRIxpRn',
+    transcript: '15ZSc8rbNkMlyB-NSqsvH377dSe8S8FVR',
   },
   '007': {
-    test: 'https://drive.google.com/file/d/1I0JqRmXEkPqKxgmnX4spkCj8DtkUeogW/preview',
-    transcript: 'https://drive.google.com/file/d/1C5lUJoqmEyho5-Q-7j4zMVdS6hgp5p9b/preview',
+    test: '1I0JqRmXEkPqKxgmnX4spkCj8DtkUeogW',
+    transcript: '1C5lUJoqmEyho5-Q-7j4zMVdS6hgp5p9b',
   },
   '008': {
-    test: 'https://drive.google.com/file/d/1YlZ07EyeQCWII9ixXAWgm1M_Et8FVmsh/preview',
-    transcript: 'https://drive.google.com/file/d/1sEDoH5Gdmg0jeUa0WlMe6OdxTUOC0za5/preview',
+    test: '1YlZ07EyeQCWII9ixXAWgm1M_Et8FVmsh',
+    transcript: '1sEDoH5Gdmg0jeUa0WlMe6OdxTUOC0za5',
   },
   '009': {
-    test: 'https://drive.google.com/file/d/1vX2bvnqHfaaVhIiko8WinQNIEvpptIdC/preview',
-    transcript: 'https://drive.google.com/file/d/1Si-97mthggaAMrUCCGHHjNlvFFqWRKHE/preview',
+    test: '1vX2bvnqHfaaVhIiko8WinQNIEvpptIdC',
+    transcript: '1Si-97mthggaAMrUCCGHHjNlvFFqWRKHE',
   },
   '010': {
-    test: 'https://drive.google.com/file/d/1xnMf96KpItZXRk0H3Sas8t1ipY9x-R40/preview',
-    transcript: 'https://drive.google.com/file/d/1rCU_u4G4Bq7VZPEt4P3Tn9bohEbT67ET/preview',
+    test: '1xnMf96KpItZXRk0H3Sas8t1ipY9x-R40',
+    transcript: '1rCU_u4G4Bq7VZPEt4P3Tn9bohEbT67ET',
   },
 }

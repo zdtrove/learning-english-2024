@@ -13,6 +13,7 @@ const pdfMaxScale = 2;
 const audioAll = document.getElementById('audioAll');
 const API_URL = 'https://node-api-delta-bice.vercel.app/api/vocabulary';
 const AUDIO_URL = 'https://dl.dropboxusercontent.com/scl/fi/';
+const DRIVE_URL = 'https://drive.google.com/file/d/';
 const sectionList = [
   {
     name: 'conversation',
@@ -556,7 +557,7 @@ function togglePdf(containerId, code, type) {
   const isHidden = container.style.display === 'none';
 
   if (isHidden) {
-    iframe.src = toeicTestPdf[code][type];
+    iframe.src = `${DRIVE_URL}${toeicTestPdf[code][type]}/preview`;
     container.style.display = 'block';
     container.previousElementSibling.style.display = 'inline';
   } else {
