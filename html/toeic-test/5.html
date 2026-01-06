@@ -1,19 +1,25 @@
-<button class="open-pdf" onclick="togglePdf('pdf-test-005', '005', 'test')">PDF</button>
-<div class="pdf-toolbar">
-  <button onclick="pdfZoomOut('pdf-test-005')">−</button>
-  <button onclick="pdfZoomIn('pdf-test-005')">+</button>
-</div>
-<div class="pdf-wrapper" id="pdf-test-005" style="display: none;">
-  <iframe></iframe>
+<div class="pdf-block" data-pdf="https://raw.githubusercontent.com/zdtrove/toeic-test-pdf/main/pdf/test-005.pdf">
+  <div class="pdf-toolbar">
+    <button class="toggle-pdf">PDF</button>
+    <button class="zoom-in" style="display: none;">+</button>
+    <button class="zoom-out" style="display: none;">-</button>
+  </div>
+
+  <div class="pdf-container" style="display: none;">
+    <div class="pdf-viewer"></div>
+  </div>
 </div>
 
-<button class="open-pdf" onclick="togglePdf('pdf-transcript-005', '005', 'transcript')">Transcript</button>
-<div class="pdf-toolbar">
-  <button onclick="pdfZoomOut('pdf-transcript-005')">−</button>
-  <button onclick="pdfZoomIn('pdf-transcript-005')">+</button>
-</div>
-<div class="pdf-wrapper" id="pdf-transcript-005" style="display: none;">
-  <iframe></iframe>
+<div class="pdf-block" data-pdf="https://raw.githubusercontent.com/zdtrove/toeic-test-pdf/main/pdf/transcript-test-005.pdf">
+  <div class="pdf-toolbar">
+    <button class="toggle-pdf">Transcript</button>
+    <button class="zoom-in" style="display: none;">+</button>
+    <button class="zoom-out" style="display: none;">-</button>
+  </div>
+
+  <div class="pdf-container" style="display: none;">
+    <div class="pdf-viewer"></div>
+  </div>
 </div>
 
 <h2>Listen Part 1</h2>
