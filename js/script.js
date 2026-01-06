@@ -550,43 +550,10 @@ audioAll.addEventListener('ended', () => {
   playCurrent();
 });
 
-function togglePdf(containerId, code, type) {
-  const container = document.getElementById(containerId);
-  const iframe = container.querySelector('iframe');
-
-  const isHidden = container.style.display === 'none';
-
-  if (isHidden) {
-    iframe.src = `${DRIVE_URL}${toeicTestPdf[code][type]}/preview`;
-    container.style.display = 'block';
-    container.previousElementSibling.style.display = 'inline';
-  } else {
-    iframe.src = '';
-    container.style.display = 'none';
-    container.previousElementSibling.style.display = 'none';
-  }
-}
-
-function pdfZoomIn(containerId) {
-  pdfScale = Math.min(pdfScale + pdfStep, pdfMaxScale);
-  pdfApplyZoom(containerId);
-}
-
-function pdfZoomOut(containerId) {
-  pdfScale = Math.max(pdfScale - pdfStep, pdfMinScale);
-  pdfApplyZoom(containerId);
-}
-
-function pdfApplyZoom(containerId) {
-  const container = document.getElementById(containerId);
-  const iframe = container.querySelector('iframe');
-  iframe.style.transform = `scale(${pdfScale})`;
-}
-
 async function fitToWidth(pdfDoc, container) {
   const page = await pdfDoc.getPage(1);
 
-  const rect = container.getBoundingClientRect(); // ✅ chuẩn hơn clientWidth
+  const rect = container.getBoundingClientRect();
   const viewport = page.getViewport({ scale: 1 });
 
   scale = rect.width / viewport.width;
@@ -691,4 +658,4 @@ setTimeout(() => {
       }
     });
   });
-}, 2000);
+}, 1500);
