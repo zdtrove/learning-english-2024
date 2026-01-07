@@ -142,7 +142,9 @@ function changeTab(evt, lessonName) {
   activeFirstItemSection(lessonName);
 
   if (lessonName === 'toeic-test') {
-    initPDF();
+    setTimeout(() => {
+      initPDF();
+    }, 500);
   }
 }
 
