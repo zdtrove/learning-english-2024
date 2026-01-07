@@ -140,6 +140,10 @@ function changeTab(evt, lessonName) {
   evt.currentTarget.className += " active";
 
   activeFirstItemSection(lessonName);
+
+  if (lessonName === 'toeic-test') {
+    initPDF();
+  }
 }
 
 function activeFirstItemSection(sectionClass) {
@@ -561,116 +565,101 @@ async function fitToWidth(pdfDoc, container) {
   scale = rect.width / viewport.width;
 }
 
-function initPdfBlock(block) {
-  // tránh init lại nhiều lần
-  if (block.dataset.pdfInited) return;
-  block.dataset.pdfInited = 'true';
+function initPDF() {
+  document.querySelectorAll('.pdf-block').forEach(block => {
+    const toggleBtn = block.querySelector('.toggle-pdf');
+    const zoomInBtn = block.querySelector('.zoom-in');
+    const zoomOutBtn = block.querySelector('.zoom-out');
 
-  const toggleBtn = block.querySelector('.toggle-pdf');
-  const zoomInBtn = block.querySelector('.zoom-in');
-  const zoomOutBtn = block.querySelector('.zoom-out');
+    const container = block.querySelector('.pdf-container');
+    const viewer = block.querySelector('.pdf-viewer');
+    const url = block.dataset.pdf;
 
-  const container = block.querySelector('.pdf-container');
-  const viewer = block.querySelector('.pdf-viewer');
-  const url = block.dataset.pdf;
+    let pdfDoc = null;
+    let scale = 0.75;
+    let isRendered = false;
 
-  let pdfDoc = null;
-  let scale = 0.75;
-  let isRendered = false;
-
-  pdfjsLib.getDocument(url).promise.then(pdf => {
-    pdfDoc = pdf;
-  });
-
-  function renderAllPages() {
-    const prevScrollTop = container.scrollTop;
-    const prevScrollLeft = container.scrollLeft;
-
-    viewer.innerHTML = '';
-
-    for (let i = 1; i <= pdfDoc.numPages; i++) {
-      pdfDoc.getPage(i).then(page => {
-        const viewport = page.getViewport({ scale });
-
-        const canvas = document.createElement('canvas');
-        const ctx = canvas.getContext('2d');
-
-        canvas.width = viewport.width;
-        canvas.height = viewport.height;
-        canvas.style.display = 'block';
-        canvas.style.margin = '16px auto';
-        canvas.style.background = '#fff';
-
-        viewer.appendChild(canvas);
-
-        page.render({
-          canvasContext: ctx,
-          viewport
-        });
-      });
-    }
-
-    requestAnimationFrame(() => {
-      container.scrollTop = prevScrollTop;
-      container.scrollLeft = prevScrollLeft;
+    // Load metadata PDF
+    pdfjsLib.getDocument(url).promise.then(pdf => {
+      pdfDoc = pdf;
     });
 
-    isRendered = true;
-  }
+    function renderAllPages() {
+      // giữ scroll khi zoom
+      const prevScrollTop = container.scrollTop;
+      const prevScrollLeft = container.scrollLeft;
 
-  toggleBtn.addEventListener('click', async () => {
-    const isHidden = container.style.display === 'none';
+      viewer.innerHTML = '';
 
-    if (isHidden) {
-      container.style.display = 'block';
-      zoomInBtn.style.display = 'inline';
-      zoomOutBtn.style.display = 'inline';
+      for (let i = 1; i <= pdfDoc.numPages; i++) {
+        pdfDoc.getPage(i).then(page => {
+          const viewport = page.getViewport({ scale });
 
-      if (!isRendered) {
-        requestAnimationFrame(async () => {
-          await fitToWidth(pdfDoc, container);
-          renderAllPages();
+          const canvas = document.createElement('canvas');
+          const ctx = canvas.getContext('2d');
+
+          canvas.width = viewport.width;
+          canvas.height = viewport.height;
+          canvas.style.display = 'block';
+          canvas.style.margin = '16px auto';
+          canvas.style.background = '#fff';
+
+          viewer.appendChild(canvas);
+
+          page.render({
+            canvasContext: ctx,
+            viewport
+          });
         });
       }
-    } else {
-      container.style.display = 'none';
-      zoomInBtn.style.display = 'none';
-      zoomOutBtn.style.display = 'none';
+
+      // restore scroll
+      setTimeout(() => {
+        container.scrollTop = prevScrollTop;
+        container.scrollLeft = prevScrollLeft;
+      }, 0);
+
+      isRendered = true;
     }
-  });
 
-  zoomInBtn.addEventListener('click', () => {
-    if (!pdfDoc) return;
-    scale += 0.25;
-    renderAllPages();
-  });
+    // Toggle PDF
+    toggleBtn.addEventListener('click', async () => {
+      const isHidden = container.style.display === 'none';
 
-  zoomOutBtn.addEventListener('click', () => {
-    if (!pdfDoc) return;
-    scale = Math.max(scale - 0.25, 0.4);
-    renderAllPages();
+      if (isHidden) {
+        container.style.display = 'block';
+        zoomInBtn.style.display = 'inline';
+        zoomOutBtn.style.display = 'inline';
+
+        if (!isRendered) {
+          requestAnimationFrame(async () => {
+            await fitToWidth(pdfDoc, container);
+            renderAllPages();
+          });
+        }
+      } else {
+        container.style.display = 'none';
+        zoomInBtn.style.display = 'none';
+        zoomOutBtn.style.display = 'none';
+      }
+    });
+
+    // Zoom +
+    zoomInBtn.addEventListener('click', () => {
+      if (!pdfDoc) return;
+      scale += 0.25;
+      if (container.style.display !== 'none') {
+        renderAllPages();
+      }
+    });
+
+    // Zoom -
+    zoomOutBtn.addEventListener('click', () => {
+      if (!pdfDoc) return;
+      scale = Math.max(scale - 0.25, 0.4);
+      if (container.style.display !== 'none') {
+        renderAllPages();
+      }
+    });
   });
 }
-
-const observer = new MutationObserver(mutations => {
-  mutations.forEach(mutation => {
-    mutation.addedNodes.forEach(node => {
-      if (!(node instanceof HTMLElement)) return;
-
-      // Nếu node chính là pdf-block
-      if (node.classList.contains('pdf-block')) {
-        initPdfBlock(node);
-      }
-
-      // Nếu pdf-block nằm bên trong node mới
-      node.querySelectorAll?.('.pdf-block').forEach(block => {
-        initPdfBlock(block);
-      });
-    });
-  });
-});
-
-observer.observe(document.body, {
-  childList: true,
-  subtree: true
-});
