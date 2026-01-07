@@ -596,7 +596,7 @@ function renderAllPages(pdfDoc, container, viewer, scale, isRendered) {
 }
 
 function initPDF() {
-  document.querySelectorAll('.pdf-block').forEach(block => {
+  document.querySelectorAll('.pdf-block').forEach(async (block) => {
     const toggleBtn = block.querySelector('.toggle-pdf');
     const zoomInBtn = block.querySelector('.zoom-in');
     const zoomOutBtn = block.querySelector('.zoom-out');
@@ -609,7 +609,7 @@ function initPDF() {
     let scale = 0.75;
     let isRendered = false;
 
-    pdfjsLib.getDocument(url).promise.then(pdf => {
+    await pdfjsLib.getDocument(url).promise.then(async pdf => {
       pdfDoc = pdf;
     });
 
