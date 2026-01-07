@@ -663,7 +663,7 @@ function initPDF() {
     zoomOutBtn.addEventListener('click', () => {
       if (!pdfDoc) return;
 
-      scale = Math.max(scale - 0.15, 0.4);
+      scale = Math.max(scale - 0.15, 0.75);
       container.style.display !== 'none' && renderAllPages(pdfDoc, container, viewer, scale, isRendered);
     });
   });
