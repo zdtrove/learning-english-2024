@@ -150,34 +150,40 @@ function activeFirstItemSection(sectionClass) {
   });
 }
 
-function loadContent(filename, elementId) {
-  fetch(filename)
-    .then(response => response.text())
-    .then(data => {
-      document.getElementById(elementId).innerHTML = data;
-    });
+async function loadContent(filename, elementId) {
+  const response = await fetch(filename);
+  const data = await response.text();
+  document.getElementById(elementId).innerHTML = data;
 }
 
-function getSection(num, id) {
-  for (let i = 1; i <= num; i++) {
-    let sectionId = `${id}-${i}`;
-    let sectionFile = `html/${id}/${i}.html`;
+async function getSection(num, id) {
+  const promises = [];
 
-    let sectionDiv = document.createElement('div');
+  for (let i = 1; i <= num; i++) {
+    const sectionId = `${id}-${i}`;
+    const sectionFile = `html/${id}/${i}.html`;
+
+    const sectionDiv = document.createElement('div');
     sectionDiv.id = sectionId;
     sectionDiv.className = id;
     document.getElementById(id).appendChild(sectionDiv);
 
-    loadContent(sectionFile, sectionId);
+    promises.push(loadContent(sectionFile, sectionId));
   }
+
+  await Promise.all(promises);
 }
 
 async function loadAllContents() {
-  sectionList.forEach((section) => {
+  const tasks = [];
+
+  sectionList.forEach(section => {
     if (section.active) {
-      getSection(section.pages, section.name);
+      tasks.push(getSection(section.pages, section.name));
     }
   });
+
+  await Promise.all(tasks);
 
   document.getElementById('ielts-listening').style.display = 'block';
   document.getElementById('ielts-listening-1').style.display = 'block';
