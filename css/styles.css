@@ -407,10 +407,32 @@ span.loading::after {
   background: #f5f5f5;
   margin-top: 8px;
   margin-bottom: 16px;
+  position: relative;
 }
 
 .pdf-viewer canvas {
   height: auto;
+}
+
+.zoom-in, .zoom-out {
+  border-radius: 4px;
+  width: 30px;
+  height: 30px;
+  display: inline-flex !important;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  position: absolute;
+  top: 8px;
+}
+
+.zoom-in {
+  margin-left: 8px;
+  left: 0;
+}
+
+.zoom-out {
+  left: 45px;
 }
 
 @media only screen and (max-width: 480px) {
