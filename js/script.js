@@ -109,11 +109,12 @@ const sectionList = [
 ];
 
 async function keepScreenAwake() {
+  if (!('wakeLock' in navigator)) return;
+
   try {
-    wakeLock = await navigator.wakeLock.request("screen");
-    console.log("Wake Lock activated");
+    wakeLock = await navigator.wakeLock.request('screen');
   } catch (err) {
-    console.error("Wake Lock error:", err);
+    console.warn('WakeLock not supported:', err);
   }
 }
 
