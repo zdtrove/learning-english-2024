@@ -422,13 +422,14 @@ span.loading::after {
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  position: absolute;
+  position: sticky;
   top: 8px;
+  background: #00000070;
+  font-weight: bold;
 }
 
 .zoom-in {
-  margin-left: 8px;
-  left: 0;
+  left: 8px;
 }
 
 .zoom-out {
