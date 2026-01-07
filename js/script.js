@@ -44,7 +44,7 @@ const sectionList = [
   {
     name: 'ielts-listening',
     active: true,
-    pages: 69,
+    pages: 12,
   },
   {
     name: 'level2',
@@ -652,3 +652,6 @@ function initPDF() {
     });
   });
 }
+
+// terser js/script.js -o js/script.min.js -c -m
+// cleancss -o styles.min.css styles.css
