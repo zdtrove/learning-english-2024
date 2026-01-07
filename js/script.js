@@ -245,7 +245,9 @@ function loadAudio(src, button, isScroll = true) {
 
   audio.appendChild(source);
   audio.load();
-  audio.play();
+  audio.play().catch(err => {
+    console.warn('Audio play blocked:', err);
+  });
   audio.addEventListener("play", () => {
     keepScreenAwake();
     startStopBtns.forEach((startStop) => startStop.textContent = "⏸️");
@@ -260,7 +262,9 @@ function loadAudio(src, button, isScroll = true) {
       const h2 = div.previousElementSibling;
 
       h2.scrollIntoView({ behavior: "smooth", block: "start" });
-      audio.play();
+      audio.play().catch(err => {
+        console.warn('Audio play blocked:', err);
+      });
       
       setTimeout(() => {
         isScroll && startScroll();
@@ -306,7 +310,9 @@ function changeAudio(select, isLv2 = false) {
     const audio = select.closest('.audio-wrapper').querySelector('.audio');
     const startTime = parseInt(select.value, 10);
     audio.currentTime = startTime;
-    audio.play();
+    audio.play().catch(err => {
+      console.warn('Audio play blocked:', err);
+    });
   }
 }
 
@@ -338,12 +344,16 @@ async function configAudio() {
 
       if (currentlyPlaying === null) {
         if (lastPlayedAudio && lastPlayedAudio.currentTime > 0 && lastPlayedAudio.currentTime < lastPlayedAudio.duration) {
-          lastPlayedAudio.play();
+          lastPlayedAudio.play().catch(err => {
+            console.warn('Audio play blocked:', err);
+          });
           startStopBtns.forEach((startStop) => startStop.textContent = "⏸️");
         } else {
           audioPlayers.forEach(function (audioPlayer) {
             if (audioPlayer.currentTime > 0 && audioPlayer.currentTime < audioPlayer.duration) {
-              audioPlayer.play();
+              audioPlayer.play().catch(err => {
+                console.warn('Audio play blocked:', err);
+              });
               lastPlayedAudio = audioPlayer;
               startStopBtns.forEach((startStop) => startStop.textContent = "⏸️");
               return;
@@ -390,7 +400,9 @@ function startAudio(element, endTime = null) {
   const audio = element.closest('div').querySelector('.audio');
   const startTime = parseInt(seconds, 10);
   audio.currentTime = startTime;
-  audio.play();
+  audio.play().catch(err => {
+    console.warn('Audio play blocked:', err);
+  });
 
   audio.ontimeupdate = null;
 
@@ -398,7 +410,9 @@ function startAudio(element, endTime = null) {
     audio.ontimeupdate = function() {
       if (audio.currentTime >= endTime) {
         audio.currentTime = startTime;
-        audio.play();
+        audio.play().catch(err => {
+          console.warn('Audio play blocked:', err);
+        });
       }
     };
   }
@@ -446,12 +460,16 @@ function spStartStop(btn) {
 
     if (currentlyPlaying === null) {
       if (lastPlayedAudio && lastPlayedAudio.currentTime > 0 && lastPlayedAudio.currentTime < lastPlayedAudio.duration) {
-        lastPlayedAudio.play();
+        lastPlayedAudio.play().catch(err => {
+          console.warn('Audio play blocked:', err);
+        });
         btn.textContent = "⏸️";
       } else {
         audioPlayers.forEach(function (audioPlayer) {
           if (audioPlayer.currentTime > 0 && audioPlayer.currentTime < audioPlayer.duration) {
-            audioPlayer.play();
+            audioPlayer.play().catch(err => {
+              console.warn('Audio play blocked:', err);
+            });
             lastPlayedAudio = audioPlayer;
             btn.textContent = "⏸️";
             return;
@@ -535,7 +553,9 @@ function playAll(mp3Map, range, speed = 0.85) {
 
 function playCurrent(speed) {
   audioAll.src = `${AUDIO_URL}${currentPlaylist[currentIndex]}`;
-  audioAll.play();
+  audioAll.play().catch(err => {
+    console.warn('Audio play blocked:', err);
+  });
   audioAll.playbackRate = speed;
 }
 
