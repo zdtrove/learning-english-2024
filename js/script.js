@@ -8,14 +8,8 @@ let autoScrollInterval = null;
 let wakeLock = null;
 let currentIndex = 0;
 let currentPlaylist = [];
-let pdfScale = 1;
-const pdfStep = 0.25;
-const pdfMinScale = 0.75;
-const pdfMaxScale = 2;
 const audioAll = document.getElementById('audioAll');
-const API_URL = 'https://node-api-delta-bice.vercel.app/api/vocabulary';
 const AUDIO_URL = 'https://dl.dropboxusercontent.com/scl/fi/';
-const DRIVE_URL = 'https://drive.google.com/file/d/';
 const sectionList = [
   {
     name: 'conversation',
@@ -39,12 +33,12 @@ const sectionList = [
   },
   {
     name: 'english-at-work',
-    active: true,
+    active: false,
     pages: 13,
   },
   {
     name: 'ielts-speaking',
-    active: true,
+    active: false,
     pages: 7,
   },
   {
@@ -54,12 +48,12 @@ const sectionList = [
   },
   {
     name: 'level2',
-    active: true,
+    active: false,
     pages: 11,
   },
   {
     name: 'level6',
-    active: true,
+    active: false,
     pages: 10,
   },
   {
@@ -79,7 +73,7 @@ const sectionList = [
   },
   {
     name: 'mini-novels',
-    active: true,
+    active: false,
     pages: 11,
   },
   {
@@ -94,17 +88,17 @@ const sectionList = [
   },
   {
     name: 'english-graded-4',
-    active: true,
+    active: false,
     pages: 10,
   },
   {
     name: 'lep-podcast',
-    active: true,
+    active: false,
     pages: 1,
   },
   {
     name: 'toeic-listening',
-    active: true,
+    active: false,
     pages: 3,
   },
   {
@@ -581,13 +575,11 @@ function initPDF() {
     let scale = 0.75;
     let isRendered = false;
 
-    // Load metadata PDF
     pdfjsLib.getDocument(url).promise.then(pdf => {
       pdfDoc = pdf;
     });
 
     function renderAllPages() {
-      // giữ scroll khi zoom
       const prevScrollTop = container.scrollTop;
       const prevScrollLeft = container.scrollLeft;
 
@@ -615,7 +607,6 @@ function initPDF() {
         });
       }
 
-      // restore scroll
       setTimeout(() => {
         container.scrollTop = prevScrollTop;
         container.scrollLeft = prevScrollLeft;
@@ -633,12 +624,10 @@ function initPDF() {
         zoomInBtn.style.display = 'inline';
         zoomOutBtn.style.display = 'inline';
 
-        if (!isRendered) {
-          requestAnimationFrame(async () => {
-            await fitToWidth(pdfDoc, container);
-            renderAllPages();
-          });
-        }
+        !isRendered && requestAnimationFrame(async () => {
+          await fitToWidth(pdfDoc, container);
+          renderAllPages();
+        });
       } else {
         container.style.display = 'none';
         zoomInBtn.style.display = 'none';
@@ -649,19 +638,17 @@ function initPDF() {
     // Zoom +
     zoomInBtn.addEventListener('click', () => {
       if (!pdfDoc) return;
+
       scale += 0.25;
-      if (container.style.display !== 'none') {
-        renderAllPages();
-      }
+      container.style.display !== 'none' && renderAllPages();
     });
 
     // Zoom -
     zoomOutBtn.addEventListener('click', () => {
       if (!pdfDoc) return;
+
       scale = Math.max(scale - 0.25, 0.4);
-      if (container.style.display !== 'none') {
-        renderAllPages();
-      }
+      container.style.display !== 'none' && renderAllPages();
     });
   });
 }
