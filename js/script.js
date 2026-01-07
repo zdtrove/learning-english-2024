@@ -8,6 +8,7 @@ let autoScrollInterval = null;
 let wakeLock = null;
 let currentIndex = 0;
 let currentPlaylist = [];
+let isInitPDF = false;
 const audioAll = document.getElementById('audioAll');
 const AUDIO_URL = 'https://dl.dropboxusercontent.com/scl/fi/';
 const sectionList = [
@@ -136,7 +137,7 @@ function changeTab(evt, lessonName) {
 
   activeFirstItemSection(lessonName);
 
-  if (lessonName === 'toeic-test') {
+  if (lessonName === 'toeic-test' && !isInitPDF) {
     initPDF();
   }
 }
@@ -617,6 +618,7 @@ function renderAllPages(pdfDoc, container, viewer, scale, isRendered) {
 }
 
 function initPDF() {
+  isInitPDF = true;
   document.querySelectorAll('.pdf-block').forEach(async (block) => {
     const toggleBtn = block.querySelector('.toggle-pdf');
     const zoomInBtn = block.querySelector('.zoom-in');
