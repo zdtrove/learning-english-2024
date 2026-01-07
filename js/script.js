@@ -670,6 +670,3 @@ function initPDF() {
     });
   });
 }
-
-// terser js/script.js -o js/script.min.js -c -m
-// cleancss -o css/styles.min.css css/styles.css
