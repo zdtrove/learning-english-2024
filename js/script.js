@@ -636,14 +636,14 @@ function initPDF() {
     zoomInBtn.addEventListener('click', () => {
       if (!pdfDoc) return;
 
-      scale += 0.25;
+      scale += 0.15;
       container.style.display !== 'none' && renderAllPages(pdfDoc, container, viewer, scale, isRendered);
     });
 
     zoomOutBtn.addEventListener('click', () => {
       if (!pdfDoc) return;
 
-      scale = Math.max(scale - 0.25, 0.4);
+      scale = Math.max(scale - 0.15, 0.4);
       container.style.display !== 'none' && renderAllPages(pdfDoc, container, viewer, scale, isRendered);
     });
   });
