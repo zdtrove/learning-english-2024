@@ -13,101 +13,24 @@ const audioAll = document.getElementById('audioAll');
 const AUDIO_URL = 'https://dl.dropboxusercontent.com/scl/fi/';
 const PDF_URL = 'https://raw.githubusercontent.com/zdtrove/toeic-test-pdf/main/pdf/';
 const sectionList = [
-  {
-    name: 'conversation',
-    active: false,
-    pages: 1,
-  },
-  {
-    name: 'english-speaking-course',
-    active: false,
-    pages: 19,
-  },
-  {
-    name: 'english-speaking-course',
-    active: false,
-    pages: 19,
-  },
-  {
-    name: 'easy-english',
-    active: false,
-    pages: 2,
-  },
-  {
-    name: 'english-at-work',
-    active: false,
-    pages: 13,
-  },
-  {
-    name: 'ielts-speaking',
-    active: false,
-    pages: 7,
-  },
-  {
-    name: 'ielts-listening',
-    active: true,
-    pages: 12,
-  },
-  {
-    name: 'level2',
-    active: false,
-    pages: 11,
-  },
-  {
-    name: 'level6',
-    active: false,
-    pages: 10,
-  },
-  {
-    name: 'toeic-600-words',
-    active: false,
-    pages: 10,
-  },
-  {
-    name: 'toeic-2000-words',
-    active: false,
-    pages: 3,
-  },
-  {
-    name: 'oxford-online-english',
-    active: false,
-    pages: 11,
-  },
-  {
-    name: 'mini-novels',
-    active: false,
-    pages: 11,
-  },
-  {
-    name: 'english-story',
-    active: false,
-    pages: 2,
-  },
-  {
-    name: 'english-easier-with-eric',
-    active: false,
-    pages: 3,
-  },
-  {
-    name: 'english-graded-4',
-    active: false,
-    pages: 10,
-  },
-  {
-    name: 'lep-podcast',
-    active: false,
-    pages: 1,
-  },
-  {
-    name: 'toeic-listening',
-    active: false,
-    pages: 3,
-  },
-  {
-    name: 'toeic-test',
-    active: true,
-    pages: 10,
-  }
+  { name: 'conversation', active: false, pages: 1 },
+  { name: 'english-speaking-course', active: false, pages: 19 },
+  { name: 'easy-english', active: false, pages: 2 },
+  { name: 'english-at-work', active: false, pages: 13 },
+  { name: 'ielts-speaking', active: false, pages: 7 },
+  { name: 'ielts-listening', active: true, pages: 12 },
+  { name: 'level2', active: false, pages: 11 },
+  { name: 'level6', active: false, pages: 10 },
+  { name: 'toeic-600-words', active: false, pages: 10 },
+  { name: 'toeic-2000-words', active: false, pages: 3 },
+  { name: 'oxford-online-english', active: false, pages: 11 },
+  { name: 'mini-novels', active: false, pages: 11 },
+  { name: 'english-story', active: false, pages: 2 },
+  { name: 'english-easier-with-eric', active: false, pages: 3 },
+  { name: 'english-graded-4', active: false, pages: 10 },
+  { name: 'lep-podcast', active: false, pages: 1 },
+  { name: 'toeic-listening', active: false, pages: 3 },
+  { name: 'toeic-test', active: true, pages: 10 },
 ];
 
 async function keepScreenAwake() {
