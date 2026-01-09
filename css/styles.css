@@ -171,8 +171,19 @@ span {
 
 .audio-repeat,
 .audio-change,
-.audio-next {
+.audio-next,
+.audio-repeat-a,
+.audio-repeat-b,
+.audio-repeat-clear {
   display: none;
+}
+
+.audio-repeat-a,
+.audio-repeat-b,
+.audio-repeat-clear {
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
 }
 
 audio {

@@ -166,6 +166,9 @@ function loadAudio(src, button, isScroll = true) {
   const div = button.nextElementSibling;
   const speed = div.querySelector('select.audio-speed');
   const repeat = div.querySelector('button.audio-repeat');
+  const repeatA = div.querySelector('button.audio-repeat-a');
+  const repeatB = div.querySelector('button.audio-repeat-b');
+  const repeatClear = div.querySelector('button.audio-repeat-clear');
   const next = div.querySelector('button.audio-next');
   const source = document.createElement('source');
   const change = div.querySelector('select.audio-change');
@@ -208,6 +211,9 @@ function loadAudio(src, button, isScroll = true) {
   const arrayChange = [speed, repeat];
   change && arrayChange.push(change);
   next && arrayChange.push(next);
+  repeatA && arrayChange.push(repeatA);
+  repeatB && arrayChange.push(repeatB);
+  repeatClear && arrayChange.push(repeatClear);
   arrayChange.forEach((item) => {
     item.style.display = 'block';
   });
@@ -657,3 +663,71 @@ function initPDF() {
   });
 }
 
+function getAudio(btn) {
+  return btn.closest('.audio-wrapper').querySelector('audio');
+}
+
+function getWrapper(btn) {
+  return btn.closest('.audio-wrapper');
+}
+
+/* ===== A ===== */
+function setPointA(btn) {
+  const audio = getAudio(btn);
+  const wrapper = getWrapper(btn);
+
+  wrapper.dataset.pointA = audio.currentTime;
+  console.log('Set A:', audio.currentTime.toFixed(2));
+}
+
+/* ===== B ===== */
+function setPointB(btn) {
+  const audio = getAudio(btn);
+  const wrapper = getWrapper(btn);
+
+  if (!wrapper.dataset.pointA) {
+    alert('Hãy chọn điểm A trước');
+    return;
+  }
+
+  wrapper.dataset.pointB = audio.currentTime;
+  wrapper.dataset.abLoop = 'true';
+
+  console.log(
+    'Loop A-B:',
+    Number(wrapper.dataset.pointA).toFixed(2),
+    '→',
+    Number(wrapper.dataset.pointB).toFixed(2)
+  );
+
+  startABLoop(audio, wrapper);
+}
+
+/* ===== C (clear loop) ===== */
+function clearAB(btn) {
+  const wrapper = getWrapper(btn);
+
+  delete wrapper.dataset.pointA;
+  delete wrapper.dataset.pointB;
+  delete wrapper.dataset.abLoop;
+
+  console.log('Clear A-B loop');
+}
+
+/* ===== Loop core ===== */
+function startABLoop(audio, wrapper) {
+  if (audio._abHandler) return; // tránh gắn nhiều lần
+
+  audio._abHandler = () => {
+    if (wrapper.dataset.abLoop !== 'true') return;
+
+    const A = Number(wrapper.dataset.pointA);
+    const B = Number(wrapper.dataset.pointB);
+
+    if (audio.currentTime >= B) {
+      audio.currentTime = A;
+    }
+  };
+
+  audio.addEventListener('timeupdate', audio._abHandler);
+}
