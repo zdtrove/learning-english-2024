@@ -621,6 +621,30 @@ function renderAllPages(pdfDoc, container, viewer, scale) {
   }, 0);
 }
 
+function setupZoomControls({
+  container,
+  doc,
+  viewer,
+  scaleRef,
+  minScale = 0.75,
+  step = 0.15,
+}) {
+  container.querySelector('.zoom-in')?.addEventListener('click', () => {
+    scaleRef.value += step;
+    renderAllPages(doc, container, viewer, scaleRef.value);
+  });
+
+  container.querySelector('.zoom-out')?.addEventListener('click', () => {
+    scaleRef.value = Math.max(scaleRef.value - step, minScale);
+    renderAllPages(doc, container, viewer, scaleRef.value);
+  });
+
+  container.querySelector('.zoom-reset')?.addEventListener('click', () => {
+    scaleRef.value = minScale;
+    renderAllPages(doc, container, viewer, scaleRef.value);
+  });
+}
+
 function initPDF() {
   isInitPDF = true;
 
@@ -691,49 +715,21 @@ function initPDF() {
       });
     });
 
-    pdfContainer.querySelector('.zoom-in').addEventListener('click', () => {
-      pdfScale += 0.15;
-      renderAllPages(pdfDoc, pdfContainer, pdfViewer, pdfScale);
+    const pdfScaleRef = { value: 0.75 };
+    const transcriptScaleRef = { value: 0.75 };
+
+    setupZoomControls({
+      container: pdfContainer,
+      doc: pdfDoc,
+      viewer: pdfViewer,
+      scaleRef: pdfScaleRef,
     });
 
-    pdfContainer.querySelector('.zoom-out').addEventListener('click', () => {
-      pdfScale = Math.max(pdfScale - 0.15, 0.75);
-      renderAllPages(pdfDoc, pdfContainer, pdfViewer, pdfScale);
-    });
-
-    pdfContainer.querySelector('.zoom-reset').addEventListener('click', () => {
-      pdfScale = 0.75;
-      renderAllPages(pdfDoc, pdfContainer, pdfViewer, pdfScale);
-    });
-
-    transcriptContainer.querySelector('.zoom-in').addEventListener('click', () => {
-      transcriptScale += 0.15;
-      renderAllPages(
-        transcriptDoc,
-        transcriptContainer,
-        transcriptViewer,
-        transcriptScale
-      );
-    });
-
-    transcriptContainer.querySelector('.zoom-out').addEventListener('click', () => {
-      transcriptScale = Math.max(transcriptScale - 0.15, 0.75);
-      renderAllPages(
-        transcriptDoc,
-        transcriptContainer,
-        transcriptViewer,
-        transcriptScale
-      );
-    });
-
-    transcriptContainer.querySelector('.zoom-reset').addEventListener('click', () => {
-      transcriptScale = 0.75;
-      renderAllPages(
-        transcriptDoc,
-        transcriptContainer,
-        transcriptViewer,
-        transcriptScale
-      );
+    setupZoomControls({
+      container: transcriptContainer,
+      doc: transcriptDoc,
+      viewer: transcriptViewer,
+      scaleRef: transcriptScaleRef,
     });
   });
 }
