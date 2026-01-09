@@ -671,27 +671,35 @@ function getWrapper(btn) {
   return btn.closest('.audio-wrapper');
 }
 
-/* ===== A ===== */
+function resetABButtons(wrapper) {
+  wrapper.querySelectorAll('.audio-repeat-a, .audio-repeat-b')
+    .forEach(btn => btn.classList.remove('ab-active'));
+}
+
 function setPointA(btn) {
   const audio = getAudio(btn);
   const wrapper = getWrapper(btn);
 
   wrapper.dataset.pointA = audio.currentTime;
+
+  btn.classList.add('ab-active');
+
   console.log('Set A:', audio.currentTime.toFixed(2));
 }
 
-/* ===== B ===== */
 function setPointB(btn) {
   const audio = getAudio(btn);
   const wrapper = getWrapper(btn);
 
   if (!wrapper.dataset.pointA) {
-    alert('Hãy chọn điểm A trước');
+    alert('Please click A first');
     return;
   }
 
   wrapper.dataset.pointB = audio.currentTime;
   wrapper.dataset.abLoop = 'true';
+
+  btn.classList.add('ab-active');
 
   console.log(
     'Loop A-B:',
@@ -703,7 +711,6 @@ function setPointB(btn) {
   startABLoop(audio, wrapper);
 }
 
-/* ===== C (clear loop) ===== */
 function clearAB(btn) {
   const wrapper = getWrapper(btn);
 
@@ -711,12 +718,13 @@ function clearAB(btn) {
   delete wrapper.dataset.pointB;
   delete wrapper.dataset.abLoop;
 
+  resetABButtons(wrapper);
+
   console.log('Clear A-B loop');
 }
 
-/* ===== Loop core ===== */
 function startABLoop(audio, wrapper) {
-  if (audio._abHandler) return; // tránh gắn nhiều lần
+  if (audio._abHandler) return;
 
   audio._abHandler = () => {
     if (wrapper.dataset.abLoop !== 'true') return;

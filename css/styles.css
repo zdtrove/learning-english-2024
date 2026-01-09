@@ -186,6 +186,12 @@ span {
   cursor: pointer;
 }
 
+.ab-active {
+  background: #1976d2;
+  color: #fff;
+  font-weight: bold;
+}
+
 audio {
   width: 100%;
 }
