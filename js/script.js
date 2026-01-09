@@ -11,6 +11,7 @@ let currentPlaylist = [];
 let isInitPDF = false;
 const audioAll = document.getElementById('audioAll');
 const AUDIO_URL = 'https://dl.dropboxusercontent.com/scl/fi/';
+const PDF_URL = 'https://raw.githubusercontent.com/zdtrove/toeic-test-pdf/main/pdf/';
 const sectionList = [
   {
     name: 'conversation',
@@ -580,14 +581,13 @@ audioAll.addEventListener('ended', () => {
 
 async function fitToWidth(pdfDoc, container) {
   const page = await pdfDoc.getPage(1);
-
   const rect = container.getBoundingClientRect();
   const viewport = page.getViewport({ scale: 1 });
 
-  scale = rect.width / viewport.width;
+  return rect.width / viewport.width;
 }
 
-function renderAllPages(pdfDoc, container, viewer, scale, isRendered) {
+function renderAllPages(pdfDoc, container, viewer, scale) {
   const prevScrollTop = container.scrollTop;
   const prevScrollLeft = container.scrollLeft;
 
@@ -610,7 +610,7 @@ function renderAllPages(pdfDoc, container, viewer, scale, isRendered) {
 
       page.render({
         canvasContext: ctx,
-        viewport
+        viewport,
       });
     });
   }
@@ -619,60 +619,112 @@ function renderAllPages(pdfDoc, container, viewer, scale, isRendered) {
     container.scrollTop = prevScrollTop;
     container.scrollLeft = prevScrollLeft;
   }, 0);
-
-  isRendered = true;
 }
 
 function initPDF() {
   isInitPDF = true;
-  document.querySelectorAll('.pdf-block').forEach(async (block) => {
-    const toggleBtn = block.querySelector('.toggle-pdf');
-    const zoomInBtn = block.querySelector('.zoom-in');
-    const zoomOutBtn = block.querySelector('.zoom-out');
 
-    const container = block.querySelector('.pdf-container');
-    const viewer = block.querySelector('.pdf-viewer');
-    const url = block.dataset.pdf;
+  document.querySelectorAll('.pdf-block').forEach(async (block) => {
+    const baseId = block.dataset.pdf;
+
+    const toggleBtns = block.querySelectorAll('.toggle-pdf');
+
+    const pdfContainer = block.querySelector('.pdf');
+    const transcriptContainer = block.querySelector('.pdf-transcript');
+
+    const pdfViewer = pdfContainer.querySelector('.pdf-viewer');
+    const transcriptViewer = transcriptContainer.querySelector('.pdf-viewer');
 
     let pdfDoc = null;
-    let scale = 0.75;
-    let isRendered = false;
+    let transcriptDoc = null;
 
-    await pdfjsLib.getDocument(url).promise.then(async pdf => {
-      pdfDoc = pdf;
+    let pdfScale = 0.75;
+    let transcriptScale = 0.75;
+
+    let isPdfRendered = false;
+    let isTranscriptRendered = false;
+
+    // ===== build URL tự động =====
+    const pdfUrl = `${PDF_URL}test-${baseId}.pdf`;
+    const transcriptUrl = `${PDF_URL}transcript-test-${baseId}.pdf`;
+
+    pdfDoc = await pdfjsLib.getDocument(pdfUrl).promise;
+    transcriptDoc = await pdfjsLib.getDocument(transcriptUrl).promise;
+
+    toggleBtns.forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const type = btn.dataset.type;
+
+        // ===== PDF =====
+        if (type === 'pdf') {
+          transcriptContainer.style.display = 'none';
+
+          const isHidden = pdfContainer.style.display === 'none';
+          pdfContainer.style.display = isHidden ? 'block' : 'none';
+
+          if (isHidden && !isPdfRendered) {
+            requestAnimationFrame(async () => {
+              pdfScale = await fitToWidth(pdfDoc, pdfContainer);
+              renderAllPages(pdfDoc, pdfContainer, pdfViewer, pdfScale);
+              isPdfRendered = true;
+            });
+          }
+        }
+
+        // ===== TRANSCRIPT =====
+        if (type === 'transcript') {
+          pdfContainer.style.display = 'none';
+
+          const isHidden = transcriptContainer.style.display === 'none';
+          transcriptContainer.style.display = isHidden ? 'block' : 'none';
+
+          if (isHidden && !isTranscriptRendered) {
+            requestAnimationFrame(async () => {
+              transcriptScale = await fitToWidth(transcriptDoc, transcriptContainer);
+              renderAllPages(
+                transcriptDoc,
+                transcriptContainer,
+                transcriptViewer,
+                transcriptScale
+              );
+              isTranscriptRendered = true;
+            });
+          }
+        }
+      });
     });
 
-    toggleBtn.addEventListener('click', async () => {
-      const isHidden = container.style.display === 'none';
-
-      if (isHidden) {
-        container.style.display = 'block';
-        zoomInBtn.style.display = 'inline';
-        zoomOutBtn.style.display = 'inline';
-
-        !isRendered && requestAnimationFrame(async () => {
-          await fitToWidth(pdfDoc, container);
-          renderAllPages(pdfDoc, container, viewer, scale, isRendered);
-        });
-      } else {
-        container.style.display = 'none';
-        zoomInBtn.style.display = 'none';
-        zoomOutBtn.style.display = 'none';
-      }
+    // ===== ZOOM PDF =====
+    pdfContainer.querySelector('.zoom-in').addEventListener('click', () => {
+      pdfScale += 0.15;
+      renderAllPages(pdfDoc, pdfContainer, pdfViewer, pdfScale);
     });
 
-    zoomInBtn.addEventListener('click', () => {
-      if (!pdfDoc) return;
-
-      scale += 0.15;
-      container.style.display !== 'none' && renderAllPages(pdfDoc, container, viewer, scale, isRendered);
+    pdfContainer.querySelector('.zoom-out').addEventListener('click', () => {
+      pdfScale = Math.max(pdfScale - 0.15, 0.75);
+      renderAllPages(pdfDoc, pdfContainer, pdfViewer, pdfScale);
     });
 
-    zoomOutBtn.addEventListener('click', () => {
-      if (!pdfDoc) return;
+    // ===== ZOOM TRANSCRIPT =====
+    transcriptContainer.querySelector('.zoom-in').addEventListener('click', () => {
+      transcriptScale += 0.15;
+      renderAllPages(
+        transcriptDoc,
+        transcriptContainer,
+        transcriptViewer,
+        transcriptScale
+      );
+    });
 
-      scale = Math.max(scale - 0.15, 0.75);
-      container.style.display !== 'none' && renderAllPages(pdfDoc, container, viewer, scale, isRendered);
+    transcriptContainer.querySelector('.zoom-out').addEventListener('click', () => {
+      transcriptScale = Math.max(transcriptScale - 0.15, 0.75);
+      renderAllPages(
+        transcriptDoc,
+        transcriptContainer,
+        transcriptViewer,
+        transcriptScale
+      );
     });
   });
 }
+
