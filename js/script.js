@@ -644,7 +644,6 @@ function initPDF() {
     let isPdfRendered = false;
     let isTranscriptRendered = false;
 
-    // ===== build URL tự động =====
     const pdfUrl = `${PDF_URL}test-${baseId}.pdf`;
     const transcriptUrl = `${PDF_URL}transcript-test-${baseId}.pdf`;
 
@@ -655,7 +654,6 @@ function initPDF() {
       btn.addEventListener('click', async () => {
         const type = btn.dataset.type;
 
-        // ===== PDF =====
         if (type === 'pdf') {
           transcriptContainer.style.display = 'none';
 
@@ -671,7 +669,6 @@ function initPDF() {
           }
         }
 
-        // ===== TRANSCRIPT =====
         if (type === 'transcript') {
           pdfContainer.style.display = 'none';
 
@@ -694,7 +691,6 @@ function initPDF() {
       });
     });
 
-    // ===== ZOOM PDF =====
     pdfContainer.querySelector('.zoom-in').addEventListener('click', () => {
       pdfScale += 0.15;
       renderAllPages(pdfDoc, pdfContainer, pdfViewer, pdfScale);
@@ -705,7 +701,11 @@ function initPDF() {
       renderAllPages(pdfDoc, pdfContainer, pdfViewer, pdfScale);
     });
 
-    // ===== ZOOM TRANSCRIPT =====
+    pdfContainer.querySelector('.zoom-reset').addEventListener('click', () => {
+      pdfScale = 0.75;
+      renderAllPages(pdfDoc, pdfContainer, pdfViewer, pdfScale);
+    });
+
     transcriptContainer.querySelector('.zoom-in').addEventListener('click', () => {
       transcriptScale += 0.15;
       renderAllPages(
@@ -718,6 +718,16 @@ function initPDF() {
 
     transcriptContainer.querySelector('.zoom-out').addEventListener('click', () => {
       transcriptScale = Math.max(transcriptScale - 0.15, 0.75);
+      renderAllPages(
+        transcriptDoc,
+        transcriptContainer,
+        transcriptViewer,
+        transcriptScale
+      );
+    });
+
+    transcriptContainer.querySelector('.zoom-reset').addEventListener('click', () => {
+      transcriptScale = 0.75;
       renderAllPages(
         transcriptDoc,
         transcriptContainer,

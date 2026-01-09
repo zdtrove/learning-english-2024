@@ -417,7 +417,7 @@ span.loading::after {
   height: auto;
 }
 
-.zoom-in, .zoom-out {
+.zoom-in, .zoom-out, .zoom-reset {
   border-radius: 4px;
   width: 30px;
   height: 30px;
@@ -437,6 +437,10 @@ span.loading::after {
 
 .zoom-out {
   left: 45px;
+}
+
+.zoom-reset {
+  left: 82px;
 }
 
 @media only screen and (max-width: 480px) {
