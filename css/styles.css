@@ -418,7 +418,6 @@ span.loading::after {
 
 .pdf-container {
   width: 100%;
-  max-width: 600px;
   height: 65vh;
   overflow: auto;
   border: 1px solid #ddd;
