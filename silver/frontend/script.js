@@ -55,10 +55,10 @@ async function loadJsonData() {
         if (avgPriceArr.length > 0) {
             jsonData.averagePrice = avgPriceArr[0];
         }
-        console.log('Loaded data from JSON files (read-only mode)');
+        console.log('Đã tải dữ liệu từ file JSON (chế độ chỉ đọc)');
     } catch (error) {
-        console.error('Error loading JSON files:', error);
-        showToast('Can not load data from file JSON!', 'error');
+        console.error('Lỗi khi tải file JSON:', error);
+        showToast('Không thể tải dữ liệu từ file JSON!', 'error');
     }
 }
 
@@ -72,7 +72,7 @@ function disableWriteOperations() {
     const sellSubmitBtn = sellForm.querySelector('button[type="submit"]');
     if (sellSubmitBtn) {
         sellSubmitBtn.disabled = true;
-        sellSubmitBtn.title = 'Read only - Can not sell';
+        sellSubmitBtn.title = 'Chỉ đọc - không thể bán';
     }
 
     // Add read-only notice
@@ -82,14 +82,14 @@ function disableWriteOperations() {
     if (buyCard) {
         const notice = document.createElement('div');
         notice.className = 'readonly-notice';
-        notice.innerHTML = '<small style="color: #f39c12;">Read only - Can not add transaction</small>';
+        notice.innerHTML = '<small style="color: #f39c12;">Chỉ đọc - không thể thêm giao dịch</small>';
         buyCard.querySelector('.card-header')?.appendChild(notice);
     }
 
     if (sellCard) {
         const notice = document.createElement('div');
         notice.className = 'readonly-notice';
-        notice.innerHTML = '<small style="color: #f39c12;">Read only - Can only calculate profit/loss</small>';
+        notice.innerHTML = '<small style="color: #f39c12;">Chỉ đọc - chỉ có thể tính lãi/lỗ</small>';
         sellCard.querySelector('.card-header')?.appendChild(notice);
     }
 }
@@ -320,7 +320,7 @@ async function handleBuy(e) {
     const price = document.getElementById('buy-price').value.trim();
 
     if (!date || !quantity || !price) {
-        showMessage('buy-message', 'Vui long dien day du thong tin', 'error');
+        showMessage('buy-message', 'Vui lòng điền đầy đủ thông tin', 'error');
         return;
     }
 
@@ -338,16 +338,16 @@ async function handleBuy(e) {
         const result = await response.json();
 
         if (result.success) {
-            showToast(`Da mua ${formatNumber(result.data.quantity)} lượng bac thanh cong!`, 'success');
+            showToast(`Đã mua ${formatNumber(result.data.quantity)} lượng bạc thành công!`, 'success');
             buyForm.reset();
             setDefaultDate();
             loadTransactions();
             loadStats();
         } else {
-            showMessage('buy-message', result.error || 'Co loi xay ra', 'error');
+            showMessage('buy-message', result.error || 'Có lỗi xảy ra', 'error');
         }
     } catch (error) {
-        showMessage('buy-message', 'Khong the ket noi server', 'error');
+        showMessage('buy-message', 'Không thể kết nối server', 'error');
     }
 }
 
@@ -357,7 +357,7 @@ async function handleCalculateProfit() {
     const price = document.getElementById('sell-price').value.trim();
 
     if (!quantity || !price) {
-        showMessage('sell-message', 'Vui long nhap so lượng va gia ban', 'error');
+        showMessage('sell-message', 'Vui lòng nhập số lượng và giá bán', 'error');
         return;
     }
 
