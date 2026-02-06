@@ -1,5 +1,5 @@
 // Configuration
-const IS_GITHUB_PAGES = false; // true = read-only from JSON, false = use backend API
+const IS_GITHUB_PAGES = true; // true = read-only from JSON, false = use backend API
 const API_BASE = 'http://localhost:5001/api';
 
 // State
