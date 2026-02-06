@@ -1,0 +1,2 @@
+[{"id":1,"date":"2026-02-04","quantity":1.0,"price_per_unit":3459000.0,"type":"buy","avg_price_at_time":3459000.0,"profit_loss":null,"created_at":"2026-02-06 04:28:08"},
+{"id":2,"date":"2026-02-05","quantity":1.0,"price_per_unit":3017000.0,"type":"buy","avg_price_at_time":3238000.0,"profit_loss":null,"created_at":"2026-02-06 04:28:26"}]
