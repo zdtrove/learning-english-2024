@@ -58,7 +58,7 @@ async function loadJsonData() {
         console.log('Loaded data from JSON files (read-only mode)');
     } catch (error) {
         console.error('Error loading JSON files:', error);
-        showToast('Khong the tai du lieu tu file JSON!', 'error');
+        showToast('Can not load data from file JSON!', 'error');
     }
 }
 
@@ -72,7 +72,7 @@ function disableWriteOperations() {
     const sellSubmitBtn = sellForm.querySelector('button[type="submit"]');
     if (sellSubmitBtn) {
         sellSubmitBtn.disabled = true;
-        sellSubmitBtn.title = 'Che do chi doc - Khong the ban';
+        sellSubmitBtn.title = 'Read only - Can not sell';
     }
 
     // Add read-only notice
@@ -82,14 +82,14 @@ function disableWriteOperations() {
     if (buyCard) {
         const notice = document.createElement('div');
         notice.className = 'readonly-notice';
-        notice.innerHTML = '<small style="color: #f39c12;">Chi doc - Khong the them giao dich</small>';
+        notice.innerHTML = '<small style="color: #f39c12;">Read only - Can not add transaction</small>';
         buyCard.querySelector('.card-header')?.appendChild(notice);
     }
 
     if (sellCard) {
         const notice = document.createElement('div');
         notice.className = 'readonly-notice';
-        notice.innerHTML = '<small style="color: #f39c12;">Chi doc - Chi co the tinh loi/lo</small>';
+        notice.innerHTML = '<small style="color: #f39c12;">Read only - Can only calculate profit/loss</small>';
         sellCard.querySelector('.card-header')?.appendChild(notice);
     }
 }
@@ -191,7 +191,7 @@ async function loadTransactions() {
         } catch (error) {
             tableLoading.style.display = 'none';
             tableEmpty.style.display = 'flex';
-            showToast('Khong the tai du lieu. Kiem tra backend!', 'error');
+            showToast('Can not load data. Check backend!', 'error');
         }
     }
 }
@@ -201,7 +201,7 @@ function renderTransactions(transactions) {
     transactionsBody.innerHTML = transactions.map(tx => {
         const isBuy = tx.type === 'buy';
         const badgeClass = isBuy ? 'badge-buy' : 'badge-sell';
-        const badgeText = isBuy ? 'Mua' : 'Ban';
+        const badgeText = isBuy ? 'Mua' : 'Bán';
 
         let profitLossHtml = '-';
         if (!isBuy && tx.profit_loss !== null) {
@@ -214,7 +214,7 @@ function renderTransactions(transactions) {
         return `
             <tr>
                 <td>${tx.date}</td>
-                <td>${formatNumber(tx.quantity)} luong</td>
+                <td>${formatNumber(tx.quantity)} lượng</td>
                 <td>${formatCurrency(tx.price_per_unit)}</td>
                 <td><span class="badge ${badgeClass}">${badgeText}</span></td>
                 <td>${tx.avg_price_at_time ? formatCurrency(tx.avg_price_at_time) : '-'}</td>
@@ -252,12 +252,12 @@ async function loadStats() {
         const data = jsonData.averagePrice;
 
         // Update header stats
-        document.getElementById('stat-quantity').textContent = formatNumber(data.total_quantity) + ' luong';
+        document.getElementById('stat-quantity').textContent = formatNumber(data.total_quantity) + ' lượng';
         document.getElementById('stat-avg-price').textContent = formatCurrency(data.avg_price);
 
         // Update summary box
-        document.getElementById('summary-quantity').textContent = formatNumber(data.total_quantity) + ' luong';
-        document.getElementById('summary-avg-price').textContent = formatCurrency(data.avg_price) + '/luong';
+        document.getElementById('summary-quantity').textContent = formatNumber(data.total_quantity) + ' lượng';
+        document.getElementById('summary-avg-price').textContent = formatCurrency(data.avg_price) + '/lượng';
         document.getElementById('summary-total-value').textContent = formatCurrency(data.total_quantity * data.avg_price);
 
         // Calculate total profit/loss from transactions
@@ -281,12 +281,12 @@ async function loadStats() {
                 const data = result.data;
 
                 // Update header stats
-                document.getElementById('stat-quantity').textContent = formatNumber(data.total_quantity) + ' luong';
+                document.getElementById('stat-quantity').textContent = formatNumber(data.total_quantity) + ' lượng';
                 document.getElementById('stat-avg-price').textContent = formatCurrency(data.avg_price);
 
                 // Update summary box
-                document.getElementById('summary-quantity').textContent = formatNumber(data.total_quantity) + ' luong';
-                document.getElementById('summary-avg-price').textContent = formatCurrency(data.avg_price) + '/luong';
+                document.getElementById('summary-quantity').textContent = formatNumber(data.total_quantity) + ' lượng';
+                document.getElementById('summary-avg-price').textContent = formatCurrency(data.avg_price) + '/lượng';
                 document.getElementById('summary-total-value').textContent = formatCurrency(data.total_quantity * data.avg_price);
             }
 
@@ -338,7 +338,7 @@ async function handleBuy(e) {
         const result = await response.json();
 
         if (result.success) {
-            showToast(`Da mua ${formatNumber(result.data.quantity)} luong bac thanh cong!`, 'success');
+            showToast(`Da mua ${formatNumber(result.data.quantity)} lượng bac thanh cong!`, 'success');
             buyForm.reset();
             setDefaultDate();
             loadTransactions();
@@ -357,7 +357,7 @@ async function handleCalculateProfit() {
     const price = document.getElementById('sell-price').value.trim();
 
     if (!quantity || !price) {
-        showMessage('sell-message', 'Vui long nhap so luong va gia ban', 'error');
+        showMessage('sell-message', 'Vui long nhap so lượng va gia ban', 'error');
         return;
     }
 
@@ -370,13 +370,13 @@ async function handleCalculateProfit() {
         const avgPrice = jsonData.averagePrice.avg_price || 0;
 
         if (qty > currentTotalQty) {
-            showMessage('sell-message', `Khong du bac de ban. Hien co: ${currentTotalQty} luong`, 'error');
+            showMessage('sell-message', `Không đủ bạc để bán. Hiện có: ${currentTotalQty} lượng`, 'error');
             profitPreview.style.display = 'none';
             return;
         }
 
         if (avgPrice === 0) {
-            showMessage('sell-message', 'Chua co giao dich mua nao', 'error');
+            showMessage('sell-message', 'Chưa có giao dịch mua nào', 'error');
             profitPreview.style.display = 'none';
             return;
         }
@@ -389,9 +389,9 @@ async function handleCalculateProfit() {
         // Show profit preview
         profitPreview.style.display = 'block';
 
-        document.getElementById('preview-quantity').textContent = formatNumber(qty) + ' luong';
-        document.getElementById('preview-sell-price').textContent = formatCurrency(currentPrice) + '/luong';
-        document.getElementById('preview-avg-price').textContent = formatCurrency(avgPrice) + '/luong';
+        document.getElementById('preview-quantity').textContent = formatNumber(qty) + ' lượng';
+        document.getElementById('preview-sell-price').textContent = formatCurrency(currentPrice) + '/lượng';
+        document.getElementById('preview-avg-price').textContent = formatCurrency(avgPrice) + '/lượng';
 
         const profitPerUnitEl = document.getElementById('preview-profit-per-unit');
         profitPerUnitEl.textContent = (profitPerUnit >= 0 ? '+' : '') + formatCurrency(profitPerUnit);
@@ -424,9 +424,9 @@ async function handleCalculateProfit() {
                 // Show profit preview
                 profitPreview.style.display = 'block';
 
-                document.getElementById('preview-quantity').textContent = formatNumber(data.quantity) + ' luong';
-                document.getElementById('preview-sell-price').textContent = formatCurrency(data.current_price) + '/luong';
-                document.getElementById('preview-avg-price').textContent = formatCurrency(data.avg_price) + '/luong';
+                document.getElementById('preview-quantity').textContent = formatNumber(data.quantity) + ' lượng';
+                document.getElementById('preview-sell-price').textContent = formatCurrency(data.current_price) + '/lượng';
+                document.getElementById('preview-avg-price').textContent = formatCurrency(data.avg_price) + '/lượng';
 
                 const profitPerUnit = document.getElementById('preview-profit-per-unit');
                 profitPerUnit.textContent = (data.profit_per_unit >= 0 ? '+' : '') + formatCurrency(data.profit_per_unit);
@@ -440,11 +440,11 @@ async function handleCalculateProfit() {
                 percentage.textContent = (data.profit_percentage >= 0 ? '+' : '') + formatNumber(data.profit_percentage) + '%';
                 percentage.className = 'profit-value ' + (data.is_profit ? 'profit' : 'loss');
             } else {
-                showMessage('sell-message', result.error || 'Co loi xay ra', 'error');
+                showMessage('sell-message', result.error || 'Có lỗi xảy ra', 'error');
                 profitPreview.style.display = 'none';
             }
         } catch (error) {
-            showMessage('sell-message', 'Khong the ket noi server', 'error');
+            showMessage('sell-message', 'Không thể kết nối server', 'error');
         }
     }
 }
@@ -454,7 +454,7 @@ async function handleSell(e) {
     e.preventDefault();
 
     if (IS_GITHUB_PAGES) {
-        showMessage('sell-message', 'Che do chi doc. Khong the ban.', 'error');
+        showMessage('sell-message', 'Chế độ chỉ đọc. Không thể bán.', 'error');
         return;
     }
 
@@ -462,7 +462,7 @@ async function handleSell(e) {
     const price = document.getElementById('sell-price').value.trim();
 
     if (!quantity || !price) {
-        showMessage('sell-message', 'Vui long nhap so luong va gia ban', 'error');
+        showMessage('sell-message', 'Vui lòng nhập số lượng và giá bán', 'error');
         return;
     }
 
@@ -484,16 +484,16 @@ async function handleSell(e) {
         if (result.success) {
             const profitLoss = result.data.profit_loss;
             const profitText = profitLoss >= 0 ? 'loi' : 'lo';
-            showToast(`Da ban ${formatNumber(result.data.quantity)} luong, ${profitText} ${formatCurrency(Math.abs(profitLoss))}!`, 'success');
+            showToast(`Da ban ${formatNumber(result.data.quantity)} lượng, ${profitText} ${formatCurrency(Math.abs(profitLoss))}!`, 'success');
             sellForm.reset();
             profitPreview.style.display = 'none';
             loadTransactions();
             loadStats();
         } else {
-            showMessage('sell-message', result.error || 'Co loi xay ra', 'error');
+            showMessage('sell-message', result.error || 'Có lỗi xảy ra', 'error');
         }
     } catch (error) {
-        showMessage('sell-message', 'Khong the ket noi server', 'error');
+        showMessage('sell-message', 'Không thể kết nối server', 'error');
     }
 }
 
