@@ -1,0 +1,269 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Hệ thống quản lý mua bán bạc cá nhân - Theo dõi giao dịch, tính giá trung bình và lợi nhuận"
+    />
+    <title>Quản Lý Mua Bán Bạc</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <!-- Header -->
+      <header class="header">
+        <div class="header-content">
+          <div class="logo">
+            <span class="logo-icon">🪙</span>
+            <h1>Quản Lý Bạc</h1>
+          </div>
+          <div class="stats-bar" id="stats-bar">
+            <div class="stat-item">
+              <span class="stat-label">Tổng lượng</span>
+              <span class="stat-value" id="stat-quantity">0</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-label">Giá TB</span>
+              <span class="stat-value" id="stat-avg-price">0 ₫</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-label">Tổng lời/lỗ</span>
+              <span class="stat-value" id="stat-profit">0 ₫</span>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <main class="main-content">
+        <!-- Section 1: Form Mua Bạc -->
+        <section class="section section-buy" id="section-buy">
+          <div class="section-header">
+            <h2><span class="section-icon">📥</span> Mua Bạc</h2>
+          </div>
+          <form id="buy-form" class="form">
+            <div class="form-row">
+              <div class="form-group">
+                <label for="buy-date">Ngày mua</label>
+                <input
+                  type="text"
+                  id="buy-date"
+                  name="date"
+                  placeholder="VD: 2024-01-15"
+                  required
+                />
+                <span class="input-hint">Định dạng: YYYY-MM-DD</span>
+              </div>
+              <div class="form-group">
+                <label for="buy-quantity">Số lượng (lượng)</label>
+                <input
+                  type="text"
+                  id="buy-quantity"
+                  name="quantity"
+                  placeholder="VD: 5"
+                  required
+                />
+              </div>
+              <div class="form-group">
+                <label for="buy-price">Giá mỗi lượng (₫)</label>
+                <input
+                  type="text"
+                  id="buy-price"
+                  name="price"
+                  placeholder="VD: 1800000"
+                  required
+                />
+              </div>
+            </div>
+            <div class="form-actions">
+              <button type="submit" class="btn btn-primary btn-buy">
+                <span class="btn-icon">💰</span>
+                Xác nhận mua
+              </button>
+            </div>
+          </form>
+          <div id="buy-message" class="message"></div>
+        </section>
+
+        <hr class="section-divider" />
+
+        <!-- Section 2: Danh sách giao dịch -->
+        <section class="section section-list" id="section-list">
+          <div class="section-header">
+            <h2><span class="section-icon">📋</span> Lịch Sử Giao Dịch</h2>
+          </div>
+
+          <div class="table-container">
+            <table class="data-table" id="transactions-table">
+              <thead>
+                <tr>
+                  <th>Ngày</th>
+                  <th>Số lượng</th>
+                  <th>Giá/lượng</th>
+                  <th>Loại</th>
+                  <th>Giá TB lúc đó</th>
+                  <th>Lời/Lỗ</th>
+                </tr>
+              </thead>
+              <tbody id="transactions-body">
+                <!-- Data will be loaded here -->
+              </tbody>
+            </table>
+            <div id="table-loading" class="table-loading">
+              <div class="spinner"></div>
+              <span>Đang tải dữ liệu...</span>
+            </div>
+            <div id="table-empty" class="table-empty" style="display: none">
+              <span class="empty-icon">📭</span>
+              <span>Chưa có giao dịch nào</span>
+            </div>
+          </div>
+
+          <!-- Pagination -->
+          <div class="pagination" id="pagination">
+            <button class="pagination-btn" id="btn-prev" disabled>
+              <span>←</span> Trước
+            </button>
+            <div class="pagination-info">
+              Trang <span id="current-page">1</span> /
+              <span id="total-pages">1</span>
+            </div>
+            <button class="pagination-btn" id="btn-next" disabled>
+              Sau <span>→</span>
+            </button>
+          </div>
+
+          <!-- Average Price Summary -->
+          <div class="summary-box" id="summary-box">
+            <div class="summary-header">
+              <span class="summary-icon">📊</span>
+              <h3>Tổng kết</h3>
+            </div>
+            <div class="summary-content">
+              <div class="summary-item">
+                <span class="summary-label">Số lượng bạc hiện có:</span>
+                <span class="summary-value" id="summary-quantity">0 lượng</span>
+              </div>
+              <div class="summary-item highlight">
+                <span class="summary-label">Giá trung bình mua vào:</span>
+                <span class="summary-value" id="summary-avg-price"
+                  >0 ₫/lượng</span
+                >
+              </div>
+              <div class="summary-item">
+                <span class="summary-label">Tổng giá trị (theo giá TB):</span>
+                <span class="summary-value" id="summary-total-value">0 ₫</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <hr class="section-divider" />
+
+        <!-- Section 3: Form Bán Bạc -->
+        <section class="section section-sell" id="section-sell">
+          <div class="section-header">
+            <h2><span class="section-icon">📤</span> Bán Bạc</h2>
+          </div>
+          <form id="sell-form" class="form">
+            <div class="form-row">
+              <div class="form-group">
+                <label for="sell-quantity">Số lượng muốn bán (lượng)</label>
+                <input
+                  type="text"
+                  id="sell-quantity"
+                  name="quantity"
+                  placeholder="VD: 2"
+                  required
+                />
+              </div>
+              <div class="form-group">
+                <label for="sell-price">Giá bán mỗi lượng (₫)</label>
+                <input
+                  type="text"
+                  id="sell-price"
+                  name="price"
+                  placeholder="VD: 2000000"
+                  required
+                />
+              </div>
+            </div>
+            <div class="form-actions">
+              <button
+                type="button"
+                class="btn btn-secondary"
+                id="btn-calculate"
+              >
+                <span class="btn-icon">🧮</span>
+                Tính lời/lỗ
+              </button>
+              <button type="submit" class="btn btn-danger btn-sell">
+                <span class="btn-icon">💵</span>
+                Xác nhận bán
+              </button>
+            </div>
+          </form>
+
+          <!-- Profit/Loss Preview -->
+          <div id="profit-preview" class="profit-preview" style="display: none">
+            <div class="profit-header">
+              <span class="profit-icon">📈</span>
+              <h4>Dự tính lời/lỗ</h4>
+            </div>
+            <div class="profit-content">
+              <div class="profit-row">
+                <span class="profit-label">Số lượng bán:</span>
+                <span class="profit-value" id="preview-quantity">0 lượng</span>
+              </div>
+              <div class="profit-row">
+                <span class="profit-label">Giá bán:</span>
+                <span class="profit-value" id="preview-sell-price"
+                  >0 ₫/lượng</span
+                >
+              </div>
+              <div class="profit-row">
+                <span class="profit-label">Giá trung bình mua:</span>
+                <span class="profit-value" id="preview-avg-price"
+                  >0 ₫/lượng</span
+                >
+              </div>
+              <div class="profit-row">
+                <span class="profit-label">Lời/lỗ mỗi lượng:</span>
+                <span class="profit-value" id="preview-profit-per-unit"
+                  >0 ₫</span
+                >
+              </div>
+              <div class="profit-row highlight">
+                <span class="profit-label">Tổng lời/lỗ:</span>
+                <span class="profit-value" id="preview-total-profit">0 ₫</span>
+              </div>
+              <div class="profit-row">
+                <span class="profit-label">Phần trăm:</span>
+                <span class="profit-value" id="preview-percentage">0%</span>
+              </div>
+            </div>
+          </div>
+
+          <div id="sell-message" class="message"></div>
+        </section>
+      </main>
+
+      <!-- Footer -->
+      <footer class="footer">
+        <p>💎 Hệ thống quản lý mua bán bạc cá nhân</p>
+      </footer>
+    </div>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="toast"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
