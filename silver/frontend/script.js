@@ -497,6 +497,6 @@ async function handleSell(e) {
     }
 }
 
-// Export commands for reference:
+// winget install SQLite.SQLite
 // sqlite3 silver.db ".mode json" ".output transactions.json" "select * from transactions;"
 // sqlite3 silver.db ".mode json" ".output average_price.json" "select * from average_price;"
