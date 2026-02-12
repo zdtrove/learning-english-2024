@@ -191,7 +191,7 @@ async function loadTransactions() {
         } catch (error) {
             tableLoading.style.display = 'none';
             tableEmpty.style.display = 'flex';
-            showToast('Can not load data. Check backend!', 'error');
+            showToast('Không thể tải dữ liệu. Kiểm tra backend!', 'error');
         }
     }
 }
@@ -301,7 +301,7 @@ async function loadStats() {
                 profitEl.className = 'stat-value ' + (totalProfitLoss >= 0 ? 'profit' : 'loss');
             }
         } catch (error) {
-            console.error('Error loading stats:', error);
+            console.error('Đã có lỗi xảy ra:', error);
         }
     }
 }
@@ -311,7 +311,7 @@ async function handleBuy(e) {
     e.preventDefault();
 
     if (IS_GITHUB_PAGES) {
-        showMessage('buy-message', 'Che do chi doc. Khong the them giao dich.', 'error');
+        showMessage('buy-message', 'Chế độ chỉ đọc. Không thể thêm giao dịch.', 'error');
         return;
     }
 
