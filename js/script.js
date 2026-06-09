@@ -37,7 +37,7 @@ const SECTIONS = [
   { name: 'english-speaking-course', active: false, pages: 19 },
   { name: 'easy-english', active: false, pages: 2 },
   { name: 'english-at-work', active: false, pages: 13 },
-  { name: 'ielts-speaking', active: true, pages: 2 },
+  { name: 'ielts-speaking', active: true, pages: 3 },
   { name: 'ielts-listening', active: true, pages: 12 },
   { name: 'level2', active: false, pages: 11 },
   { name: 'level6', active: false, pages: 10 },
