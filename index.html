@@ -15,6 +15,7 @@
       <button class="tab-link active" onclick="changeTab(event, 'ielts-listening')">IELTS Listening</button>
       <button class="tab-link" onclick="changeTab(event, 'ielts-speaking')">IELTS Speaking</button>
       <button class="tab-link" onclick="changeTab(event, 'toeic-test')">TOEIC Test (LC)</button>
+      <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
     </section>
     <section id="ielts-listening" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.ielts-listening')">
@@ -62,6 +63,21 @@
         <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
         <button onclick="spNext()">5s 🔜</button>
       </div>
+    </section>
+    <section id="level2" class="tab-content">
+      <select class="select-lesson" onchange="changeConversation(this, '.level2')">
+        <option value="level2-1">001</option>
+        <option value="level2-2">002</option>
+        <option value="level2-3">003</option>
+        <option value="level2-4">004</option>
+        <option value="level2-5">005</option>
+        <option value="level2-6">006</option>
+        <option value="level2-7">007</option>
+        <option value="level2-8">008</option>
+        <option value="level2-9">009</option>
+        <option value="level2-10">010</option>
+        <option value="level2-11">011</option>
+      </select>
     </section>
     <audio id="audioAll"></audio>
     <button id="scrollToTopBtn">↑ Top</button>
