@@ -1255,3 +1255,9 @@ const toeicTestPdf = {
     transcript: '1rCU_u4G4Bq7VZPEt4P3Tn9bohEbT67ET',
   },
 }
+
+const slowPodcastMp3 = {
+  '001': '6txpb8i0g2hmiqhw6boje/001.mp3?rlkey=o9qr2nd0ppu1r2xfjvmgxr3hz',
+  '002': '7hmodov1p1mksn4irw7ip/002.mp3?rlkey=d4h4ykt0jb9wh8yfb0ds0czkc',
+  '003': 'q7bm3t94c2sh9kz992d3h/003.mp3?rlkey=rmkbrzd3zcafvddafeujeo7y8',
+}
