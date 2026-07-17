@@ -51,7 +51,7 @@ const SECTIONS = [
   { name: 'lep-podcast', active: false, pages: 1 },
   { name: 'toeic-listening', active: false, pages: 3 },
   { name: 'toeic-test', active: true, pages: 10 },
-  { name: 'personal-english-encyclopedia', active: true, pages: 11 },
+  { name: 'personal-english-encyclopedia', active: true, pages: 12 },
   { name: 'slow-podcast', active: true, pages: 3 },
 ];
 
