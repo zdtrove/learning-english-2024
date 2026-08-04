@@ -1,0 +1,284 @@
+MY JAPAN WORK EXPERIENCE
+
+When people ask me about the difference between working for a Japanese company and working for other companies, I think there are several things that stand out, especially in terms of work culture, communication, discipline and the way people plan their work.
+Of course, I don't think I can speak for every Japanese company because every company is different.
+My experience is mainly based on working for a Japanese company in Vietnam as a web developer.
+However, compared with some other working environments I know about, I have noticed several differences.
+The first thing that comes to mind is the work culture.
+I think Japanese companies generally place quite a strong emphasis on discipline and responsibility.
+For example, people tend to take their work quite seriously.
+If you are assigned a task, you are generally expected to take responsibility for it and keep track of its progress.
+Personally, I think this creates a relatively organised working environment.
+People don't just do something randomly and then forget about it.
+There is usually a certain process that people are expected to follow.
+Another thing I notice is the importance of planning.
+In my experience, Japanese teams often spend quite a lot of time discussing and planning before actually starting a task.
+For example, we may need to understand the requirements, discuss possible solutions and estimate the amount of work involved.
+Sometimes, I feel that the planning process can be quite detailed.
+To be honest, there are moments when I just want to start coding immediately.
+However, I also understand the reason behind this approach.
+If you spend more time thinking about a task at the beginning, you may be able to avoid bigger problems later.
+I think this is quite different from some working environments where people may start working very quickly and adjust their plans later.
+Personally, I think both approaches have advantages and disadvantages.
+Starting quickly can be useful when you need to move fast, but careful planning can help reduce misunderstandings and unnecessary work.
+Communication is another interesting difference.
+Since I work for a Japanese company, communication between the Vietnamese team and Japanese clients is obviously quite important.
+In my experience, communication tends to be relatively polite and careful.
+People usually try to explain things clearly and avoid being too direct in a rude way.
+I think this is partly related to Japanese business culture.
+There is quite a strong emphasis on politeness and respect.
+At the same time, communication can sometimes be a little indirect.
+For example, people may not always say directly that they dislike an idea.
+Instead, they may express their concerns in a more subtle way.
+For me, this means that sometimes I have to pay attention not only to the exact words people use but also to the context and the overall meaning.
+Of course, communication can also be affected by the language barrier.
+Even if everyone understands English reasonably well, small misunderstandings can still happen.
+For example, a requirement may sound clear at first, but different people may have slightly different interpretations of it.
+That's why I think asking questions and confirming important details is extremely important when working with an international team.
+Another difference I have noticed is discipline and punctuality.
+In general, people tend to respect schedules and deadlines quite seriously.
+Meetings usually have a clear purpose, and people are expected to be prepared.
+If a task is estimated to take a certain amount of time, the team usually pays attention to whether the work is progressing as expected.
+Personally, I think this can be quite positive because it helps everyone understand the current situation.
+However, it can also create some pressure.
+If something unexpected happens, you need to communicate it clearly rather than simply staying silent.
+For example, if I realise that a task is more complicated than I originally expected, I should report the situation and explain the reason.
+I think this is an important working habit.
+In some companies, people may try to solve a problem quietly until the last minute.
+But if you do that, the problem may become much more serious.
+I also think Japanese companies tend to pay a lot of attention to processes and documentation.
+In software development, we may need to follow certain procedures when working on tasks, testing features or deploying changes.
+Personally, I sometimes feel that there is a lot of paperwork or documentation involved.
+However, I can also see the benefits.
+When a project has a clear process and enough documentation, it becomes easier for new people to understand the system.
+This is especially important for large projects.
+You can't rely on one person remembering everything in their head.
+Another thing I find interesting is the attitude towards continuous improvement.
+I think Japanese work culture is often associated with the idea of improving things gradually rather than trying to completely change everything overnight.
+In my work, I sometimes notice that people are interested in making small improvements to existing processes or systems.
+For example, if a process is slightly inefficient, the team may discuss how to improve it step by step.
+Personally, I like this way of thinking.
+In software development, you often can't rewrite an entire system from scratch.
+Small improvements can actually make a significant difference over time.
+However, I also think there can be some disadvantages to this culture.
+Because Japanese companies often have quite detailed processes and a strong focus on planning, decision-making can sometimes feel slower.
+There may be several discussions or approval steps before a decision is finalised.
+Compared with a smaller company where the manager can simply make a quick decision, this can feel a little frustrating.
+Personally, I think this is probably one of the biggest differences I've noticed.
+On the positive side, decisions may be more carefully considered.
+But on the negative side, it can take more time to move forward.
+I also think the working environment can depend a lot on the specific company and team.
+I don't want to say that Japanese companies are always more disciplined or that other companies are disorganised.
+There are definitely well-managed companies from many different countries.
+For me, the biggest difference is probably the emphasis on structure, planning and process.
+Working for a Japanese company has taught me to be more careful with my work.
+I pay more attention to requirements, deadlines and communication.
+I think these are useful skills, especially in software development.
+At the same time, I have also learned that no working culture is perfect.
+Sometimes, I wish decisions could be made more quickly.
+Other times, I appreciate having a clear process and knowing exactly what is expected of me.
+Overall, I would say working for a Japanese company is quite different from what I imagined when I first started my career.
+The biggest differences, in my opinion, are the strong focus on discipline, detailed planning, careful communication and structured processes.
+Personally, I think this working environment suits me reasonably well.
+I still have difficult days and sometimes feel frustrated by the amount of planning or communication involved.
+But overall, I think working in this environment has helped me become more organised and responsible as a developer.
+So, if I had to summarise the difference in one sentence, I would say that working for a Japanese company often feels more structured and process-oriented, while other companies may sometimes offer a faster and more flexible working style.
+Of course, it really depends on the specific company, but that's the main difference I've experienced in my own career.
+
+HO CHI MINH CITY CHALLENGES
+
+Although I really enjoy living in Ho Chi Minh City, I don't think the city is perfect.
+I've lived here for many years, so I've had the chance to experience both the advantages and the problems of urban life.
+If I had to talk about the main issues that Ho Chi Minh City needs to improve, I would probably mention traffic infrastructure, traffic congestion, housing prices, pollution and the way public spaces are managed.
+The first and probably the most obvious problem is transportation infrastructure.
+Ho Chi Minh City is a very large and crowded city, but the infrastructure has not always developed as quickly as the population.
+Every day, thousands of people travel from the suburbs to the central districts for work or school.
+As a result, many roads become extremely crowded during rush hour.
+Personally, I experience this quite regularly because I travel to work by motorbike.
+In the morning, the roads can become very busy, and the situation is usually even worse in the late afternoon when people are going home.
+The problem is that simply building wider roads is not always enough.
+In many areas, the number of people and vehicles has increased much faster than the infrastructure.
+For example, there are some areas where many new apartment complexes have been built along the same road.
+Each apartment complex may contain thousands of residents.
+However, the roads, intersections and public facilities around them may not have been upgraded quickly enough.
+So, you suddenly have a huge number of people living in one area, but the surrounding infrastructure is still almost the same as before.
+In my opinion, the city needs to plan new residential developments more carefully.
+Before allowing too many apartment projects to be built in one area, authorities should consider whether the roads, schools, hospitals and public transportation can actually support the additional population.
+Another major problem is traffic congestion during rush hour.
+I think traffic jams are one of the biggest sources of stress for people living in Ho Chi Minh City.
+Sometimes, a journey that normally takes forty minutes can take much longer because of a serious traffic jam.
+Personally, I think the city needs to develop public transportation much more seriously.
+Buses are available, but they are still affected by traffic, and some routes are not very convenient for everyone.
+The metro is a very promising solution, but the network still needs to be expanded.
+In the future, I think the city should connect different forms of transportation more effectively.
+For example, people could travel by motorbike or bus to a metro station, take the metro and then use another form of transport to reach their final destination.
+If public transportation becomes more convenient and reliable, I think many people would be willing to reduce their use of private vehicles.
+Another issue that concerns me is the cost of housing.
+Property prices in Ho Chi Minh City have become extremely high compared with the income of many ordinary people.
+For young people, especially those who are just starting their careers, buying an apartment can feel almost impossible.
+Even if someone has a stable job, they may still need to take out a very large mortgage and spend decades paying it back.
+Personally, I think this is a serious social issue.
+A city needs to be affordable enough for ordinary workers to live in.
+If housing prices become too high, people may be forced to live further and further away from the city centre.
+Then they have to spend more time commuting, which creates even more traffic problems.
+I think the city needs more affordable housing projects and better policies to support people with average incomes.
+Another problem I notice is the declining birth rate.
+I think this is partly related to the cost of living.
+Young couples may want to have children, but they also have to think about housing, education, healthcare and daily expenses.
+If people feel that raising a child is financially overwhelming, they may decide to have fewer children or postpone having children altogether.
+In my opinion, the city needs to create a more supportive environment for young families.
+This could include more affordable housing, better childcare facilities and policies that help parents balance work and family life.
+Air pollution is another problem that Ho Chi Minh City needs to take more seriously.
+Because there are so many vehicles on the roads, the air quality can be quite poor in certain areas, especially near major roads.
+Sometimes, when I'm riding my motorbike, I can clearly feel the difference between a quiet road and a busy main road.
+I think reducing air pollution requires a combination of solutions.
+The city needs to improve public transportation, encourage cleaner vehicles and control emissions more effectively.
+Of course, individuals also have a responsibility.
+However, I don't think it is realistic to simply tell people to stop using motorbikes when public transportation is not convenient enough.
+The city needs to provide people with practical alternatives first.
+Another issue is littering.
+Unfortunately, I still see people throwing rubbish in public places or leaving rubbish on the street.
+Sometimes, people may throw a plastic cup or a food container on the ground even when there is a rubbish bin nearby.
+Personally, I find this quite frustrating because it is not really a difficult problem to understand.
+People simply need to be more responsible.
+However, I also think the city needs to improve rubbish collection and enforcement.
+There should be more public bins in suitable locations, and people who deliberately litter should face reasonable penalties.
+Education is also important, especially for children.
+If people develop the habit of keeping public spaces clean from a young age, the situation may gradually improve.
+The issue of sidewalks and streets being occupied illegally is another problem.
+In many parts of Ho Chi Minh City, sidewalks are used for parking, street food stalls or small businesses.
+I understand why people do this.
+For some families, selling food or goods on the sidewalk may be an important source of income.
+However, it creates serious problems for pedestrians.
+Sometimes, there is almost no space left for people to walk, so they have to walk on the road.
+This can be dangerous, especially in areas with heavy traffic.
+I think the city needs to find a balance between keeping sidewalks clear and supporting people who depend on small businesses.
+Simply removing street vendors without offering any alternatives may not solve the deeper problem.
+Another issue that I think is particularly important is the condition of some canals and waterways.
+Ho Chi Minh City has many canals and waterways, but some of them have become seriously polluted.
+People sometimes throw rubbish into canals, and in some areas, the water can look and smell quite unpleasant.
+I think this is a combination of poor waste management and a lack of public awareness.
+The city needs to improve the wastewater system and strictly control illegal dumping.
+At the same time, canals need to be cleaned and maintained regularly.
+Personally, I think clean waterways could also make the city much more attractive.
+They could become public spaces where people walk, exercise or simply relax.
+Another thing I think the city needs to improve is the amount of green space.
+Ho Chi Minh City is developing very quickly, and new buildings are constantly being constructed.
+However, I think cities also need trees, parks and open spaces.
+People need somewhere to relax and escape from traffic and concrete buildings.
+Personally, I really appreciate parks and green spaces because I think they can have a positive effect on people's mental health.
+In my opinion, city development should not simply mean building more apartments and shopping centres.
+A good city should also be comfortable and pleasant to live in.
+Overall, I think Ho Chi Minh City has made a lot of progress, but it is also facing several serious challenges.
+The main problems, in my opinion, are traffic congestion, insufficient infrastructure, expensive housing, declining birth rates, air pollution, littering, sidewalk occupation and polluted canals.
+I don't think any of these problems can be solved overnight.
+The city needs better long-term planning, stronger public transportation, more affordable housing and stricter environmental management.
+At the same time, ordinary citizens also need to take more responsibility for the city they live in.
+Personally, I still love Ho Chi Minh City despite these problems.
+I think it is a dynamic and exciting place with a lot of opportunities.
+But because so many people choose to live here, the city needs to develop in a more organised and sustainable way.
+For me, the goal should not simply be to make Ho Chi Minh City bigger.
+It should be to make it a better and more comfortable place for ordinary people to live in.
+
+FASHION
+
+Well, I think fashion in Ho Chi Minh City is actually quite interesting because people here have very different styles of dressing, depending on their age, their job, and even the occasion.
+If I had to describe the general fashion scene, I would say most people dress in a fairly casual and practical way.
+Of course, there are people who are really into fashion and follow the latest trends, but for the majority, comfort is still a big priority.
+I think that has a lot to do with the weather.
+Ho Chi Minh City is hot and humid for most of the year, so wearing something light and breathable is usually much more important than looking extremely fashionable.
+Among young people, especially teenagers and people in their twenties, I can see a lot of influence from social media.
+Many young women tend to dress quite stylishly.
+They might wear oversized shirts, crop tops, jeans, skirts, or even follow Korean-inspired fashion.
+Some of them are very good at putting an outfit together, and honestly, you can sometimes see people who look like they have just walked out of a fashion photoshoot.
+Young men, on the other hand, tend to dress more casually.
+T-shirts, shorts, sneakers and jeans are probably the most common choices.
+However, I think men's fashion has also become much more diverse compared with the past.
+Some guys are really into streetwear, while others prefer a minimalist style with plain shirts and neutral colours.
+Personally, I think a lot of young men today pay more attention to their appearance than men of previous generations did.
+For older people, I think the style is generally more conservative and practical.
+Older women often wear simple, comfortable clothes, and some still prefer traditional Vietnamese clothing on special occasions.
+Older men usually go for shirts, trousers, or very basic everyday outfits.
+They probably don't spend too much time thinking about fashion, to be honest.
+Another interesting thing is that people in Ho Chi Minh City can look very different depending on where they are going.
+Someone might wear extremely casual clothes when going to a local market, but then dress up quite carefully for a coffee shop, a shopping mall, or a nice restaurant.
+I think young people, in particular, are quite conscious of their appearance when they go out.
+They don't necessarily want to look overdressed, but they usually want to look presentable and, in some cases, Instagram-worthy.
+At the same time, I don't think there is one single fashion style that represents the whole city.
+Ho Chi Minh City is quite diverse, and people seem to be more open to experimenting with their appearance.
+You can see everything from simple and practical outfits to very fashionable streetwear.
+So overall, I would say fashion here is a mixture of comfort, personal preference, and social influence.
+And personally, I find that diversity quite interesting because you can learn a lot about people's personalities just by observing the way they dress.
+
+PERSONALITIES
+
+Well, if you ask me about people's personalities in Ho Chi Minh City, I think the first word that comes to my mind is diverse.
+Since this is such a big and crowded city, you meet all kinds of people here, and I don't think it's really possible to describe everyone with just one personality type.
+However, if I had to talk about a general impression, I would say that many people here are quite open and sociable.
+For example, it's not unusual for people to start a conversation with a stranger, especially in more casual situations.
+People might chat with each other while waiting for food, sitting in a coffee shop, or even just standing in a queue.
+Of course, not everyone is extremely outgoing, but I feel that people in Ho Chi Minh City are generally quite approachable.
+I also think people here tend to be quite practical.
+Life in a big city can be expensive and stressful, so many people are very focused on work, money and their daily responsibilities.
+They often think about how to improve their lives or earn a better income.
+Sometimes, this can make people seem a little impatient, especially when they are stuck in traffic or under a lot of pressure.
+But I don't necessarily think that means they are bad-tempered people.
+In many cases, they are simply tired and have too many things on their minds.
+One thing I really appreciate about people here is their willingness to help others in certain situations.
+For example, if someone has a problem with their motorbike or gets lost, there is often someone nearby who is willing to give them a hand.
+I think this kind of friendliness is especially noticeable in everyday situations.
+People may not know each other personally, but they can still be quite helpful.
+At the same time, I think there is a clear difference between generations.
+Older people tend to be more traditional and sometimes more direct when they express their opinions.
+They may not be afraid to tell you exactly what they think.
+Younger people, on the other hand, seem to be more open-minded and more accepting of different lifestyles and personal choices.
+Of course, there are exceptions, but I think this difference is becoming more noticeable.
+I also think living in Ho Chi Minh City can gradually change a person's personality.
+For example, someone who is quite shy might become more independent after living here for several years.
+You have to deal with traffic, work pressure, crowded places and all kinds of unexpected problems.
+In a way, the city forces people to become more flexible and adaptable.
+Personally, I would say I'm somewhere in the middle.
+I'm not the kind of person who wants to talk to everyone all the time, but I can be quite sociable when I'm comfortable with people.
+And I think that's probably true for many people in the city.
+They may look busy or even a little distant at first, but once you get to know them, they can be surprisingly warm and friendly.
+So overall, I think people in Ho Chi Minh City are a mixture of different personalities.
+Some are outgoing, some are quiet, some are ambitious, and some are very laid-back.
+But because life here moves so quickly, I feel that most people eventually learn to be quite independent and adaptable.
+
+HOBBIES
+
+Well, I think hobbies are quite an interesting topic because people can have completely different interests, even if they live in the same city.
+And in Ho Chi Minh City, I feel like people have a really wide range of hobbies because there are so many things to do here.
+Personally, I think one of the most common ways people spend their free time is going out for food and coffee.
+Ho Chi Minh City has an incredible coffee culture, so it's very normal for people to meet their friends at a coffee shop after work or at the weekend.
+Some people just want to sit down and chat, while others look for cafés with a nice view or a particular atmosphere.
+I think, for many people, going to a coffee shop is almost a hobby in itself.
+A lot of young people are also interested in entertainment and digital content.
+They might watch movies, listen to music, follow podcasts, or spend time on social media.
+I think podcasts, in particular, have become more popular because people can listen to them while commuting or doing something else.
+Since traffic is such a big part of daily life in Ho Chi Minh City, many people try to make use of their travel time.
+When it comes to physical activities, I think badminton and football are still quite popular.
+Some people go to the gym, while others prefer running, cycling, or playing sports with their friends.
+Personally, I think people are becoming more health-conscious than they were in the past.
+They may not always have a strict workout routine, but more people are at least aware that they need to exercise and look after their health.
+Food is another huge interest here.
+I honestly think many people in Ho Chi Minh City are quite passionate about trying new food.
+They might spend hours looking for a new restaurant or a small local food stall that has become popular online.
+And because the city has such a diverse food scene, people can always find something new to try.
+For some people, exploring different food places is basically a weekend hobby.
+I also think hobbies can be quite different depending on a person's age.
+Teenagers may be more interested in video games, music, fashion, or social media.
+Young adults often enjoy travelling, going out with friends, or taking part in sports.
+Older people, on the other hand, may prefer gardening, walking, exercising in public parks, or simply spending time with their families.
+Of course, these are just general observations, because there are always exceptions.
+Another interesting thing is that some hobbies are strongly connected to a person's personality.
+For example, outgoing people may enjoy group activities and social events, whereas quieter people might prefer reading, watching films, or doing something alone.
+However, I don't think a hobby always reflects someone's personality.
+Sometimes people just need a way to relax after a stressful day.
+Personally, I think my own interests have changed quite a lot over time.
+When I was younger, I was more interested in entertainment and spending time with friends.
+As I got older, I started to appreciate quieter activities and hobbies that help me relax or improve myself.
+I think that's quite normal because our priorities change as we get older.
+Overall, I would say people in Ho Chi Minh City have very diverse hobbies.
+Some people are very active, some are more into entertainment, and others simply enjoy food, coffee, or spending time with their loved ones.
+And I think that's one of the interesting things about hobbies: they give people a way to escape from their busy routines and enjoy life in their own personal way.
