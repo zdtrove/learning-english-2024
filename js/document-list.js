@@ -1261,3 +1261,7 @@ const slowPodcastMp3 = {
   '002': '7hmodov1p1mksn4irw7ip/002.mp3?rlkey=d4h4ykt0jb9wh8yfb0ds0czkc',
   '003': 'q7bm3t94c2sh9kz992d3h/003.mp3?rlkey=rmkbrzd3zcafvddafeujeo7y8',
 }
+
+const personalEnglishEncyclopediaMp3 = {
+  '001': 'l1j3b5wfx10vma3yp1cpx/001.mp3?rlkey=ka9p3okifq4ibqiif8yrysmvy',
+}
