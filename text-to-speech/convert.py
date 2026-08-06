@@ -6,8 +6,9 @@ import edge_tts
 
 # Available voices
 voices = {
-    "1": ("Female (US)", "en-US-AvaNeural"),
-    "2": ("Male (US)", "en-US-AndrewNeural"),
+    "1": ("Male (US) - Guy", "en-US-GuyNeural"),
+    "2": ("Male (US) - Andrew", "en-US-AndrewNeural"),
+    "3": ("Female (US) - Ava", "en-US-AvaNeural"),
 }
 
 print("===== Select Voice =====")
