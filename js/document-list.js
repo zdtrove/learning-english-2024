@@ -1264,4 +1264,5 @@ const slowPodcastMp3 = {
 
 const personalEnglishEncyclopediaMp3 = {
   '001': 'l1j3b5wfx10vma3yp1cpx/001.mp3?rlkey=ka9p3okifq4ibqiif8yrysmvy',
+  '002': 'fjaf3dw2fyzm1tzuzigaw/002.mp3?rlkey=sadgbg4s4yzfsfeapbqcaxnhh',
 }
