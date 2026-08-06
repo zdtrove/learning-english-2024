@@ -1,23 +1,36 @@
-import edge_tts
 import asyncio
+import itertools
+import time
 
-# Danh sách các giọng
+import edge_tts
+
+# Available voices
 voices = {
-    "1": ("Nữ (Mỹ)", "en-US-AvaNeural"),
-    "2": ("Nam (Mỹ)", "en-US-AndrewNeural"),
+    "1": ("Female (US)", "en-US-AvaNeural"),
+    "2": ("Male (US)", "en-US-AndrewNeural"),
 }
 
-print("===== Chọn giọng đọc =====")
+print("===== Select Voice =====")
 for key, (name, _) in voices.items():
     print(f"{key}. {name}")
 
-choice = input("Nhập số: ")
+choice = input("Enter your choice: ")
 
 if choice not in voices:
-    print("Lựa chọn không hợp lệ!")
+    print("Invalid choice!")
     exit()
 
 voice_name = voices[choice][1]
+
+
+async def loading(task):
+    for symbol in itertools.cycle(r"\|/-"):
+        if task.done():
+            break
+
+        print(f"\rConverting... {symbol}", end="", flush=True)
+        await asyncio.sleep(0.1)
+
 
 async def main():
     with open("text.txt", "r", encoding="utf-8") as f:
@@ -28,8 +41,22 @@ async def main():
         voice=voice_name
     )
 
-    await communicate.save("output.mp3")
+    start_time = time.perf_counter()
 
-    print("Đã tạo output.mp3")
+    convert_task = asyncio.create_task(
+        communicate.save("output.mp3")
+    )
+
+    await asyncio.gather(
+        convert_task,
+        loading(convert_task)
+    )
+
+    elapsed = int(time.perf_counter() - start_time)
+    minutes = elapsed // 60
+    seconds = elapsed % 60
+
+    print(f"\r✓ Done! Created output.mp3 ({minutes:02}:{seconds:02})      ")
+
 
 asyncio.run(main())
