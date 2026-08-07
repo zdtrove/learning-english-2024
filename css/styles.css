@@ -1,3 +1,7 @@
+:root {
+  --font-size: 18px;
+}
+
 body {
   font-family: monospace !important;
   line-height: 2;
@@ -37,6 +41,7 @@ hr {
 }
 
 p {
+  font-size: var(--font-size);
   margin-block-start: 8px;
   margin-block-end: 8px;
 }
@@ -335,6 +340,19 @@ span.loading::after {
   position: fixed;
   bottom: 13px;
   z-index: 9999;
+}
+
+.button-bottom {
+  border-radius: 4px;
+  padding: 8px 10px;
+  cursor: pointer;
+  position: fixed;
+  bottom: 13px;
+  z-index: 9999;
+}
+
+.minus {
+  left: 45px;
 }
 
 #audio-time {

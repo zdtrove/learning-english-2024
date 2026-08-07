@@ -951,3 +951,17 @@ const startABLoop = (audio, wrapper) => ABLoopManager.startLoop(audio, wrapper);
 const fitToWidth = (doc, container) => PDFManager.fitToWidth(doc, container);
 const renderAllPages = (doc, container, viewer, scale) => PDFManager.renderAllPages(doc, container, viewer, scale);
 const setupZoomControls = (opts) => PDFManager.setupZoomControls(opts);
+
+let fontSize = 16;
+
+function increaseFont() {
+  fontSize += 2;
+  document.documentElement.style.setProperty("--font-size", fontSize + "px");
+}
+
+function decreaseFont() {
+  if (fontSize > 12) {
+    fontSize -= 2;
+    document.documentElement.style.setProperty("--font-size", fontSize + "px");
+  }
+}
