@@ -1324,3 +1324,11 @@ const personalEnglishEncyclopediaMp3 = {
   '059': '7tew7qmyfyywkremqq9jx/059.mp3?rlkey=wa0m2xgs89zg2ts2t7tyjhcx1',
   '060': 'c32wyvx32iu60gil2wp3s/060.mp3?rlkey=bfrjy33iaom2phxid6nomtusc',
 }
+
+const threeMinuteTalksMp3 = {
+  '001': 'zm25jxgkw2uj1f24va8zj/001.mp3?rlkey=i8w1kq9y7d8muystcl03sixm7',
+  '002': '8nc7ow7hz55jqe5vxx1e3/002.mp3?rlkey=rthzq9rhf1em4j53usb9iueg5',
+  '003': 'nweg75fnvgm4bkvbu2qil/003.mp3?rlkey=wudtmfm8sysxdppxpc0o78b8l',
+  '004': '9rapsfeughu3lltxicy57/004.mp3?rlkey=f3cxil5o6p2wgf69z2twsl67z',
+  '005': 'oi2w83jilqqto7i9cmfiu/005.mp3?rlkey=qu2y1ldjioit3v96k2acyauie',
+}
