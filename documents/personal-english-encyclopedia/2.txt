@@ -488,3 +488,14 @@ I simply liked computers, I saw IT as a promising career and I gradually found m
 And now, after working as a developer for several years, I think it was actually a pretty good choice for me.
 I still have difficult days, and I sometimes get frustrated with debugging or complicated projects.
 But overall, I think web development suits the way I think and the kind of work I enjoy doing.
+
+
+MY WORKDAY
+MY JOB'S HARDEST PART
+WHY I CHOSE TO BECOME A DEVELOPER
+MY JAPAN WORK EXPERIENCE
+THE MOST CHALLENGING PROJECT I HAVE WORKED ON
+HOW I SOLVE A BUG
+WHAT MAKES A GOOD DEVELOPER
+HOW I LEARN NEW TECHNOLOGIES
+MY FUTURE AS A DEVELOPER
