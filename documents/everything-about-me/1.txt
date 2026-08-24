@@ -1,0 +1,363 @@
+1. 👤 BASIC INFORMATION
+
+* What is your name?
+* Where are you from?
+* Where do you live now?
+* How long have you lived there?
+* What is your hometown like?
+* What do you like about your hometown?
+* What don't you like about it?
+* How would you describe yourself?
+* What kind of person are you?
+* What are your strengths?
+* What are your weaknesses?
+* What are you trying to improve about yourself?
+* What is something people often misunderstand about you?
+* What makes you different from other people?
+
+2. 🏠 HOME & LIVING
+
+* Where do you live?
+* What kind of home do you live in?
+* What do you like about your home?
+* What is your favorite room?
+* What does your typical evening at home look like?
+* How do you usually keep your home clean?
+* Who usually does the housework?
+* What household chores do you dislike?
+* What would you like to change about your home?
+* What would your dream home look like?
+* Would you rather live in an apartment or a house?
+* Would you like to move somewhere else in the future?
+
+3. 👨‍👩‍👧 FAMILY & RELATIONSHIPS
+
+* How many people are there in your family?
+* Who are you closest to in your family?
+* What do you usually do with your family?
+* What did you learn from your parents?
+* What kind of relationship do you have with your parents?
+* What is your relationship with your wife like?
+* What do you usually do together?
+* What makes a good relationship?
+* What makes a good husband?
+* How do you usually solve disagreements?
+* What kind of family life do you want in the future?
+
+4. ⏰ DAILY LIFE & ROUTINES
+
+* What time do you usually wake up?
+* What do you normally do in the morning?
+* What do you do before leaving home?
+* How do you usually commute to work?
+* How long does your commute take?
+* What do you usually do during your commute?
+* What does a typical weekday look like?
+* What do you usually do during lunch?
+* What do you do after work?
+* What does your typical evening look like?
+* What do you normally do before going to bed?
+* What does your weekend usually look like?
+* How is your weekend different from your weekday?
+
+5. 💼 WORK & CAREER
+
+* What do you do for a living?
+* What does a frontend developer do?
+* What does a typical workday look like for you?
+* What are your main responsibilities?
+* What do you enjoy most about your job?
+* What is the hardest part of your job?
+* What is the most stressful part of your work?
+* What kind of tasks do you enjoy?
+* What kind of tasks do you dislike?
+* What skills are important for your job?
+* What technologies do you use?
+* Why did you become a developer?
+* How did you get into IT?
+* What do you like about working for a Japanese company?
+* What have you learned from working with Japanese colleagues?
+* What is the biggest challenge when working with Japanese people?
+* What makes a good developer?
+* What makes a good coworker?
+* What are your career goals?
+* Where do you want to be in five years?
+
+6. 💻 TECHNOLOGY & IT
+
+* How has technology changed your life?
+* What technology do you use every day?
+* What apps do you use the most?
+* How do you use AI?
+* How has AI changed your work?
+* Do you think AI will replace programmers?
+* What programming language do you like most?
+* What technology would you like to learn?
+* What was the hardest technical problem you have solved?
+* What was your biggest mistake as a developer?
+* How do you learn new technologies?
+* How do you debug problems?
+* What makes good code?
+* What makes a good software project?
+* What do you think about remote work in IT?
+
+7. 📚 ENGLISH LEARNING
+
+* Why are you learning English?
+* When did you start learning English seriously?
+* Why do you want to improve your speaking?
+* What is the hardest part of learning English?
+* What is the hardest part of listening?
+* What is the hardest part of speaking?
+* How do you practice English every day?
+* How much time do you spend learning English?
+* What English resources do you use?
+* What kind of English content do you enjoy?
+* Do you prefer American or British English?
+* What English speakers do you like listening to?
+* How do you learn new vocabulary?
+* Do you memorize English sentences?
+* Do you think memorization is useful?
+* How do you know whether your English is correct?
+* What do you do when you don't understand something?
+* What English mistakes do you often make?
+* What has improved the most since you started learning?
+* What is your English goal?
+* What would you like to be able to do in English one year from now?
+
+8. 🎧 ENTERTAINMENT & MEDIA
+
+* What kind of videos do you watch?
+* What kind of YouTube channels do you like?
+* What kind of podcasts do you listen to?
+* Do you watch movies or TV series?
+* What is your favorite TV show?
+* What kind of movies do you enjoy?
+* Do you prefer watching movies alone or with someone?
+* How much time do you spend watching YouTube?
+* Do you think watching YouTube is a good way to learn English?
+* What kind of content helps you learn the most?
+* What is something you watched recently that you really enjoyed?
+
+9. 🏸 HOBBIES & FREE TIME
+
+* What are your hobbies?
+* What do you usually do in your free time?
+* Why do you enjoy badminton?
+* How often do you play badminton?
+* Who do you usually play with?
+* What other activities would you like to try?
+* What did you enjoy doing when you were younger?
+* Have your hobbies changed as you've gotten older?
+* Do you prefer active or relaxing hobbies?
+* What is your ideal weekend?
+* What would you do if you had an entire day with no responsibilities?
+
+10. 🐟 AQUARIUM & PETS
+
+* Why do you keep an aquarium?
+* When did you start keeping fish?
+* What kind of fish do you keep?
+* Why do you like guppies?
+* How big is your aquarium?
+* How do you maintain your aquarium?
+* How often do you change the water?
+* Why is oxygen important for fish?
+* What equipment do you use?
+* What was the biggest aquarium problem you had?
+* What have you learned from keeping fish?
+* Would you like to have a bigger aquarium?
+
+11. 🍜 FOOD & DRINK
+
+* What is your favorite food?
+* What do you normally eat for breakfast?
+* What do you usually eat for lunch?
+* What do you usually eat for dinner?
+* Do you prefer eating at home or outside?
+* What Vietnamese food do you like?
+* What food don't you like?
+* Can you cook?
+* What can you cook well?
+* What food reminds you of your childhood?
+* What is your favorite restaurant?
+* Do you think your eating habits have changed as you've gotten older?
+
+12. 🏃 HEALTH & EXERCISE
+
+* How do you stay healthy?
+* How often do you exercise?
+* What kind of exercise do you do?
+* Why do you exercise?
+* Do you prefer exercising alone or with others?
+* What makes it difficult to exercise regularly?
+* How important is sleep to you?
+* How do you relax after a stressful day?
+* What healthy habits are you trying to build?
+* What unhealthy habits are you trying to change?
+
+13. 💰 MONEY & PERSONAL FINANCE
+
+* How do you manage your money?
+* What do you usually spend money on?
+* What are your biggest monthly expenses?
+* How do you save money?
+* What do you think about borrowing money?
+* What is more important: earning more or spending less?
+* What is something expensive that you think is worth buying?
+* What is something expensive that isn't worth buying?
+* What are your financial goals?
+* What does financial security mean to you?
+* Would you rather have a high salary or more free time?
+
+14. 🏙️ HO CHI MINH CITY & VIETNAM
+
+* What do you like about Ho Chi Minh City?
+* What don't you like about the city?
+* What is traffic like?
+* How do you usually get around?
+* What is your favorite place in the city?
+* What would you change about HCMC?
+* Is HCMC a good place to live?
+* What are the biggest problems in the city?
+* Would you like to live somewhere else in Vietnam?
+* What do you like about Vietnam?
+* What would you recommend to a foreigner visiting Vietnam?
+* How do you think Vietnam will change in the next 10 years?
+
+15. ✈️ TRAVEL & EXPERIENCES
+
+* Do you like traveling?
+* Where have you traveled?
+* What was your best trip?
+* What was your worst travel experience?
+* What place would you like to visit?
+* Do you prefer traveling alone or with others?
+* What do you usually prepare before a trip?
+* What do you think makes a good trip?
+* Would you rather travel frequently or save money?
+* If you could travel anywhere tomorrow, where would you go?
+
+16. 🧒 CHILDHOOD & PAST
+
+* What was your childhood like?
+* Where did you grow up?
+* What did you usually do after school?
+* What games did you play?
+* What did you enjoy doing as a child?
+* What was school like?
+* Who was your best friend?
+* What was your favorite subject?
+* What did you want to become when you were young?
+* What was your first job?
+* What was your first experience with a computer?
+* What is one childhood memory you will never forget?
+
+17. ❤️ PERSONALITY & EMOTIONS
+
+* Are you an introvert or an extrovert?
+* Are you a patient person?
+* Are you an optimistic person?
+* What makes you happy?
+* What makes you angry?
+* What makes you nervous?
+* What do you do when you feel stressed?
+* How do you deal with failure?
+* How do you deal with criticism?
+* Do you worry about the future?
+* What are you most confident about?
+* What are you insecure about?
+* What kind of people do you enjoy spending time with?
+
+18. 🧠 OPINIONS & BELIEFS
+
+* What does success mean to you?
+* What makes a person successful?
+* Is money important for happiness?
+* Is it better to have a stable job or follow your passion?
+* Is working hard enough to become successful?
+* Is talent more important than hard work?
+* Is it better to live in a big city or a small town?
+* Is technology making our lives better?
+* Is social media good or bad?
+* Is AI good or bad for society?
+* Should people work from home?
+* Is it important to have hobbies?
+* Why do people need work-life balance?
+* Is it better to spend money on experiences or things?
+
+19. 🏆 ACHIEVEMENTS & FAILURES
+
+* What are you most proud of?
+* What is your biggest achievement?
+* What was your biggest failure?
+* What is the hardest thing you've ever done?
+* What challenge taught you the most?
+* What mistake taught you an important lesson?
+* When was the last time you stepped outside your comfort zone?
+* What are you better at now than five years ago?
+* What would you do differently if you could go back five years?
+
+20. 🔮 FUTURE & DREAMS
+
+* What are your goals for this year?
+* What are your goals for the next five years?
+* Where do you want to live in the future?
+* What kind of career do you want?
+* What skills do you want to learn?
+* What kind of lifestyle do you want?
+* What would your ideal life look like?
+* What do you want to accomplish before you are 40?
+* What do you want to accomplish before you are 50?
+* What are you most looking forward to?
+* What would you do if money wasn't a problem?
+
+21. DEEP QUESTIONS
+
+* What has changed the most about you in the last ten years?
+* How have your priorities changed as you've gotten older?
+* What did you believe when you were younger that you don't believe anymore?
+* What have you learned from your biggest mistakes?
+* What kind of person do you want to become?
+* What is something you wish you had started earlier?
+* What is something you wish you had stopped doing earlier?
+* What is the most important lesson life has taught you?
+* What are you grateful for?
+* What are you afraid of losing?
+* What would you tell your 20-year-old self?
+* If you could change one thing about your life, what would it be?
+* What does a good life mean to you?
+* What do you think is more important: happiness, money, health, or relationships?
+* When you look back at your life at 60, what do you hope you will be proud of?
+
+                         EVERYTHING ABOUT ME
+                                  │
+        ┌───────────────┬─────────┼──────────┬───────────────┐
+        ↓               ↓         ↓          ↓               ↓
+     MYSELF           DAILY      WORK       PEOPLE         LIFE
+        │               │         │          │               │
+   Personality       Routine    Career     Family         Goals
+   Strengths         Home       IT         Wife           Future
+   Weaknesses        Food       English    Friends        Dreams
+   Emotions          Exercise   Projects   Colleagues      Money
+        │               │         │          │               │
+        └───────────────┴─────────┼──────────┴───────────────┘
+                                  ↓
+                             EXPERIENCES
+                                  │
+                    Childhood → Travel → Success
+                    Failure → Challenges → Lessons
+                                  │
+                                  ↓
+                              OPINIONS
+                                  │
+                   Work → Technology → Society
+                   Money → Happiness → Lifestyle
+                                  │
+                                  ↓
+                             DEEP TALK
+                                  │
+                     Who am I?
+                     What do I value?
+                     What have I learned?
+                     Where am I going?
