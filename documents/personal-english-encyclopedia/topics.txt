@@ -64,3 +64,74 @@ TELL ME ABOUT A TIME YOU FAILED.
 WHAT WOULD YOUR COWORKERS SAY ABOUT YOU?
 WHAT MOTIVATES YOU AT WORK?
 WHAT DEMOTIVATES YOU AT WORK?
+
+*******************************************************
+
+🏠 Daily life & Personal
+Problems in Daily Life — các vấn đề trong cuộc sống hằng ngày
+Ways to Improve Daily Life — cách cải thiện cuộc sống hằng ngày
+Bad Habits & How to Break Them — thói quen xấu và cách loại bỏ
+Stress & Ways to Deal with It — stress và cách đối phó
+Problems with Time Management — các vấn đề về quản lý thời gian
+Healthy & Unhealthy Lifestyles — lối sống lành mạnh và không lành mạnh
+Problems with Modern Lifestyles — vấn đề của lối sống hiện đại
+
+💼 Work & Career
+Career Problems & Solutions — vấn đề trong sự nghiệp và cách giải quyết
+Problems with Working from Home — vấn đề khi làm việc tại nhà
+Problems with Office Life — vấn đề trong môi trường công sở
+Job Satisfaction — những yếu tố ảnh hưởng đến sự hài lòng với công việc
+Work-Life Balance — cân bằng công việc và cuộc sống
+Problems Between Managers and Employees — vấn đề giữa quản lý và nhân viên
+Problems with Teamwork — vấn đề khi làm việc nhóm
+Ways to Improve Productivity — cách tăng năng suất làm việc
+
+👥 People & Relationships
+Problems in Friendships — vấn đề trong tình bạn
+Problems in Family Relationships — vấn đề trong gia đình
+Problems When Meeting New People — khó khăn khi làm quen người mới
+Qualities of a Good Friend — phẩm chất của một người bạn tốt
+Qualities of a Good Leader — phẩm chất của một nhà lãnh đạo tốt
+Qualities of a Good Employee — phẩm chất của một nhân viên tốt
+Problems with Communication — các vấn đề trong giao tiếp
+How to Build Good Relationships — cách xây dựng mối quan hệ tốt
+
+🏙️ Society & City
+Problems in Big Cities — vấn đề ở các thành phố lớn
+Traffic Problems & Solutions — vấn đề giao thông và giải pháp
+Housing Problems — vấn đề về nhà ở
+Problems with Public Transportation — vấn đề về giao thông công cộng
+Environmental Problems & Solutions — vấn đề môi trường và giải pháp
+Problems Caused by Population Growth — vấn đề do dân số tăng
+Problems with Urbanization — vấn đề do đô thị hóa
+Problems with Noise Pollution — ô nhiễm tiếng ồn
+Problems with Waste Management — vấn đề xử lý rác thải
+
+📱 Technology & Modern Life
+Problems Caused by Smartphones — vấn đề do smartphone gây ra
+Problems with Social Media — vấn đề với mạng xã hội
+Problems Caused by Technology — mặt trái của công nghệ
+Technology Addiction — nghiện công nghệ
+Problems with Online Shopping — vấn đề khi mua sắm online
+Problems with Online Communication — vấn đề khi giao tiếp online
+AI and Its Potential Problems — các vấn đề tiềm ẩn của AI
+How Technology Can Improve Our Lives — công nghệ có thể cải thiện cuộc sống thế nào
+
+🎓 Education & Learning
+Problems in Education — các vấn đề trong giáo dục
+Problems Students Face — vấn đề học sinh/sinh viên gặp phải
+Problems with Learning English — vấn đề khi học tiếng Anh
+Effective Ways to Learn a Language — cách học ngoại ngữ hiệu quả
+Problems with Online Learning — vấn đề của học online
+Problems with Traditional Education — hạn chế của giáo dục truyền thống
+How to Become a Better Learner — cách trở thành người học tốt hơn
+
+🌱 Personal Development
+How to Become More Confident — cách trở nên tự tin hơn
+How to Become More Disciplined — cách trở nên kỷ luật hơn
+How to Handle Failure — cách đối mặt với thất bại
+How to Deal with Pressure — cách đối phó với áp lực
+How to Make Better Decisions — cách đưa ra quyết định tốt hơn
+How to Stay Motivated — cách duy trì động lực
+How to Develop Good Habits — cách xây dựng thói quen tốt
+How to Improve Communication Skills — cách cải thiện kỹ năng giao tiếp
