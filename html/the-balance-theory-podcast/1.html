@@ -1,4 +1,25 @@
-<p>STOP SEARCHING FOR YOUR PURPOSE AND DO THIS INSTEAD</p>
+<select class="audio-change-lv2 scroll-div" onmousedown="this.value = 'default';" onchange="changeAudio(this, true)" data-english="tbtp-1">
+  <option value="default" disabled selected>Choose a conversation</option>
+  <option value="1">STOP SEARCHING FOR YOUR PURPOSE AND DO THIS INSTEAD</option>
+</select>
+<br /><br />
+
+<h2 id="tbtp-1-1">STOP SEARCHING FOR YOUR PURPOSE AND DO THIS INSTEAD</h2b>
+<div class="audio-wrapper">
+  <audio class="audio" controls></audio>
+  <button class="audio-play" onclick="loadAudio(theBalanceTheoryPodcastMp3['001'], this)">▶</button>
+  <div class="action">
+    <button class="audio-repeat" onclick="repeat(this)">🔙 5s</button>
+    <select class="audio-speed" onchange="changeSpeed(this)">
+      <option value="1">🚀 1</option>
+      <option value="0.8">🚀 0.8</option>
+      <option value="0.85">🚀 0.85</option>
+      <option value="0.9">🚀 0.9</option>
+      <option value="0.95">🚀 0.95</option>
+    </select>
+    <button class="audio-next" onclick="audioNext(this)">5s 🔜</button>
+  </div>
+</div>
 
 <p>🎧 All right, balancers.</p>
 <p>🎧 Today's guest is no stranger.</p>

@@ -1387,3 +1387,7 @@ const threeMinuteTalksMp3 = {
   '059': '',
   '060': '',
 }
+
+const theBalanceTheoryPodcastMp3 = {
+  '001': 'qnejhqp1mtdoqcslqeyux/001.mp3?rlkey=rlkb1na5rc5mwegyohaftj2ci',
+}
