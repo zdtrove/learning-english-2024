@@ -1,2 +1,30 @@
-Hãy đóng vai một native English speaker và newspaper editor. Chỉnh bài báo sau thành natural, accurate English như cách native speaker viết báo. Giữ nguyên toàn bộ ý nghĩa, thông tin và số liệu; không thêm hoặc thay đổi nội dung. Có thể rewrite câu khi cần để cách diễn đạt tự nhiên hơn.
+PROMPT 1
 
+Act as a native English speaker and professional newspaper editor.
+
+Edit the following article into natural, accurate English, as if it were originally written by a native English-speaking journalist.
+
+* Preserve all original meaning, information, facts, and figures.
+* Do not add, remove, or change any information.
+* Rewrite sentences when necessary to make the language more natural, clear, and journalistic.
+* Keep the original tone and level of formality appropriate for a news article.
+* Focus on natural word choice, sentence structure, grammar, and readability.
+* Do not make the article unnecessarily sophisticated or use overly rare vocabulary.
+
+Here is the article:
+
+[PASTE ARTICLE HERE]
+
+
+PROMPT 2
+
+Create [X] realistic English dialogues between two people about [TOPIC].
+
+Requirements:
+
+* Focus on common real-life situations, especially problems, misunderstandings, requests, or small issues.
+* Use natural, conversational American English, not textbook English.
+* Make each dialogue realistic and useful for speaking practice.
+* Keep the language around IELTS 6.0–7.5 level, but avoid unnecessary rare idioms or overly formal expressions.
+* Include useful phrases/collocations naturally in the dialogues.
+* Give each situation a short title and a brief description in Vietnamese.
