@@ -1,0 +1,175 @@
+[01] Food & Daily Life
+
+001. Restaurants, cafés, and food delivery 
+002. Grocery shopping and supermarkets
+003. Convenience stores and small shops
+004. Cooking and meals at home
+005. Ordering takeout and pickup
+006. Food preferences and dietary choices
+007. Complaints about food or service
+008. Household chores and daily routines
+009. Shopping for household items
+010. Home maintenance and repairs
+
+[02] Housing & Apartment Life
+
+011. Apartment living and neighbors
+012. Renting and moving homes
+013. Dealing with landlords and property managers
+014. Building facilities and maintenance
+015. Noise and neighborhood problems
+016. Parking and transportation in residential areas
+017. Internet, electricity, and water problems
+018. Guests, visitors, and apartment rules
+
+[03] Shopping & Services
+
+019. Shopping for clothes and shoes
+020. Buying electronics and gadgets
+021. Online shopping and e-commerce
+022. Returning and exchanging products
+023. Customer service and complaints
+024. Banking and payment problems
+025. Credit cards and installment payments
+026. Mobile phone and internet services
+027. Repair shops and technical support
+028. Booking appointments and services
+
+[04] Transportation & Getting Around
+
+029. Traffic and commuting
+030. Motorbikes and driving
+031. Taxis and ride-hailing apps
+032. Public transportation
+033. Getting lost and asking for directions
+034. Parking problems
+035. Traffic accidents and minor incidents
+036. Flights, airports, and airline problems
+
+[05] Travel & Hotels
+
+037. Travel planning and making arrangements
+038. Hotels and accommodation
+039. Checking in and checking out
+040. Hotel problems and complaints
+041. Tourist attractions and sightseeing
+042. Traveling with friends or family
+043. Unexpected problems while traveling
+044. Restaurants and food while traveling
+045. Traveling abroad and cultural differences
+
+[06] Social & Everyday Communication
+
+046. Meeting new people and introductions
+047. Making small talk
+048. Making plans with friends
+049. Changing or canceling plans
+050. Inviting people to events
+051. Apologizing and resolving misunderstandings
+052. Asking for favors and helping others
+053. Giving advice and recommendations
+054. Talking about hobbies and free time
+055. Talking about sports and exercise
+056. Weekend plans and everyday activities
+057. Birthdays, weddings, and social events
+058. Dealing with awkward social situations
+
+[07] Health & Fitness
+
+059. Making a doctor's appointment
+060. Describing common symptoms
+061. At the pharmacy
+062. Talking about exercise and fitness
+063. Gym and swimming pool situations
+064. Healthy eating and lifestyle
+065. Taking a day off because of illness
+
+[08] Workplace & Professional Communication
+
+066. Workplace communication and IT meetings 
+067. Talking with coworkers
+068. Asking coworkers for help
+069. Giving and receiving feedback
+070. Explaining a problem at work
+071. Reporting bugs and technical issues
+072. Discussing deadlines and priorities
+073. Handling delays and missed deadlines
+074. Clarifying requirements
+075. Disagreeing politely at work
+076. Asking for clarification in meetings
+077. Giving updates on your work
+078. Working with difficult coworkers
+079. Communicating with clients
+080. Communicating with managers
+081. Job interviews
+082. Discussing salary and benefits
+083. Working from home and remote meetings
+084. Office small talk
+085. Emails, chat messages, and workplace etiquette
+
+[09] IT & Software Development
+
+086. Frontend development discussions
+087. Backend development discussions
+088. Code reviews
+089. Pull requests and Git
+090. Debugging and troubleshooting
+091. Software bugs and bug reports
+092. Requirements and feature discussions
+093. Technical disagreements
+094. Explaining technical concepts to non-technical people
+095. Discussing APIs and integrations
+096. Database problems
+097. Deployment and production issues
+098. Cloud infrastructure and DevOps
+099. CI/CD and release management
+100. Incident response and production outages
+101. Planning new features
+102. Estimating development tasks
+103. Technical debt and refactoring
+104. Legacy systems and maintenance
+105. Working with Japanese clients or overseas teams
+
+[10] Technology & Modern Life
+
+106. Smartphones and mobile apps
+107. Computers and laptops
+108. Internet and Wi-Fi problems
+109. Social media
+110. Streaming services and entertainment
+111. AI and everyday technology
+112. Privacy and online security
+113. Learning new technology
+114. Choosing between different tech products
+
+[11] Money & Personal Finance
+
+115. Managing monthly expenses
+116. Saving money
+117. Making a large purchase
+118. Comparing prices and deals
+119. Loans and borrowing money
+120. Renting versus buying
+121. Splitting bills with friends
+122. Discussing money with family
+123. Unexpected expenses
+124. Planning for future financial goals
+
+[12] Problems, Requests & Situations
+
+125. Asking someone to do something
+126. Asking someone to repeat something
+127. Asking for clarification
+128. Misunderstandings
+129. Making a complaint
+130. Apologizing for a mistake
+131. Explaining why something went wrong
+132. Negotiating a solution
+133. Refusing a request politely
+134. Changing an arrangement
+135. Canceling an appointment
+136. Being late
+137. Asking someone to wait
+138. Offering help
+139. Accepting or declining help
+140. Dealing with unexpected problems
