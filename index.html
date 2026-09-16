@@ -21,6 +21,7 @@
       <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
       <button class="tab-link" onclick="changeTab(event, 'on-purpose-podcast')">On Purpose Podcast</button>
       <button class="tab-link" onclick="changeTab(event, 'the-balance-theory-podcast')">The Balance Theory Podcast</button>
+      <button class="tab-link" onclick="changeTab(event, 'ielts-60-speaking-topics')">Ielts 60 Speaking Topics</button>
       <button class="tab-link" onclick="changeTab(event, 'toeic-test')">TOEIC Test (LC)</button>
     </section>
     <section id="ielts-listening" class="tab-content">
@@ -165,6 +166,11 @@
         <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
         <button onclick="spNext()">5s 🔜</button>
       </div>
+    </section>
+        <section id="ielts-60-speaking-topics" class="tab-content">
+      <select class="select-lesson" onchange="changeConversation(this, '.ielts-60-speaking-topics')">
+        <option value="ielts-60-speaking-topics-1">001</option>
+      </select>
     </section>
     <audio id="audioAll"></audio>
     <button class="button-bottom" onclick="increaseFont()">A+</button>
