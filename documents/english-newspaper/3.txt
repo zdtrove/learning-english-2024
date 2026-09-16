@@ -129,3 +129,105 @@ After finding in the past that oversleeping left him exhausted, Tuan Minh, 24, o
 He woke at 7 a.m., ran for 30 minutes, cooked three meals a day, and spent time reading.
 
 “Work keeps me busy and makes me eat at irregular hours. I used the holiday to get back to a healthier routine,” he says.
+
+
+WHY VIETNAM IS BRINGING SATELLITE INTERNET TO CONNECTIVITY BLACKSPOTS
+
+Vietnam has begun rolling out satellite Internet to provide reliable connectivity in cellular dead zones across 13 provinces and cities.
+
+Across the country, 273 remote villages and hamlets currently lack reliable mobile reception or remain entirely cut off from cellular networks, including 82 communities that are not connected to the national power grid.
+
+Another 44 locations, mostly rural schools, health clinics, and isolated areas surrounded by rugged terrain, struggle with weak or intermittent reception.
+
+In a September report, the National Steering Committee on Science, Technology, Innovation, and Digital Transformation directed relevant agencies to ensure network coverage for these priority locations by Oct. 30.
+
+Difficult terrain, scattered populations, and a lack of power grids make these sites difficult to reach and economically unviable for conventional ground-based infrastructure, Le Xuan Thang, an infrastructure development official at the Authority of Telecommunications, explained.
+
+"A single solution cannot resolve every dead zone. That is why satellite Internet serves as a vital supplementary measure."
+
+In Son La, a northern mountainous province where more than 80% of the land is rugged terrain and travel remains arduous, telecom carriers have worked hard to expand cellular networks, but several pockets "still need more time," Pham Quoc Chinh, deputy director of the provincial Department of Science and Technology, said.
+
+"The province currently faces coverage hurdles across 53 locations, including 36 villages and hamlets in exceptionally disadvantaged areas."
+
+Because building terrestrial networks in these areas requires significant time and capital while local demand for connectivity is urgent, Son La received 36 Starlink satellite terminals along with six months of free service.
+
+Chinh emphasized that satellite access has "profound significance" for the province, giving isolated communities an opportunity to "gain early access to online services."
+
+The satellite terminals are designated strictly for public use rather than private households. They are installed at communal hubs where local authorities can monitor network performance, user traffic, and the number of actual beneficiaries. Equipment safety has also been factored into the plan: if a village cultural hall lacks adequate security, authorities will move the installation to a monitored facility with dedicated oversight.
+
+Eliminating coverage blind spots requires ongoing updates because infrastructure expansion, population shifts, and changing connectivity demands could create new dead zones over time, Thang said.
+
+For areas that remain out of reach in the short term, satellite connectivity serves as an immediate stopgap.
+
+Starlink is a satellite broadband constellation developed by Elon Musk's SpaceX that connects user terminals to low Earth orbit satellites, which route data through ground stations to provide access to the global web.
+
+It was the first foreign company to receive regulatory clearance to pilot satellite Internet in Vietnam and launched commercial operations in August.
+
+The equipment donation fulfills a commitment made by SpaceX and Starlink Services Vietnam during their licensing bid to supply 1,000 Starlink kits and six months of free data service to support schools, clinics, rural communities, and underserved groups.
+
+
+# WHY SOME VIETNAMESE WORKERS ARE AFRAID TO LEAVE THE OFFICE ON TIME
+
+At nearly 7 p.m., Thuc Uyen and her colleagues were still at their desks, staring at their laptops despite having little work left to do. None of them wanted to be the first to leave before their boss.
+
+Official working hours at Uyen’s private company in HCMC end at 5:30 p.m., but the 32-year-old marketing employee says she now routinely stays until after 7:30 p.m. or waits for her manager to leave first.
+
+She used to go home on time until a performance review two years ago, when she received an A- rating and a bonus that was US$192 lower than those of several colleagues.
+
+Her department head told her points had been deducted for her "work attitude" because she did not stay late like others and was therefore seen as less enthusiastic. "I don’t know when leaving work on time started being seen as a lack of dedication," Uyen says.
+
+Van Vy, 29, an IT employee in Hanoi, had a similar experience after failing to secure a salary increase in 2025.
+
+Although his job performance was good, his supervisor said he did not appear to be putting in enough effort because he "stood up to leave at 5:30 p.m. every single day."
+
+Vy has since adjusted his routine, spending more time over coffee in the morning and deliberately pushing work into the afternoon so he can remain at the office until around 7 p.m.
+
+The issue has become a frequent topic of debate on social media.
+
+One video discussing employees who leave as soon as working hours end drew 4.3 million views, while another debate over whether leaving on time reflects low emotional intelligence attracted nearly 270,000 viewers.
+
+Hundreds of posts have also appeared on Threads under the theme of being unable to leave work on time.
+
+Opinions are divided. Some argue that leaving on schedule after completing assigned tasks is professional, while others see an unwillingness to stay late as a sign of weak commitment.
+
+A VnExpress survey in August 2026 found that 13% of businesses assessed employees partly based on the amount of time they spent in the office. Another poll of 2,000 readers found that 13% of workers finished their tasks on time but stayed behind because they feared being judged.
+
+This pressure to remain visible at work, even when productivity has dropped, is often described as presenteeism.
+
+A survey by U.K.-based health and wellbeing company Vitality found that presenteeism reduced productivity far more than absenteeism, costing an estimated 35 working days per employee each year.
+
+Still, some managers defend the practice.
+
+Thanh Toan, 45, director of an import-export company in Hai Phong, prefers employees to stay late because their physical presence can make coordination between departments easier and allow problems to be handled more quickly.
+
+He also believes voluntarily remaining after hours can signal responsibility, commitment and a willingness to put collective goals ahead of personal interests.
+
+Dr. Le Trung Hieu, deputy head of the human resource management department at the School of Business Administration, Vietnam National University, Hanoi, says Vietnam’s workplace culture has been shaped partly by its economic history and by increasing integration with East Asian business practices.
+
+"Foreign investment from East Asian countries have brought with it a work environment that emphasizes hierarchy, obedience to superiors, and consensus, along with fierce competitive pressure."
+
+Hieu adds that the reluctance to leave on time is also rooted in a widespread workplace assumption that longer hours reflect greater dedication.
+
+When companies lack clear performance indicators, managers may fall back on time spent at the office as a proxy for commitment, he says.
+
+From a psychological perspective, experts say some managers prefer to keep employees physically visible because it gives them a greater sense of control.
+
+Employees, meanwhile, may avoid leaving early because they fear conflict, being seen as less capable or losing promotion opportunities.
+
+Nguyen Thi Kieu Chinh, a financial adviser at FIDT Investment Consulting and Asset Management Joint Stock Company, says the phenomenon is particularly common in finance, technology and consulting in major cities, where daily output can be difficult to quantify.
+
+"Many people accept staying late because they fear appearing unmotivated or missing out on promotion opportunities," she says.
+
+But she warns that this kind of superficial display of commitment only offers short-term reassurance. Over time, it can erode motivation, increase staff turnover and drive away capable employees.
+
+It can also damage health and work-life balance. "A competitive economy is not built on the number of hours worked, but on the value generated during each hour," Chinh says.
+
+In Hanoi, sales manager Minh Phong, who oversees 20 employees, says he stopped judging staff by how late they stayed after realizing it did not improve performance. "I manage by deadlines for task completion, not by watching over adults like a preschool teacher," he says.
+
+Hieu recommends that businesses shift toward output-based management, establish transparent KPI systems and require employees to communicate progress clearly.
+
+He says workplace cultures built around deference will not change overnight, but small changes within individual teams can gradually spread. "Changes in microculture will gradually reshape the professional work environment," he says.
+
+Minh Phuong, 35, an accountant in HCMC, says she now asks about working hours and overtime expectations during job interviews and only stays late when genuinely urgent work arises.
+
+"Leaving on time when the job is done is a sign of professionalism," she says.
