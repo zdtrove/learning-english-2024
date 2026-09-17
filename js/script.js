@@ -54,7 +54,7 @@ const SECTIONS = [
   { name: 'personal-english-encyclopedia', active: true, pages: 13 },
   { name: 'three-minute-talks', active: true, pages: 1 },
   { name: 'the-balance-theory-podcast', active: true, pages: 2 },
-  { name: 'ielts-60-speaking-topics', active: true, pages: 1 },
+  { name: 'ielts-60-speaking-topics', active: true, pages: 10 },
   { name: 'slow-podcast', active: true, pages: 3 },
   { name: 'english-newspaper', active: true, pages: 2 },
   { name: 'on-purpose-podcast', active: true, pages: 2 },
