@@ -1,62 +1,108 @@
 Topic: Apartment — Your motorbike parking space is occupied
-Lan: Hey, I've got a problem with my parking space. Someone parked their motorbike in my assigned spot this morning.
-Minh: Again? Didn't something similar happen last week?
-Lan: Yeah, but last time it was only for a few minutes. This time, the bike has been there since this morning.
-Minh: Did you check if they left a note or anything?
-Lan: No. I checked the bike, but there's no note and I don't recognize it. I already called the security desk, too.
-Minh: What did they say?
-Lan: They said they'd check the parking records and camera footage. But there's another problem. Apparently, the bike has a valid parking sticker.
-Minh: Oh, so it might actually belong to a resident?
-Lan: Yeah. The security guard said the sticker is registered to someone in another building.
-Minh: That's strange. Maybe they were told to park there temporarily because their usual space was blocked.
-Lan: That's what I thought, but the guard said they couldn't find any record of that.
-Minh: Have you tried asking the management office?
-Lan: I did. They told me to wait until the security team could identify the owner. But I need to leave for work soon, and I can't keep parking in the temporary area every day.
-Minh: Right. And isn't the temporary parking area pretty full in the morning?
-Lan: Exactly. This morning, I almost couldn't find a spot. If I leave my bike there overnight, I'm worried someone else will complain.
-Minh: So what are you going to do if they still can't find the owner?
-Lan: I'm thinking about asking management to give me another temporary space until the problem is resolved.
-Minh: That sounds reasonable. You should also take a photo of your assigned space and the other bike, just in case you need to file a complaint.
-Lan: Good point. I already took some photos. I don't want this to turn into an argument with the owner later.
-Minh: Yeah, especially if they claim they were allowed to park there.
-Lan: Exactly. I'd rather let management handle it.
-Lan: Excuse me. Sorry to bother you again, but do you have any updates on the motorbike in my parking space?
-Security Guard: Yes. I've been looking into it. I checked the parking records, but at first, I couldn't find anything unusual because the bike has a valid sticker.
-Lan: So how did you figure out who it belonged to?
-Security Guard: I checked the camera footage from last night. I saw the rider come in around eleven, but they went straight to the wrong section of the parking garage.
-Lan: Oh, so they probably just made a mistake?
-Security Guard: That's what it looks like. The problem is that we can't move someone's bike just because we think they parked in the wrong place. We have to make sure we're dealing with the right owner first.
-Lan: That makes sense. What did you do after you identified them?
-Security Guard: I checked our registration system and found their phone number. I called them and explained the situation. They were actually surprised because they thought they had parked in their usual space.
-Lan: Wow. So they didn't even realize it?
-Security Guard: Apparently not. They said they were tired when they got home and didn't notice the parking number.
-Lan: I guess that can happen, especially late at night.
-Security Guard: Exactly. We see small mistakes like this from time to time. But when the parking area is full, even one misplaced bike can cause a problem for several people.
-Lan: Right. Were you able to get them to move it?
-Security Guard: Yes. They're at work right now, but they promised to come back during their lunch break. I also asked them to double-check their parking number next time.
-Lan: Okay. Do I need to keep my bike in the temporary area until then?
-Security Guard: Yes, unfortunately. I know it's inconvenient, but please leave it there for now. I'll keep an eye on the temporary area and make sure nobody blocks your bike.
-Lan: I appreciate that. I was worried I'd have to leave it somewhere outside the building.
-Security Guard: I understand. And honestly, you did the right thing by contacting us instead of confronting the owner.
-Lan: Yeah, I didn't want to start an argument over something that might just be a mistake.
-Security Guard: That's usually the best approach. If residents move other people's bikes themselves, it can create another problem if the bike gets scratched or damaged.
-Lan: True. Is there anything management can do to prevent this from happening again?
-Security Guard: I've already mentioned it to the building manager. We're considering putting larger parking numbers on the floor and adding a reminder near the entrance to check the space number before parking.
-Lan: That would definitely help. Sometimes the numbers are hard to see at night.
-Security Guard: Exactly. We're also thinking about reminding residents not to lend their parking stickers to other people. That makes it harder for us to identify the actual owner.
-Lan: That makes sense.
-Security Guard: For now, I'll keep your complaint on record. If the same bike—or another bike—blocks your space again, let us know right away. Then we can check whether it's an isolated mistake or a repeated problem.
-Lan: Sounds good. Thanks for taking the time to explain everything.
-Security Guard: No problem. I know it's frustrating when you pay for an assigned space and then can't use it.
-Lan: Exactly. I just want to be able to come home and park without having to figure out where to leave my bike.
-Security Guard: Hopefully, this will be sorted out by lunchtime.
-Lan: I hope so. Thanks again.
-Minh: So, what happened?
-Lan: The guard found the owner through the parking records and camera footage. Apparently, they parked in the wrong space by accident.
-Minh: Oh, that's not as bad as it could have been.
-Lan: Yeah. The guard also said management might put up clearer parking numbers.
-Minh: That sounds like a good idea.
-Lan: Definitely. I'm glad I contacted security instead of trying to deal with the owner myself.
-Minh: Me too. At least now there's a proper process if it happens again.
-Lan: Exactly. Hopefully, I won't have to use it again, though.
 
+Jane: Hey, I've got a problem with my parking space. Someone parked their motorbike in my assigned spot this morning.
+Peter: Again? Didn't something similar happen last week?
+Jane: Yeah, but last time it was only for a few minutes. This time, the bike has been there since this morning.
+Peter: Did you check if they left a note or anything?
+Jane: No. I checked the bike, but there's no note and I don't recognize it. I already called the security desk, too.
+Peter: What did they say?
+Jane: They said they'd check the parking records and camera footage. But there's another problem. Apparently, the bike has a valid parking sticker.
+Peter: Oh, so it might actually belong to a resident?
+Jane: Yeah. The security guard said the sticker is registered to someone in another building.
+Peter: That's strange. Maybe they were told to park there temporarily because their usual space was blocked.
+Jane: That's what I thought, but the guard said they couldn't find any record of that.
+Peter: Have you tried asking the management office?
+Jane: I did. They told me to wait until the security team could identify the owner. But I need to leave for work soon, and I can't keep parking in the temporary area every day.
+Peter: Right. And isn't the temporary parking area pretty full in the morning?
+Jane: Exactly. This morning, I almost couldn't find a spot. If I leave my bike there overnight, I'm worried someone else will complain.
+Peter: So what are you going to do if they still can't find the owner?
+Jane: I'm thinking about asking management to give me another temporary space until the problem is resolved.
+Peter: That sounds reasonable. You should also take a photo of your assigned space and the other bike, just in case you need to file a complaint.
+Jane: Good point. I already took some photos. I don't want this to turn into an argument with the owner later.
+Peter: Yeah, especially if they claim they were allowed to park there.
+Jane: Exactly. I'd rather let management handle it.
+Jane: Excuse me. Sorry to bother you again, but do you have any updates on the motorbike in my parking space?
+Security Guard: Yes. I've been looking into it. I checked the parking records, but at first, I couldn't find anything unusual because the bike has a valid sticker.
+Jane: So how did you figure out who it belonged to?
+Security Guard: I checked the camera footage from last night. I saw the rider come in around eleven, but they went straight to the wrong section of the parking garage.
+Jane: Oh, so they probably just made a mistake?
+Security Guard: That's what it looks like. The problem is that we can't move someone's bike just because we think they parked in the wrong place. We have to make sure we're dealing with the right owner first.
+Jane: That makes sense. What did you do after you identified them?
+Security Guard: I checked our registration system and found their phone number. I called them and explained the situation. They were actually surprised because they thought they had parked in their usual space.
+Jane: Wow. So they didn't even realize it?
+Security Guard: Apparently not. They said they were tired when they got home and didn't notice the parking number.
+Jane: I guess that can happen, especially late at night.
+Security Guard: Exactly. We see small mistakes like this from time to time. But when the parking area is full, even one misplaced bike can cause a problem for several people.
+Jane: Right. Were you able to get them to move it?
+Security Guard: Yes. They're at work right now, but they promised to come back during their lunch break. I also asked them to double-check their parking number next time.
+Jane: Okay. Do I need to keep my bike in the temporary area until then?
+Security Guard: Yes, unfortunately. I know it's inconvenient, but please leave it there for now. I'll keep an eye on the temporary area and make sure nobody blocks your bike.
+Jane: I appreciate that. I was worried I'd have to leave it somewhere outside the building.
+Security Guard: I understand. And honestly, you did the right thing by contacting us instead of confronting the owner.
+Jane: Yeah, I didn't want to start an argument over something that might just be a mistake.
+Security Guard: That's usually the best approach. If residents move other people's bikes themselves, it can create another problem if the bike gets scratched or damaged.
+Jane: True. Is there anything management can do to prevent this from happening again?
+Security Guard: I've already mentioned it to the building manager. We're considering putting larger parking numbers on the floor and adding a reminder near the entrance to check the space number before parking.
+Jane: That would definitely help. Sometimes the numbers are hard to see at night.
+Security Guard: Exactly. We're also thinking about reminding residents not to lend their parking stickers to other people. That makes it harder for us to identify the actual owner.
+Jane: That makes sense.
+Security Guard: For now, I'll keep your complaint on record. If the same bike—or another bike—blocks your space again, let us know right away. Then we can check whether it's an isolated mistake or a repeated problem.
+Jane: Sounds good. Thanks for taking the time to explain everything.
+Security Guard: No problem. I know it's frustrating when you pay for an assigned space and then can't use it.
+Jane: Exactly. I just want to be able to come home and park without having to figure out where to leave my bike.
+Security Guard: Hopefully, this will be sorted out by lunchtime.
+Jane: I hope so. Thanks again.
+Peter: So, what happened?
+Jane: The guard found the owner through the parking records and camera footage. Apparently, they parked in the wrong space by accident.
+Peter: Oh, that's not as bad as it could have been.
+Jane: Yeah. The guard also said management might put up clearer parking numbers.
+Peter: That sounds like a good idea.
+Jane: Definitely. I'm glad I contacted security instead of trying to deal with the owner myself.
+Peter: Me too. At least now there's a proper process if it happens again.
+Jane: Exactly. Hopefully, I won't have to use it again, though.
+
+Topic: Apartment - The elevator suddenly stops
+
+Daniel: Wait, did the elevator just stop?
+Mia: Yeah. What the heck? We were going up to the eighth floor.
+Daniel: The lights are still on, but none of the buttons are working.
+Mia: Let me press the door-open button.
+Daniel: Is it opening?
+Mia: No. Nothing’s happening. Oh, great. I think we’re actually stuck.
+Daniel: Okay, let’s not panic. I’ll try the emergency button.
+Mia: Go ahead.
+Daniel: Hello? Is anyone there?
+Security Guard: Yes, I can hear you. Are you stuck in the elevator?
+Daniel: Yeah. It stopped between the sixth and seventh floors, and the doors won’t open.
+Security Guard: Okay, please stay calm. How many people are inside?
+Mia: Just two of us.
+Security Guard: All right. I’m going to contact the maintenance team. Please don’t try to open the doors yourselves.
+Daniel: Okay. Do you have any idea how long it’ll take?
+Security Guard: They’re checking the elevator system now. It might take around twenty or thirty minutes.
+Mia: Thirty minutes? That’s a problem. I have an online meeting in fifteen minutes.
+Daniel: Do you have any phone signal?
+Mia: Barely. I can send messages, but I can’t make a call.
+Daniel: I have a little signal, but my battery is only at five percent.
+Mia: Great. Can you message your coworker and let them know what happened?
+Daniel: Yeah, I’ll do that now. Hopefully they can start the meeting without me.
+Mia: Good idea. I’m also getting a little warm in here.
+Daniel: Same. Is the ventilation still working?
+Mia: I can feel some air, so I think so. That’s a relief.
+Daniel: Let’s just stay calm and wait for the maintenance team.
+Mia: Okay. But what if they can’t fix it from outside?
+Security Guard: I can hear you. If the maintenance team can’t restart the elevator, we’ll have to arrange an emergency release. Please stay inside until they arrive.
+Mia: Okay, thanks for the update.
+Daniel: How long have we been stuck now?
+Mia: About ten minutes.
+Daniel: All right. We can handle another ten or twenty minutes.
+Mia: I hope so. I’m definitely taking the stairs tomorrow.
+Daniel: Same here. Although after carrying groceries up eight floors, I might change my mind.
+Security Guard: Good news. The maintenance team has arrived. They’re working on the elevator now. It should be safe to open the doors soon.
+Mia: That’s a relief.
+Daniel: Yeah. Let’s just wait until they tell us it’s safe.
+Mia: Definitely. I’m not taking any chances.
+Security Guard: The doors are opening now. Please step out slowly and follow the maintenance workers.
+Daniel: Finally!
+Mia: Thank goodness. I’m never complaining about the stairs again.
+Daniel: Give it a week. You’ll be back in this elevator.
+Mia: Maybe. But not without checking the stairs first.
