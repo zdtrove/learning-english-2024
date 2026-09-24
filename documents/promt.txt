@@ -28,3 +28,13 @@ Requirements:
 * Keep the language around IELTS 6.0–7.5 level, but avoid unnecessary rare idioms or overly formal expressions.
 * Include useful phrases/collocations naturally in the dialogues.
 * Give each situation a short title and a brief description in Vietnamese.
+
+
+PROMPT 3
+
+* Make this sound like natural spoken American English for IELTS Speaking 6.0 – 7.5.
+* Keep all meaning and information, use natural everyday wording, and don't change phrases that already sound natural.
+
+Text:
+
+[PASTE YOUR ENGLISH HERE]
