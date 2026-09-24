@@ -1,0 +1,492 @@
+EVERYDAY PROBLEMS & SOLUTIONS
+
+1. 🏠 At Home
+
+1. The air conditioner stops working
+2. The refrigerator isn't cooling properly
+3. The washing machine stops halfway
+4. The water heater isn't working
+5. The toilet is clogged
+6. The sink is draining slowly
+7. A water pipe starts leaking
+8. The electricity suddenly goes out
+9. One of the lights stops working
+10. The internet suddenly stops working
+11. The Wi-Fi is very slow
+12. The TV won't turn on
+13. The remote control stops working
+14. You accidentally lock yourself out
+15. You lose your house keys
+16. You accidentally break something at home
+17. You can't find something important
+18. You hear a strange noise at night
+19. There's a bad smell in the house
+20. You discover mold or water damage
+21. The apartment is too hot
+22. The apartment is too noisy
+23. You have trouble sleeping because of noise
+24. You see insects in the house
+25. You need to call a repair technician
+
+2. 🏢 Apartment / Condo Life
+
+1. The elevator suddenly stops
+2. The elevator is too crowded
+3. The elevator isn't working
+4. Your access card doesn't work
+5. You lose your apartment access card
+6. You forget your parking card
+7. Your motorbike parking space is occupied
+8. You can't find your parked motorbike
+9. Someone parks in your space
+10. A neighbor is making too much noise
+11. A neighbor keeps smoking in a shared area
+12. Water leaks from the apartment above
+13. Water leaks into your apartment
+14. Someone leaves trash in the hallway
+15. The garbage hasn't been collected
+16. The swimming pool is temporarily closed
+17. A facility suddenly becomes unavailable
+18. You need to report a problem to management
+19. You need to contact building security
+20. You receive a complaint from a neighbor
+21. A delivery person can't enter the building
+22. You accidentally leave something in a common area
+23. Something is damaged in a shared area
+24. Construction noise starts early in the morning
+25. You need to ask management about a building rule
+
+3. 🛒 Supermarket
+
+1. An item is missing from your shopping bag
+2. You are charged for the wrong item
+3. The price at checkout is different from the shelf
+4. You can't find a product
+5. A product is out of stock
+6. You pick up the wrong product
+7. You accidentally damage a product
+8. You realize you've forgotten your wallet
+9. Your card payment doesn't work
+10. The cashier gives you the wrong change
+11. You want to return an item
+12. You want to exchange an item
+13. You bought an expired product
+14. The product packaging is damaged
+15. You can't find a checkout with a short line
+16. The self-checkout machine isn't working
+17. You scan something twice by accident
+18. Your shopping cart has a problem
+19. You forget your shopping bag
+20. You need help finding a particular section
+
+4. 🏪 Convenience Stores & Small Shops
+
+1. The product you want isn't available
+2. The price isn't what you expected
+3. The cashier gives you the wrong change
+4. Your payment fails
+5. You accidentally buy the wrong item
+6. You want to exchange something
+7. You can't find a particular product
+8. The store is about to close
+9. You realize you left something behind
+10. The cashier misunderstands what you want
+
+5. 🍜 Restaurants
+
+1. You have to wait for a table
+2. Your reservation can't be found
+3. You are given the wrong table
+4. Your order hasn't arrived
+5. You receive the wrong dish
+6. One dish is missing
+7. The food is cold
+8. The food isn't cooked properly
+9. The dish isn't what you expected
+10. You have a problem with the bill
+11. You are charged for something you didn't order
+12. You accidentally spill something
+13. You need to change your order
+14. You realize you have a food allergy
+15. The restaurant is out of something you ordered
+16. You want to send a dish back
+17. You need separate bills
+18. Your card payment doesn't work
+19. You leave something at the restaurant
+20. You have to cancel a reservation
+
+6. ☕ Cafés
+
+1. There are no empty seats
+2. Someone is sitting in your reserved seat
+3. Your order is taking too long
+4. You receive the wrong drink
+5. Your drink is too sweet
+6. Your drink is cold when it should be hot
+7. The Wi-Fi isn't working
+8. You can't find an outlet
+9. You accidentally spill your drink
+10. You leave your laptop charger behind
+11. You need to move to another table
+12. Someone nearby is being too loud
+13. You want to stay longer but the café is closing
+
+7. 🎬 Cinema / Entertainment
+
+1. You can't find your seat
+2. Someone is sitting in your seat
+3. You bought tickets for the wrong movie
+4. You arrive late
+5. You miss the beginning of the movie
+6. Your ticket doesn't scan
+7. The movie suddenly stops
+8. The screen or sound has a problem
+9. Someone is talking loudly
+10. Someone is using their phone during the movie
+11. Your seat is uncomfortable
+12. You lose something in the theater
+13. You buy the wrong snack
+14. The movie is canceled
+15. You want to change your ticket
+16. You arrive at the wrong cinema
+
+8. 🚌 Public Transportation
+
+1. You miss the bus
+2. You get on the wrong bus
+3. You get off at the wrong stop
+4. The bus doesn't come
+5. The bus is extremely crowded
+6. You don't know where to get off
+7. You can't find your bus stop
+8. You don't have the right change
+9. Your transportation card doesn't work
+10. The bus is delayed
+11. You leave something on the bus
+12. Someone takes your seat
+13. You accidentally block someone's way
+14. You need to ask someone for directions
+15. You miss the last bus
+16. You need to transfer to another bus
+17. You aren't sure which route to take
+
+9. 🚕 Taxi / Ride-Hailing
+
+1. The driver can't find you
+2. You can't find the driver
+3. The driver goes to the wrong location
+4. You entered the wrong destination
+5. The driver takes a different route
+6. The fare is higher than expected
+7. The app shows the wrong fare
+8. Your payment doesn't work
+9. You leave something in the car
+10. The driver cancels the trip
+11. You need to change your destination
+12. You are stuck in traffic
+13. You are running late
+14. You can't find the pickup point
+
+10. 🏍️ Motorcycle / 🚗 Driving
+
+1. Your motorbike won't start
+2. Your car won't start
+3. You get a flat tire
+4. You run out of fuel
+5. Your battery dies
+6. You can't find a parking space
+7. Someone blocks your vehicle
+8. You can't find where you parked
+9. You accidentally lock your keys inside
+10. Your vehicle makes a strange noise
+11. Your brakes don't feel right
+12. You have a minor accident
+13. You get lost while driving
+14. Your GPS sends you the wrong way
+15. You need to find a repair shop
+16. You need to call roadside assistance
+
+11. 📦 Online Shopping & Delivery
+
+1. Your package hasn't arrived
+2. The package is delayed
+3. The delivery person can't find your address
+4. The package arrives damaged
+5. Something is missing from the package
+6. You receive the wrong item
+7. The item is different from the description
+8. The item doesn't work
+9. You want to return an item
+10. You want a refund
+11. The seller doesn't respond
+12. The delivery person calls while you're away
+13. You need to change the delivery address
+14. You need to reschedule delivery
+15. The package says "delivered" but you can't find it
+16. Someone else received your package
+17. You accidentally order the wrong item
+18. You forgot to apply a discount code
+
+12. 💳 Banking / Money
+
+1. Your card is declined
+2. An ATM doesn't give you the money
+3. The ATM gives you the wrong amount
+4. You forget your PIN
+5. You lose your bank card
+6. You notice an unfamiliar transaction
+7. You transfer money to the wrong account
+8. Your transfer hasn't arrived
+9. You are charged an unexpected fee
+10. You need to update your personal information
+11. You need to replace an expired card
+12. You need help with online banking
+
+13. 📱 Phone / Internet / Technology
+
+1. Your phone battery dies
+2. Your phone won't turn on
+3. Your phone is running out of storage
+4. Your internet connection stops working
+5. Your Wi-Fi is very slow
+6. Your mobile data doesn't work
+7. An app keeps crashing
+8. You forgot your password
+9. You can't log into an account
+10. Your account is locked
+11. You accidentally delete something
+12. Your Bluetooth won't connect
+13. Your headphones won't connect
+14. Your laptop won't start
+15. Your computer becomes extremely slow
+16. Your printer doesn't work
+17. You can't open a file
+18. You accidentally send something to the wrong person
+
+14. 🏥 Doctor / Pharmacy
+
+1. You need to make an appointment
+2. You arrive late for an appointment
+3. You can't find the clinic
+4. You need to describe a problem to a doctor
+5. You don't understand the doctor's instructions
+6. You need to ask about a medicine
+7. A pharmacy doesn't have your medicine
+8. You realize you've taken the wrong medicine
+9. You forget when to take your medicine
+10. You have a problem with a prescription
+11. You need to reschedule an appointment
+
+15. ✈️ Airport / Flying
+
+1. You arrive late at the airport
+2. You can't find the check-in counter
+3. Your flight is delayed
+4. Your flight is canceled
+5. You miss your flight
+6. Your baggage doesn't arrive
+7. Your baggage is damaged
+8. Your luggage is overweight
+9. You can't find your gate
+10. You are at the wrong gate
+11. You need to change your seat
+12. You lose something at the airport
+13. Your passport or document is missing
+14. You have a problem at security
+15. You need to ask airport staff for directions
+
+16. 🏨 Hotels
+
+1. Your reservation can't be found
+2. Your room isn't ready
+3. Your room is different from what you booked
+4. The room isn't clean
+5. Something in the room doesn't work
+6. The air conditioner doesn't work
+7. There is too much noise
+8. You need extra towels
+9. You lose your room key
+10. You want to change rooms
+11. You accidentally damage something
+12. You want to extend your stay
+13. You need a late checkout
+14. You leave something in the room
+
+17. 🧳 Travel / Sightseeing
+
+1. You get lost
+2. You go to the wrong attraction
+3. The attraction is closed
+4. Tickets are sold out
+5. You arrive too late
+6. You lose something while sightseeing
+7. Your travel companion gets separated from you
+8. You don't understand the local transportation system
+9. You have trouble communicating with someone
+10. The weather suddenly changes
+11. Your plans have to change unexpectedly
+12. You need to find a nearby place to eat
+13. You need to find a restroom
+14. You need help from a local person
+
+18. 🏢 Workplace / Office
+
+1. You arrive late because of traffic
+2. Your computer isn't working
+3. The internet is down
+4. You can't access a system
+5. You forgot your password
+6. You can't find an important file
+7. Someone sends you the wrong file
+8. You misunderstand an instruction
+9. You miss an important meeting
+10. You are late for a meeting
+11. You need to ask someone for clarification
+12. You disagree about how to solve a problem
+13. A task takes longer than expected
+14. You discover a bug
+15. You accidentally break something
+16. You need help from a coworker
+17. A coworker misunderstands you
+18. Someone asks you to do something urgently
+19. Two tasks have the same deadline
+20. You need to explain why something is delayed
+21. You need to tell your manager about a problem
+22. You need to ask for more time
+23. You need to hand over unfinished work
+24. You make a mistake and need to fix it
+25. You need to deal with an unhappy client
+
+19. 🏦 Government / Administrative Services
+
+1. You don't have the required document
+2. You bring the wrong document
+3. You fill out a form incorrectly
+4. You don't understand a procedure
+5. You are missing a signature
+6. You need to make an appointment
+7. You arrive at the wrong office
+8. You need to wait for your number
+9. Your application is rejected
+10. You need to provide additional information
+
+20. 📮 Post Office / Shipping
+
+1. You don't know how to send a package
+2. You don't have the right packaging
+3. The package is overweight
+4. You wrote the wrong address
+5. The package is delayed
+6. The recipient hasn't received it
+7. You need to track a package
+8. You want to change the delivery address
+9. The package is damaged
+10. You need to send something internationally
+
+21. 👕 Clothing / Shopping
+
+1. You can't find your size
+2. The item doesn't fit
+3. You change your mind after buying it
+4. You want to try something on
+5. The fitting room is occupied
+6. You want a different color
+7. The item is damaged
+8. The price is different at checkout
+9. You want to return something
+10. You want to exchange something
+11. You lose your shopping bag
+12. You accidentally leave something at the store
+
+22. 💇 Personal Services
+
+1. You arrive late for an appointment
+2. The appointment wasn't recorded
+3. You have to wait longer than expected
+4. The service isn't what you expected
+5. You want something changed
+6. You don't understand the price
+7. You are charged for an extra service
+8. You want to reschedule
+9. You need to cancel an appointment
+10. You leave something behind
+
+23. 👥 Friends / Family / Social Situations
+
+1. A friend cancels at the last minute
+2. You are running late to meet someone
+3. You can't find each other
+4. Someone misunderstands what you said
+5. You accidentally offend someone
+6. You forget someone's birthday
+7. You need to apologize for something
+8. You need to ask someone for a favor
+9. Someone asks you for a favor you can't do
+10. You need to change your plans
+11. You disagree about where to go
+12. Someone forgets an important arrangement
+
+24. 🏘️ Neighbors / Community
+
+1. A neighbor is too noisy
+2. A neighbor parks in the wrong place
+3. Someone leaves trash in a shared area
+4. A neighbor's pet causes a problem
+5. Water leaks between apartments
+6. Someone keeps using your parking space
+7. You need to borrow something
+8. You receive a complaint
+9. You need to complain politely
+10. You need to discuss a shared problem
+
+25. 🌧️ Weather / Unexpected Situations
+
+1. It suddenly starts raining
+2. You forget your umbrella
+3. Your clothes get soaked
+4. A storm changes your plans
+5. The road becomes flooded
+6. You can't get home because of heavy rain
+7. The weather becomes extremely hot
+8. A power outage happens during bad weather
+9. You have to cancel an outdoor plan
+10. You need to find shelter
+
+26. 🚨 Emergencies & Unexpected Problems
+
+1. You lose your wallet
+2. You lose your phone
+3. You lose your keys
+4. You witness a minor accident
+5. Someone needs help
+6. You accidentally damage someone else's property
+7. You lock yourself out
+8. You realize you've made a serious mistake
+9. You need to contact someone urgently
+10. You need to ask a stranger for help
+
+27. 🐶 Pets / Animals
+
+1. Your pet gets sick
+2. Your pet escapes
+3. Your pet damages something
+4. Your pet makes too much noise
+5. Your pet doesn't want to eat
+6. You need to find a pet sitter
+7. You need to take your pet to the vet
+8. You find a lost pet
+9. A neighbor complains about your pet
+10. You need to buy something for your pet
+
+28. 🌱 Everyday Maintenance & Errands
+
+1. You need to replace a light bulb
+2. You need to buy cleaning supplies
+3. You need to repair a piece of furniture
+4. You need to hire someone for a repair
+5. You need to compare repair quotes
+6. You need to schedule a technician
+7. The technician doesn't show up
+8. The repair costs more than expected
+9. The repair doesn't solve the problem
+10. You need to follow up on a service request

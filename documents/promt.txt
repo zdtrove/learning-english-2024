@@ -38,3 +38,18 @@ PROMPT 3
 Text:
 
 [PASTE YOUR ENGLISH HERE]
+
+PROMPT 4
+
+Create a natural, realistic English conversation between 2–3 people, using only as many speakers as the situation naturally requires, based on this everyday problem:
+
+Topic: [PASTE CATEGORY — PROBLEM HERE]
+
+Requirements:
+
+* Use natural spoken American English for IELTS Speaking 7.0–7.5.
+* Make the conversation realistic: problem → discussion → possible solutions → decision → resolution.
+* Use natural everyday wording and common expressions, not textbook-style or overly formal English.
+* Make all speakers contribute naturally through questions, reactions, explanations, and suggestions.
+* Keep it practical and detailed enough to learn useful real-life English.
+* Do not force difficult vocabulary or idioms.
