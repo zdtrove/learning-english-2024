@@ -4,5 +4,8 @@
     "minify-js": "node minify-js.js",
     "minify-css": "node minify-css.js",
     "minify": "npm run minify-js && npm run minify-css"
+  },
+  "devDependencies": {
+    "clean-css-cli": "^5.6.3"
   }
 }

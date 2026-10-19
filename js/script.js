@@ -58,6 +58,7 @@ const SECTIONS = [
   { name: 'slow-podcast', active: false, pages: 3 },
   { name: 'english-newspaper', active: false, pages: 2 },
   { name: 'on-purpose-podcast', active: false, pages: 2 },
+  { name: 'real-life-english', active: true, pages: 1 },
 ];
 
 // =============================================================================
