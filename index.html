@@ -15,15 +15,8 @@
       <button class="tab-link active" onclick="changeTab(event, 'ielts-listening')">IELTS Listening</button>
       <button class="tab-link" onclick="changeTab(event, 'ielts-speaking')">IELTS Speaking</button>
       <button class="tab-link" onclick="changeTab(event, 'personal-english-encyclopedia')">Personal English Encyclopedia</button>
-      <!-- <button class="tab-link" onclick="changeTab(event, 'three-minute-talks')">Three Minute Talks</button> -->
-      <!-- <button class="tab-link" onclick="changeTab(event, 'english-newspaper')">English Newspaper</button> -->
-      <!-- <button class="tab-link" onclick="changeTab(event, 'slow-podcast')">Slow Podcast</button> -->
-      <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
-      <!-- <button class="tab-link" onclick="changeTab(event, 'on-purpose-podcast')">On Purpose Podcast</button> -->
-      <!-- <button class="tab-link" onclick="changeTab(event, 'the-balance-theory-podcast')">The Balance Theory Podcast</button> -->
       <button class="tab-link" onclick="changeTab(event, 'ielts-60-speaking-topics')">Ielts 60 Speaking Topics</button>
-      <button class="tab-link" onclick="changeTab(event, 'real-life-english')">Real Life English</button>
-      <!-- <button class="tab-link" onclick="changeTab(event, 'toeic-test')">TOEIC Test (LC)</button> -->
+      <button class="tab-link" onclick="changeTab(event, 'level2')">Level 2</button>
     </section>
     <section id="ielts-listening" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.ielts-listening')">
@@ -146,39 +139,6 @@
         <button onclick="spNext()">5s 🔜</button>
       </div>
     </section>
-    <!-- <section id="three-minute-talks" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.three-minute-talks')">
-        <option value="three-minute-talks-1">001</option>
-      </select>
-      <div class="btn-sp-group">
-        <button onclick="spPrev()">🔙 5s</button>
-        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
-        <button onclick="spNext()">5s 🔜</button>
-      </div>
-    </section> -->
-    <!-- <section id="english-newspaper" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.english-newspaper')">
-        <option value="english-newspaper-1">001</option>
-        <option value="english-newspaper-2">002</option>
-      </select>
-      <div class="btn-sp-group">
-        <button onclick="spPrev()">🔙 5s</button>
-        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
-        <button onclick="spNext()">5s 🔜</button>
-      </div>
-    </section> -->
-    <!-- <section id="slow-podcast" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.slow-podcast')">
-        <option value="slow-podcast-1">Describe cities</option>
-        <option value="slow-podcast-2">Daily routine</option>
-        <option value="slow-podcast-3">Halloween</option>
-      </select>
-      <div class="btn-sp-group">
-        <button onclick="spPrev()">🔙 5s</button>
-        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
-        <button onclick="spNext()">5s 🔜</button>
-      </div>
-    </section> -->
     <section id="ielts-speaking" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.ielts-speaking')">
         <option value="ielts-speaking-1">001</option>
@@ -187,25 +147,6 @@
         <option value="ielts-speaking-4">003</option>
       </select>
     </section>
-    <!-- <section id="toeic-test" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.toeic-test')">
-        <option value="toeic-test-1">Test 001</option>
-        <option value="toeic-test-2">Test 002</option>
-        <option value="toeic-test-3">Test 003</option>
-        <option value="toeic-test-4">Test 004</option>
-        <option value="toeic-test-5">Test 005</option>
-        <option value="toeic-test-6">Test 006</option>
-        <option value="toeic-test-7">Test 007</option>
-        <option value="toeic-test-8">Test 008</option>
-        <option value="toeic-test-9">Test 009</option>
-        <option value="toeic-test-10">Test 010</option>
-      </select>
-      <div class="btn-sp-group">
-        <button onclick="spPrev()">🔙 5s</button>
-        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
-        <button onclick="spNext()">5s 🔜</button>
-      </div>
-    </section> -->
     <section id="level2" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.level2')">
         <option value="level2-1">001</option>
@@ -230,23 +171,6 @@
         <button onclick="spNext()">5s 🔜</button>
       </div>
     </section>
-    <!-- <section id="on-purpose-podcast" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.on-purpose-podcast')">
-        <option value="on-purpose-podcast-1">001</option>
-        <option value="on-purpose-podcast-2">002</option>
-      </select>
-    </section> -->
-    <!-- <section id="the-balance-theory-podcast" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.the-balance-theory-podcast')">
-        <option value="the-balance-theory-podcast-1">001</option>
-        <option value="the-balance-theory-podcast-2">002</option>
-      </select>
-      <div class="btn-sp-group">
-        <button onclick="spPrev()">🔙 5s</button>
-        <button class="audio-start-stop" onclick="spStartStop(this)">▶️</button>
-        <button onclick="spNext()">5s 🔜</button>
-      </div>
-    </section> -->
     <section id="ielts-60-speaking-topics" class="tab-content">
       <select class="select-lesson" onchange="changeConversation(this, '.ielts-60-speaking-topics')">
         <option value="ielts-60-speaking-topics-1">001</option>
@@ -259,11 +183,6 @@
         <option value="ielts-60-speaking-topics-8">008</option>
         <option value="ielts-60-speaking-topics-9">009</option>
         <option value="ielts-60-speaking-topics-10">010</option>
-      </select>
-    </section>
-    <section id="real-life-english" class="tab-content">
-      <select class="select-lesson" onchange="changeConversation(this, '.real-life-english')">
-        <option value="real-life-english-1">001</option>
       </select>
     </section>
     <audio id="audioAll"></audio>
