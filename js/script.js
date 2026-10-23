@@ -38,7 +38,7 @@ const SECTIONS = [
   { name: 'easy-english', active: false, pages: 2 },
   { name: 'english-at-work', active: false, pages: 13 },
   { name: 'ielts-speaking', active: true, pages: 4 },
-  { name: 'ielts-listening', active: true, pages: 71 },
+  { name: 'ielts-listening', active: true, pages: 82 },
   { name: 'level2', active: true, pages: 15 },
   { name: 'level6', active: false, pages: 10 },
   { name: 'toeic-600-words', active: false, pages: 10 },
