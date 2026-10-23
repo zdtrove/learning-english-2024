@@ -53,3 +53,20 @@ Requirements:
 * Make all speakers contribute naturally through questions, reactions, explanations, and suggestions.
 * Keep it practical and detailed enough to learn useful real-life English.
 * Do not force difficult vocabulary or idioms.
+
+PROMPT 4
+
+Analyze the listening transcript and select the 10–15 most useful and reusable phrases or sentence patterns for natural, conversational American English.
+
+For each phrase:
+- Provide a brief explanation in Vietnamese.
+- Create at least 4 natural example sentences in 4 different contexts, such as daily life, workplace communication, IT work, and personal experiences.
+- Include Vietnamese translations for all examples.
+
+Prioritize phrases that can be reused across many situations. Avoid expressions that are too specific to the original topic or rarely used in everyday conversation.
+
+Only select phrases that actually appear in the transcript. Keep the examples natural, practical, and relevant to real-life communication. Do not summarize the transcript.
+
+Transcript:
+
+[PASTE YOUR ENGLISH HERE]
